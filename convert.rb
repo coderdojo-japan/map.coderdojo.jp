@@ -8,7 +8,15 @@ end
 
 features = []
 dojos.each do |dojo|
-  if dojo["geoPoint"]
+  # 活動していない道場は除外
+  #
+  # stage:
+  # 0: In planning
+  # 1: Open, come along
+  # 2: Register ahead
+  # 3: 満員
+  # 4: 活動していません
+  if dojo["geoPoint"] && dojo["stage"] != 4
     features << {
       "type" => "Feature",
       "geometry" => {
