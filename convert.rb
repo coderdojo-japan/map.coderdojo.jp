@@ -2,7 +2,7 @@ require 'json'
 
 dojos = []
 
-File.open("dojos.json") do |file|
+File.open("dojos_earth.json") do |file|
   dojos = JSON.load(file)
 end
 
