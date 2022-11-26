@@ -9,12 +9,12 @@ File.open("dojos_earth.json") do |file|
 end
 
 File.open("dojos_japan.json") do |file|
-  dojos_japan = JSON.load(file) #.map{|data| data.transform_keys!(&:to_sym) }
+  dojos_japan = JSON.load(file).map{|data| data.transform_keys!(&:to_sym) }
 end
 
 name2text = {}
 dojos_japan.each do |dojo|
-  name2text[dojo['name']] = "<a href='#{dojo['url']}' target='_blank' rel='noopener'>Webサイトを見る</a><br />"
+  name2text[dojo[:name]] = "<a href='#{dojo[:url]}' target='_blank' rel='noopener'>Webサイトを見る</a><br />"
 end
 
 features = []
