@@ -54,7 +54,7 @@ dojos_earth.each do |dojo|
         "coordinates" => [dojo["geoPoint"]["lon"], dojo["geoPoint"]["lat"]]
       },
       "properties" => {
-        "description" => "#{dojo['name']}<br />#{name2text[dojo['name']]}<a target='_blank' href='http://zen.coderdojo.com/dojos/#{dojo['urlSlug']}'>zen</a>"
+        "description" => "#{dojo['name']}<br />#{name2text[dojo['name']]}<a target='_blank' href='http://zen.coderdojo.com/dojos/#{dojo['urlSlug']}'>連絡先を見る</a>"
       }
     }
   end
