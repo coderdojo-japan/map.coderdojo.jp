@@ -28,9 +28,24 @@ dojos_earth.each do |dojo|
   # 3: 満員
   # 4: 活動していません
   if dojo["geoPoint"] && dojo["stage"] != 4
-    if dojo['name'] == 'Chofu'
-      dojo['name'].gsub!('Chofu', '調布')
-    end
+
+    # 細かな名寄せ for Proof of Concept (PoC)
+    dojo['name'].gsub!('Chofu',     '調布')
+    dojo['name'].gsub!('Gifu',      '岐阜')
+    dojo['name'].gsub!('Eniwa',     '恵庭')
+    dojo['name'].gsub!('muroran@kuru', '室蘭')
+    dojo['name'].gsub!('SapporoEast',  '札幌東')
+    dojo['name'].gsub!('Sapporo',      '札幌')
+    dojo['name'].gsub!('Ebetsu, Hokkaido', '江別')
+    dojo['name'].gsub!('Nara, Nara',  '奈良')
+    dojo['name'].gsub!('Ikoma, Nara', '生駒')
+    dojo['name'].gsub!('天白,名古屋,愛知', '天白')
+    dojo['name'].gsub!('shikatsu', '師勝')
+    dojo['name'].gsub!('Tondabayashi, Osaka', '富田林')
+    dojo['name'].gsub!('Osakasayama, Osaka', '大阪狭山')
+
+    dojo['name'].gsub!('富山@長江', '富山')
+    dojo['name'].gsub!('Kanazawa, Ishikawa @ HackforPlay', '金沢')
 
     features << {
       "type" => "Feature",
