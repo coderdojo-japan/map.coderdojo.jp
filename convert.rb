@@ -14,9 +14,15 @@ File.open("dojos_japan.json") do |file|
 end
 
 name2text = {}
+name2logo = {}
 dojos_japan.each do |dojo|
   name2text[dojo[:name]] = "<a href='#{dojo[:url]}' target='_blank' rel='noopener'>Webサイトを見る</a><br />"
+
+  # TODO: Image cannot be displayed for some reasone?? (API Restriction??)
+  #name2logo[dojo[:name]] = "<a href='#{dojo[:url]}' target='_blank' rel='noopener'><img src='#{dojo[:logo]}' loading='lazy' /></a><br />"
+  #p name2logo[dojo[:name]]
 end
+
 
 features = []
 dojos_earth.each do |dojo|
@@ -55,7 +61,7 @@ dojos_earth.each do |dojo|
         "coordinates" => [dojo[:geoPoint][:lon], dojo[:geoPoint][:lat]]
       },
       "properties" => {
-        "description" => "#{dojo[:name]}<br />#{name2text[dojo[:name]]}<a target='_blank' href='http://zen.coderdojo.com/dojos/#{dojo[:urlSlug]}'>連絡先を見る</a>"
+        "description" => "#{name2logo[dojo[:name]]}#{dojo[:name]}<br />#{name2text[dojo[:name]]}<a target='_blank' href='http://zen.coderdojo.com/dojos/#{dojo[:urlSlug]}'>連絡先を見る</a>"
       }
     }
   end
