@@ -61,6 +61,7 @@ dojos_earth.each do |dojo|
         coordinates: [dojo[:geoPoint][:lon], dojo[:geoPoint][:lat]],
       },
       properties: {
+        'marker-color' => '#2e9ad9',
         description: "#{name2logo[dojo[:name]]}#{dojo[:name]}<br />#{name2text[dojo[:name]]}<a target='_blank' href='http://zen.coderdojo.com/dojos/#{dojo[:urlSlug]}'>連絡先を見る</a>",
       }
     }
