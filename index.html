@@ -24,20 +24,35 @@
     <style>
       body,
       html {
-        width: 100%;
+        width:  100%;
         height: 100%;
-        margin: 0;
+        margin:  0;
         padding: 0;
       }
 
       .geolonia {
-        width: 100%;
+        width:  100%;
         height: 100%;
+      }
+
+      #custom-marker
+      {
+	width:   50px;
+	height:  50px;
+	cursor:  pointer;
+	display: none;
+      }
+      #custom-marker img
+      {
+	max-width: 100%;
+	height:    auto;
       }
     </style>
   </head>
   <body>
-    
+    <div id="custom-marker">
+      <img src="/logo.png" alt="CoderDojo">
+    </div>
     <script id="geojson" type="application/json">
     </script>
     <div
@@ -45,8 +60,10 @@
       data-geojson="./dojos.geojson"
       data-lat="35.6809591"
       data-lng="139.7673068"
-      data-zoom="7"
+      data-zoom="5"
       data-marker="off"
+      data-custom-marker="#custom-marker"
+      data-custom-marker-offset="0, 0"
       data-geolocate-control="on"
       data-cluster="off"
     ></div>
