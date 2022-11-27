@@ -55,21 +55,21 @@ dojos_earth.each do |dojo|
     dojo[:name].gsub!('Kanazawa, Ishikawa @ HackforPlay', '金沢')
 
     features << {
-      "type" => "Feature",
-      "geometry" => {
-        "type" => "Point",
-        "coordinates" => [dojo[:geoPoint][:lon], dojo[:geoPoint][:lat]],
+      type: "Feature",
+      geometry: {
+        type: "Point",
+        coordinates: [dojo[:geoPoint][:lon], dojo[:geoPoint][:lat]],
       },
-      "properties" => {
-        "description" => "#{name2logo[dojo[:name]]}#{dojo[:name]}<br />#{name2text[dojo[:name]]}<a target='_blank' href='http://zen.coderdojo.com/dojos/#{dojo[:urlSlug]}'>連絡先を見る</a>",
+      properties: {
+        description: "#{name2logo[dojo[:name]]}#{dojo[:name]}<br />#{name2text[dojo[:name]]}<a target='_blank' href='http://zen.coderdojo.com/dojos/#{dojo[:urlSlug]}'>連絡先を見る</a>",
       }
     }
   end
 end
 
 geojson = {
-  "type": "FeatureCollection",
-  "features": features
+  type: "FeatureCollection",
+  features: features
 }
 
 File.open("dojos.geojson", "w") do |file|
