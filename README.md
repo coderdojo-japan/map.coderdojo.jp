@@ -5,14 +5,16 @@ https://map.coderdojo.jp/
 
 ## 使い方
 
-1. [coderdojo.jp](https://coderdojo.jp/#dojos) の「地図情報から探す」をクリック
-   ![](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/images/instruction-1.png?raw=true)
+1. **:japan: [coderdojo.jp](https://coderdojo.jp/#dojos) の「地図情報から探す」をクリック**
+   [![CoderDojo Japan](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/images/instruction-1.png?raw=true)](https://coderdojo.jp/#dojos)
 
-2. 世界地図が表示されたら近くにある CoderDojo マーカーをクリック
-   ![](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/images/instruction-2.png?raw=true)
+2. **:world_map: 地図情報が表示されたら気になる CoderDojo マーカーをクリック**
+   [![DojoMap](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/images/instruction-2.png?raw=true)](https://map.coderdojo.jp/)
 
-3. 当該 CoderDojo の連絡先情報などが表示されるので、そこから詳細へ!
-   ![](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/images/instruction-3.png?raw=true)
+3. **:yin_yang: CoderDojo の連絡先情報などが表示されるので、そこから詳細へ GO!**
+   [![CoderDojo 富山](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/images/instruction-3.png?raw=true)](https://toyamanagaejp.wixsite.com/website)
+
+
 
 <br>
 
