@@ -49,7 +49,7 @@ https://map.coderdojo.jp/
    # ローカルサーバーを立ち上げる
    $ bundle exec jekyll server
    
-   # ブラウザでローカルサーバーにアクセスする
+   # ブラウザでローカルサーバーにアクセス
    open http://localhost:4000
    ```
 
