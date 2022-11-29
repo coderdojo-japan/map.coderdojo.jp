@@ -57,6 +57,41 @@ https://map.coderdojo.jp/
 
 <br>
 
+## :credit_card: License
+
+<details>
+  <summary><strong>Check out each license</strong></summary>
+  
+This web application is developed with many other brilliant works!   
+Check out the followings if you are interested in. :wink:
+
+<h3>Libraries & Icons</h3>
+
+The libraries like [RubyGems](https://rubygems.org/) used in this web application have their own licenses. Say, this website uses [Bootstrap](https://getbootstrap.jp/), created by Twitter licensed under the [MIT License](http://opensource.org/licenses/MIT).
+
+Also this website uses icons created by [Font Awesome](http://fontawesome.io/), licensed under SIL OFL 1.1, and [Twemoji](https://github.com/twitter/twemoji), created by Twitter, licensed under the [MIT License](http://opensource.org/licenses/MIT).
+
+Thanks for their great works to make this app published! :sparkling_heart: 
+
+<h3>Logos & Photos</h3>
+
+The images, such as logos and photos of [each dojo](http://coderdojo.jp/#dojos), are NOT published under the following License. Contact its owner, like the maintainer of linked external website, before using them. :relieved: 
+
+<h3>Codes & Others</h3>
+
+The source codes, such as HTML/CSS/JavaScript and Ruby codes not declared before, are published under **[The MIT License](https://opensource.org/licenses/MIT)**. Feel free to refer, copy, or share them. And contact `info@coderdojo.jp` if you find something unclear.
+
+Copyright &copy; [一般社団法人 CoderDojo Japan](https://coderdojo.jp/about-coderdojo-japan)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+</details>
+
+<br>
+
 ## :copyright: DojoMap's Copyright
 
 - :world_map: 地図情報: &copy; [GSI Japan](https://www.gsi.go.jp/) | &copy; [Geolonia](https://geolonia.com/) | &copy; [OpenStreetMap](https://www.openstreetmap.org/)
