@@ -20,25 +20,35 @@ https://map.coderdojo.jp/
 
 ## セットアップ方法（開発者向け）
 
-1. dojo一覧を取得する
+1. CoderDojo Zen から Dojo 情報一覧を取得する（位置情報が欲しい）
+   ```
+   $ ./get-dojos-from-earth.sh
+   ```
 
-```
-% sh curl.sh
-```
+1. CoderDojo Japan から Dojo 情報一覧を取得する（詳細情報が欲しい）
+   ```
+   $ ./get-dojos-from-japan.sh
+   ```
 
-2. geojsonファイルに変換する
+1. 上記２つの取得結果を組み合わせて [`dojos.geojson`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/dojos.geojson) ファイルを生成する
+   ```
+   $ ./upsert_dojos_geojson.rb
+   ```
 
-```
-% ruby convert.rb
-```
-
-3. http serverを起動し、ブラウザで閲覧する
-
-```
-% npm install -g http-server
-% http-server
-% open http://localhost:8080
-```
+1. ローカル環境で生成された DojoMap を確認する
+   ```
+   # Ruby が入っていることを確認
+   $ ruby --version
+   
+   # 必要なライブラリをインストール
+   $ bundle install
+   
+   # ローカルサーバーを立ち上げる
+   $ bundle exec jekyll server
+   
+   # ブラウザでローカルサーバーにアクセスする
+   open http://localhost:4000
+   ```
 
 <br>
 
