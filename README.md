@@ -11,7 +11,7 @@ https://map.coderdojo.jp/
 ## :beginner: DojoMap の使い方
 
 1. **:japan: [coderdojo.jp](https://coderdojo.jp/#dojos) の「地図情報から探す」をクリック**
-   [![CoderDojo Japan](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/images/instruction-1.png?raw=true)](https://coderdojo.jp/#dojos)
+   [![CoderDojo Japan](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/images/instruction-1.png)](https://coderdojo.jp/#dojos)
 
 2. **:world_map: 地図情報が表示されたら気になる CoderDojo マーカーをクリック**
    [![DojoMap](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/images/instruction-2.png?raw=true)](https://map.coderdojo.jp/)
