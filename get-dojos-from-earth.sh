@@ -15,4 +15,7 @@ curl -X POST --header 'Content-Type: application/json' --header 'Accept: applica
       "day"
     ]
   }
-}' 'https://zen.coderdojo.com/api/2.0/dojos' --output dojos_earth.json
+}' 'https://zen.coderdojo.com/api/2.0/dojos' | \
+  ruby -rjson \
+    -e 'puts JSON.pretty_generate(JSON.parse(gets.chomp))' | \
+  tee dojos_earth.json
