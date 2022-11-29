@@ -14,7 +14,7 @@ https://map.coderdojo.jp/
 3. **:yin_yang: CoderDojo の連絡先情報などが表示されるので、そこから詳細へ GO!**
    [![CoderDojo 富山](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/images/instruction-3.png?raw=true)](https://toyamanagaejp.wixsite.com/website)
 
-
+引用元: [2022年度 CoderDojo Japan 活動報告 - SpeakerDeck](https://speakerdeck.com/coderdojojapan/coderdojo-japan-in-2022)
 
 <br>
 
