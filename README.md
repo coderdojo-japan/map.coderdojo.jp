@@ -11,13 +11,13 @@ https://map.coderdojo.jp/
 ## :beginner: DojoMap の使い方
 
 1. **:japan: [coderdojo.jp](https://coderdojo.jp/#dojos) の「地図情報から探す」をクリック**
-   [![CoderDojo Japan](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/images/instruction-1.png)](https://coderdojo.jp/#dojos)
+   [![CoderDojo Japan](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/images/instruction-01.png?raw=true)](https://coderdojo.jp/#dojos)
 
 2. **:world_map: 地図情報が表示されたら気になる CoderDojo マーカーをクリック**
-   [![DojoMap](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/images/instruction-2.png?raw=true)](https://map.coderdojo.jp/)
+   [![DojoMap](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/images/instruction-02.png?raw=true)](https://map.coderdojo.jp/)
 
 3. **:yin_yang: CoderDojo の連絡先情報などが表示されるので、そこから詳細へ GO!**
-   [![CoderDojo 富山](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/images/instruction-3.png?raw=true)](https://toyamanagaejp.wixsite.com/website)
+   [![CoderDojo 富山](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/images/instruction-03.png?raw=true)](https://toyamanagaejp.wixsite.com/website)
 
 引用元: [2022年度 CoderDojo Japan 活動報告 - SpeakerDeck](https://speakerdeck.com/coderdojojapan/coderdojo-japan-in-2022)
 
