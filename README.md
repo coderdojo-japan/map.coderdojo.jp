@@ -6,7 +6,7 @@ https://map.coderdojo.jp/
 
 <br>
 
-## :beginner: 使い方
+## :beginner: DojoMap の使い方
 
 1. **:japan: [coderdojo.jp](https://coderdojo.jp/#dojos) の「地図情報から探す」をクリック**
    [![CoderDojo Japan](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/images/instruction-1.png?raw=true)](https://coderdojo.jp/#dojos)
@@ -21,7 +21,7 @@ https://map.coderdojo.jp/
 
 <br>
 
-## :gem: セットアップ方法（開発者向け）
+## :gem: DojoMap のセットアップ方法（開発者向け）
 
 1. CoderDojo Zen から Dojo 情報一覧を取得する（位置情報が欲しい）
    ```
@@ -57,7 +57,7 @@ https://map.coderdojo.jp/
 
 <br>
 
-## :copyright: Copyright
+## :copyright: DojoMap's Copyright
 
 - :world_map: 地図情報: &copy; [GSI Japan](https://www.gsi.go.jp/) | &copy; [Geolonia](https://geolonia.com/) | &copy; [OpenStreetMap](https://www.openstreetmap.org/)
 - :busts_in_silhouette: 開発者: [@champierre](https://github.com/champierre), [@yasulab](https://github.com/yasulab), and other [contributors](https://github.com/coderdojo-japan/map.coderdojo.jp/graphs/contributors).
