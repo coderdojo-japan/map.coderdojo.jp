@@ -1,4 +1,6 @@
 #!/bin/sh
-curl -X GET --header 'Content-Type: application/json' --header 'Accept: application/json' \
-     'https://coderdojo.jp/dojos.json' --output dojos_japan.json
 
+echo 'https://coderdojo.jp/dojos.json' | \
+  ruby -rjson -rnet/http \
+    -e 'puts JSON.pretty_generate(JSON.parse(Net::HTTP.get URI.parse(gets.chomp)))' | \
+  tee dojos_japan.json
