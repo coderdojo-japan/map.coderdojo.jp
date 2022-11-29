@@ -67,19 +67,19 @@ Check out the followings if you are interested in. :wink:
 
 <h3>Libraries & Icons</h3>
 
-The libraries like [RubyGems](https://rubygems.org/) used in this web application have their own licenses. Say, this website uses [Bootstrap](https://getbootstrap.jp/), created by Twitter licensed under the [MIT License](http://opensource.org/licenses/MIT).
+The libraries like [RubyGems](https://rubygems.org/) used in this web application have their own licenses. Say, DojoMap uses [Jekyll](https://jekyllrb.com/), which is licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
-Also this website uses icons created by [Font Awesome](http://fontawesome.io/), licensed under SIL OFL 1.1, and [Twemoji](https://github.com/twitter/twemoji), created by Twitter, licensed under the [MIT License](http://opensource.org/licenses/MIT).
+This repository may also use icons created by [Font Awesome](http://fontawesome.io/), licensed under SIL OFL 1.1, and [Twemoji](https://github.com/twitter/twemoji), created by Twitter, licensed under the [MIT License](http://opensource.org/licenses/MIT).
 
 Thanks for their great works to make this app published! :sparkling_heart: 
 
 <h3>Logos & Photos</h3>
 
-The images, such as logos and photos of [each dojo](http://coderdojo.jp/#dojos), are NOT published under the following License. Contact its owner, like the maintainer of linked external website, before using them. :relieved: 
+The images, such as logos and photos of [each dojo](http://coderdojo.jp/#dojos), are NOT published under the following license. Contact its owner, like the maintainer of linked external website, before using them. :relieved: 
 
 <h3>Codes & Others</h3>
 
-The source codes, such as HTML/CSS/JavaScript and Ruby codes not declared before, are published under **[The MIT License](https://opensource.org/licenses/MIT)**. Feel free to refer, copy, or share them. And contact `info@coderdojo.jp` if you find something unclear.
+The source codes, such as HTML/CSS/JavaScript and Ruby codes not declared above, are published under **[The MIT License](https://opensource.org/licenses/MIT)** below. Feel free to refer, copy, or share them. And contact `info@coderdojo.jp` if you find something unclear.
 
 Copyright &copy; [一般社団法人 CoderDojo Japan](https://coderdojo.jp/about-coderdojo-japan)
 
