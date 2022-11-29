@@ -60,5 +60,5 @@ https://map.coderdojo.jp/
 ## :copyright: DojoMap's Copyright
 
 - :world_map: 地図情報: &copy; [GSI Japan](https://www.gsi.go.jp/) | &copy; [Geolonia](https://geolonia.com/) | &copy; [OpenStreetMap](https://www.openstreetmap.org/)
-- :busts_in_silhouette: 開発者: [@champierre](https://github.com/champierre), [@yasulab](https://github.com/yasulab), and other [contributors](https://github.com/coderdojo-japan/map.coderdojo.jp/graphs/contributors).
+- :busts_in_silhouette: 開発者: [@champierre](https://github.com/champierre) | [@yasulab](https://github.com/yasulab) | other [contributors](https://github.com/coderdojo-japan/map.coderdojo.jp/graphs/contributors)
 - :yin_yang: 運営社: [一般社団法人 CoderDojo Japan](https://coderdojo.jp/about-coderdojo-japan)
