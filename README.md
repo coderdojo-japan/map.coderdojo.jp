@@ -1,3 +1,5 @@
+[![DojoMap](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/images/instruction-1.png?raw=true)](https://map.coderdojo.jp/)
+
 # :japan: DojoMap - 地図で CoderDojo を探す
 
 CoderDojo の地図『**[DojoMap](https://map.coderdojo.jp/)**』で、
