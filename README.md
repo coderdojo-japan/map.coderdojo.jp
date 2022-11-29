@@ -54,6 +54,6 @@ https://map.coderdojo.jp/
 
 ## :copyright: Copyright
 
-- :world_map: 地図情報 &copy; GSI Japan | &copy; Geolonia | &copy; OpenStreetMap
+- :world_map: 地図情報: &copy; GSI Japan | &copy; Geolonia | &copy; OpenStreetMap
 - :busts_in_silhouette: 開発者: [@champierre](https://github.com/champierre), [@yasulab](https://github.com/yasulab), and other [contributors](https://github.com/coderdojo-japan/map.coderdojo.jp/graphs/contributors).
 - :yin_yang: 運営社: [一般社団法人 CoderDojo Japan](https://coderdojo.jp/about-coderdojo-japan)
