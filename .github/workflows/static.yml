@@ -1,8 +1,8 @@
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
+# Runs on pushes targeting the default branch
 on:
-  # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
 
@@ -12,16 +12,19 @@ on:
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
-  pages: write
-  id-token: write
+  pages:    write # to deploy to Pages
+  id-token: write # to verify the deployment originates from an appropriate source
 
 # Allow one concurrent deployment
 concurrency:
   group: "pages"
   cancel-in-progress: true
 
+# See actions/starter-workflows repo for details.
+# https://github.com/actions/starter-workflows/blob/main/pages/static.yml
+#
+# Single deploy job since we're just deploying
 jobs:
-  # Single deploy job since we're just deploying
   deploy:
     environment:
       name: github-pages
