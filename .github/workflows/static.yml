@@ -41,7 +41,7 @@ jobs:
           GEOLONIA_API_KEY: ${{ secrets.GEOLONIA_API_KEY }}
         run: |
           ruby -i -pe '$_.gsub!("geolonia-api-key=YOUR_API_KEY",
-                                "${{ env.GEOLONIA_API_KEY }}")' index.html
+                                "geolonia-api-key=${{ env.GEOLONIA_API_KEY }}")' index.html
 
       - name: Setup Pages
         uses: actions/configure-pages@v2
