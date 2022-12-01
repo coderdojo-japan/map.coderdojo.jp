@@ -2,7 +2,6 @@
 
 require 'net/http'
 require 'json'
-require 'pry'
 
 DOJOS_URL  = 'https://coderdojo.jp/dojos.json'
 DOJOS_JSON = JSON.pretty_generate(JSON.parse(Net::HTTP.get URI.parse(DOJOS_URL)))
