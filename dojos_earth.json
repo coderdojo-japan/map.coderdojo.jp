@@ -902,23 +902,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Causeway - Ballycastle",
-    "geoPoint": {
-      "lat": 55.200619,
-      "lon": -6.256977099999972
-    },
-    "stage": 4,
-    "urlSlug": "gb/ballycastle/causeway-ballycastle",
-    "startTime": "00:00:00",
-    "endTime": "00:00:00",
-    "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "Every 1st &amp; 3rd Tuesday of the month (6.30-8.00pm)",
-    "day": null,
-    "id": "5eb1864c-8d68-4d30-8871-49ec366ecc61"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Ghent",
     "geoPoint": {
       "lat": 51.0363412,
@@ -4595,8 +4578,8 @@
     "entity$": "-/cd/dojos",
     "name": "Ballycastle @ Causeway",
     "geoPoint": {
-      "lat": 55.202987,
-      "lon": -6.263200999999981
+      "lat": 55.2037943,
+      "lon": -6.2653268
     },
     "stage": 4,
     "urlSlug": "gb/ballycastle/ballycastle-causeway",
@@ -13390,6 +13373,23 @@
     "alternativeFrequency": "Thursdays, 6pm to 8pm.  Check Eventbrite for details",
     "day": null,
     "id": "cf3b457b-5146-41f3-aa91-4eeeff354518"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Woodford@Woodford Green Library",
+    "geoPoint": {
+      "lat": 51.6075354,
+      "lon": 0.0323369
+    },
+    "stage": 1,
+    "urlSlug": "gb/woodford/woodford-woodford-green-library",
+    "startTime": "18:00:00",
+    "endTime": "19:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 3,
+    "id": "b24c2270-6a13-4f16-b2df-2f54d06a9a72"
   },
   {
     "entity$": "-/cd/dojos",
@@ -22553,23 +22553,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Derry, University of Ulster, Magee @ MF Building",
-    "geoPoint": {
-      "lat": 55.0062362,
-      "lon": -7.3236107000000175
-    },
-    "stage": 2,
-    "urlSlug": "gb/derry/derry-university-of-ulster-magee-mf-building",
-    "startTime": "11:00:00",
-    "endTime": "13:00:00",
-    "private": 0,
-    "frequency": "2/m",
-    "alternativeFrequency": "We meet every second Saturday from 11am-1pm",
-    "day": 6,
-    "id": "3f28e68f-12c5-4908-960b-da00fc127d18"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Azumino",
     "geoPoint": {
       "lat": 36.3086135,
@@ -22754,23 +22737,6 @@
     "alternativeFrequency": "Second Saturday of each month, 1pm - 3pm  (beginning July 2015)",
     "day": null,
     "id": "972a71e5-1d80-45fd-abb3-9d60c2a74d45"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Omagh",
-    "geoPoint": {
-      "lat": 54.601611,
-      "lon": -7.3026459999999815
-    },
-    "stage": 4,
-    "urlSlug": "gb/idea-centre-in-the-southwest-college-in-omagh/omagh",
-    "startTime": "00:00:00",
-    "endTime": "00:00:00",
-    "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "Every Wednesday term time, between 4.00pm and 5.30pm",
-    "day": null,
-    "id": "0362b9ac-f26e-488e-b134-f8e7083554e5"
   },
   {
     "entity$": "-/cd/dojos",
@@ -24799,6 +24765,23 @@
     "alternativeFrequency": "Saturday 21st April, 12 noon - 3pm",
     "day": null,
     "id": "b8303ba2-bf2c-4a51-a192-5a40e1fc081d"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Ballymena",
+    "geoPoint": {
+      "lat": 54.8647499,
+      "lon": -6.2781609
+    },
+    "stage": 4,
+    "urlSlug": "gb/ballymena/ballymena",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "Every other Saturday, 10:30am - 12:30pm",
+    "day": null,
+    "id": "86ed651e-2bfb-475b-85d6-27a522b6e4c8"
   },
   {
     "entity$": "-/cd/dojos",
@@ -30264,23 +30247,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Bangor, Co. Down @ Bangor Academy and Sixth Form College",
-    "geoPoint": {
-      "lat": 54.6574715,
-      "lon": -5.665045400000054
-    },
-    "stage": 4,
-    "urlSlug": "gb/bangor-academy-and-sixth-form-college/bangor-co-down-bangor-academy-and-sixth-form-college-1",
-    "startTime": null,
-    "endTime": null,
-    "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "Thursday every fortnight from 6pm-8pm",
-    "day": null,
-    "id": "40736011-50bc-4f1d-88c6-69b64e5be059"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Nairobi @ Embakasi",
     "geoPoint": {
       "lat": -1.3072985,
@@ -31250,23 +31216,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Ballymena",
-    "geoPoint": {
-      "lat": 54.864827,
-      "lon": -6.27769
-    },
-    "stage": 4,
-    "urlSlug": "gb/ballymena/ballymena",
-    "startTime": "00:00:00",
-    "endTime": "00:00:00",
-    "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "Every other Saturday, 10:30am - 12:30pm",
-    "day": null,
-    "id": "86ed651e-2bfb-475b-85d6-27a522b6e4c8"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Mukono @coderdojo",
     "geoPoint": {
       "lat": 0.3574902,
@@ -31896,6 +31845,23 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Draperstown",
+    "geoPoint": {
+      "lat": 54.79351819999999,
+      "lon": -6.781009099999999
+    },
+    "stage": 4,
+    "urlSlug": "gb/draperstown/draperstown",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "First and Third Saturday 10 am to 12 pm",
+    "day": null,
+    "id": "beceff8f-1843-4776-a94d-464b8ff7570c"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Coimbra",
     "geoPoint": {
       "lat": 40.2052631,
@@ -31910,23 +31876,6 @@
     "alternativeFrequency": "Every Saturday 9,30pm - 13pm",
     "day": null,
     "id": "d80e5f79-1cf8-4311-b5af-22d472475ccc"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Draperstown",
-    "geoPoint": {
-      "lat": 54.7934488,
-      "lon": -6.77995379999993
-    },
-    "stage": 4,
-    "urlSlug": "gb/draperstown/draperstown",
-    "startTime": null,
-    "endTime": null,
-    "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "First and Third Saturday 10 am to 12 pm",
-    "day": null,
-    "id": "beceff8f-1843-4776-a94d-464b8ff7570c"
   },
   {
     "entity$": "-/cd/dojos",
@@ -32505,6 +32454,23 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "舟橋",
+    "geoPoint": {
+      "lat": 36.703544,
+      "lon": 137.3074521
+    },
+    "stage": 0,
+    "urlSlug": "jp/japan-toyama/zhou1-qiao2",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "月2回",
+    "day": null,
+    "id": "0b208aca-b939-4ad0-b2ef-286dacd9fc19"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Hammersmith @Barclays #EagleDojo",
     "geoPoint": {
       "lat": 51.4408622,
@@ -32808,23 +32774,6 @@
     "alternativeFrequency": null,
     "day": 6,
     "id": "dbded5c5-3999-47c6-8aaa-93faa5820515"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "舟橋",
-    "geoPoint": {
-      "lat": 36.703544,
-      "lon": 137.3074521
-    },
-    "stage": 1,
-    "urlSlug": "jp/japan-toyama/zhou1-qiao2",
-    "startTime": "00:00:00",
-    "endTime": "00:00:00",
-    "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "月2回",
-    "day": null,
-    "id": "0b208aca-b939-4ad0-b2ef-286dacd9fc19"
   },
   {
     "entity$": "-/cd/dojos",
@@ -34219,6 +34168,23 @@
     "alternativeFrequency": "primo e terzo martedi del mese, 15:00 17:00; first and third Tuesday of the month 15:00pm -17:00 pm",
     "day": null,
     "id": "70b9fd17-886e-46f6-9113-c24d10b90e51"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Causeway - Ballycastle",
+    "geoPoint": {
+      "lat": 55.200619,
+      "lon": -6.256977099999999
+    },
+    "stage": 4,
+    "urlSlug": "gb/ballycastle/causeway-ballycastle",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "Every 1st &amp; 3rd Tuesday of the month (6.30-8.00pm)",
+    "day": null,
+    "id": "5eb1864c-8d68-4d30-8871-49ec366ecc61"
   },
   {
     "entity$": "-/cd/dojos",
@@ -45544,6 +45510,23 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Derry, University of Ulster, Magee @ MF Building",
+    "geoPoint": {
+      "lat": 55.0062362,
+      "lon": -7.3236107000000175
+    },
+    "stage": 2,
+    "urlSlug": "gb/derry/derry-university-of-ulster-magee-mf-building",
+    "startTime": "11:00:00",
+    "endTime": "13:00:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": "We meet every second Saturday from 11am-1pm",
+    "day": 6,
+    "id": "3f28e68f-12c5-4908-960b-da00fc127d18"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "De Wolden @ Bibliotheek Zuidwolde",
     "geoPoint": {
       "lat": 52.6716031,
@@ -45575,6 +45558,23 @@
     "alternativeFrequency": null,
     "day": 6,
     "id": "f749d7fb-389e-4235-9f4a-436ab46b81ef"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Omagh @ SouthWestCollege",
+    "geoPoint": {
+      "lat": 54.60173051346523,
+      "lon": -7.3023560508785295
+    },
+    "stage": 1,
+    "urlSlug": "gb/omagh/omagh-southwestcollege",
+    "startTime": "15:45:00",
+    "endTime": "17:15:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 1,
+    "id": "1ce78257-a3a2-4c73-ba94-d442b7fbf6cb"
   },
   {
     "entity$": "-/cd/dojos",
@@ -45626,23 +45626,6 @@
     "alternativeFrequency": "maandelijks op zaterdag, van 10u tot 12u30",
     "day": 1,
     "id": "7333e389-0b73-49c1-8ed1-e8df056b7356"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Omagh @ SouthWestCollege",
-    "geoPoint": {
-      "lat": 54.60173051346523,
-      "lon": -7.3023560508785295
-    },
-    "stage": 1,
-    "urlSlug": "gb/omagh/omagh-southwestcollege",
-    "startTime": "15:45:00",
-    "endTime": "17:15:00",
-    "private": 0,
-    "frequency": "1/w",
-    "alternativeFrequency": null,
-    "day": 1,
-    "id": "1ce78257-a3a2-4c73-ba94-d442b7fbf6cb"
   },
   {
     "entity$": "-/cd/dojos",
@@ -52191,23 +52174,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Lisburn",
-    "geoPoint": {
-      "lat": 54.510085,
-      "lon": -6.043129000000022
-    },
-    "stage": 1,
-    "urlSlug": "gb/lisburn/lisburn",
-    "startTime": "11:00:00",
-    "endTime": "13:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "first",
-    "day": 6,
-    "id": "0e9412b8-9d0f-4093-ac77-a8e91974fe1c"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Boise, ID @ Ada Library, Victory Branch",
     "geoPoint": {
       "lat": 43.5760325,
@@ -57475,23 +57441,6 @@
     "alternativeFrequency": null,
     "day": 4,
     "id": "901e9321-d2e4-4f10-bc02-202e94fcffb0"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Dungannon, Co. Tyrone @ Dungannon Library",
-    "geoPoint": {
-      "lat": 54.504905,
-      "lon": -6.769314899999999
-    },
-    "stage": 1,
-    "urlSlug": "gb/dungannon/dungannon-co-tyrone-dungannon-library",
-    "startTime": "14:00:00",
-    "endTime": "16:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "2nd",
-    "day": 6,
-    "id": "0da27b1d-573d-44f0-89a4-59f711381608"
   },
   {
     "entity$": "-/cd/dojos",
@@ -69361,23 +69310,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Woodford@Woodford Green Library",
-    "geoPoint": {
-      "lat": 51.6075354,
-      "lon": 0.0323369
-    },
-    "stage": 1,
-    "urlSlug": "gb/woodford/woodford-woodford-green-library",
-    "startTime": "18:00:00",
-    "endTime": "19:00:00",
-    "private": 0,
-    "frequency": "1/w",
-    "alternativeFrequency": null,
-    "day": 3,
-    "id": "b24c2270-6a13-4f16-b2df-2f54d06a9a72"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Dublin 2, Charlemont @ Zendesk",
     "geoPoint": {
       "lat": 53.33152808510129,
@@ -69735,6 +69667,23 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Dungannon, Co. Tyrone @ Dungannon Library",
+    "geoPoint": {
+      "lat": 54.504905,
+      "lon": -6.769314899999999
+    },
+    "stage": 1,
+    "urlSlug": "gb/dungannon/dungannon-co-tyrone-dungannon-library",
+    "startTime": "14:00:00",
+    "endTime": "16:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "2nd",
+    "day": 6,
+    "id": "0da27b1d-573d-44f0-89a4-59f711381608"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Airport Business Park, Cork @ IBM Ireland",
     "geoPoint": {
       "lat": 51.8500653,
@@ -69766,5 +69715,56 @@
     "alternativeFrequency": null,
     "day": 4,
     "id": "63cc1232-d393-467f-a891-82f9c6c650ef"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Bangor, Co. Down @ Bangor Academy and Sixth Form College",
+    "geoPoint": {
+      "lat": 54.6568425,
+      "lon": -5.663945500000001
+    },
+    "stage": 4,
+    "urlSlug": "gb/bangor/bangor-co-down-bangor-academy-and-sixth-form-college",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "Thursday every fortnight from 6pm-8pm",
+    "day": null,
+    "id": "40736011-50bc-4f1d-88c6-69b64e5be059"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Lisburn",
+    "geoPoint": {
+      "lat": 54.510085,
+      "lon": -6.043129000000022
+    },
+    "stage": 1,
+    "urlSlug": "gb/lisburn/lisburn",
+    "startTime": "11:00:00",
+    "endTime": "13:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "first",
+    "day": 6,
+    "id": "0e9412b8-9d0f-4093-ac77-a8e91974fe1c"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Omagh",
+    "geoPoint": {
+      "lat": 54.60179189999999,
+      "lon": -7.302470899999999
+    },
+    "stage": 4,
+    "urlSlug": "gb/omagh/omagh",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "Every Wednesday term time, between 4.00pm and 5.30pm",
+    "day": null,
+    "id": "0362b9ac-f26e-488e-b134-f8e7083554e5"
   }
 ]
