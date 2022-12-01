@@ -5,4 +5,5 @@ ruby '3.1.2'
 git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
 gem 'activesupport'
-gem "jekyll"
+gem 'jekyll'
+gem 'pry'
