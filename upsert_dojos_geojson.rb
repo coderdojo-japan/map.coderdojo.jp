@@ -6,6 +6,8 @@ dojos_earth = []
 dojos_japan = []
 zen2japan   = {}
 
+# TODO: These data are now updated by hand. Can be improved by automation.
+# Details: https://github.com/coderdojo-japan/map.coderdojo.jp/issues/2
 File.open("dojos_earth.json") do |file|
   dojos_earth = JSON.load(file).map{|data| data.deep_transform_keys!(&:to_sym) }
 end
@@ -28,6 +30,7 @@ dojos_japan.each do |dojo|
   name2text[dojo[:name]] = "<a href='#{dojo[:url]}' target='_blank' rel='noopener'>Webサイトを見る</a><br />"
 
   # TODO: Image cannot be displayed for some reasone?? (API Restriction??)
+  # Details: https://github.com/coderdojo-japan/map.coderdojo.jp/issues/1
   #name2logo[dojo[:name]] = "<a href='#{dojo[:url]}' target='_blank' rel='noopener'><img src='#{dojo[:logo]}' loading='lazy' /></a><br />"
   #p name2logo[dojo[:name]]
 end
