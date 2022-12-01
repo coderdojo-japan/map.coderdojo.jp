@@ -26,14 +26,19 @@ https://map.coderdojo.jp/
 
 ## :gem: DojoMap のセットアップ方法（開発者向け）
 
+1. ローカル環境で Ruby が実行できることを確認する
+   ```
+   $ ruby --version
+   ```   
+
 1. CoderDojo Zen から Dojo 情報一覧を取得する（[`dojos_earth.json`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/dojos_earth.json)にある位置情報が欲しい）
    ```
-   $ ./get-dojos-from-earth.sh
+   $ ./get-dojos-from-earth.rb
    ```
 
 1. CoderDojo Japan から Dojo 情報一覧を取得する（[`dojos_japan.json`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/dojos_japan.json)にある詳細情報が欲しい）
    ```
-   $ ./get-dojos-from-japan.sh
+   $ ./get-dojos-from-japan.rb
    ```
 
 1. 上記２つの取得結果を組み合わせて [`dojos.geojson`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/dojos.geojson) ファイルを生成する
@@ -43,9 +48,6 @@ https://map.coderdojo.jp/
 
 1. ローカル環境で生成された DojoMap を確認する
    ```
-   # Ruby が入っていることを確認
-   $ ruby --version
-   
    # 必要なライブラリをインストール
    $ bundle install
    
