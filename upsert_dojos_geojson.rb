@@ -1,6 +1,5 @@
 #!/usr/bin/env ruby
 require 'json'
-require 'active_support/core_ext/hash/keys'
 
 dojos_earth = []
 dojos_japan = []
