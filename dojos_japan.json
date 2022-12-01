@@ -1,27 +1,99 @@
 [
   {
-    "url": "https://www.facebook.com/coderdojo.hitachinaka/",
-    "name": "ひたちなか",
-    "logo": "https://coderdojo.jp/img/dojos/hitachinaka.webp",
-    "order": "082210",
-    "prefecture": "茨城",
-    "linked_text": "<a href='https://www.facebook.com/coderdojo.hitachinaka/'>ひたちなか</a>（茨城）"
-  },
-  {
-    "url": "https://www.facebook.com/CoderDojo.Mutsuno/",
-    "name": "六ツ野",
-    "logo": "https://coderdojo.jp/img/dojos/mutsuno.webp",
-    "order": "082210",
-    "prefecture": "茨城",
-    "linked_text": "<a href='https://www.facebook.com/CoderDojo.Mutsuno/'>六ツ野</a>（茨城）"
-  },
-  {
     "url": "https://coderdojo-nago.connpass.com/",
     "name": "名護",
     "logo": "https://coderdojo.jp/img/dojos/nago.webp",
     "order": "472093",
     "prefecture": "沖縄",
     "linked_text": "<a href='https://coderdojo-nago.connpass.com/'>名護</a>（沖縄）"
+  },
+  {
+    "url": "https://mamejuku.org/coderdojonoda/",
+    "name": "野田",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "122084",
+    "prefecture": "千葉",
+    "linked_text": "<a href='https://mamejuku.org/coderdojonoda/'>野田</a>（千葉）"
+  },
+  {
+    "url": "https://coderdojo-kojimachi.connpass.com/",
+    "name": "麹町@アドバンスト・ソフト",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "131016",
+    "prefecture": "東京",
+    "linked_text": "<a href='https://coderdojo-kojimachi.connpass.com/'>麹町@アドバンスト・ソフト</a>（東京）"
+  },
+  {
+    "url": "https://www.facebook.com/coderdojonakano/",
+    "name": "中野",
+    "logo": "https://coderdojo.jp/img/dojos/nakano.webp",
+    "order": "131148",
+    "prefecture": "東京",
+    "linked_text": "<a href='https://www.facebook.com/coderdojonakano/'>中野</a>（東京）"
+  },
+  {
+    "url": "https://coderdojo.sakuragawa.tokyo/",
+    "name": "板橋@桜川",
+    "logo": "https://coderdojo.jp/img/dojos/itabashi.webp",
+    "order": "131199",
+    "prefecture": "東京",
+    "linked_text": "<a href='https://coderdojo.sakuragawa.tokyo/'>板橋@桜川</a>（東京）"
+  },
+  {
+    "url": "https://kichijojijp.wixsite.com/coderdojo",
+    "name": "吉祥寺",
+    "logo": "https://coderdojo.jp/img/dojos/kichijoji.webp",
+    "order": "132039",
+    "prefecture": "東京",
+    "linked_text": "<a href='https://kichijojijp.wixsite.com/coderdojo'>吉祥寺</a>（東京）"
+  },
+  {
+    "url": "https://coderdojo-kunitachi.connpass.com/",
+    "name": "国立",
+    "logo": "https://coderdojo.jp/img/dojos/kunitachi.webp",
+    "order": "132152",
+    "prefecture": "東京",
+    "linked_text": "<a href='https://coderdojo-kunitachi.connpass.com/'>国立</a>（東京）"
+  },
+  {
+    "url": "https://coderdojo-yokohama.connpass.com/",
+    "name": "横浜",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "141020",
+    "prefecture": "神奈川",
+    "linked_text": "<a href='https://coderdojo-yokohama.connpass.com/'>横浜</a>（神奈川）"
+  },
+  {
+    "url": "https://www.facebook.com/coderdojokuji/",
+    "name": "久地",
+    "logo": "https://coderdojo.jp/img/dojos/kuji.webp",
+    "order": "141305",
+    "prefecture": "神奈川",
+    "linked_text": "<a href='https://www.facebook.com/coderdojokuji/'>久地</a>（神奈川）"
+  },
+  {
+    "url": "https://www.coderdojo-namerikawa.org",
+    "name": "滑川",
+    "logo": "https://coderdojo.jp/img/dojos/namerikawa.webp",
+    "order": "162060",
+    "prefecture": "富山",
+    "linked_text": "<a href='https://www.coderdojo-namerikawa.org'>滑川</a>（富山）"
+  },
+  {
+    "url": "https://lovetonami.com/coderdojo/",
+    "name": "なんと@よってカフェ",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "162108",
+    "prefecture": "富山",
+    "linked_text": "<a href='https://lovetonami.com/coderdojo/'>なんと@よってカフェ</a>（富山）"
+  },
+  {
+    "url": "https://coderdojo-kiso.connpass.com/",
+    "name": "木曽",
+    "logo": "https://coderdojo.jp/img/dojos/kiso.webp",
+    "order": "204234",
+    "prefecture": "長野",
+    "linked_text": "<a href='https://coderdojo-kiso.connpass.com/'>木曽</a>（長野）"
   },
   {
     "url": "https://coderdojo-ebetsu.connpass.com/",
@@ -104,6 +176,14 @@
     "linked_text": "<a href='https://coderdojokoga.connpass.com/'>古河</a>（茨城）"
   },
   {
+    "url": "https://www.facebook.com/CoderDojo.Mutsuno/",
+    "name": "六ツ野",
+    "logo": "https://coderdojo.jp/img/dojos/mutsuno.webp",
+    "order": "082210",
+    "prefecture": "茨城",
+    "linked_text": "<a href='https://www.facebook.com/CoderDojo.Mutsuno/'>六ツ野</a>（茨城）"
+  },
+  {
     "url": "https://coderdojo-utsunomiya.github.io/",
     "name": "宇都宮",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
@@ -136,84 +216,12 @@
     "linked_text": "<a href='https://www.facebook.com/coderdojokisarazu/'>木更津</a>（千葉）"
   },
   {
-    "url": "https://mamejuku.org/coderdojonoda/",
-    "name": "野田",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "122084",
-    "prefecture": "千葉",
-    "linked_text": "<a href='https://mamejuku.org/coderdojonoda/'>野田</a>（千葉）"
-  },
-  {
-    "url": "https://coderdojo-kojimachi.connpass.com/",
-    "name": "麹町@アドバンスト・ソフト",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "131016",
-    "prefecture": "東京",
-    "linked_text": "<a href='https://coderdojo-kojimachi.connpass.com/'>麹町@アドバンスト・ソフト</a>（東京）"
-  },
-  {
-    "url": "https://www.facebook.com/coderdojonakano/",
-    "name": "中野",
-    "logo": "https://coderdojo.jp/img/dojos/nakano.webp",
-    "order": "131148",
-    "prefecture": "東京",
-    "linked_text": "<a href='https://www.facebook.com/coderdojonakano/'>中野</a>（東京）"
-  },
-  {
-    "url": "https://coderdojo.sakuragawa.tokyo/",
-    "name": "板橋@桜川",
-    "logo": "https://coderdojo.jp/img/dojos/itabashi.webp",
-    "order": "131199",
-    "prefecture": "東京",
-    "linked_text": "<a href='https://coderdojo.sakuragawa.tokyo/'>板橋@桜川</a>（東京）"
-  },
-  {
-    "url": "https://kichijojijp.wixsite.com/coderdojo",
-    "name": "吉祥寺",
-    "logo": "https://coderdojo.jp/img/dojos/kichijoji.webp",
-    "order": "132039",
-    "prefecture": "東京",
-    "linked_text": "<a href='https://kichijojijp.wixsite.com/coderdojo'>吉祥寺</a>（東京）"
-  },
-  {
-    "url": "https://coderdojo-kunitachi.connpass.com/",
-    "name": "国立",
-    "logo": "https://coderdojo.jp/img/dojos/kunitachi.webp",
-    "order": "132152",
-    "prefecture": "東京",
-    "linked_text": "<a href='https://coderdojo-kunitachi.connpass.com/'>国立</a>（東京）"
-  },
-  {
-    "url": "https://coderdojo-yokohama.connpass.com/",
-    "name": "横浜",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "141020",
-    "prefecture": "神奈川",
-    "linked_text": "<a href='https://coderdojo-yokohama.connpass.com/'>横浜</a>（神奈川）"
-  },
-  {
-    "url": "https://www.facebook.com/coderdojokuji/",
-    "name": "久地",
-    "logo": "https://coderdojo.jp/img/dojos/kuji.webp",
-    "order": "141305",
-    "prefecture": "神奈川",
-    "linked_text": "<a href='https://www.facebook.com/coderdojokuji/'>久地</a>（神奈川）"
-  },
-  {
-    "url": "https://sites.google.com/coderdojo.com/coderdojo-namerikawa/top",
-    "name": "滑川",
-    "logo": "https://coderdojo.jp/img/dojos/namerikawa.webp",
-    "order": "162060",
-    "prefecture": "富山",
-    "linked_text": "<a href='https://sites.google.com/coderdojo.com/coderdojo-namerikawa/top'>滑川</a>（富山）"
-  },
-  {
-    "url": "https://lovetonami.com/coderdojo/",
-    "name": "なんと@よってカフェ",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "162108",
-    "prefecture": "富山",
-    "linked_text": "<a href='https://lovetonami.com/coderdojo/'>なんと@よってカフェ</a>（富山）"
+    "url": "https://www.facebook.com/coderdojo.hitachinaka/",
+    "name": "ひたちなか",
+    "logo": "https://coderdojo.jp/img/dojos/hitachinaka.webp",
+    "order": "082210",
+    "prefecture": "茨城",
+    "linked_text": "<a href='https://www.facebook.com/coderdojo.hitachinaka/'>ひたちなか</a>（茨城）"
   },
   {
     "url": "https://coderdojo-hamamatsu.connpass.com/",
@@ -222,126 +230,6 @@
     "order": "221309",
     "prefecture": "静岡",
     "linked_text": "<a href='https://coderdojo-hamamatsu.connpass.com/'>浜松</a>（静岡）"
-  },
-  {
-    "url": "https://coderdojo-tempaku.hatenablog.com/",
-    "name": "天白",
-    "logo": "https://coderdojo.jp/img/dojos/tempaku.webp",
-    "order": "231002",
-    "prefecture": "愛知",
-    "linked_text": "<a href='https://coderdojo-tempaku.hatenablog.com/'>天白</a>（愛知）"
-  },
-  {
-    "url": "https://coderdojokobe.wixsite.com/home/",
-    "name": "神戸",
-    "logo": "https://coderdojo.jp/img/dojos/kobe.webp",
-    "order": "281107",
-    "prefecture": "兵庫",
-    "linked_text": "<a href='https://coderdojokobe.wixsite.com/home/'>神戸</a>（兵庫）"
-  },
-  {
-    "url": "https://www.facebook.com/CoderDojoKURE/",
-    "name": "呉",
-    "logo": "https://coderdojo.jp/img/dojos/kure.webp",
-    "order": "342025",
-    "prefecture": "広島",
-    "linked_text": "<a href='https://www.facebook.com/CoderDojoKURE/'>呉</a>（広島）"
-  },
-  {
-    "url": "https://www.facebook.com/groups/332290965392043",
-    "name": "福山大門",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "342076",
-    "prefecture": "広島",
-    "linked_text": "<a href='https://www.facebook.com/groups/332290965392043'>福山大門</a>（広島）"
-  },
-  {
-    "url": "https://coderdojo-kiso.connpass.com/",
-    "name": "木曽",
-    "logo": "https://coderdojo.jp/img/dojos/kiso.webp",
-    "order": "204234",
-    "prefecture": "長野",
-    "linked_text": "<a href='https://coderdojo-kiso.connpass.com/'>木曽</a>（長野）"
-  },
-  {
-    "url": "https://coderdojo-tobe.connpass.com/",
-    "name": "戸部",
-    "logo": "https://coderdojo.jp/img/dojos/tobe.webp",
-    "order": "141038",
-    "prefecture": "神奈川",
-    "linked_text": "<a href='https://coderdojo-tobe.connpass.com/'>戸部</a>（神奈川）"
-  },
-  {
-    "url": "https://coderdojo-hodogaya.connpass.com/",
-    "name": "保土ヶ谷",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "141062",
-    "prefecture": "神奈川",
-    "linked_text": "<a href='https://coderdojo-hodogaya.connpass.com/'>保土ヶ谷</a>（神奈川）"
-  },
-  {
-    "url": "https://coderdojo-nagoya.connpass.com/",
-    "name": "名古屋",
-    "logo": "https://coderdojo.jp/img/dojos/nagoya.webp",
-    "order": "231002",
-    "prefecture": "愛知",
-    "linked_text": "<a href='https://coderdojo-nagoya.connpass.com/'>名古屋</a>（愛知）"
-  },
-  {
-    "url": "https://coderdojo-mizuho.connpass.com/",
-    "name": "瑞穂",
-    "logo": "https://coderdojo.jp/img/dojos/mizuho.webp",
-    "order": "231088",
-    "prefecture": "愛知",
-    "linked_text": "<a href='https://coderdojo-mizuho.connpass.com/'>瑞穂</a>（愛知）"
-  },
-  {
-    "url": "https://www.facebook.com/CoderDojoFukuoka/",
-    "name": "福岡",
-    "logo": "https://coderdojo.jp/img/dojos/fukuoka.webp",
-    "order": "401307",
-    "prefecture": "福岡",
-    "linked_text": "<a href='https://www.facebook.com/CoderDojoFukuoka/'>福岡</a>（福岡）"
-  },
-  {
-    "url": "https://www.facebook.com/CoderDojoHakata/",
-    "name": "博多",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "401323",
-    "prefecture": "福岡",
-    "linked_text": "<a href='https://www.facebook.com/CoderDojoHakata/'>博多</a>（福岡）"
-  },
-  {
-    "url": "https://coderdojo-uruma.hatenablog.com/",
-    "name": "うるま",
-    "logo": "https://coderdojo.jp/img/dojos/uruma.webp",
-    "order": "472131",
-    "prefecture": "沖縄",
-    "linked_text": "<a href='https://coderdojo-uruma.hatenablog.com/'>うるま</a>（沖縄）"
-  },
-  {
-    "url": "https://coderdojo-miyakojima.com/",
-    "name": "宮古島",
-    "logo": "https://coderdojo.jp/img/dojos/miyakojima.webp",
-    "order": "472140",
-    "prefecture": "沖縄",
-    "linked_text": "<a href='https://coderdojo-miyakojima.com/'>宮古島</a>（沖縄）"
-  },
-  {
-    "url": "https://coderdojokadena.hatenablog.jp/",
-    "name": "嘉手納",
-    "logo": "https://coderdojo.jp/img/dojos/kadena.webp",
-    "order": "473251",
-    "prefecture": "沖縄",
-    "linked_text": "<a href='https://coderdojokadena.hatenablog.jp/'>嘉手納</a>（沖縄）"
-  },
-  {
-    "url": "https://coderdojo-haebaru.doorkeeper.jp/",
-    "name": "南風原",
-    "logo": "https://coderdojo.jp/img/dojos/haebaru.webp",
-    "order": "473502",
-    "prefecture": "沖縄",
-    "linked_text": "<a href='https://coderdojo-haebaru.doorkeeper.jp/'>南風原</a>（沖縄）"
   },
   {
     "url": "https://funabashi.coderdojo.chiba.jp/",
@@ -366,6 +254,14 @@
     "order": "122084",
     "prefecture": "千葉",
     "linked_text": "<a href='https://www.facebook.com/coderdojonoda/'>野田</a>（千葉）"
+  },
+  {
+    "url": "https://www.coderdojo-kashiwa.com/",
+    "name": "柏",
+    "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
+    "order": "122173",
+    "prefecture": "千葉",
+    "linked_text": "<a href='https://www.coderdojo-kashiwa.com/'>柏</a>（千葉）"
   },
   {
     "url": "https://www.coderdojo-kashiwa.com/dojoInfo.php?dojo=minamikashiwa",
@@ -432,6 +328,62 @@
     "linked_text": "<a href='https://coderdojoadachi.doorkeeper.jp/'>足立</a>（東京）"
   },
   {
+    "url": "https://coderdojo-tobe.connpass.com/",
+    "name": "戸部",
+    "logo": "https://coderdojo.jp/img/dojos/tobe.webp",
+    "order": "141038",
+    "prefecture": "神奈川",
+    "linked_text": "<a href='https://coderdojo-tobe.connpass.com/'>戸部</a>（神奈川）"
+  },
+  {
+    "url": "https://coderdojo-hodogaya.connpass.com/",
+    "name": "保土ヶ谷",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "141062",
+    "prefecture": "神奈川",
+    "linked_text": "<a href='https://coderdojo-hodogaya.connpass.com/'>保土ヶ谷</a>（神奈川）"
+  },
+  {
+    "url": "https://www.facebook.com/CoderDojoFukuoka/",
+    "name": "福岡",
+    "logo": "https://coderdojo.jp/img/dojos/fukuoka.webp",
+    "order": "401307",
+    "prefecture": "福岡",
+    "linked_text": "<a href='https://www.facebook.com/CoderDojoFukuoka/'>福岡</a>（福岡）"
+  },
+  {
+    "url": "https://www.facebook.com/CoderDojoHakata/",
+    "name": "博多",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "401323",
+    "prefecture": "福岡",
+    "linked_text": "<a href='https://www.facebook.com/CoderDojoHakata/'>博多</a>（福岡）"
+  },
+  {
+    "url": "https://coderdojo-uruma.hatenablog.com/",
+    "name": "うるま",
+    "logo": "https://coderdojo.jp/img/dojos/uruma.webp",
+    "order": "472131",
+    "prefecture": "沖縄",
+    "linked_text": "<a href='https://coderdojo-uruma.hatenablog.com/'>うるま</a>（沖縄）"
+  },
+  {
+    "url": "https://coderdojo-miyakojima.com/",
+    "name": "宮古島",
+    "logo": "https://coderdojo.jp/img/dojos/miyakojima.webp",
+    "order": "472140",
+    "prefecture": "沖縄",
+    "linked_text": "<a href='https://coderdojo-miyakojima.com/'>宮古島</a>（沖縄）"
+  },
+  {
+    "url": "https://coderdojokadena.hatenablog.jp/",
+    "name": "嘉手納",
+    "logo": "https://coderdojo.jp/img/dojos/kadena.webp",
+    "order": "473251",
+    "prefecture": "沖縄",
+    "linked_text": "<a href='https://coderdojokadena.hatenablog.jp/'>嘉手納</a>（沖縄）"
+  },
+  {
     "url": "https://coderdojo-niizashiki.doorkeeper.jp/",
     "name": "新座志木",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
@@ -448,20 +400,36 @@
     "linked_text": "<a href='https://www.facebook.com/CoderDojoTOKE/'>土気</a>（千葉）"
   },
   {
+    "url": "https://coderdojo-nagoya.connpass.com/",
+    "name": "名古屋",
+    "logo": "https://coderdojo.jp/img/dojos/nagoya.webp",
+    "order": "231002",
+    "prefecture": "愛知",
+    "linked_text": "<a href='https://coderdojo-nagoya.connpass.com/'>名古屋</a>（愛知）"
+  },
+  {
+    "url": "https://coderdojo-mizuho.connpass.com/",
+    "name": "瑞穂",
+    "logo": "https://coderdojo.jp/img/dojos/mizuho.webp",
+    "order": "231088",
+    "prefecture": "愛知",
+    "linked_text": "<a href='https://coderdojo-mizuho.connpass.com/'>瑞穂</a>（愛知）"
+  },
+  {
+    "url": "https://coderdojo-haebaru.doorkeeper.jp/",
+    "name": "南風原",
+    "logo": "https://coderdojo.jp/img/dojos/haebaru.webp",
+    "order": "473502",
+    "prefecture": "沖縄",
+    "linked_text": "<a href='https://coderdojo-haebaru.doorkeeper.jp/'>南風原</a>（沖縄）"
+  },
+  {
     "url": "http://ichikawa.coderdojo.chiba.jp",
     "name": "市川",
     "logo": "https://coderdojo.jp/img/dojos/ichikawa.webp",
     "order": "122033",
     "prefecture": "千葉",
     "linked_text": "<a href='http://ichikawa.coderdojo.chiba.jp'>市川</a>（千葉）"
-  },
-  {
-    "url": "https://www.coderdojo-kashiwa.com/",
-    "name": "柏",
-    "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
-    "order": "122173",
-    "prefecture": "千葉",
-    "linked_text": "<a href='https://www.coderdojo-kashiwa.com/'>柏</a>（千葉）"
   },
   {
     "url": "https://www.coderdojo-kashiwa.com/dojoInfo.php?dojo=kashiwashounan",
@@ -496,76 +464,12 @@
     "linked_text": "<a href='https://www.facebook.com/CoderDojo.Fukuyama'>福山</a>（広島）"
   },
   {
-    "url": "https://coderdojo-isehara.connpass.com",
-    "name": "伊勢原",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "142140",
-    "prefecture": "神奈川",
-    "linked_text": "<a href='https://coderdojo-isehara.connpass.com'>伊勢原</a>（神奈川）"
-  },
-  {
-    "url": "https://shinagawa-gotenyama.coderdojo.roundtable.jp/",
-    "name": "品川御殿山",
-    "logo": "https://coderdojo.jp/img/dojos/shinagawa-gotenyama.webp",
-    "order": "131091",
+    "url": "http://coderdojo-tdbb.com/",
+    "name": "高田馬場",
+    "logo": "https://coderdojo.jp/img/dojos/takadanobaba.webp",
+    "order": "131041",
     "prefecture": "東京",
-    "linked_text": "<a href='https://shinagawa-gotenyama.coderdojo.roundtable.jp/'>品川御殿山</a>（東京）"
-  },
-  {
-    "url": "https://coderdojo-tamamira.connpass.com/",
-    "name": "たまみら",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "132021",
-    "prefecture": "東京",
-    "linked_text": "<a href='https://coderdojo-tamamira.connpass.com/'>たまみら</a>（東京）"
-  },
-  {
-    "url": "https://coderdojo-mitaka.connpass.com/",
-    "name": "三鷹",
-    "logo": "https://coderdojo.jp/img/dojos/mitaka.webp",
-    "order": "132047",
-    "prefecture": "東京",
-    "linked_text": "<a href='https://coderdojo-mitaka.connpass.com/'>三鷹</a>（東京）"
-  },
-  {
-    "url": "https://coderdojoome.github.io/",
-    "name": "青梅",
-    "logo": "https://coderdojo.jp/img/dojos/ome.webp",
-    "order": "132055",
-    "prefecture": "東京",
-    "linked_text": "<a href='https://coderdojoome.github.io/'>青梅</a>（東京）"
-  },
-  {
-    "url": "https://coderdojo-tamamira.connpass.com/",
-    "name": "昭島",
-    "logo": "https://coderdojo.jp/img/dojos/akishima.webp",
-    "order": "132071",
-    "prefecture": "東京",
-    "linked_text": "<a href='https://coderdojo-tamamira.connpass.com/'>昭島</a>（東京）"
-  },
-  {
-    "url": "https://toyamanagaejp.wixsite.com/website",
-    "name": "富山",
-    "logo": "https://coderdojo.jp/img/dojos/toyama.webp",
-    "order": "162019",
-    "prefecture": "富山",
-    "linked_text": "<a href='https://toyamanagaejp.wixsite.com/website'>富山</a>（富山）"
-  },
-  {
-    "url": "https://twitter.com/CDNirasaki",
-    "name": "韮崎",
-    "logo": "https://coderdojo.jp/img/dojos/nirasaki.webp",
-    "order": "192074",
-    "prefecture": "山梨",
-    "linked_text": "<a href='https://twitter.com/CDNirasaki'>韮崎</a>（山梨）"
-  },
-  {
-    "url": "https://www.facebook.com/CoderDojoDazaifu/",
-    "name": "太宰府",
-    "logo": "https://coderdojo.jp/img/dojos/dazaifu.webp",
-    "order": "402214",
-    "prefecture": "福岡",
-    "linked_text": "<a href='https://www.facebook.com/CoderDojoDazaifu/'>太宰府</a>（福岡）"
+    "linked_text": "<a href='http://coderdojo-tdbb.com/'>高田馬場</a>（東京）"
   },
   {
     "url": "https://coderdojo-shirakawa.work",
@@ -600,36 +504,28 @@
     "linked_text": "<a href='https://beyondbb.jp/CDmama/index.html'>市川真間</a>（千葉）"
   },
   {
-    "url": "https://home.omegane-pr.com/coderdojo/",
-    "name": "酒々井",
-    "logo": "https://coderdojo.jp/img/dojos/shisui.webp",
-    "order": "122302",
-    "prefecture": "千葉",
-    "linked_text": "<a href='https://home.omegane-pr.com/coderdojo/'>酒々井</a>（千葉）"
+    "url": "https://coderdojo-nishishinjuku.connpass.com/",
+    "name": "西新宿",
+    "logo": "https://coderdojo.jp/img/dojos/nishishinjuku.webp",
+    "order": "131041",
+    "prefecture": "東京",
+    "linked_text": "<a href='https://coderdojo-nishishinjuku.connpass.com/'>西新宿</a>（東京）"
   },
   {
-    "url": "https://coderdojo-suginami.github.io/",
-    "name": "すぎなみ",
-    "logo": "https://coderdojo.jp/img/dojos/suginami.webp",
-    "order": "131156",
+    "url": "https://shinagawa-gotenyama.coderdojo.roundtable.jp/",
+    "name": "品川御殿山",
+    "logo": "https://coderdojo.jp/img/dojos/shinagawa-gotenyama.webp",
+    "order": "131091",
     "prefecture": "東京",
-    "linked_text": "<a href='https://coderdojo-suginami.github.io/'>すぎなみ</a>（東京）"
+    "linked_text": "<a href='https://shinagawa-gotenyama.coderdojo.roundtable.jp/'>品川御殿山</a>（東京）"
   },
   {
-    "url": "https://coderdojo-ikebukuro.connpass.com/",
-    "name": "池袋",
-    "logo": "https://coderdojo.jp/img/dojos/ikebukuro.webp",
-    "order": "131164",
+    "url": "https://coderdojo-mitaka.connpass.com/",
+    "name": "三鷹",
+    "logo": "https://coderdojo.jp/img/dojos/mitaka.webp",
+    "order": "132047",
     "prefecture": "東京",
-    "linked_text": "<a href='https://coderdojo-ikebukuro.connpass.com/'>池袋</a>（東京）"
-  },
-  {
-    "url": "https://coderdojotachikawa.github.io/",
-    "name": "立川",
-    "logo": "https://coderdojo.jp/img/dojos/tachikawa.webp",
-    "order": "132021",
-    "prefecture": "東京",
-    "linked_text": "<a href='https://coderdojotachikawa.github.io/'>立川</a>（東京）"
+    "linked_text": "<a href='https://coderdojo-mitaka.connpass.com/'>三鷹</a>（東京）"
   },
   {
     "url": "https://coderdojochofu.hatenablog.jp/",
@@ -664,12 +560,28 @@
     "linked_text": "<a href='https://coderdojo-kamakura.github.io/'>鎌倉</a>（神奈川）"
   },
   {
+    "url": "https://coderdojo-isehara.connpass.com",
+    "name": "伊勢原",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "142140",
+    "prefecture": "神奈川",
+    "linked_text": "<a href='https://coderdojo-isehara.connpass.com'>伊勢原</a>（神奈川）"
+  },
+  {
     "url": "https://www.facebook.com/CoderDojoIchinosekiHiraizumi",
     "name": "一関平泉",
     "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
     "order": "032093",
     "prefecture": "岩手",
     "linked_text": "<a href='https://www.facebook.com/CoderDojoIchinosekiHiraizumi'>一関平泉</a>（岩手）"
+  },
+  {
+    "url": "https://home.omegane-pr.com/coderdojo/",
+    "name": "酒々井",
+    "logo": "https://coderdojo.jp/img/dojos/shisui.webp",
+    "order": "122302",
+    "prefecture": "千葉",
+    "linked_text": "<a href='https://home.omegane-pr.com/coderdojo/'>酒々井</a>（千葉）"
   },
   {
     "url": "https://coderdojo.narita-area.com/",
@@ -696,20 +608,36 @@
     "linked_text": "<a href='https://www.facebook.com/coderdojosuehirocho/'>末広町</a>（東京）"
   },
   {
-    "url": "http://coderdojo-tdbb.com/",
-    "name": "高田馬場",
-    "logo": "https://coderdojo.jp/img/dojos/takadanobaba.webp",
-    "order": "131041",
+    "url": "https://coderdojoome.github.io/",
+    "name": "青梅",
+    "logo": "https://coderdojo.jp/img/dojos/ome.webp",
+    "order": "132055",
     "prefecture": "東京",
-    "linked_text": "<a href='http://coderdojo-tdbb.com/'>高田馬場</a>（東京）"
+    "linked_text": "<a href='https://coderdojoome.github.io/'>青梅</a>（東京）"
   },
   {
-    "url": "https://coderdojo-nishishinjuku.connpass.com/",
-    "name": "西新宿",
-    "logo": "https://coderdojo.jp/img/dojos/nishishinjuku.webp",
-    "order": "131041",
+    "url": "https://coderdojo-tamamira.connpass.com/",
+    "name": "昭島",
+    "logo": "https://coderdojo.jp/img/dojos/akishima.webp",
+    "order": "132071",
     "prefecture": "東京",
-    "linked_text": "<a href='https://coderdojo-nishishinjuku.connpass.com/'>西新宿</a>（東京）"
+    "linked_text": "<a href='https://coderdojo-tamamira.connpass.com/'>昭島</a>（東京）"
+  },
+  {
+    "url": "https://toyamanagaejp.wixsite.com/website",
+    "name": "富山",
+    "logo": "https://coderdojo.jp/img/dojos/toyama.webp",
+    "order": "162019",
+    "prefecture": "富山",
+    "linked_text": "<a href='https://toyamanagaejp.wixsite.com/website'>富山</a>（富山）"
+  },
+  {
+    "url": "https://twitter.com/CDNirasaki",
+    "name": "韮崎",
+    "logo": "https://coderdojo.jp/img/dojos/nirasaki.webp",
+    "order": "192074",
+    "prefecture": "山梨",
+    "linked_text": "<a href='https://twitter.com/CDNirasaki'>韮崎</a>（山梨）"
   },
   {
     "url": "https://twitter.com/CoderDojoHokuto",
@@ -718,6 +646,38 @@
     "order": "192091",
     "prefecture": "山梨",
     "linked_text": "<a href='https://twitter.com/CoderDojoHokuto'>北杜</a>（山梨）"
+  },
+  {
+    "url": "https://coderdojo-suginami.github.io/",
+    "name": "すぎなみ",
+    "logo": "https://coderdojo.jp/img/dojos/suginami.webp",
+    "order": "131156",
+    "prefecture": "東京",
+    "linked_text": "<a href='https://coderdojo-suginami.github.io/'>すぎなみ</a>（東京）"
+  },
+  {
+    "url": "https://coderdojo-ikebukuro.connpass.com/",
+    "name": "池袋",
+    "logo": "https://coderdojo.jp/img/dojos/ikebukuro.webp",
+    "order": "131164",
+    "prefecture": "東京",
+    "linked_text": "<a href='https://coderdojo-ikebukuro.connpass.com/'>池袋</a>（東京）"
+  },
+  {
+    "url": "https://coderdojotachikawa.github.io/",
+    "name": "立川",
+    "logo": "https://coderdojo.jp/img/dojos/tachikawa.webp",
+    "order": "132021",
+    "prefecture": "東京",
+    "linked_text": "<a href='https://coderdojotachikawa.github.io/'>立川</a>（東京）"
+  },
+  {
+    "url": "https://coderdojo-tamamira.connpass.com/",
+    "name": "たまみら",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "132021",
+    "prefecture": "東京",
+    "linked_text": "<a href='https://coderdojo-tamamira.connpass.com/'>たまみら</a>（東京）"
   },
   {
     "url": "https://www.facebook.com/CoderDojo%E7%94%B2%E6%96%90%E7%AB%9C%E7%8E%8B-181532029243337/",
@@ -736,12 +696,12 @@
     "linked_text": "<a href='https://pro.form-mailer.jp/lp/2a6ae9f9153606'>松本</a>（長野）"
   },
   {
-    "url": "https://coderdojo-mn.com/",
-    "name": "三島・沼津",
-    "logo": "https://coderdojo.jp/img/dojos/mishima-numazu.webp",
-    "order": "222038",
-    "prefecture": "静岡",
-    "linked_text": "<a href='https://coderdojo-mn.com/'>三島・沼津</a>（静岡）"
+    "url": "https://coderdojofujisawa.hatenablog.com/",
+    "name": "藤沢",
+    "logo": "https://coderdojo.jp/img/dojos/fujisawa.webp",
+    "order": "142051",
+    "prefecture": "神奈川",
+    "linked_text": "<a href='https://coderdojofujisawa.hatenablog.com/'>藤沢</a>（神奈川）"
   },
   {
     "url": "https://coderdojo-chigasaki.blogspot.com/",
@@ -752,6 +712,22 @@
     "linked_text": "<a href='https://coderdojo-chigasaki.blogspot.com/'>茅ヶ崎</a>（神奈川）"
   },
   {
+    "url": "https://coderdojo-chuo-rinkan.connpass.com/",
+    "name": "中央林間",
+    "logo": "https://coderdojo.jp/img/dojos/chuo-rinkan.webp",
+    "order": "142131",
+    "prefecture": "神奈川",
+    "linked_text": "<a href='https://coderdojo-chuo-rinkan.connpass.com/'>中央林間</a>（神奈川）"
+  },
+  {
+    "url": "https://www.facebook.com/coderdojo.kanazawa/",
+    "name": "金沢",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "172014",
+    "prefecture": "石川",
+    "linked_text": "<a href='https://www.facebook.com/coderdojo.kanazawa/'>金沢</a>（石川）"
+  },
+  {
     "url": "https://coderdojo.cowbell.jp/",
     "name": "福井",
     "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
@@ -760,12 +736,12 @@
     "linked_text": "<a href='https://coderdojo.cowbell.jp/'>福井</a>（福井）"
   },
   {
-    "url": "https://coderdojo-chuo-rinkan.connpass.com/",
-    "name": "中央林間",
-    "logo": "https://coderdojo.jp/img/dojos/chuo-rinkan.webp",
-    "order": "142131",
-    "prefecture": "神奈川",
-    "linked_text": "<a href='https://coderdojo-chuo-rinkan.connpass.com/'>中央林間</a>（神奈川）"
+    "url": "https://www.facebook.com/coderdojo.kofu/",
+    "name": "甲府",
+    "logo": "https://coderdojo.jp/img/dojos/kofu.webp",
+    "order": "192015",
+    "prefecture": "山梨",
+    "linked_text": "<a href='https://www.facebook.com/coderdojo.kofu/'>甲府</a>（山梨）"
   },
   {
     "url": "https://www.facebook.com/CoderDojoNiigata/",
@@ -776,12 +752,28 @@
     "linked_text": "<a href='https://www.facebook.com/CoderDojoNiigata/'>新潟西</a>（新潟）"
   },
   {
-    "url": "https://www.facebook.com/coderdojo.kofu/",
-    "name": "甲府",
-    "logo": "https://coderdojo.jp/img/dojos/kofu.webp",
-    "order": "192015",
-    "prefecture": "山梨",
-    "linked_text": "<a href='https://www.facebook.com/coderdojo.kofu/'>甲府</a>（山梨）"
+    "url": "https://coderdojo.shiojiri.fun/",
+    "name": "塩尻",
+    "logo": "https://coderdojo.jp/img/dojos/shiojiri.webp",
+    "order": "202151",
+    "prefecture": "長野",
+    "linked_text": "<a href='https://coderdojo.shiojiri.fun/'>塩尻</a>（長野）"
+  },
+  {
+    "url": "https://www.facebook.com/CoderDojoAzumino/",
+    "name": "安曇野",
+    "logo": "https://coderdojo.jp/img/dojos/azumino.webp",
+    "order": "202207",
+    "prefecture": "長野",
+    "linked_text": "<a href='https://www.facebook.com/CoderDojoAzumino/'>安曇野</a>（長野）"
+  },
+  {
+    "url": "http://tinkerkids.jp/coderdojo.html",
+    "name": "新発田",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "152064",
+    "prefecture": "新潟",
+    "linked_text": "<a href='http://tinkerkids.jp/coderdojo.html'>新発田</a>（新潟）"
   },
   {
     "url": "https://www.facebook.com/CodeDojoUeda/",
@@ -800,14 +792,6 @@
     "linked_text": "<a href='https://www.facebook.com/CoderDojo%E8%AB%8F%E8%A8%AA%E6%B9%96-104207190171589/'>諏訪湖</a>（長野）"
   },
   {
-    "url": "https://www.facebook.com/CoderDojoAzumino/",
-    "name": "安曇野",
-    "logo": "https://coderdojo.jp/img/dojos/azumino.webp",
-    "order": "202207",
-    "prefecture": "長野",
-    "linked_text": "<a href='https://www.facebook.com/CoderDojoAzumino/'>安曇野</a>（長野）"
-  },
-  {
     "url": "https://coderdojo-kaizu.jimdo.com/",
     "name": "海津",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
@@ -816,52 +800,12 @@
     "linked_text": "<a href='https://coderdojo-kaizu.jimdo.com/'>海津</a>（岐阜）"
   },
   {
-    "url": "https://coderdojo-gifu.org/",
-    "name": "岐阜",
-    "logo": "https://coderdojo.jp/img/dojos/gifu.webp",
-    "order": "212016",
-    "prefecture": "岐阜",
-    "linked_text": "<a href='https://coderdojo-gifu.org/'>岐阜</a>（岐阜）"
-  },
-  {
-    "url": "https://hauska-paikka.jp/event/coderdojo/",
-    "name": "一宮",
-    "logo": "https://coderdojo.jp/img/dojos/ichinomiya.webp",
-    "order": "232033",
-    "prefecture": "愛知",
-    "linked_text": "<a href='https://hauska-paikka.jp/event/coderdojo/'>一宮</a>（愛知）"
-  },
-  {
-    "url": "https://coderdojo-seto.github.io/",
-    "name": "瀬戸",
-    "logo": "https://coderdojo.jp/img/dojos/seto.webp",
-    "order": "232041",
-    "prefecture": "愛知",
-    "linked_text": "<a href='https://coderdojo-seto.github.io/'>瀬戸</a>（愛知）"
-  },
-  {
-    "url": "https://www.coderdojo-nishio.com/",
-    "name": "西尾",
+    "url": "https://coderdojo-ina.connpass.com/",
+    "name": "伊那",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "232131",
-    "prefecture": "愛知",
-    "linked_text": "<a href='https://www.coderdojo-nishio.com/'>西尾</a>（愛知）"
-  },
-  {
-    "url": "https://coderdojo-ise.jimdofree.com/",
-    "name": "伊勢",
-    "logo": "https://coderdojo.jp/img/dojos/ise.webp",
-    "order": "242039",
-    "prefecture": "三重",
-    "linked_text": "<a href='https://coderdojo-ise.jimdofree.com/'>伊勢</a>（三重）"
-  },
-  {
-    "url": "https://cd-hisumi.github.io/",
-    "name": "東住吉",
-    "logo": "https://coderdojo.jp/img/dojos/higashi-sumiyoshi.webp",
-    "order": "271217",
-    "prefecture": "大阪",
-    "linked_text": "<a href='https://cd-hisumi.github.io/'>東住吉</a>（大阪）"
+    "order": "202096",
+    "prefecture": "長野",
+    "linked_text": "<a href='https://coderdojo-ina.connpass.com/'>伊那</a>（長野）"
   },
   {
     "url": "https://www.coderdojo-kitakata.com/",
@@ -880,30 +824,6 @@
     "linked_text": "<a href='https://coderdojo-azamino.connpass.com/'>あざみ野</a>（神奈川）"
   },
   {
-    "url": "http://tinkerkids.jp/coderdojo.html",
-    "name": "新発田",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "152064",
-    "prefecture": "新潟",
-    "linked_text": "<a href='http://tinkerkids.jp/coderdojo.html'>新発田</a>（新潟）"
-  },
-  {
-    "url": "https://www.facebook.com/CoderDojoNishiKobe/",
-    "name": "西神戸",
-    "logo": "https://coderdojo.jp/img/dojos/nishi-kobe.webp",
-    "order": "281069",
-    "prefecture": "兵庫",
-    "linked_text": "<a href='https://www.facebook.com/CoderDojoNishiKobe/'>西神戸</a>（兵庫）"
-  },
-  {
-    "url": "https://coderdojofujisawa.hatenablog.com/",
-    "name": "藤沢",
-    "logo": "https://coderdojo.jp/img/dojos/fujisawa.webp",
-    "order": "142051",
-    "prefecture": "神奈川",
-    "linked_text": "<a href='https://coderdojofujisawa.hatenablog.com/'>藤沢</a>（神奈川）"
-  },
-  {
     "url": "https://coderdojo-tonami.org/",
     "name": "となみ",
     "logo": "https://coderdojo.jp/img/dojos/tonami.webp",
@@ -912,28 +832,12 @@
     "linked_text": "<a href='https://coderdojo-tonami.org/'>となみ</a>（富山）"
   },
   {
-    "url": "https://www.facebook.com/coderdojo.kanazawa/",
-    "name": "金沢",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "172014",
-    "prefecture": "石川",
-    "linked_text": "<a href='https://www.facebook.com/coderdojo.kanazawa/'>金沢</a>（石川）"
-  },
-  {
-    "url": "https://coderdojo-ina.connpass.com/",
-    "name": "伊那",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "202096",
-    "prefecture": "長野",
-    "linked_text": "<a href='https://coderdojo-ina.connpass.com/'>伊那</a>（長野）"
-  },
-  {
-    "url": "https://coderdojo.shiojiri.fun/",
-    "name": "塩尻",
-    "logo": "https://coderdojo.jp/img/dojos/shiojiri.webp",
-    "order": "202151",
-    "prefecture": "長野",
-    "linked_text": "<a href='https://coderdojo.shiojiri.fun/'>塩尻</a>（長野）"
+    "url": "https://coderdojo-gifu.org/",
+    "name": "岐阜",
+    "logo": "https://coderdojo.jp/img/dojos/gifu.webp",
+    "order": "212016",
+    "prefecture": "岐阜",
+    "linked_text": "<a href='https://coderdojo-gifu.org/'>岐阜</a>（岐阜）"
   },
   {
     "url": "https://coderdojotono.hatenablog.com/",
@@ -950,22 +854,6 @@
     "order": "221007",
     "prefecture": "静岡",
     "linked_text": "<a href='https://coderdojo-shizuoka.org/'>静岡</a>（静岡）"
-  },
-  {
-    "url": "https://www.facebook.com/coderdojo.toyohashi/",
-    "name": "豊橋",
-    "logo": "https://coderdojo.jp/img/dojos/toyohashi.webp",
-    "order": "232017",
-    "prefecture": "愛知",
-    "linked_text": "<a href='https://www.facebook.com/coderdojo.toyohashi/'>豊橋</a>（愛知）"
-  },
-  {
-    "url": "https://www.facebook.com/CoderDojoHigashiosakaYao/",
-    "name": "八尾",
-    "logo": "https://coderdojo.jp/img/dojos/yao.webp",
-    "order": "272124",
-    "prefecture": "大阪",
-    "linked_text": "<a href='https://www.facebook.com/CoderDojoHigashiosakaYao/'>八尾</a>（大阪）"
   },
   {
     "url": "https://coderdojo-kozukue.connpass.com/",
@@ -998,102 +886,6 @@
     "order": "272108",
     "prefecture": "大阪",
     "linked_text": "<a href='https://coderdojo-hirakata.org'>枚方</a>（大阪）"
-  },
-  {
-    "url": "https://dojo.mosugi.com/",
-    "name": "茨木",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "272116",
-    "prefecture": "大阪",
-    "linked_text": "<a href='https://dojo.mosugi.com/'>茨木</a>（大阪）"
-  },
-  {
-    "url": "https://coderdojo-nada.github.io/",
-    "name": "灘",
-    "logo": "https://coderdojo.jp/img/dojos/nada.webp",
-    "order": "281018",
-    "prefecture": "兵庫",
-    "linked_text": "<a href='https://coderdojo-nada.github.io/'>灘</a>（兵庫）"
-  },
-  {
-    "url": "https://www.facebook.com/coderdojomatsubara/",
-    "name": "松原",
-    "logo": "https://coderdojo.jp/img/dojos/matsubara.webp",
-    "order": "272175",
-    "prefecture": "大阪",
-    "linked_text": "<a href='https://www.facebook.com/coderdojomatsubara/'>松原</a>（大阪）"
-  },
-  {
-    "url": "https://coderdojodaito.mystrikingly.com/",
-    "name": "大東",
-    "logo": "https://coderdojo.jp/img/dojos/daito.webp",
-    "order": "272183",
-    "prefecture": "大阪",
-    "linked_text": "<a href='https://coderdojodaito.mystrikingly.com/'>大東</a>（大阪）"
-  },
-  {
-    "url": "http://www.coderdojo-minoh.org/",
-    "name": "みのお",
-    "logo": "https://coderdojo.jp/img/dojos/minoh.webp",
-    "order": "272205",
-    "prefecture": "大阪",
-    "linked_text": "<a href='http://www.coderdojo-minoh.org/'>みのお</a>（大阪）"
-  },
-  {
-    "url": "https://www.coderdojo-fujiidera-kashiwara.com",
-    "name": "柏原",
-    "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
-    "order": "272213",
-    "prefecture": "大阪",
-    "linked_text": "<a href='https://www.coderdojo-fujiidera-kashiwara.com'>柏原</a>（大阪）"
-  },
-  {
-    "url": "https://www.facebook.com/KitakobeDojo/",
-    "name": "北神戸",
-    "logo": "https://coderdojo.jp/img/dojos/kitakobe.webp",
-    "order": "281093",
-    "prefecture": "兵庫",
-    "linked_text": "<a href='https://www.facebook.com/KitakobeDojo/'>北神戸</a>（兵庫）"
-  },
-  {
-    "url": "https://coderdojokasai.connpass.com/",
-    "name": "加西",
-    "logo": "https://coderdojo.jp/img/dojos/kasai.webp",
-    "order": "282201",
-    "prefecture": "兵庫",
-    "linked_text": "<a href='https://coderdojokasai.connpass.com/'>加西</a>（兵庫）"
-  },
-  {
-    "url": "https://coderdojo-nara-ikoma.github.io/",
-    "name": "奈良",
-    "logo": "https://coderdojo.jp/img/dojos/nara.webp",
-    "order": "292010",
-    "prefecture": "奈良",
-    "linked_text": "<a href='https://coderdojo-nara-ikoma.github.io/'>奈良</a>（奈良）"
-  },
-  {
-    "url": "https://coderdojo-nara-ikoma.github.io/",
-    "name": "生駒",
-    "logo": "https://coderdojo.jp/img/dojos/ikoma.webp",
-    "order": "292095",
-    "prefecture": "奈良",
-    "linked_text": "<a href='https://coderdojo-nara-ikoma.github.io/'>生駒</a>（奈良）"
-  },
-  {
-    "url": "https://www.kokuchpro.com/group/CoderDojo35/",
-    "name": "三郷",
-    "logo": "https://coderdojo.jp/img/dojos/sango.webp",
-    "order": "293431",
-    "prefecture": "奈良",
-    "linked_text": "<a href='https://www.kokuchpro.com/group/CoderDojo35/'>三郷</a>（奈良）"
-  },
-  {
-    "url": "https://coderdojo-nippa.connpass.com/",
-    "name": "新羽",
-    "logo": "https://coderdojo.jp/img/dojos/nippa.webp",
-    "order": "141097",
-    "prefecture": "神奈川",
-    "linked_text": "<a href='https://coderdojo-nippa.connpass.com/'>新羽</a>（神奈川）"
   },
   {
     "url": "https://zen.coderdojo.com/dojos/jp/qi2-fu4-xian4-hui4-na4-shi4-ming2-zhi4-ting3/ena",
@@ -1144,12 +936,60 @@
     "linked_text": "<a href='https://coderdojo-suita.doorkeeper.jp/'>吹田</a>（大阪）"
   },
   {
-    "url": "https://www.facebook.com/CoderDojoHigashiosakaYao/",
-    "name": "東大阪",
-    "logo": "https://coderdojo.jp/img/dojos/higasi-osaka.webp",
-    "order": "272272",
+    "url": "https://coderdojo-nippa.connpass.com/",
+    "name": "新羽",
+    "logo": "https://coderdojo.jp/img/dojos/nippa.webp",
+    "order": "141097",
+    "prefecture": "神奈川",
+    "linked_text": "<a href='https://coderdojo-nippa.connpass.com/'>新羽</a>（神奈川）"
+  },
+  {
+    "url": "https://dojo.mosugi.com/",
+    "name": "茨木",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "272116",
     "prefecture": "大阪",
-    "linked_text": "<a href='https://www.facebook.com/CoderDojoHigashiosakaYao/'>東大阪</a>（大阪）"
+    "linked_text": "<a href='https://dojo.mosugi.com/'>茨木</a>（大阪）"
+  },
+  {
+    "url": "https://www.facebook.com/coderdojomatsubara/",
+    "name": "松原",
+    "logo": "https://coderdojo.jp/img/dojos/matsubara.webp",
+    "order": "272175",
+    "prefecture": "大阪",
+    "linked_text": "<a href='https://www.facebook.com/coderdojomatsubara/'>松原</a>（大阪）"
+  },
+  {
+    "url": "https://coderdojodaito.mystrikingly.com/",
+    "name": "大東",
+    "logo": "https://coderdojo.jp/img/dojos/daito.webp",
+    "order": "272183",
+    "prefecture": "大阪",
+    "linked_text": "<a href='https://coderdojodaito.mystrikingly.com/'>大東</a>（大阪）"
+  },
+  {
+    "url": "https://wakaba.coderdojo.chiba.jp/",
+    "name": "若葉みつわ台",
+    "logo": "https://coderdojo.jp/img/dojos/wakaba-mitsuwadai.webp",
+    "order": "121002",
+    "prefecture": "千葉",
+    "linked_text": "<a href='https://wakaba.coderdojo.chiba.jp/'>若葉みつわ台</a>（千葉）"
+  },
+  {
+    "url": "https://coderdojo-sapporo-east.blogspot.jp/",
+    "name": "札幌東",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "011002",
+    "prefecture": "北海道",
+    "linked_text": "<a href='https://coderdojo-sapporo-east.blogspot.jp/'>札幌東</a>（北海道）"
+  },
+  {
+    "url": "https://coderdojo-eniwa.fathercomputer.com/",
+    "name": "恵庭",
+    "logo": "https://coderdojo.jp/img/dojos/eniwa.webp",
+    "order": "012319",
+    "prefecture": "北海道",
+    "linked_text": "<a href='https://coderdojo-eniwa.fathercomputer.com/'>恵庭</a>（北海道）"
   },
   {
     "url": "https://www.facebook.com/CoderDojoMiyako/",
@@ -1160,20 +1000,60 @@
     "linked_text": "<a href='https://www.facebook.com/CoderDojoMiyako/'>宮古</a>（岩手）"
   },
   {
-    "url": "https://www.facebook.com/CoderDojoKTKM",
-    "name": "きたかみ",
-    "logo": "https://coderdojo.jp/img/dojos/kitakami.webp",
-    "order": "032069",
+    "url": "https://www.facebook.com/CoderDojo%E9%99%B8%E5%89%8D%E9%AB%98%E7%94%B0-1983701135226932/",
+    "name": "陸前高田",
+    "logo": "https://coderdojo.jp/img/dojos/rikuzentakata.webp",
+    "order": "032107",
     "prefecture": "岩手",
-    "linked_text": "<a href='https://www.facebook.com/CoderDojoKTKM'>きたかみ</a>（岩手）"
+    "linked_text": "<a href='https://www.facebook.com/CoderDojo%E9%99%B8%E5%89%8D%E9%AB%98%E7%94%B0-1983701135226932/'>陸前高田</a>（岩手）"
   },
   {
-    "url": "https://coderdojo-mito.com/",
-    "name": "水戸",
-    "logo": "https://coderdojo.jp/img/dojos/mito.webp",
-    "order": "082015",
+    "url": "https://www.facebook.com/CoderdojoIzumi",
+    "name": "泉",
+    "logo": "https://coderdojo.jp/img/dojos/izumi.webp",
+    "order": "041009",
+    "prefecture": "宮城",
+    "linked_text": "<a href='https://www.facebook.com/CoderdojoIzumi'>泉</a>（宮城）"
+  },
+  {
+    "url": "https://www.facebook.com/CoderDojo-Ayashi-277617015979351/",
+    "name": "愛子",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "041009",
+    "prefecture": "宮城",
+    "linked_text": "<a href='https://www.facebook.com/CoderDojo-Ayashi-277617015979351/'>愛子</a>（宮城）"
+  },
+  {
+    "url": "https://www.facebook.com/CoderDojo-Natori-1379707208756830",
+    "name": "名取",
+    "logo": "https://coderdojo.jp/img/dojos/natori.webp",
+    "order": "042072",
+    "prefecture": "宮城",
+    "linked_text": "<a href='https://www.facebook.com/CoderDojo-Natori-1379707208756830'>名取</a>（宮城）"
+  },
+  {
+    "url": "https://www.facebook.com/coderdojo.tome",
+    "name": "登米",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "042129",
+    "prefecture": "宮城",
+    "linked_text": "<a href='https://www.facebook.com/coderdojo.tome'>登米</a>（宮城）"
+  },
+  {
+    "url": "https://coderdojo-ikeda.connpass.com/",
+    "name": "池田石橋",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "272043",
+    "prefecture": "大阪",
+    "linked_text": "<a href='https://coderdojo-ikeda.connpass.com/'>池田石橋</a>（大阪）"
+  },
+  {
+    "url": "https://coderdojotsukuba.web.fc2.com/",
+    "name": "つくば",
+    "logo": "https://coderdojo.jp/img/dojos/tsukuba.webp",
+    "order": "082201",
     "prefecture": "茨城",
-    "linked_text": "<a href='https://coderdojo-mito.com/'>水戸</a>（茨城）"
+    "linked_text": "<a href='https://coderdojotsukuba.web.fc2.com/'>つくば</a>（茨城）"
   },
   {
     "url": "https://vtmacs003b.github.io/maebashi.jp/",
@@ -1182,22 +1062,6 @@
     "order": "102016",
     "prefecture": "群馬",
     "linked_text": "<a href='https://vtmacs003b.github.io/maebashi.jp/'>前橋</a>（群馬）"
-  },
-  {
-    "url": "http://coderdojo-saitama.com/",
-    "name": "さいたま",
-    "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
-    "order": "111007",
-    "prefecture": "埼玉",
-    "linked_text": "<a href='http://coderdojo-saitama.com/'>さいたま</a>（埼玉）"
-  },
-  {
-    "url": "https://www.facebook.com/CoderDojoTokorozawa/",
-    "name": "所沢",
-    "logo": "https://coderdojo.jp/img/dojos/tokorozawa.webp",
-    "order": "112089",
-    "prefecture": "埼玉",
-    "linked_text": "<a href='https://www.facebook.com/CoderDojoTokorozawa/'>所沢</a>（埼玉）"
   },
   {
     "url": "https://coderdojokotesashi.github.io/",
@@ -1224,108 +1088,12 @@
     "linked_text": "<a href='https://coderdojo-todakoen.com/'>戸田公園</a>（埼玉）"
   },
   {
-    "url": "https://coderdojo-ikeda.connpass.com/",
-    "name": "池田石橋",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "272043",
-    "prefecture": "大阪",
-    "linked_text": "<a href='https://coderdojo-ikeda.connpass.com/'>池田石橋</a>（大阪）"
-  },
-  {
-    "url": "https://coderdojotondabayashi.github.io/main/",
-    "name": "富田林",
-    "logo": "https://coderdojo.jp/img/dojos/tondabayashi.webp",
-    "order": "272141",
-    "prefecture": "大阪",
-    "linked_text": "<a href='https://coderdojotondabayashi.github.io/main/'>富田林</a>（大阪）"
-  },
-  {
-    "url": "https://www.coderdojo-fujiidera-kashiwara.com",
-    "name": "藤井寺",
-    "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
-    "order": "272264",
-    "prefecture": "大阪",
-    "linked_text": "<a href='https://www.coderdojo-fujiidera-kashiwara.com'>藤井寺</a>（大阪）"
-  },
-  {
-    "url": "http://coderdojo-sennan.net/",
-    "name": "せんなん",
-    "logo": "https://coderdojo.jp/img/dojos/sennan.webp",
-    "order": "272281",
-    "prefecture": "大阪",
-    "linked_text": "<a href='http://coderdojo-sennan.net/'>せんなん</a>（大阪）"
-  },
-  {
-    "url": "https://www.facebook.com/CoderDojo%E9%99%B8%E5%89%8D%E9%AB%98%E7%94%B0-1983701135226932/",
-    "name": "陸前高田",
-    "logo": "https://coderdojo.jp/img/dojos/rikuzentakata.webp",
-    "order": "032107",
-    "prefecture": "岩手",
-    "linked_text": "<a href='https://www.facebook.com/CoderDojo%E9%99%B8%E5%89%8D%E9%AB%98%E7%94%B0-1983701135226932/'>陸前高田</a>（岩手）"
-  },
-  {
-    "url": "https://www.facebook.com/CoderDojo-Natori-1379707208756830",
-    "name": "名取",
-    "logo": "https://coderdojo.jp/img/dojos/natori.webp",
-    "order": "042072",
-    "prefecture": "宮城",
-    "linked_text": "<a href='https://www.facebook.com/CoderDojo-Natori-1379707208756830'>名取</a>（宮城）"
-  },
-  {
-    "url": "https://www.facebook.com/coderdojo.tome",
-    "name": "登米",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "042129",
-    "prefecture": "宮城",
-    "linked_text": "<a href='https://www.facebook.com/coderdojo.tome'>登米</a>（宮城）"
-  },
-  {
-    "url": "https://www.facebook.com/dojo.miyoshi",
-    "name": "三次",
-    "logo": "https://coderdojo.jp/img/dojos/miyoshi-hiroshima.webp",
-    "order": "342092",
-    "prefecture": "広島",
-    "linked_text": "<a href='https://www.facebook.com/dojo.miyoshi'>三次</a>（広島）"
-  },
-  {
-    "url": "https://coderdojo-hiyoshi.com/",
-    "name": "日吉",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "402036",
-    "prefecture": "福岡",
-    "linked_text": "<a href='https://coderdojo-hiyoshi.com/'>日吉</a>（福岡）"
-  },
-  {
-    "url": "https://www.facebook.com/groups/CoderDojo.Kiyama/about/",
-    "name": "基山",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "413411",
-    "prefecture": "佐賀",
-    "linked_text": "<a href='https://www.facebook.com/groups/CoderDojo.Kiyama/about/'>基山</a>（佐賀）"
-  },
-  {
-    "url": "https://coderdojo-sapporo-east.blogspot.jp/",
-    "name": "札幌東",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "011002",
-    "prefecture": "北海道",
-    "linked_text": "<a href='https://coderdojo-sapporo-east.blogspot.jp/'>札幌東</a>（北海道）"
-  },
-  {
-    "url": "https://www.facebook.com/CoderDojoTakizawa/",
-    "name": "滝沢",
-    "logo": "https://coderdojo.jp/img/dojos/takizawa.webp",
-    "order": "032166",
-    "prefecture": "岩手",
-    "linked_text": "<a href='https://www.facebook.com/CoderDojoTakizawa/'>滝沢</a>（岩手）"
-  },
-  {
-    "url": "https://www.facebook.com/CoderdojoIzumi",
-    "name": "泉",
-    "logo": "https://coderdojo.jp/img/dojos/izumi.webp",
-    "order": "041009",
-    "prefecture": "宮城",
-    "linked_text": "<a href='https://www.facebook.com/CoderdojoIzumi'>泉</a>（宮城）"
+    "url": "https://coderdojo-mito.com/",
+    "name": "水戸",
+    "logo": "https://coderdojo.jp/img/dojos/mito.webp",
+    "order": "082015",
+    "prefecture": "茨城",
+    "linked_text": "<a href='https://coderdojo-mito.com/'>水戸</a>（茨城）"
   },
   {
     "url": "https://www.facebook.com/cd.tatebayashi/",
@@ -1336,60 +1104,12 @@
     "linked_text": "<a href='https://www.facebook.com/cd.tatebayashi/'>館林</a>（群馬）"
   },
   {
-    "url": "https://coderdojo-hikari.com/",
-    "name": "光",
-    "logo": "https://coderdojo.jp/img/dojos/hikari.webp",
-    "order": "352101",
-    "prefecture": "山口",
-    "linked_text": "<a href='https://coderdojo-hikari.com/'>光</a>（山口）"
-  },
-  {
-    "url": "https://coderdojotsukuba.web.fc2.com/",
-    "name": "つくば",
-    "logo": "https://coderdojo.jp/img/dojos/tsukuba.webp",
-    "order": "082201",
-    "prefecture": "茨城",
-    "linked_text": "<a href='https://coderdojotsukuba.web.fc2.com/'>つくば</a>（茨城）"
-  },
-  {
-    "url": "https://twitter.com/CoderdojoNakama",
-    "name": "ナカマ",
-    "logo": "https://coderdojo.jp/img/dojos/nakama.webp",
-    "order": "402150",
-    "prefecture": "福岡",
-    "linked_text": "<a href='https://twitter.com/CoderdojoNakama'>ナカマ</a>（福岡）"
-  },
-  {
-    "url": "https://www.facebook.com/CoderDojo-Ayashi-277617015979351/",
-    "name": "愛子",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "041009",
-    "prefecture": "宮城",
-    "linked_text": "<a href='https://www.facebook.com/CoderDojo-Ayashi-277617015979351/'>愛子</a>（宮城）"
-  },
-  {
-    "url": "https://twitter.com/CoderDojoKasuga",
-    "name": "春日",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "402184",
-    "prefecture": "福岡",
-    "linked_text": "<a href='https://twitter.com/CoderDojoKasuga'>春日</a>（福岡）"
-  },
-  {
-    "url": "https://coderdojo-eniwa.fathercomputer.com/",
-    "name": "恵庭",
-    "logo": "https://coderdojo.jp/img/dojos/eniwa.webp",
-    "order": "012319",
-    "prefecture": "北海道",
-    "linked_text": "<a href='https://coderdojo-eniwa.fathercomputer.com/'>恵庭</a>（北海道）"
-  },
-  {
-    "url": "https://peatix.com/group/10488940/view",
-    "name": "さが",
-    "logo": "https://coderdojo.jp/img/dojos/saga.webp",
-    "order": "412015",
-    "prefecture": "佐賀",
-    "linked_text": "<a href='https://peatix.com/group/10488940/view'>さが</a>（佐賀）"
+    "url": "http://coderdojo-saitama.com/",
+    "name": "さいたま",
+    "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
+    "order": "111007",
+    "prefecture": "埼玉",
+    "linked_text": "<a href='http://coderdojo-saitama.com/'>さいたま</a>（埼玉）"
   },
   {
     "url": "https://chiba.coderdojo.chiba.jp/",
@@ -1400,76 +1120,52 @@
     "linked_text": "<a href='https://chiba.coderdojo.chiba.jp/'>千葉</a>（千葉）"
   },
   {
-    "url": "https://wakaba.coderdojo.chiba.jp/",
-    "name": "若葉みつわ台",
-    "logo": "https://coderdojo.jp/img/dojos/wakaba-mitsuwadai.webp",
-    "order": "121002",
-    "prefecture": "千葉",
-    "linked_text": "<a href='https://wakaba.coderdojo.chiba.jp/'>若葉みつわ台</a>（千葉）"
+    "url": "https://www.facebook.com/CoderDojoTokorozawa/",
+    "name": "所沢",
+    "logo": "https://coderdojo.jp/img/dojos/tokorozawa.webp",
+    "order": "112089",
+    "prefecture": "埼玉",
+    "linked_text": "<a href='https://www.facebook.com/CoderDojoTokorozawa/'>所沢</a>（埼玉）"
   },
   {
-    "url": "https://sites.google.com/site/himejicoderdojo/",
-    "name": "姫路",
-    "logo": "https://coderdojo.jp/img/dojos/himeji.webp",
-    "order": "282014",
-    "prefecture": "兵庫",
-    "linked_text": "<a href='https://sites.google.com/site/himejicoderdojo/'>姫路</a>（兵庫）"
+    "url": "https://www.facebook.com/CoderDojoTakizawa/",
+    "name": "滝沢",
+    "logo": "https://coderdojo.jp/img/dojos/takizawa.webp",
+    "order": "032166",
+    "prefecture": "岩手",
+    "linked_text": "<a href='https://www.facebook.com/CoderDojoTakizawa/'>滝沢</a>（岩手）"
   },
   {
-    "url": "https://coderdojohitachi.amebaownd.com/",
-    "name": "日立",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "082023",
-    "prefecture": "茨城",
-    "linked_text": "<a href='https://coderdojohitachi.amebaownd.com/'>日立</a>（茨城）"
+    "url": "https://www.facebook.com/CoderDojoKTKM",
+    "name": "きたかみ",
+    "logo": "https://coderdojo.jp/img/dojos/kitakami.webp",
+    "order": "032069",
+    "prefecture": "岩手",
+    "linked_text": "<a href='https://www.facebook.com/CoderDojoKTKM'>きたかみ</a>（岩手）"
   },
   {
-    "url": "http://coderdojo-moriya.com/",
-    "name": "守谷",
-    "logo": "https://coderdojo.jp/img/dojos/moriya.webp",
-    "order": "082244",
-    "prefecture": "茨城",
-    "linked_text": "<a href='http://coderdojo-moriya.com/'>守谷</a>（茨城）"
+    "url": "https://coderdojo-mn.com/",
+    "name": "三島・沼津",
+    "logo": "https://coderdojo.jp/img/dojos/mishima-numazu.webp",
+    "order": "222038",
+    "prefecture": "静岡",
+    "linked_text": "<a href='https://coderdojo-mn.com/'>三島・沼津</a>（静岡）"
   },
   {
-    "url": "https://coderdojo-inuyama.rgr.jp/",
-    "name": "犬山",
-    "logo": "https://coderdojo.jp/img/dojos/inuyama.webp",
-    "order": "232157",
+    "url": "https://coderdojo-tempaku.hatenablog.com/",
+    "name": "天白",
+    "logo": "https://coderdojo.jp/img/dojos/tempaku.webp",
+    "order": "231002",
     "prefecture": "愛知",
-    "linked_text": "<a href='https://coderdojo-inuyama.rgr.jp/'>犬山</a>（愛知）"
+    "linked_text": "<a href='https://coderdojo-tempaku.hatenablog.com/'>天白</a>（愛知）"
   },
   {
-    "url": "https://coderdojo-akashi.connpass.com/",
-    "name": "明石",
-    "logo": "https://coderdojo.jp/img/dojos/akashi.webp",
-    "order": "282031",
-    "prefecture": "兵庫",
-    "linked_text": "<a href='https://coderdojo-akashi.connpass.com/'>明石</a>（兵庫）"
-  },
-  {
-    "url": "http://coderdojo-awajishima.info/",
-    "name": "淡路島",
-    "logo": "https://coderdojo.jp/img/dojos/awajishima.webp",
-    "order": "282057",
-    "prefecture": "兵庫",
-    "linked_text": "<a href='http://coderdojo-awajishima.info/'>淡路島</a>（兵庫）"
-  },
-  {
-    "url": "https://coderdojo-sakura.github.io/",
-    "name": "さくら",
-    "logo": "https://coderdojo.jp/img/dojos/sakura.webp",
-    "order": "092142",
-    "prefecture": "栃木",
-    "linked_text": "<a href='https://coderdojo-sakura.github.io/'>さくら</a>（栃木）"
-  },
-  {
-    "url": "https://coderdojo-inazawash.com/",
-    "name": "稲沢正明寺",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "232203",
-    "prefecture": "愛知",
-    "linked_text": "<a href='https://coderdojo-inazawash.com/'>稲沢正明寺</a>（愛知）"
+    "url": "https://coderdojo-tokyo.connpass.com/",
+    "name": "下北沢",
+    "logo": "https://coderdojo.jp/img/dojos/shimokitazawa.webp",
+    "order": "131121",
+    "prefecture": "東京",
+    "linked_text": "<a href='https://coderdojo-tokyo.connpass.com/'>下北沢</a>（東京）"
   },
   {
     "url": "https://www.facebook.com/coderdojo.shinshiro/",
@@ -1488,68 +1184,12 @@
     "linked_text": "<a href='https://coderdojoowari.org/'>尾張</a>（愛知）"
   },
   {
-    "url": "https://coderdojo-nisshin.connpass.com/",
-    "name": "日進",
-    "logo": "https://coderdojo.jp/img/dojos/nisshin.webp",
-    "order": "232301",
-    "prefecture": "愛知",
-    "linked_text": "<a href='https://coderdojo-nisshin.connpass.com/'>日進</a>（愛知）"
-  },
-  {
-    "url": "https://twitter.com/CoderDojoSikatu",
-    "name": "師勝",
-    "logo": "https://coderdojo.jp/img/dojos/shikatsu.webp",
-    "order": "232343",
-    "prefecture": "愛知",
-    "linked_text": "<a href='https://twitter.com/CoderDojoSikatu'>師勝</a>（愛知）"
-  },
-  {
-    "url": "https://coderdojo-tamachi.connpass.com/",
-    "name": "たまち",
-    "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
-    "order": "131032",
-    "prefecture": "東京",
-    "linked_text": "<a href='https://coderdojo-tamachi.connpass.com/'>たまち</a>（東京）"
-  },
-  {
-    "url": "https://www.facebook.com/groups/295361057723820/",
-    "name": "五反田",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "131091",
-    "prefecture": "東京",
-    "linked_text": "<a href='https://www.facebook.com/groups/295361057723820/'>五反田</a>（東京）"
-  },
-  {
-    "url": "https://coderdojo-tokyo.connpass.com/",
-    "name": "下北沢",
-    "logo": "https://coderdojo.jp/img/dojos/shimokitazawa.webp",
-    "order": "131121",
-    "prefecture": "東京",
-    "linked_text": "<a href='https://coderdojo-tokyo.connpass.com/'>下北沢</a>（東京）"
-  },
-  {
     "url": "https://coderdojo-morooka.connpass.com",
     "name": "横浜師岡",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "141097",
     "prefecture": "神奈川",
     "linked_text": "<a href='https://coderdojo-morooka.connpass.com'>横浜師岡</a>（神奈川）"
-  },
-  {
-    "url": "https://coderdojo-oharu.connpass.com/",
-    "name": "大治",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "234249",
-    "prefecture": "愛知",
-    "linked_text": "<a href='https://coderdojo-oharu.connpass.com/'>大治</a>（愛知）"
-  },
-  {
-    "url": "https://coderdojo-otsu.connpass.com",
-    "name": "大津",
-    "logo": "https://coderdojo.jp/img/dojos/otsu.webp",
-    "order": "252018",
-    "prefecture": "滋賀",
-    "linked_text": "<a href='https://coderdojo-otsu.connpass.com'>大津</a>（滋賀）"
   },
   {
     "url": "https://coderdojo-ebina.connpass.com/",
@@ -1568,20 +1208,52 @@
     "linked_text": "<a href='https://coderdojo-atsugi.connpass.com/'>厚木</a>（神奈川）"
   },
   {
-    "url": "https://www.facebook.com/coderdojo.nishinari.osaka/",
-    "name": "西成",
-    "logo": "https://coderdojo.jp/img/dojos/nishinari.webp",
-    "order": "271004",
-    "prefecture": "大阪",
-    "linked_text": "<a href='https://www.facebook.com/coderdojo.nishinari.osaka/'>西成</a>（大阪）"
+    "url": "https://coderdojohitachi.amebaownd.com/",
+    "name": "日立",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "082023",
+    "prefecture": "茨城",
+    "linked_text": "<a href='https://coderdojohitachi.amebaownd.com/'>日立</a>（茨城）"
   },
   {
-    "url": "https://www.facebook.com/profile.php?id=100087493006122",
-    "name": "八尾@yotteco",
-    "logo": "https://coderdojo.jp/img/dojos/yao-yotteco.webp",
-    "order": "272124",
-    "prefecture": "大阪",
-    "linked_text": "<a href='https://www.facebook.com/profile.php?id=100087493006122'>八尾@yotteco</a>（大阪）"
+    "url": "https://www.facebook.com/coderdojo.toyohashi/",
+    "name": "豊橋",
+    "logo": "https://coderdojo.jp/img/dojos/toyohashi.webp",
+    "order": "232017",
+    "prefecture": "愛知",
+    "linked_text": "<a href='https://www.facebook.com/coderdojo.toyohashi/'>豊橋</a>（愛知）"
+  },
+  {
+    "url": "https://hauska-paikka.jp/event/coderdojo/",
+    "name": "一宮",
+    "logo": "https://coderdojo.jp/img/dojos/ichinomiya.webp",
+    "order": "232033",
+    "prefecture": "愛知",
+    "linked_text": "<a href='https://hauska-paikka.jp/event/coderdojo/'>一宮</a>（愛知）"
+  },
+  {
+    "url": "http://coderdojo-moriya.com/",
+    "name": "守谷",
+    "logo": "https://coderdojo.jp/img/dojos/moriya.webp",
+    "order": "082244",
+    "prefecture": "茨城",
+    "linked_text": "<a href='http://coderdojo-moriya.com/'>守谷</a>（茨城）"
+  },
+  {
+    "url": "https://coderdojo-seto.github.io/",
+    "name": "瀬戸",
+    "logo": "https://coderdojo.jp/img/dojos/seto.webp",
+    "order": "232041",
+    "prefecture": "愛知",
+    "linked_text": "<a href='https://coderdojo-seto.github.io/'>瀬戸</a>（愛知）"
+  },
+  {
+    "url": "https://coderdojo-sakura.github.io/",
+    "name": "さくら",
+    "logo": "https://coderdojo.jp/img/dojos/sakura.webp",
+    "order": "092142",
+    "prefecture": "栃木",
+    "linked_text": "<a href='https://coderdojo-sakura.github.io/'>さくら</a>（栃木）"
   },
   {
     "url": "https://sites.google.com/coderdojo.com/anjo/",
@@ -1592,12 +1264,76 @@
     "linked_text": "<a href='https://sites.google.com/coderdojo.com/anjo/'>安城</a>（愛知）"
   },
   {
-    "url": "https://coderdojo-nihonmatsu.com/",
-    "name": "二本松",
-    "logo": "https://coderdojo.jp/img/dojos/nihonmatsu.webp",
-    "order": "072109",
-    "prefecture": "福島",
-    "linked_text": "<a href='https://coderdojo-nihonmatsu.com/'>二本松</a>（福島）"
+    "url": "https://www.coderdojo-nishio.com/",
+    "name": "西尾",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "232131",
+    "prefecture": "愛知",
+    "linked_text": "<a href='https://www.coderdojo-nishio.com/'>西尾</a>（愛知）"
+  },
+  {
+    "url": "https://coderdojo-tamachi.connpass.com/",
+    "name": "たまち",
+    "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
+    "order": "131032",
+    "prefecture": "東京",
+    "linked_text": "<a href='https://coderdojo-tamachi.connpass.com/'>たまち</a>（東京）"
+  },
+  {
+    "url": "https://www.facebook.com/groups/295361057723820/",
+    "name": "五反田",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "131091",
+    "prefecture": "東京",
+    "linked_text": "<a href='https://www.facebook.com/groups/295361057723820/'>五反田</a>（東京）"
+  },
+  {
+    "url": "https://coderdojo-inuyama.rgr.jp/",
+    "name": "犬山",
+    "logo": "https://coderdojo.jp/img/dojos/inuyama.webp",
+    "order": "232157",
+    "prefecture": "愛知",
+    "linked_text": "<a href='https://coderdojo-inuyama.rgr.jp/'>犬山</a>（愛知）"
+  },
+  {
+    "url": "https://coderdojo-nisshin.connpass.com/",
+    "name": "日進",
+    "logo": "https://coderdojo.jp/img/dojos/nisshin.webp",
+    "order": "232301",
+    "prefecture": "愛知",
+    "linked_text": "<a href='https://coderdojo-nisshin.connpass.com/'>日進</a>（愛知）"
+  },
+  {
+    "url": "https://twitter.com/CoderDojoSikatu",
+    "name": "師勝",
+    "logo": "https://coderdojo.jp/img/dojos/shikatsu.webp",
+    "order": "232343",
+    "prefecture": "愛知",
+    "linked_text": "<a href='https://twitter.com/CoderDojoSikatu'>師勝</a>（愛知）"
+  },
+  {
+    "url": "https://coderdojo-inazawash.com/",
+    "name": "稲沢正明寺",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "232203",
+    "prefecture": "愛知",
+    "linked_text": "<a href='https://coderdojo-inazawash.com/'>稲沢正明寺</a>（愛知）"
+  },
+  {
+    "url": "https://coderdojo-oharu.connpass.com/",
+    "name": "大治",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "234249",
+    "prefecture": "愛知",
+    "linked_text": "<a href='https://coderdojo-oharu.connpass.com/'>大治</a>（愛知）"
+  },
+  {
+    "url": "https://coderdojo-ise.jimdofree.com/",
+    "name": "伊勢",
+    "logo": "https://coderdojo.jp/img/dojos/ise.webp",
+    "order": "242039",
+    "prefecture": "三重",
+    "linked_text": "<a href='https://coderdojo-ise.jimdofree.com/'>伊勢</a>（三重）"
   },
   {
     "url": "https://www.facebook.com/CoderDojoYokkaichi/",
@@ -1608,12 +1344,20 @@
     "linked_text": "<a href='https://www.facebook.com/CoderDojoYokkaichi/'>四日市</a>（三重）"
   },
   {
-    "url": "http://cdkf.ninja/",
-    "name": "京都伏見",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "261009",
-    "prefecture": "京都",
-    "linked_text": "<a href='http://cdkf.ninja/'>京都伏見</a>（京都）"
+    "url": "https://coderdojo-otsu.connpass.com",
+    "name": "大津",
+    "logo": "https://coderdojo.jp/img/dojos/otsu.webp",
+    "order": "252018",
+    "prefecture": "滋賀",
+    "linked_text": "<a href='https://coderdojo-otsu.connpass.com'>大津</a>（滋賀）"
+  },
+  {
+    "url": "https://coderdojo-nihonmatsu.com/",
+    "name": "二本松",
+    "logo": "https://coderdojo.jp/img/dojos/nihonmatsu.webp",
+    "order": "072109",
+    "prefecture": "福島",
+    "linked_text": "<a href='https://coderdojo-nihonmatsu.com/'>二本松</a>（福島）"
   },
   {
     "url": "https://www.facebook.com/CoderDojo%E4%B8%89%E3%81%AE%E4%B8%B8-2325334674450862/",
@@ -1624,68 +1368,12 @@
     "linked_text": "<a href='https://www.facebook.com/CoderDojo%E4%B8%89%E3%81%AE%E4%B8%B8-2325334674450862/'>三の丸</a>（茨城）"
   },
   {
-    "url": "https://www.coderdojo-fujiidera-kashiwara.com",
-    "name": "藤井寺・柏原",
-    "logo": "https://coderdojo.jp/img/dojos/fujiidera-kashiwara.webp",
-    "order": "272264",
-    "prefecture": "大阪",
-    "linked_text": "<a href='https://www.coderdojo-fujiidera-kashiwara.com'>藤井寺・柏原</a>（大阪）"
-  },
-  {
-    "url": "https://www.facebook.com/CoderDojoTottori/",
-    "name": "鳥取",
-    "logo": "https://coderdojo.jp/img/dojos/tottori.webp",
-    "order": "312011",
-    "prefecture": "鳥取",
-    "linked_text": "<a href='https://www.facebook.com/CoderDojoTottori/'>鳥取</a>（鳥取）"
-  },
-  {
-    "url": "http://www.coderdojo-yoshika.com/",
-    "name": "吉賀",
-    "logo": "https://coderdojo.jp/img/dojos/yoshika.webp",
-    "order": "325058",
-    "prefecture": "島根",
-    "linked_text": "<a href='http://www.coderdojo-yoshika.com/'>吉賀</a>（島根）"
-  },
-  {
-    "url": "https://coderdojoshiun.wordpress.com/",
-    "name": "紫雲",
-    "logo": "https://coderdojo.jp/img/dojos/shiun.webp",
-    "order": "372013",
-    "prefecture": "香川",
-    "linked_text": "<a href='https://coderdojoshiun.wordpress.com/'>紫雲</a>（香川）"
-  },
-  {
     "url": "https://www.facebook.com/CoderDojo%E3%81%8A%E3%81%8A%E3%81%9F%E3%82%8F%E3%82%89-190082468144048/",
     "name": "おおたわら",
     "logo": "https://coderdojo.jp/img/dojos/otawara.webp",
     "order": "092100",
     "prefecture": "栃木",
     "linked_text": "<a href='https://www.facebook.com/CoderDojo%E3%81%8A%E3%81%8A%E3%81%9F%E3%82%8F%E3%82%89-190082468144048/'>おおたわら</a>（栃木）"
-  },
-  {
-    "url": "https://coderdojo-kyoto-shijo.doorkeeper.jp/",
-    "name": "京都四条",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "261009",
-    "prefecture": "京都",
-    "linked_text": "<a href='https://coderdojo-kyoto-shijo.doorkeeper.jp/'>京都四条</a>（京都）"
-  },
-  {
-    "url": "https://coderdojo-nagaokakyo.doorkeeper.jp/",
-    "name": "長岡京",
-    "logo": "https://coderdojo.jp/img/dojos/nagaokakyo.webp",
-    "order": "261009",
-    "prefecture": "京都",
-    "linked_text": "<a href='https://coderdojo-nagaokakyo.doorkeeper.jp/'>長岡京</a>（京都）"
-  },
-  {
-    "url": "https://coderdojo-uji.blogspot.com/",
-    "name": "宇治",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "262048",
-    "prefecture": "京都",
-    "linked_text": "<a href='https://coderdojo-uji.blogspot.com/'>宇治</a>（京都）"
   },
   {
     "url": "https://coderdojo.hanare-hibari.info/",
@@ -1704,30 +1392,6 @@
     "linked_text": "<a href='https://coderdojo-kamoi.connpass.com/'>鴨居</a>（神奈川）"
   },
   {
-    "url": "https://www.techtan.net/",
-    "name": "京丹後",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "262129",
-    "prefecture": "京都",
-    "linked_text": "<a href='https://www.techtan.net/'>京丹後</a>（京都）"
-  },
-  {
-    "url": "https://sites.google.com/coderdojo.com/kishiwada/",
-    "name": "岸和田",
-    "logo": "https://coderdojo.jp/img/dojos/kishiwada.webp",
-    "order": "272027",
-    "prefecture": "大阪",
-    "linked_text": "<a href='https://sites.google.com/coderdojo.com/kishiwada/'>岸和田</a>（大阪）"
-  },
-  {
-    "url": "https://coderdojo-kohokunt.connpass.com/",
-    "name": "港北NT",
-    "logo": "https://coderdojo.jp/img/dojos/kohoku-nt.webp",
-    "order": "141186",
-    "prefecture": "神奈川",
-    "linked_text": "<a href='https://coderdojo-kohokunt.connpass.com/'>港北NT</a>（神奈川）"
-  },
-  {
     "url": "https://coderdojo-sapporo.jp/",
     "name": "札幌",
     "logo": "https://coderdojo.jp/img/dojos/sapporo.webp",
@@ -1736,12 +1400,20 @@
     "linked_text": "<a href='https://coderdojo-sapporo.jp/'>札幌</a>（北海道）"
   },
   {
-    "url": "https://coderdojo-obu.connpass.com/",
-    "name": "大府",
-    "logo": "https://coderdojo.jp/img/dojos/obu.webp",
-    "order": "232238",
-    "prefecture": "愛知",
-    "linked_text": "<a href='https://coderdojo-obu.connpass.com/'>大府</a>（愛知）"
+    "url": "http://cdkf.ninja/",
+    "name": "京都伏見",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "261009",
+    "prefecture": "京都",
+    "linked_text": "<a href='http://cdkf.ninja/'>京都伏見</a>（京都）"
+  },
+  {
+    "url": "https://coderdojo-kyoto-shijo.doorkeeper.jp/",
+    "name": "京都四条",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "261009",
+    "prefecture": "京都",
+    "linked_text": "<a href='https://coderdojo-kyoto-shijo.doorkeeper.jp/'>京都四条</a>（京都）"
   },
   {
     "url": "https://www.npokuru2.net/coderdojo%E5%AE%A4%E8%98%AD",
@@ -1760,12 +1432,44 @@
     "linked_text": "<a href='https://coderdojo-hachinohe.aomori.jp/'>八戸@吹上</a>（青森）"
   },
   {
-    "url": "https://coderdojo-nishinomiya.info/",
-    "name": "西宮・梅田",
-    "logo": "https://coderdojo.jp/img/dojos/nishinomiya.webp",
-    "order": "271004",
-    "prefecture": "大阪",
-    "linked_text": "<a href='https://coderdojo-nishinomiya.info/'>西宮・梅田</a>（大阪）"
+    "url": "https://coderdojo-kohokunt.connpass.com/",
+    "name": "港北NT",
+    "logo": "https://coderdojo.jp/img/dojos/kohoku-nt.webp",
+    "order": "141186",
+    "prefecture": "神奈川",
+    "linked_text": "<a href='https://coderdojo-kohokunt.connpass.com/'>港北NT</a>（神奈川）"
+  },
+  {
+    "url": "https://coderdojo-nagaokakyo.doorkeeper.jp/",
+    "name": "長岡京",
+    "logo": "https://coderdojo.jp/img/dojos/nagaokakyo.webp",
+    "order": "261009",
+    "prefecture": "京都",
+    "linked_text": "<a href='https://coderdojo-nagaokakyo.doorkeeper.jp/'>長岡京</a>（京都）"
+  },
+  {
+    "url": "https://coderdojo-uji.blogspot.com/",
+    "name": "宇治",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "262048",
+    "prefecture": "京都",
+    "linked_text": "<a href='https://coderdojo-uji.blogspot.com/'>宇治</a>（京都）"
+  },
+  {
+    "url": "https://coderdojo-obu.connpass.com/",
+    "name": "大府",
+    "logo": "https://coderdojo.jp/img/dojos/obu.webp",
+    "order": "232238",
+    "prefecture": "愛知",
+    "linked_text": "<a href='https://coderdojo-obu.connpass.com/'>大府</a>（愛知）"
+  },
+  {
+    "url": "https://www.techtan.net/",
+    "name": "京丹後",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "262129",
+    "prefecture": "京都",
+    "linked_text": "<a href='https://www.techtan.net/'>京丹後</a>（京都）"
   },
   {
     "url": "https://www.facebook.com/DojoPcc/",
@@ -1776,20 +1480,28 @@
     "linked_text": "<a href='https://www.facebook.com/DojoPcc/'>大石田@PCチャレンジ倶楽部</a>（山形）"
   },
   {
-    "url": "https://iwapro.connpass.com/",
-    "name": "大田・邑南、他",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "320005",
-    "prefecture": "島根",
-    "linked_text": "<a href='https://iwapro.connpass.com/'>大田・邑南、他</a>（島根）"
+    "url": "https://sites.google.com/coderdojo.com/kishiwada/",
+    "name": "岸和田",
+    "logo": "https://coderdojo.jp/img/dojos/kishiwada.webp",
+    "order": "272027",
+    "prefecture": "大阪",
+    "linked_text": "<a href='https://sites.google.com/coderdojo.com/kishiwada/'>岸和田</a>（大阪）"
   },
   {
-    "url": "https://www.facebook.com/coderdojo.kamiyacho/",
-    "name": "紙屋町",
-    "logo": "https://coderdojo.jp/img/dojos/hiroshima.webp",
-    "order": "341002",
-    "prefecture": "広島",
-    "linked_text": "<a href='https://www.facebook.com/coderdojo.kamiyacho/'>紙屋町</a>（広島）"
+    "url": "https://coderdojo-nishinomiya.info/",
+    "name": "西宮・梅田",
+    "logo": "https://coderdojo.jp/img/dojos/nishinomiya.webp",
+    "order": "271004",
+    "prefecture": "大阪",
+    "linked_text": "<a href='https://coderdojo-nishinomiya.info/'>西宮・梅田</a>（大阪）"
+  },
+  {
+    "url": "https://www.facebook.com/coderdojo.nishinari.osaka/",
+    "name": "西成",
+    "logo": "https://coderdojo.jp/img/dojos/nishinari.webp",
+    "order": "271004",
+    "prefecture": "大阪",
+    "linked_text": "<a href='https://www.facebook.com/coderdojo.nishinari.osaka/'>西成</a>（大阪）"
   },
   {
     "url": "https://coderdojo-yachiyo.connpass.com/",
@@ -1800,204 +1512,12 @@
     "linked_text": "<a href='https://coderdojo-yachiyo.connpass.com/'>八千代</a>（千葉）"
   },
   {
-    "url": "https://coderdojo-toyonaka.hatenablog.jp/",
-    "name": "とよなか",
-    "logo": "https://coderdojo.jp/img/dojos/toyonaka.webp",
-    "order": "272035",
-    "prefecture": "大阪",
-    "linked_text": "<a href='https://coderdojo-toyonaka.hatenablog.jp/'>とよなか</a>（大阪）"
-  },
-  {
-    "url": "https://zen.coderdojo.com/dojos/jp/nai4-liang2-xian4-sheng1-ju1-jun4-sheng1-ju1-jun4/horyujinararohasuraiburar",
-    "name": "法隆寺",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "292095",
-    "prefecture": "奈良",
-    "linked_text": "<a href='https://zen.coderdojo.com/dojos/jp/nai4-liang2-xian4-sheng1-ju1-jun4-sheng1-ju1-jun4/horyujinararohasuraiburar'>法隆寺</a>（奈良）"
-  },
-  {
-    "url": "https://www.facebook.com/coderdojo.wakayama/",
-    "name": "和歌山",
-    "logo": "https://coderdojo.jp/img/dojos/wakayama.webp",
-    "order": "302015",
-    "prefecture": "和歌山",
-    "linked_text": "<a href='https://www.facebook.com/coderdojo.wakayama/'>和歌山</a>（和歌山）"
-  },
-  {
-    "url": "https://zen.coderdojo.com/dojos/jp/ren2-mo2-ting3/iwami-takuno",
-    "name": "石見@Takuno",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "322059",
-    "prefecture": "島根",
-    "linked_text": "<a href='https://zen.coderdojo.com/dojos/jp/ren2-mo2-ting3/iwami-takuno'>石見@Takuno</a>（島根）"
-  },
-  {
-    "url": "https://coderdojo-tsuwano.doorkeeper.jp/",
-    "name": "津和野",
-    "logo": "https://coderdojo.jp/img/dojos/tsuwano.webp",
-    "order": "325015",
-    "prefecture": "島根",
-    "linked_text": "<a href='https://coderdojo-tsuwano.doorkeeper.jp/'>津和野</a>（島根）"
-  },
-  {
-    "url": "https://www.coderdojo-konan.jp/",
-    "name": "岡南",
-    "logo": "https://coderdojo.jp/img/dojos/okayama.webp",
-    "order": "331007",
-    "prefecture": "岡山",
-    "linked_text": "<a href='https://www.coderdojo-konan.jp/'>岡南</a>（岡山）"
-  },
-  {
-    "url": "https://www.facebook.com/coderdojo.motoyama/",
-    "name": "本山",
-    "logo": "https://coderdojo.jp/img/dojos/motoyama.webp",
-    "order": "372081",
-    "prefecture": "香川",
-    "linked_text": "<a href='https://www.facebook.com/coderdojo.motoyama/'>本山</a>（香川）"
-  },
-  {
-    "url": "https://coderdojo-nanki-tanabe.jimdo.com/",
-    "name": "南紀田辺",
-    "logo": "https://coderdojo.jp/img/dojos/nanki-tanabe.webp",
-    "order": "302066",
-    "prefecture": "和歌山",
-    "linked_text": "<a href='https://coderdojo-nanki-tanabe.jimdo.com/'>南紀田辺</a>（和歌山）"
-  },
-  {
-    "url": "https://coderdojo-iyo.com/",
-    "name": "伊予",
-    "logo": "https://coderdojo.jp/img/dojos/iyo.webp",
-    "order": "382108",
-    "prefecture": "愛媛",
-    "linked_text": "<a href='https://coderdojo-iyo.com/'>伊予</a>（愛媛）"
-  },
-  {
-    "url": "https://www.facebook.com/CoderDojoKurume/",
-    "name": "久留米",
-    "logo": "https://coderdojo.jp/img/dojos/kurume.webp",
-    "order": "402036",
-    "prefecture": "福岡",
-    "linked_text": "<a href='https://www.facebook.com/CoderDojoKurume/'>久留米</a>（福岡）"
-  },
-  {
-    "url": "https://coderdojo-ashiya.org/",
-    "name": "あしや",
-    "logo": "https://coderdojo.jp/img/dojos/ashiya.webp",
-    "order": "282065",
-    "prefecture": "兵庫",
-    "linked_text": "<a href='https://coderdojo-ashiya.org/'>あしや</a>（兵庫）"
-  },
-  {
-    "url": "https://coderdojokitaq.connpass.com/",
-    "name": "北九州",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "401005",
-    "prefecture": "福岡",
-    "linked_text": "<a href='https://coderdojokitaq.connpass.com/'>北九州</a>（福岡）"
-  },
-  {
-    "url": "https://volunteer-r.connpass.com/",
-    "name": "調布@電気通信大学",
-    "logo": "https://coderdojo.jp/img/dojos/chofu-uec.webp",
-    "order": "132080",
-    "prefecture": "東京",
-    "linked_text": "<a href='https://volunteer-r.connpass.com/'>調布@電気通信大学</a>（東京）"
-  },
-  {
-    "url": "https://coderdojo-asuka.github.io/",
-    "name": "明日香",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "293636",
-    "prefecture": "奈良",
-    "linked_text": "<a href='https://coderdojo-asuka.github.io/'>明日香</a>（奈良）"
-  },
-  {
-    "url": "https://www.facebook.com/coderdojo.kumano",
-    "name": "熊野",
-    "logo": "https://coderdojo.jp/img/dojos/kumano.webp",
-    "order": "302074",
-    "prefecture": "和歌山",
-    "linked_text": "<a href='https://www.facebook.com/coderdojo.kumano'>熊野</a>（和歌山）"
-  },
-  {
-    "url": "https://coderdojohamada.connpass.com/",
-    "name": "浜田",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "320225",
-    "prefecture": "島根",
-    "linked_text": "<a href='https://coderdojohamada.connpass.com/'>浜田</a>（島根）"
-  },
-  {
-    "url": "https://coderdojo-matsuyama.doorkeeper.jp/",
-    "name": "松山",
-    "logo": "https://coderdojo.jp/img/dojos/matsuyama.webp",
-    "order": "382019",
-    "prefecture": "愛媛",
-    "linked_text": "<a href='https://coderdojo-matsuyama.doorkeeper.jp/'>松山</a>（愛媛）"
-  },
-  {
     "url": "https://coderdojo-machida.connpass.com/",
     "name": "まちだ",
     "logo": "https://coderdojo.jp/img/dojos/machida.webp",
     "order": "132098",
     "prefecture": "東京",
     "linked_text": "<a href='https://coderdojo-machida.connpass.com/'>まちだ</a>（東京）"
-  },
-  {
-    "url": "https://coderdojo-miki.connpass.com/",
-    "name": "みき",
-    "logo": "https://coderdojo.jp/img/dojos/miki.webp",
-    "order": "282154",
-    "prefecture": "兵庫",
-    "linked_text": "<a href='https://coderdojo-miki.connpass.com/'>みき</a>（兵庫）"
-  },
-  {
-    "url": "https://coderdojokibi.connpass.com/",
-    "name": "吉備",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "331015",
-    "prefecture": "岡山",
-    "linked_text": "<a href='https://coderdojokibi.connpass.com/'>吉備</a>（岡山）"
-  },
-  {
-    "url": "https://peraichi.com/landing_pages/view/coderdojo",
-    "name": "ももち",
-    "logo": "https://coderdojo.jp/img/dojos/momochi.webp",
-    "order": "401307",
-    "prefecture": "福岡",
-    "linked_text": "<a href='https://peraichi.com/landing_pages/view/coderdojo'>ももち</a>（福岡）"
-  },
-  {
-    "url": "https://coderdojo-tawaramoto.github.io/",
-    "name": "田原本",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "293636",
-    "prefecture": "奈良",
-    "linked_text": "<a href='https://coderdojo-tawaramoto.github.io/'>田原本</a>（奈良）"
-  },
-  {
-    "url": "https://www.facebook.com/Coderdojo.daisen/",
-    "name": "大山",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "313866",
-    "prefecture": "鳥取",
-    "linked_text": "<a href='https://www.facebook.com/Coderdojo.daisen/'>大山</a>（鳥取）"
-  },
-  {
-    "url": "https://cd-kurashiki.connpass.com",
-    "name": "倉敷",
-    "logo": "https://coderdojo.jp/img/dojos/kurashiki.webp",
-    "order": "332020",
-    "prefecture": "岡山",
-    "linked_text": "<a href='https://cd-kurashiki.connpass.com'>倉敷</a>（岡山）"
-  },
-  {
-    "url": "https://coderdojo-kashii.connpass.com/",
-    "name": "香椎",
-    "logo": "https://coderdojo.jp/img/dojos/kashii.webp",
-    "order": "401307",
-    "prefecture": "福岡",
-    "linked_text": "<a href='https://coderdojo-kashii.connpass.com/'>香椎</a>（福岡）"
   },
   {
     "url": "https://www.facebook.com/coderdojoinagawa/",
@@ -2008,92 +1528,60 @@
     "linked_text": "<a href='https://www.facebook.com/coderdojoinagawa/'>猪名川</a>（兵庫）"
   },
   {
-    "url": "https://coderdojokamiyama.netlify.app/",
-    "name": "神山",
-    "logo": "https://coderdojo.jp/img/dojos/kamiyama.webp",
-    "order": "363421",
-    "prefecture": "徳島",
-    "linked_text": "<a href='https://coderdojokamiyama.netlify.app/'>神山</a>（徳島）"
+    "url": "https://coderdojo-toyonaka.hatenablog.jp/",
+    "name": "とよなか",
+    "logo": "https://coderdojo.jp/img/dojos/toyonaka.webp",
+    "order": "272035",
+    "prefecture": "大阪",
+    "linked_text": "<a href='https://coderdojo-toyonaka.hatenablog.jp/'>とよなか</a>（大阪）"
   },
   {
-    "url": "https://www.facebook.com/coderdojo.fukuoka.kurume.suwano/",
-    "name": "諏訪野＠ギャランドゥ",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "402036",
-    "prefecture": "福岡",
-    "linked_text": "<a href='https://www.facebook.com/coderdojo.fukuoka.kurume.suwano/'>諏訪野＠ギャランドゥ</a>（福岡）"
-  },
-  {
-    "url": "http://www.coderdojo-urasoe.com/",
-    "name": "浦添",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "472085",
-    "prefecture": "沖縄",
-    "linked_text": "<a href='http://www.coderdojo-urasoe.com/'>浦添</a>（沖縄）"
-  },
-  {
-    "url": "https://www.facebook.com/CoderDojoKOZA",
-    "name": "コザ",
-    "logo": "https://coderdojo.jp/img/dojos/koza.webp",
-    "order": "472115",
-    "prefecture": "沖縄",
-    "linked_text": "<a href='https://www.facebook.com/CoderDojoKOZA'>コザ</a>（沖縄）"
-  },
-  {
-    "url": "https://coderdojo-tamacent.wixsite.com/main",
-    "name": "多摩センター",
-    "logo": "https://coderdojo.jp/img/dojos/tama-center.webp",
-    "order": "132241",
+    "url": "https://volunteer-r.connpass.com/",
+    "name": "調布@電気通信大学",
+    "logo": "https://coderdojo.jp/img/dojos/chofu-uec.webp",
+    "order": "132080",
     "prefecture": "東京",
-    "linked_text": "<a href='https://coderdojo-tamacent.wixsite.com/main'>多摩センター</a>（東京）"
+    "linked_text": "<a href='https://volunteer-r.connpass.com/'>調布@電気通信大学</a>（東京）"
   },
   {
-    "url": "https://xn--coderdojo-ef6q138l.jp/",
-    "name": "津山",
-    "logo": "https://coderdojo.jp/img/dojos/tsuyama.webp",
-    "order": "332038",
-    "prefecture": "岡山",
-    "linked_text": "<a href='https://xn--coderdojo-ef6q138l.jp/'>津山</a>（岡山）"
+    "url": "https://coderdojo-ashiya.org/",
+    "name": "あしや",
+    "logo": "https://coderdojo.jp/img/dojos/ashiya.webp",
+    "order": "282065",
+    "prefecture": "兵庫",
+    "linked_text": "<a href='https://coderdojo-ashiya.org/'>あしや</a>（兵庫）"
   },
   {
-    "url": "https://zen.coderdojo.com/dojos/jp/japan-okayama/li4-gang1",
-    "name": "笠岡",
+    "url": "https://coderdojo-miki.connpass.com/",
+    "name": "みき",
+    "logo": "https://coderdojo.jp/img/dojos/miki.webp",
+    "order": "282154",
+    "prefecture": "兵庫",
+    "linked_text": "<a href='https://coderdojo-miki.connpass.com/'>みき</a>（兵庫）"
+  },
+  {
+    "url": "https://zen.coderdojo.com/dojos/jp/nai4-liang2-xian4-sheng1-ju1-jun4-sheng1-ju1-jun4/horyujinararohasuraiburar",
+    "name": "法隆寺",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "332054",
-    "prefecture": "岡山",
-    "linked_text": "<a href='https://zen.coderdojo.com/dojos/jp/japan-okayama/li4-gang1'>笠岡</a>（岡山）"
+    "order": "292095",
+    "prefecture": "奈良",
+    "linked_text": "<a href='https://zen.coderdojo.com/dojos/jp/nai4-liang2-xian4-sheng1-ju1-jun4-sheng1-ju1-jun4/horyujinararohasuraiburar'>法隆寺</a>（奈良）"
   },
   {
-    "url": "https://www.facebook.com/CoderDojo%E9%95%B7%E5%B4%8E-395795824185849/",
-    "name": "長崎",
+    "url": "https://coderdojo-asuka.github.io/",
+    "name": "明日香",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "422011",
-    "prefecture": "長崎",
-    "linked_text": "<a href='https://www.facebook.com/CoderDojo%E9%95%B7%E5%B4%8E-395795824185849/'>長崎</a>（長崎）"
+    "order": "293636",
+    "prefecture": "奈良",
+    "linked_text": "<a href='https://coderdojo-asuka.github.io/'>明日香</a>（奈良）"
   },
   {
-    "url": "https://www.facebook.com/coderdojo.itsukaichi",
-    "name": "五日市",
-    "logo": "https://coderdojo.jp/img/dojos/itsukaichi.webp",
-    "order": "341002",
-    "prefecture": "広島",
-    "linked_text": "<a href='https://www.facebook.com/coderdojo.itsukaichi'>五日市</a>（広島）"
-  },
-  {
-    "url": "https://www.facebook.com/coderdojokumamoto/",
-    "name": "熊本",
-    "logo": "https://coderdojo.jp/img/dojos/kumamoto.webp",
-    "order": "431001",
-    "prefecture": "熊本",
-    "linked_text": "<a href='https://www.facebook.com/coderdojokumamoto/'>熊本</a>（熊本）"
-  },
-  {
-    "url": "https://lmlab.net/coderdojo/",
-    "name": "宮崎",
-    "logo": "https://coderdojo.jp/img/dojos/miyazaki.webp",
-    "order": "454419",
-    "prefecture": "宮崎",
-    "linked_text": "<a href='https://lmlab.net/coderdojo/'>宮崎</a>（宮崎）"
+    "url": "https://coderdojo-iyo.com/",
+    "name": "伊予",
+    "logo": "https://coderdojo.jp/img/dojos/iyo.webp",
+    "order": "382108",
+    "prefecture": "愛媛",
+    "linked_text": "<a href='https://coderdojo-iyo.com/'>伊予</a>（愛媛）"
   },
   {
     "url": "https://coderdojo-kodaira.github.io/",
@@ -2104,36 +1592,12 @@
     "linked_text": "<a href='https://coderdojo-kodaira.github.io/'>こだいら</a>（東京）"
   },
   {
-    "url": "https://coderdojo-inagi.doorkeeper.jp/",
-    "name": "稲城",
-    "logo": "https://coderdojo.jp/img/dojos/inagi.webp",
-    "order": "132250",
-    "prefecture": "東京",
-    "linked_text": "<a href='https://coderdojo-inagi.doorkeeper.jp/'>稲城</a>（東京）"
-  },
-  {
-    "url": "https://coderdojo-ube.com/",
-    "name": "宇部",
-    "logo": "https://coderdojo.jp/img/dojos/ube.webp",
-    "order": "352021",
-    "prefecture": "山口",
-    "linked_text": "<a href='https://coderdojo-ube.com/'>宇部</a>（山口）"
-  },
-  {
-    "url": "https://sites.google.com/view/coderdojonagato",
-    "name": "長門",
-    "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
-    "order": "352110",
-    "prefecture": "山口",
-    "linked_text": "<a href='https://sites.google.com/view/coderdojonagato'>長門</a>（山口）"
-  },
-  {
-    "url": "https://www.facebook.com/CDTokushima/",
-    "name": "徳島",
-    "logo": "https://coderdojo.jp/img/dojos/tokushima.webp",
-    "order": "362018",
-    "prefecture": "徳島",
-    "linked_text": "<a href='https://www.facebook.com/CDTokushima/'>徳島</a>（徳島）"
+    "url": "https://lmlab.net/coderdojo/",
+    "name": "宮崎",
+    "logo": "https://coderdojo.jp/img/dojos/miyazaki.webp",
+    "order": "454419",
+    "prefecture": "宮崎",
+    "linked_text": "<a href='https://lmlab.net/coderdojo/'>宮崎</a>（宮崎）"
   },
   {
     "url": "https://www.facebook.com/CoderDojoKagoshima/",
@@ -2160,12 +1624,36 @@
     "linked_text": "<a href='https://www.facebook.com/coderdojo.ginowan/'>宜野湾</a>（沖縄）"
   },
   {
-    "url": "https://coderdojo-okinawa-pia.hatenablog.com/",
-    "name": "沖縄@ぴあ",
-    "logo": "https://coderdojo.jp/img/dojos/okinawa-deaf.webp",
+    "url": "https://www.facebook.com/CoderDojo.Ishigaki/",
+    "name": "石垣",
+    "logo": "https://coderdojo.jp/img/dojos/ishigaki.webp",
+    "order": "472077",
+    "prefecture": "沖縄",
+    "linked_text": "<a href='https://www.facebook.com/CoderDojo.Ishigaki/'>石垣</a>（沖縄）"
+  },
+  {
+    "url": "https://coderdojo-inagi.doorkeeper.jp/",
+    "name": "稲城",
+    "logo": "https://coderdojo.jp/img/dojos/inagi.webp",
+    "order": "132250",
+    "prefecture": "東京",
+    "linked_text": "<a href='https://coderdojo-inagi.doorkeeper.jp/'>稲城</a>（東京）"
+  },
+  {
+    "url": "http://www.coderdojo-urasoe.com/",
+    "name": "浦添",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "472085",
+    "prefecture": "沖縄",
+    "linked_text": "<a href='http://www.coderdojo-urasoe.com/'>浦添</a>（沖縄）"
+  },
+  {
+    "url": "https://www.facebook.com/CoderDojoKOZA",
+    "name": "コザ",
+    "logo": "https://coderdojo.jp/img/dojos/koza.webp",
     "order": "472115",
     "prefecture": "沖縄",
-    "linked_text": "<a href='https://coderdojo-okinawa-pia.hatenablog.com/'>沖縄@ぴあ</a>（沖縄）"
+    "linked_text": "<a href='https://www.facebook.com/CoderDojoKOZA'>コザ</a>（沖縄）"
   },
   {
     "url": "https://zen.coderdojo.com/dojos/jp/japan-tokyo/musashimurayama-city",
@@ -2176,6 +1664,62 @@
     "linked_text": "<a href='https://zen.coderdojo.com/dojos/jp/japan-tokyo/musashimurayama-city'>武蔵村山</a>（東京）"
   },
   {
+    "url": "https://coderdojo-tamacent.wixsite.com/main",
+    "name": "多摩センター",
+    "logo": "https://coderdojo.jp/img/dojos/tama-center.webp",
+    "order": "132241",
+    "prefecture": "東京",
+    "linked_text": "<a href='https://coderdojo-tamacent.wixsite.com/main'>多摩センター</a>（東京）"
+  },
+  {
+    "url": "https://coderdojo-okinawa-pia.hatenablog.com/",
+    "name": "沖縄@ぴあ",
+    "logo": "https://coderdojo.jp/img/dojos/okinawa-deaf.webp",
+    "order": "472115",
+    "prefecture": "沖縄",
+    "linked_text": "<a href='https://coderdojo-okinawa-pia.hatenablog.com/'>沖縄@ぴあ</a>（沖縄）"
+  },
+  {
+    "url": "https://xn--coderdojo-ef6q138l.jp/",
+    "name": "津山",
+    "logo": "https://coderdojo.jp/img/dojos/tsuyama.webp",
+    "order": "332038",
+    "prefecture": "岡山",
+    "linked_text": "<a href='https://xn--coderdojo-ef6q138l.jp/'>津山</a>（岡山）"
+  },
+  {
+    "url": "https://zen.coderdojo.com/dojos/jp/japan-okayama/li4-gang1",
+    "name": "笠岡",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "332054",
+    "prefecture": "岡山",
+    "linked_text": "<a href='https://zen.coderdojo.com/dojos/jp/japan-okayama/li4-gang1'>笠岡</a>（岡山）"
+  },
+  {
+    "url": "https://coderdojo-ube.com/",
+    "name": "宇部",
+    "logo": "https://coderdojo.jp/img/dojos/ube.webp",
+    "order": "352021",
+    "prefecture": "山口",
+    "linked_text": "<a href='https://coderdojo-ube.com/'>宇部</a>（山口）"
+  },
+  {
+    "url": "https://sites.google.com/view/coderdojonagato",
+    "name": "長門",
+    "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
+    "order": "352110",
+    "prefecture": "山口",
+    "linked_text": "<a href='https://sites.google.com/view/coderdojonagato'>長門</a>（山口）"
+  },
+  {
+    "url": "https://www.facebook.com/CDTokushima/",
+    "name": "徳島",
+    "logo": "https://coderdojo.jp/img/dojos/tokushima.webp",
+    "order": "362018",
+    "prefecture": "徳島",
+    "linked_text": "<a href='https://www.facebook.com/CDTokushima/'>徳島</a>（徳島）"
+  },
+  {
     "url": "https://www.facebook.com/coderdojomiyoshi/",
     "name": "三好",
     "logo": "https://coderdojo.jp/img/dojos/miyoshi.webp",
@@ -2184,11 +1728,467 @@
     "linked_text": "<a href='https://www.facebook.com/coderdojomiyoshi/'>三好</a>（徳島）"
   },
   {
-    "url": "https://www.facebook.com/CoderDojo.Ishigaki/",
-    "name": "石垣",
-    "logo": "https://coderdojo.jp/img/dojos/ishigaki.webp",
-    "order": "472077",
-    "prefecture": "沖縄",
-    "linked_text": "<a href='https://www.facebook.com/CoderDojo.Ishigaki/'>石垣</a>（沖縄）"
+    "url": "https://coderdojokamiyama.netlify.app/",
+    "name": "神山",
+    "logo": "https://coderdojo.jp/img/dojos/kamiyama.webp",
+    "order": "363421",
+    "prefecture": "徳島",
+    "linked_text": "<a href='https://coderdojokamiyama.netlify.app/'>神山</a>（徳島）"
+  },
+  {
+    "url": "https://www.facebook.com/coderdojo.itsukaichi",
+    "name": "五日市",
+    "logo": "https://coderdojo.jp/img/dojos/itsukaichi.webp",
+    "order": "341002",
+    "prefecture": "広島",
+    "linked_text": "<a href='https://www.facebook.com/coderdojo.itsukaichi'>五日市</a>（広島）"
+  },
+  {
+    "url": "https://www.facebook.com/coderdojo.fukuoka.kurume.suwano/",
+    "name": "諏訪野＠ギャランドゥ",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "402036",
+    "prefecture": "福岡",
+    "linked_text": "<a href='https://www.facebook.com/coderdojo.fukuoka.kurume.suwano/'>諏訪野＠ギャランドゥ</a>（福岡）"
+  },
+  {
+    "url": "https://www.facebook.com/CoderDojo%E9%95%B7%E5%B4%8E-395795824185849/",
+    "name": "長崎",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "422011",
+    "prefecture": "長崎",
+    "linked_text": "<a href='https://www.facebook.com/CoderDojo%E9%95%B7%E5%B4%8E-395795824185849/'>長崎</a>（長崎）"
+  },
+  {
+    "url": "https://www.facebook.com/coderdojokumamoto/",
+    "name": "熊本",
+    "logo": "https://coderdojo.jp/img/dojos/kumamoto.webp",
+    "order": "431001",
+    "prefecture": "熊本",
+    "linked_text": "<a href='https://www.facebook.com/coderdojokumamoto/'>熊本</a>（熊本）"
+  },
+  {
+    "url": "https://cd-hisumi.github.io/",
+    "name": "東住吉",
+    "logo": "https://coderdojo.jp/img/dojos/higashi-sumiyoshi.webp",
+    "order": "271217",
+    "prefecture": "大阪",
+    "linked_text": "<a href='https://cd-hisumi.github.io/'>東住吉</a>（大阪）"
+  },
+  {
+    "url": "http://www.coderdojo-minoh.org/",
+    "name": "みのお",
+    "logo": "https://coderdojo.jp/img/dojos/minoh.webp",
+    "order": "272205",
+    "prefecture": "大阪",
+    "linked_text": "<a href='http://www.coderdojo-minoh.org/'>みのお</a>（大阪）"
+  },
+  {
+    "url": "https://www.coderdojo-fujiidera-kashiwara.com",
+    "name": "柏原",
+    "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
+    "order": "272213",
+    "prefecture": "大阪",
+    "linked_text": "<a href='https://www.coderdojo-fujiidera-kashiwara.com'>柏原</a>（大阪）"
+  },
+  {
+    "url": "https://www.facebook.com/CoderDojoHigashiosakaYao/",
+    "name": "東大阪",
+    "logo": "https://coderdojo.jp/img/dojos/higasi-osaka.webp",
+    "order": "272272",
+    "prefecture": "大阪",
+    "linked_text": "<a href='https://www.facebook.com/CoderDojoHigashiosakaYao/'>東大阪</a>（大阪）"
+  },
+  {
+    "url": "https://www.facebook.com/CoderDojoHigashiosakaYao/",
+    "name": "八尾",
+    "logo": "https://coderdojo.jp/img/dojos/yao.webp",
+    "order": "272124",
+    "prefecture": "大阪",
+    "linked_text": "<a href='https://www.facebook.com/CoderDojoHigashiosakaYao/'>八尾</a>（大阪）"
+  },
+  {
+    "url": "https://www.facebook.com/profile.php?id=100087493006122",
+    "name": "八尾@yotteco",
+    "logo": "https://coderdojo.jp/img/dojos/yao-yotteco.webp",
+    "order": "272124",
+    "prefecture": "大阪",
+    "linked_text": "<a href='https://www.facebook.com/profile.php?id=100087493006122'>八尾@yotteco</a>（大阪）"
+  },
+  {
+    "url": "https://coderdojotondabayashi.github.io/main/",
+    "name": "富田林",
+    "logo": "https://coderdojo.jp/img/dojos/tondabayashi.webp",
+    "order": "272141",
+    "prefecture": "大阪",
+    "linked_text": "<a href='https://coderdojotondabayashi.github.io/main/'>富田林</a>（大阪）"
+  },
+  {
+    "url": "https://www.coderdojo-fujiidera-kashiwara.com",
+    "name": "藤井寺",
+    "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
+    "order": "272264",
+    "prefecture": "大阪",
+    "linked_text": "<a href='https://www.coderdojo-fujiidera-kashiwara.com'>藤井寺</a>（大阪）"
+  },
+  {
+    "url": "https://www.coderdojo-fujiidera-kashiwara.com",
+    "name": "藤井寺・柏原",
+    "logo": "https://coderdojo.jp/img/dojos/fujiidera-kashiwara.webp",
+    "order": "272264",
+    "prefecture": "大阪",
+    "linked_text": "<a href='https://www.coderdojo-fujiidera-kashiwara.com'>藤井寺・柏原</a>（大阪）"
+  },
+  {
+    "url": "http://coderdojo-sennan.net/",
+    "name": "せんなん",
+    "logo": "https://coderdojo.jp/img/dojos/sennan.webp",
+    "order": "272281",
+    "prefecture": "大阪",
+    "linked_text": "<a href='http://coderdojo-sennan.net/'>せんなん</a>（大阪）"
+  },
+  {
+    "url": "https://coderdojo-nada.github.io/",
+    "name": "灘",
+    "logo": "https://coderdojo.jp/img/dojos/nada.webp",
+    "order": "281018",
+    "prefecture": "兵庫",
+    "linked_text": "<a href='https://coderdojo-nada.github.io/'>灘</a>（兵庫）"
+  },
+  {
+    "url": "https://www.facebook.com/CoderDojoNishiKobe/",
+    "name": "西神戸",
+    "logo": "https://coderdojo.jp/img/dojos/nishi-kobe.webp",
+    "order": "281069",
+    "prefecture": "兵庫",
+    "linked_text": "<a href='https://www.facebook.com/CoderDojoNishiKobe/'>西神戸</a>（兵庫）"
+  },
+  {
+    "url": "https://www.facebook.com/KitakobeDojo/",
+    "name": "北神戸",
+    "logo": "https://coderdojo.jp/img/dojos/kitakobe.webp",
+    "order": "281093",
+    "prefecture": "兵庫",
+    "linked_text": "<a href='https://www.facebook.com/KitakobeDojo/'>北神戸</a>（兵庫）"
+  },
+  {
+    "url": "https://coderdojokobe.wixsite.com/home/",
+    "name": "神戸",
+    "logo": "https://coderdojo.jp/img/dojos/kobe.webp",
+    "order": "281107",
+    "prefecture": "兵庫",
+    "linked_text": "<a href='https://coderdojokobe.wixsite.com/home/'>神戸</a>（兵庫）"
+  },
+  {
+    "url": "https://sites.google.com/site/himejicoderdojo/",
+    "name": "姫路",
+    "logo": "https://coderdojo.jp/img/dojos/himeji.webp",
+    "order": "282014",
+    "prefecture": "兵庫",
+    "linked_text": "<a href='https://sites.google.com/site/himejicoderdojo/'>姫路</a>（兵庫）"
+  },
+  {
+    "url": "https://coderdojo-akashi.connpass.com/",
+    "name": "明石",
+    "logo": "https://coderdojo.jp/img/dojos/akashi.webp",
+    "order": "282031",
+    "prefecture": "兵庫",
+    "linked_text": "<a href='https://coderdojo-akashi.connpass.com/'>明石</a>（兵庫）"
+  },
+  {
+    "url": "http://coderdojo-awajishima.info/",
+    "name": "淡路島",
+    "logo": "https://coderdojo.jp/img/dojos/awajishima.webp",
+    "order": "282057",
+    "prefecture": "兵庫",
+    "linked_text": "<a href='http://coderdojo-awajishima.info/'>淡路島</a>（兵庫）"
+  },
+  {
+    "url": "https://coderdojokasai.connpass.com/",
+    "name": "加西",
+    "logo": "https://coderdojo.jp/img/dojos/kasai.webp",
+    "order": "282201",
+    "prefecture": "兵庫",
+    "linked_text": "<a href='https://coderdojokasai.connpass.com/'>加西</a>（兵庫）"
+  },
+  {
+    "url": "https://coderdojo-nara-ikoma.github.io/",
+    "name": "奈良",
+    "logo": "https://coderdojo.jp/img/dojos/nara.webp",
+    "order": "292010",
+    "prefecture": "奈良",
+    "linked_text": "<a href='https://coderdojo-nara-ikoma.github.io/'>奈良</a>（奈良）"
+  },
+  {
+    "url": "https://coderdojo-nara-ikoma.github.io/",
+    "name": "生駒",
+    "logo": "https://coderdojo.jp/img/dojos/ikoma.webp",
+    "order": "292095",
+    "prefecture": "奈良",
+    "linked_text": "<a href='https://coderdojo-nara-ikoma.github.io/'>生駒</a>（奈良）"
+  },
+  {
+    "url": "https://www.kokuchpro.com/group/CoderDojo35/",
+    "name": "三郷",
+    "logo": "https://coderdojo.jp/img/dojos/sango.webp",
+    "order": "293431",
+    "prefecture": "奈良",
+    "linked_text": "<a href='https://www.kokuchpro.com/group/CoderDojo35/'>三郷</a>（奈良）"
+  },
+  {
+    "url": "https://coderdojo-tawaramoto.github.io/",
+    "name": "田原本",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "293636",
+    "prefecture": "奈良",
+    "linked_text": "<a href='https://coderdojo-tawaramoto.github.io/'>田原本</a>（奈良）"
+  },
+  {
+    "url": "https://www.facebook.com/coderdojo.wakayama/",
+    "name": "和歌山",
+    "logo": "https://coderdojo.jp/img/dojos/wakayama.webp",
+    "order": "302015",
+    "prefecture": "和歌山",
+    "linked_text": "<a href='https://www.facebook.com/coderdojo.wakayama/'>和歌山</a>（和歌山）"
+  },
+  {
+    "url": "https://coderdojo-nanki-tanabe.jimdo.com/",
+    "name": "南紀田辺",
+    "logo": "https://coderdojo.jp/img/dojos/nanki-tanabe.webp",
+    "order": "302066",
+    "prefecture": "和歌山",
+    "linked_text": "<a href='https://coderdojo-nanki-tanabe.jimdo.com/'>南紀田辺</a>（和歌山）"
+  },
+  {
+    "url": "https://www.facebook.com/coderdojo.kumano",
+    "name": "熊野",
+    "logo": "https://coderdojo.jp/img/dojos/kumano.webp",
+    "order": "302074",
+    "prefecture": "和歌山",
+    "linked_text": "<a href='https://www.facebook.com/coderdojo.kumano'>熊野</a>（和歌山）"
+  },
+  {
+    "url": "https://www.facebook.com/Coderdojo.daisen/",
+    "name": "大山",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "313866",
+    "prefecture": "鳥取",
+    "linked_text": "<a href='https://www.facebook.com/Coderdojo.daisen/'>大山</a>（鳥取）"
+  },
+  {
+    "url": "https://www.facebook.com/CoderDojoTottori/",
+    "name": "鳥取",
+    "logo": "https://coderdojo.jp/img/dojos/tottori.webp",
+    "order": "312011",
+    "prefecture": "鳥取",
+    "linked_text": "<a href='https://www.facebook.com/CoderDojoTottori/'>鳥取</a>（鳥取）"
+  },
+  {
+    "url": "https://iwapro.connpass.com/",
+    "name": "大田・邑南、他",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "320005",
+    "prefecture": "島根",
+    "linked_text": "<a href='https://iwapro.connpass.com/'>大田・邑南、他</a>（島根）"
+  },
+  {
+    "url": "https://zen.coderdojo.com/dojos/jp/ren2-mo2-ting3/iwami-takuno",
+    "name": "石見@Takuno",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "322059",
+    "prefecture": "島根",
+    "linked_text": "<a href='https://zen.coderdojo.com/dojos/jp/ren2-mo2-ting3/iwami-takuno'>石見@Takuno</a>（島根）"
+  },
+  {
+    "url": "https://coderdojohamada.connpass.com/",
+    "name": "浜田",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "320225",
+    "prefecture": "島根",
+    "linked_text": "<a href='https://coderdojohamada.connpass.com/'>浜田</a>（島根）"
+  },
+  {
+    "url": "https://coderdojo-tsuwano.doorkeeper.jp/",
+    "name": "津和野",
+    "logo": "https://coderdojo.jp/img/dojos/tsuwano.webp",
+    "order": "325015",
+    "prefecture": "島根",
+    "linked_text": "<a href='https://coderdojo-tsuwano.doorkeeper.jp/'>津和野</a>（島根）"
+  },
+  {
+    "url": "http://www.coderdojo-yoshika.com/",
+    "name": "吉賀",
+    "logo": "https://coderdojo.jp/img/dojos/yoshika.webp",
+    "order": "325058",
+    "prefecture": "島根",
+    "linked_text": "<a href='http://www.coderdojo-yoshika.com/'>吉賀</a>（島根）"
+  },
+  {
+    "url": "https://www.coderdojo-konan.jp/",
+    "name": "岡南",
+    "logo": "https://coderdojo.jp/img/dojos/okayama.webp",
+    "order": "331007",
+    "prefecture": "岡山",
+    "linked_text": "<a href='https://www.coderdojo-konan.jp/'>岡南</a>（岡山）"
+  },
+  {
+    "url": "https://coderdojokibi.connpass.com/",
+    "name": "吉備",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "331015",
+    "prefecture": "岡山",
+    "linked_text": "<a href='https://coderdojokibi.connpass.com/'>吉備</a>（岡山）"
+  },
+  {
+    "url": "https://cd-kurashiki.connpass.com",
+    "name": "倉敷",
+    "logo": "https://coderdojo.jp/img/dojos/kurashiki.webp",
+    "order": "332020",
+    "prefecture": "岡山",
+    "linked_text": "<a href='https://cd-kurashiki.connpass.com'>倉敷</a>（岡山）"
+  },
+  {
+    "url": "https://www.facebook.com/coderdojo.kamiyacho/",
+    "name": "紙屋町",
+    "logo": "https://coderdojo.jp/img/dojos/hiroshima.webp",
+    "order": "341002",
+    "prefecture": "広島",
+    "linked_text": "<a href='https://www.facebook.com/coderdojo.kamiyacho/'>紙屋町</a>（広島）"
+  },
+  {
+    "url": "https://www.facebook.com/CoderDojoKURE/",
+    "name": "呉",
+    "logo": "https://coderdojo.jp/img/dojos/kure.webp",
+    "order": "342025",
+    "prefecture": "広島",
+    "linked_text": "<a href='https://www.facebook.com/CoderDojoKURE/'>呉</a>（広島）"
+  },
+  {
+    "url": "https://www.facebook.com/groups/332290965392043",
+    "name": "福山大門",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "342076",
+    "prefecture": "広島",
+    "linked_text": "<a href='https://www.facebook.com/groups/332290965392043'>福山大門</a>（広島）"
+  },
+  {
+    "url": "https://www.facebook.com/dojo.miyoshi",
+    "name": "三次",
+    "logo": "https://coderdojo.jp/img/dojos/miyoshi-hiroshima.webp",
+    "order": "342092",
+    "prefecture": "広島",
+    "linked_text": "<a href='https://www.facebook.com/dojo.miyoshi'>三次</a>（広島）"
+  },
+  {
+    "url": "https://coderdojo-hikari.com/",
+    "name": "光",
+    "logo": "https://coderdojo.jp/img/dojos/hikari.webp",
+    "order": "352101",
+    "prefecture": "山口",
+    "linked_text": "<a href='https://coderdojo-hikari.com/'>光</a>（山口）"
+  },
+  {
+    "url": "https://coderdojoshiun.wordpress.com/",
+    "name": "紫雲",
+    "logo": "https://coderdojo.jp/img/dojos/shiun.webp",
+    "order": "372013",
+    "prefecture": "香川",
+    "linked_text": "<a href='https://coderdojoshiun.wordpress.com/'>紫雲</a>（香川）"
+  },
+  {
+    "url": "https://www.facebook.com/coderdojo.motoyama/",
+    "name": "本山",
+    "logo": "https://coderdojo.jp/img/dojos/motoyama.webp",
+    "order": "372081",
+    "prefecture": "香川",
+    "linked_text": "<a href='https://www.facebook.com/coderdojo.motoyama/'>本山</a>（香川）"
+  },
+  {
+    "url": "https://coderdojo-matsuyama.doorkeeper.jp/",
+    "name": "松山",
+    "logo": "https://coderdojo.jp/img/dojos/matsuyama.webp",
+    "order": "382019",
+    "prefecture": "愛媛",
+    "linked_text": "<a href='https://coderdojo-matsuyama.doorkeeper.jp/'>松山</a>（愛媛）"
+  },
+  {
+    "url": "https://coderdojokitaq.connpass.com/",
+    "name": "北九州",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "401005",
+    "prefecture": "福岡",
+    "linked_text": "<a href='https://coderdojokitaq.connpass.com/'>北九州</a>（福岡）"
+  },
+  {
+    "url": "https://peraichi.com/landing_pages/view/coderdojo",
+    "name": "ももち",
+    "logo": "https://coderdojo.jp/img/dojos/momochi.webp",
+    "order": "401307",
+    "prefecture": "福岡",
+    "linked_text": "<a href='https://peraichi.com/landing_pages/view/coderdojo'>ももち</a>（福岡）"
+  },
+  {
+    "url": "https://coderdojo-kashii.connpass.com/",
+    "name": "香椎",
+    "logo": "https://coderdojo.jp/img/dojos/kashii.webp",
+    "order": "401307",
+    "prefecture": "福岡",
+    "linked_text": "<a href='https://coderdojo-kashii.connpass.com/'>香椎</a>（福岡）"
+  },
+  {
+    "url": "https://www.facebook.com/CoderDojoKurume/",
+    "name": "久留米",
+    "logo": "https://coderdojo.jp/img/dojos/kurume.webp",
+    "order": "402036",
+    "prefecture": "福岡",
+    "linked_text": "<a href='https://www.facebook.com/CoderDojoKurume/'>久留米</a>（福岡）"
+  },
+  {
+    "url": "https://coderdojo-hiyoshi.com/",
+    "name": "日吉",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "402036",
+    "prefecture": "福岡",
+    "linked_text": "<a href='https://coderdojo-hiyoshi.com/'>日吉</a>（福岡）"
+  },
+  {
+    "url": "https://twitter.com/CoderdojoNakama",
+    "name": "ナカマ",
+    "logo": "https://coderdojo.jp/img/dojos/nakama.webp",
+    "order": "402150",
+    "prefecture": "福岡",
+    "linked_text": "<a href='https://twitter.com/CoderdojoNakama'>ナカマ</a>（福岡）"
+  },
+  {
+    "url": "https://twitter.com/CoderDojoKasuga",
+    "name": "春日",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "402184",
+    "prefecture": "福岡",
+    "linked_text": "<a href='https://twitter.com/CoderDojoKasuga'>春日</a>（福岡）"
+  },
+  {
+    "url": "https://www.facebook.com/CoderDojoDazaifu/",
+    "name": "太宰府",
+    "logo": "https://coderdojo.jp/img/dojos/dazaifu.webp",
+    "order": "402214",
+    "prefecture": "福岡",
+    "linked_text": "<a href='https://www.facebook.com/CoderDojoDazaifu/'>太宰府</a>（福岡）"
+  },
+  {
+    "url": "https://peatix.com/group/10488940/view",
+    "name": "さが",
+    "logo": "https://coderdojo.jp/img/dojos/saga.webp",
+    "order": "412015",
+    "prefecture": "佐賀",
+    "linked_text": "<a href='https://peatix.com/group/10488940/view'>さが</a>（佐賀）"
+  },
+  {
+    "url": "https://www.facebook.com/groups/CoderDojo.Kiyama/about/",
+    "name": "基山",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "413411",
+    "prefecture": "佐賀",
+    "linked_text": "<a href='https://www.facebook.com/groups/CoderDojo.Kiyama/about/'>基山</a>（佐賀）"
   }
 ]
