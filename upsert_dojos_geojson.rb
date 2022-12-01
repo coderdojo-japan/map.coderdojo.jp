@@ -9,11 +9,11 @@ zen2japan   = {}
 # TODO: These data are now updated by hand. Can be improved by automation.
 # Details: https://github.com/coderdojo-japan/map.coderdojo.jp/issues/2
 File.open("dojos_earth.json") do |file|
-  dojos_earth = JSON.load(file).map{|data| data.deep_transform_keys!(&:to_sym) }
+  dojos_earth = JSON.load(file, nil, symbolize_names: true, create_additions: false)
 end
 
 File.open("dojos_japan.json") do |file|
-  dojos_japan = JSON.load(file).map{|data| data.transform_keys!(&:to_sym) }
+  dojos_japan = JSON.load(file, nil, symbolize_names: true, create_additions: false)
 end
 
 File.foreach("dojo2dojo.txt") do |line|
