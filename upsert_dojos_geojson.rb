@@ -4,6 +4,7 @@ require 'active_support/core_ext/hash/keys'
 
 dojos_earth = []
 dojos_japan = []
+zen2japan   = {}
 
 File.open("dojos_earth.json") do |file|
   dojos_earth = JSON.load(file).map{|data| data.deep_transform_keys!(&:to_sym) }
@@ -13,6 +14,14 @@ File.open("dojos_japan.json") do |file|
   dojos_japan = JSON.load(file).map{|data| data.transform_keys!(&:to_sym) }
 end
 
+File.foreach("dojo2dojo.txt") do |line|
+  japan_name, zen_name = line.split("\t").map(&:chomp)
+  next if japan_name.empty? or zen_name.empty?
+  zen2japan[zen_name] = japan_name
+end
+#pp zen2japan; p zen2japan.count; p zen2japan['Kunitachi'] ; exit
+
+# Japan's name to text/logo by Hash
 name2text = {}
 name2logo = {}
 dojos_japan.each do |dojo|
@@ -36,23 +45,8 @@ dojos_earth.each do |dojo|
   # 4: 活動していません
   if dojo[:geoPoint] && dojo[:stage] != 4
 
-    # 細かな名寄せ for Proof of Concept (PoC)
-    dojo[:name].gsub!('Chofu',     '調布')
-    dojo[:name].gsub!('Gifu',      '岐阜')
-    dojo[:name].gsub!('Eniwa',     '恵庭')
-    dojo[:name].gsub!('muroran@kuru', '室蘭')
-    dojo[:name].gsub!('SapporoEast',  '札幌東')
-    dojo[:name].gsub!('Sapporo',      '札幌')
-    dojo[:name].gsub!('Ebetsu, Hokkaido', '江別')
-    dojo[:name].gsub!('Nara, Nara',  '奈良')
-    dojo[:name].gsub!('Ikoma, Nara', '生駒')
-    dojo[:name].gsub!('天白,名古屋,愛知', '天白')
-    dojo[:name].gsub!('shikatsu', '師勝')
-    dojo[:name].gsub!('Tondabayashi, Osaka', '富田林')
-    dojo[:name].gsub!('Osakasayama, Osaka', '大阪狭山')
-
-    dojo[:name].gsub!('富山@長江', '富山')
-    dojo[:name].gsub!('Kanazawa, Ishikawa @ HackforPlay', '金沢')
+    # Conver name in Zen into name in Japan by Hash
+    dojo[:name] = zen2japan[dojo[:name]] if zen2japan[dojo[:name]]
 
     features << {
       type: "Feature",
