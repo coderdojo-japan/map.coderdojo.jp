@@ -35,7 +35,7 @@ jobs:
         uses: actions/checkout@v3
 
       # This is NOT for security reason but for others, especially who fork,
-      # to easier find out whichi API key they need to replace with their own.
+      # to easier find out which API key they need to replace with their own.
       # Check out the official tutorial for details: https://docs.geolonia.com/tutorial
       - name: "Replace Geolonia's YOUR-API-KEY with secrets"
         env:
