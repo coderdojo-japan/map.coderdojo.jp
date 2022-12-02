@@ -62,6 +62,14 @@ https://map.coderdojo.jp/
 
 <br>
 
+## :books: 関連記事・プレスリリースなど
+
+- [Geolonia の支援を得て、全国の CoderDojo が地図から探せる「DojoMap」を開発 - PR TIMES](https://prtimes.jp/main/html/rd/p/000000008.000038935.html)
+- [子どものためのプログラミング道場「CoderDojo」を支援し、「DojoMap」を技術支援 - Geolonia blog](https://blog.geolonia.com/2022/11/30/support-coderdojo.html)
+- [全国のプログラミング道場を地図上で探せるマップ「DojoMap」が公開 - GeoNews](https://geo-news.jp/archives/5499)
+
+<br>
+
 ## :credit_card: License
 
 <details>
