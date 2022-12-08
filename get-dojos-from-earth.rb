@@ -15,6 +15,7 @@ request.body = JSON.dump({
     "fields$" => [
       "name",
       "geo_point",
+      "country",
       "stage",
       "url_slug",
       "start_time",
