@@ -987,23 +987,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Berlin Mitte @ xHain",
-    "geoPoint": {
-      "lat": 52.51279839999999,
-      "lon": 13.4497412
-    },
-    "stage": 1,
-    "urlSlug": "de/berlin/berlin-mitte-xhain",
-    "startTime": "14:00:00",
-    "endTime": "17:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "3rd",
-    "day": 6,
-    "id": "47d26930-9327-4b49-a79c-0b8165f06366"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Queretaro",
     "geoPoint": null,
     "stage": 4,
@@ -3420,23 +3403,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Ipswich @ Ipswich Makerspace",
-    "geoPoint": {
-      "lat": 52.0561923,
-      "lon": 1.1645846999999776
-    },
-    "stage": 1,
-    "urlSlug": "gb/ipswich/ipswich-ipswich-makerspace",
-    "startTime": "10:30:00",
-    "endTime": "12:30:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "2nd",
-    "day": 7,
-    "id": "6452334b-c6c0-4fe4-8a6a-ff9da1c6ee21"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "東濃（岐阜）",
     "geoPoint": {
       "lat": 35.334036,
@@ -3658,6 +3624,23 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Amstetten@42Vienna-coding-school",
+    "geoPoint": {
+      "lat": 48.1210432,
+      "lon": 14.8723803
+    },
+    "stage": 1,
+    "urlSlug": "at/3-30-0/amstetten-42-vienna-coding-school",
+    "startTime": "16:00:00",
+    "endTime": "18:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "3rd",
+    "day": 5,
+    "id": "a44397d8-40c2-4ac7-be84-0916d859ba2d"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Chisinau Coderdojo",
     "geoPoint": {
       "lat": 47.027429288458436,
@@ -3689,6 +3672,23 @@
     "alternativeFrequency": "Thursdays 6 pm – 8 pm.",
     "day": null,
     "id": "c0b9c4aa-e30a-4802-99ec-9f75479ad453"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Woodford@Woodford Green Library",
+    "geoPoint": {
+      "lat": 51.6075354,
+      "lon": 0.0323369
+    },
+    "stage": 1,
+    "urlSlug": "gb/woodford/woodford-woodford-green-library",
+    "startTime": "18:00:00",
+    "endTime": "19:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 3,
+    "id": "b24c2270-6a13-4f16-b2df-2f54d06a9a72"
   },
   {
     "entity$": "-/cd/dojos",
@@ -8466,23 +8466,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Amstetten@42Vienna-coding-school",
-    "geoPoint": {
-      "lat": 48.2484408,
-      "lon": 16.3684029
-    },
-    "stage": 1,
-    "urlSlug": "at/3-30-0/amstetten-42-vienna-coding-school",
-    "startTime": "16:00:00",
-    "endTime": "18:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "3rd",
-    "day": 5,
-    "id": "a44397d8-40c2-4ac7-be84-0916d859ba2d"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Perth @ Bunbury Primary School",
     "geoPoint": {
       "lat": -33.33334956429734,
@@ -12220,23 +12203,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Stowmarket @ Stowmarket Library",
-    "geoPoint": {
-      "lat": 52.1878309,
-      "lon": 0.9971362
-    },
-    "stage": 1,
-    "urlSlug": "gb/stowmarket/stowmarket-stowmarket-library",
-    "startTime": "10:00:00",
-    "endTime": "11:30:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": null,
-    "day": 6,
-    "id": "5c1c992a-994e-4c57-a2f8-921a4aea02c3"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Valencia",
     "geoPoint": {
       "lat": 39.4814522,
@@ -13376,23 +13342,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Woodford@Woodford Green Library",
-    "geoPoint": {
-      "lat": 51.6075354,
-      "lon": 0.0323369
-    },
-    "stage": 1,
-    "urlSlug": "gb/woodford/woodford-woodford-green-library",
-    "startTime": "18:00:00",
-    "endTime": "19:00:00",
-    "private": 0,
-    "frequency": "1/w",
-    "alternativeFrequency": null,
-    "day": 3,
-    "id": "b24c2270-6a13-4f16-b2df-2f54d06a9a72"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Westerlo @ bibliotheek",
     "geoPoint": {
       "lat": 51.0900314,
@@ -13424,6 +13373,23 @@
     "alternativeFrequency": "Once Per Term",
     "day": null,
     "id": "a39e33ab-a2a6-43ee-bd8c-5cb6724405f1"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Reading @ R+ EY",
+    "geoPoint": {
+      "lat": 51.4578395,
+      "lon": -0.9703315999999998
+    },
+    "stage": 1,
+    "urlSlug": "gb/reading/reading-r-ey",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "Next session currently not planned, this is a pilot.",
+    "day": 6,
+    "id": "7f9d04c4-a4d2-44e3-878e-2b4e38a978c7"
   },
   {
     "entity$": "-/cd/dojos",
@@ -42569,6 +42535,23 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Frankfurt (Oder)",
+    "geoPoint": {
+      "lat": 52.34689220000001,
+      "lon": 14.5510563
+    },
+    "stage": 1,
+    "urlSlug": "de/frankfurt-oder/frankfurt-oder",
+    "startTime": "14:00:00",
+    "endTime": "18:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "2nd",
+    "day": 6,
+    "id": "5934f607-eb67-42d9-8f9d-0786e1b7e37b"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Nishi-kobe, Hyogo",
     "geoPoint": {
       "lat": 34.6568466,
@@ -49335,23 +49318,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Frankfurt (Oder)",
-    "geoPoint": {
-      "lat": 52.3459243,
-      "lon": 14.550463700000023
-    },
-    "stage": 1,
-    "urlSlug": "de/frankfurt-oder/frankfurt-oder",
-    "startTime": "14:00:00",
-    "endTime": "17:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "2nd",
-    "day": 6,
-    "id": "5934f607-eb67-42d9-8f9d-0786e1b7e37b"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "HaNoi @ Scratch_for_Kids",
     "geoPoint": {
       "lat": 21.05228264340254,
@@ -49587,6 +49553,23 @@
     "alternativeFrequency": null,
     "day": 6,
     "id": "6a7290d8-98ac-466c-ab97-6e5b2e120d5c"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "野田",
+    "geoPoint": {
+      "lat": 35.9765677,
+      "lon": 139.8467084
+    },
+    "stage": 1,
+    "urlSlug": "jp/noda-chiba/ye3-tian2",
+    "startTime": "10:00:00",
+    "endTime": "14:00:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "月一回程度、不定期開催",
+    "day": 6,
+    "id": "69b2d48c-5102-40c1-8def-538d94418305"
   },
   {
     "entity$": "-/cd/dojos",
@@ -50624,23 +50607,6 @@
     "alternativeFrequency": null,
     "day": 6,
     "id": "23c1e746-75d5-4a5e-be64-5f4c3bf07d01"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "MTU, Bishopstown, Cork",
-    "geoPoint": {
-      "lat": 51.88481683160491,
-      "lon": -8.533129117721561
-    },
-    "stage": 0,
-    "urlSlug": "ie/cork/mtu-bishopstown-cork",
-    "startTime": "00:00:00",
-    "endTime": "00:00:00",
-    "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "Other",
-    "day": null,
-    "id": "70f37f66-557f-4b8e-b013-fe696a42a9be"
   },
   {
     "entity$": "-/cd/dojos",
@@ -52446,23 +52412,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Balwyn @ Balwyn Library",
-    "geoPoint": {
-      "lat": -37.813522,
-      "lon": 145.08552800000007
-    },
-    "stage": 2,
-    "urlSlug": "au/balwyn-vic/balwyn-balwyn-library",
-    "startTime": "13:00:00",
-    "endTime": "14:30:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "4th",
-    "day": 7,
-    "id": "aff7521d-4775-40ec-95af-bafed74938a1"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Borgo Veneto",
     "geoPoint": {
       "lat": 45.2182719,
@@ -53242,23 +53191,6 @@
     "alternativeFrequency": null,
     "day": 1,
     "id": "5e2beab8-b964-4888-8813-96882adb4107"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Ena",
-    "geoPoint": {
-      "lat": 35.3042503,
-      "lon": 137.389024
-    },
-    "stage": 1,
-    "urlSlug": "jp/qi2-fu4-xian4-hui4-na4-shi4-ming2-zhi4-ting3/ena",
-    "startTime": "10:00:00",
-    "endTime": "12:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "3rd",
-    "day": 7,
-    "id": "cb5e54eb-717b-42ee-88a3-fa7eb1b66fc5"
   },
   {
     "entity$": "-/cd/dojos",
@@ -57733,23 +57665,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Nishinasuno@Minami comunity center",
-    "geoPoint": {
-      "lat": 36.85512371715175,
-      "lon": 139.96966123580933
-    },
-    "stage": 1,
-    "urlSlug": "jp/nasushiobara-tochigi/nishinasuno-minami-comunity-center",
-    "startTime": "10:30:00",
-    "endTime": "12:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "last",
-    "day": 7,
-    "id": "7ff3f2ee-0c75-4443-a9ac-d602618512af"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Rimini",
     "geoPoint": {
       "lat": 44.063301,
@@ -59263,23 +59178,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Cobalt Business Park, Newcastle @ Perfect Image",
-    "geoPoint": {
-      "lat": 55.02080809030928,
-      "lon": -1.5050196647644043
-    },
-    "stage": 1,
-    "urlSlug": "gb/newcastle-upon-tyne-district-newcastle-upon-tyne/cobalt-business-park-newcastle-perfect-image",
-    "startTime": "09:30:00",
-    "endTime": "12:30:00",
-    "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "Bi-monthly/ as much as possible",
-    "day": 6,
-    "id": "0f26ef86-18d0-4279-83ac-eb84b046d9dc"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Croydon @ Legacy Youth Zone",
     "geoPoint": {
       "lat": 51.38857429999999,
@@ -59294,6 +59192,23 @@
     "alternativeFrequency": null,
     "day": 2,
     "id": "64d68510-2a39-4394-a3c5-1a153863ca25"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Cobalt Business Park, Newcastle @ Perfect Image",
+    "geoPoint": {
+      "lat": 55.02080809030928,
+      "lon": -1.5050196647644043
+    },
+    "stage": 4,
+    "urlSlug": "gb/newcastle-upon-tyne-district-newcastle-upon-tyne/cobalt-business-park-newcastle-perfect-image",
+    "startTime": "09:30:00",
+    "endTime": "12:30:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "Bi-monthly/ as much as possible",
+    "day": 6,
+    "id": "0f26ef86-18d0-4279-83ac-eb84b046d9dc"
   },
   {
     "entity$": "-/cd/dojos",
@@ -68766,23 +68681,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "住吉",
-    "geoPoint": {
-      "lat": 34.5994179,
-      "lon": 135.5132788
-    },
-    "stage": 1,
-    "urlSlug": "jp/osaka/zhu4-ji2",
-    "startTime": "18:00:00",
-    "endTime": "20:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "4th",
-    "day": 2,
-    "id": "a23e305c-493e-4738-b46e-48a8a9e86987"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Brno @ ZSHamry",
     "geoPoint": {
       "lat": 49.2220303,
@@ -69310,23 +69208,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Dublin 2, Charlemont @ Zendesk",
-    "geoPoint": {
-      "lat": 53.33152808510129,
-      "lon": -6.25634011878924
-    },
-    "stage": 2,
-    "urlSlug": "ie/dublin/dublin-2-charlemont-zendesk",
-    "startTime": "16:30:00",
-    "endTime": "18:00:00",
-    "private": 0,
-    "frequency": "2/m",
-    "alternativeFrequency": "Bi-Weekly From September 12th 2017",
-    "day": 4,
-    "id": "f42f1c93-a357-4648-ac7f-2f7248a54b6d"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Bantry @ Bantry Bay",
     "geoPoint": {
       "lat": 51.680347,
@@ -69443,23 +69324,6 @@
     "alternativeFrequency": "Meeste zaterdag middagen. 2 Blokken (van 12.00 - 13.30 en 13.30 -15.00)",
     "day": 6,
     "id": "4f8d36fb-7545-4ba9-b9fb-b379b6b87938"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "野田",
-    "geoPoint": {
-      "lat": 35.9765677,
-      "lon": 139.8467084
-    },
-    "stage": 1,
-    "urlSlug": "jp/noda-chiba/ye3-tian2",
-    "startTime": "10:00:00",
-    "endTime": "14:00:00",
-    "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "月一回程度、不定期開催",
-    "day": 6,
-    "id": "69b2d48c-5102-40c1-8def-538d94418305"
   },
   {
     "entity$": "-/cd/dojos",
@@ -69766,5 +69630,158 @@
     "alternativeFrequency": "Every Wednesday term time, between 4.00pm and 5.30pm",
     "day": null,
     "id": "0362b9ac-f26e-488e-b134-f8e7083554e5"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "MTU, Bishopstown, Cork",
+    "geoPoint": {
+      "lat": 51.88481683160491,
+      "lon": -8.533129117721561
+    },
+    "stage": 0,
+    "urlSlug": "ie/cork/mtu-bishopstown-cork",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "Other",
+    "day": null,
+    "id": "70f37f66-557f-4b8e-b013-fe696a42a9be"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Stowmarket @ Stowmarket Library",
+    "geoPoint": {
+      "lat": 52.1878309,
+      "lon": 0.9971362
+    },
+    "stage": 1,
+    "urlSlug": "gb/stowmarket/stowmarket-stowmarket-library",
+    "startTime": "10:00:00",
+    "endTime": "11:15:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "2nd",
+    "day": 6,
+    "id": "5c1c992a-994e-4c57-a2f8-921a4aea02c3"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Nishinasuno@Minami comunity center",
+    "geoPoint": {
+      "lat": 36.85512371715175,
+      "lon": 139.96966123580933
+    },
+    "stage": 1,
+    "urlSlug": "jp/nasushiobara-tochigi/nishinasuno-minami-comunity-center",
+    "startTime": "13:30:00",
+    "endTime": "15:30:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "4th",
+    "day": 7,
+    "id": "7ff3f2ee-0c75-4443-a9ac-d602618512af"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Berlin Mitte @ xHain",
+    "geoPoint": {
+      "lat": 52.51279839999999,
+      "lon": 13.4497412
+    },
+    "stage": 3,
+    "urlSlug": "de/berlin/berlin-mitte-xhain",
+    "startTime": "14:00:00",
+    "endTime": "17:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "3rd",
+    "day": 6,
+    "id": "47d26930-9327-4b49-a79c-0b8165f06366"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "住吉",
+    "geoPoint": {
+      "lat": 34.5994179,
+      "lon": 135.5132788
+    },
+    "stage": 1,
+    "urlSlug": "jp/osaka/zhu4-ji2",
+    "startTime": "18:00:00",
+    "endTime": "20:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "4th",
+    "day": 2,
+    "id": "a23e305c-493e-4738-b46e-48a8a9e86987"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Balwyn @ Balwyn Library",
+    "geoPoint": {
+      "lat": -37.813522,
+      "lon": 145.08552800000007
+    },
+    "stage": 4,
+    "urlSlug": "au/balwyn-vic/balwyn-balwyn-library",
+    "startTime": "13:00:00",
+    "endTime": "14:30:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "4th",
+    "day": 7,
+    "id": "aff7521d-4775-40ec-95af-bafed74938a1"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Dublin 2, Charlemont @ Zendesk",
+    "geoPoint": {
+      "lat": 53.3315473340315,
+      "lon": -6.256434917449951
+    },
+    "stage": 3,
+    "urlSlug": "ie/dublin/dublin-2-charlemont-zendesk",
+    "startTime": "16:30:00",
+    "endTime": "18:00:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": "Bi-Weekly From September 12th 2017",
+    "day": 4,
+    "id": "f42f1c93-a357-4648-ac7f-2f7248a54b6d"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Ipswich @ Ipswich Makerspace",
+    "geoPoint": {
+      "lat": 52.0562172,
+      "lon": 1.1647077
+    },
+    "stage": 2,
+    "urlSlug": "gb/ipswich/ipswich-ipswich-makerspace",
+    "startTime": "10:30:00",
+    "endTime": "12:30:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "2nd",
+    "day": 7,
+    "id": "6452334b-c6c0-4fe4-8a6a-ff9da1c6ee21"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Ena",
+    "geoPoint": {
+      "lat": 35.3042503,
+      "lon": 137.389024
+    },
+    "stage": 1,
+    "urlSlug": "jp/qi2-fu4-xian4-hui4-na4-shi4-ming2-zhi4-ting3/ena",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "3rd",
+    "day": 7,
+    "id": "cb5e54eb-717b-42ee-88a3-fa7eb1b66fc5"
   }
 ]
