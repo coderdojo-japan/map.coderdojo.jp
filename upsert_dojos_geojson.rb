@@ -51,8 +51,9 @@ dojos_earth.each do |dojo|
   # 4: 活動していません
   if dojo[:geoPoint] && dojo[:country] && dojo[:stage] != 4
 
-    # Show only active dojos in Japan on DojoMap
+    # Show only active dojos in Japan area on DojoMap
     if dojo[:country][:countryName] == "Japan"
+
       # Skip if not existing or marked at Inactive by Japan DB
       next if zen2japan[dojo[:name]].nil?
       next if name2is_active[zen2japan[dojo[:name]]] == false
