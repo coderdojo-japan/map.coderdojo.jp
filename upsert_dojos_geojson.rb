@@ -23,8 +23,9 @@ end
 #pp zen2japan; p zen2japan.count; p zen2japan['Kunitachi'] ; exit
 
 # Japan's name to text/logo by Hash
-name2text = {}
-name2logo = {}
+name2text      = {}
+name2logo      = {}
+name2is_active = {}
 dojos_japan.each do |dojo|
   name2text[dojo[:name]] = "<a href='#{dojo[:url]}' target='_blank' rel='noopener'>Webサイトを見る</a><br />"
 
@@ -32,10 +33,13 @@ dojos_japan.each do |dojo|
   # Details: https://github.com/coderdojo-japan/map.coderdojo.jp/issues/1
   #name2logo[dojo[:name]] = "<a href='#{dojo[:url]}' target='_blank' rel='noopener'><img src='#{dojo[:logo]}' loading='lazy' /></a><br />"
   #p name2logo[dojo[:name]]
+
+  name2is_active[dojo[:name]] = dojo[:is_active]
 end
 
 
-features = []
+features    = []
+japan_count = 0
 dojos_earth.each do |dojo|
   # 活動していない道場は除外
   #
@@ -45,10 +49,21 @@ dojos_earth.each do |dojo|
   # 2: Register ahead
   # 3: 満員
   # 4: 活動していません
-  if dojo[:geoPoint] && dojo[:stage] != 4
+  if dojo[:geoPoint] && dojo[:country] && dojo[:stage] != 4
 
-    # Conver name in Zen into name in Japan by Hash
-    dojo[:name] = zen2japan[dojo[:name]] if zen2japan[dojo[:name]]
+    # Show only active dojos in Japan on DojoMap
+    if dojo[:country][:countryName] == "Japan"
+      # Skip if not existing or marked at Inactive by Japan DB
+      next if zen2japan[dojo[:name]].nil?
+      next if name2is_active[zen2japan[dojo[:name]]] == false
+
+      # Conver name in Zen into name in Japan by Hash
+      dojo[:name] = zen2japan[dojo[:name]] if zen2japan[dojo[:name]]
+
+      # Count active dojo in Japan displayed on DojoMap
+      japan_count = japan_count.succ
+      p "#{japan_count.to_s.rjust(3, '0')}: #{dojo[:name]}"
+    end
 
     features << {
       type: "Feature",
