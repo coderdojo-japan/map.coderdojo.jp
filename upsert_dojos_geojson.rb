@@ -73,8 +73,9 @@ dojos_earth.each do |dojo|
         coordinates: [dojo[:geoPoint][:lon], dojo[:geoPoint][:lat]],
       },
       properties: {
-        'marker-size'  => 'medium',
-        'marker-color' => 'rgba(46,154,217, 0.5)',
+        'marker-size'   => 'medium',
+        'marker-color'  => 'rgba(46,154,217, 0.5)',
+        #'marker-symbol' => 'coderdojo', # MEMO: Set YOUR-API-KEY in index.html to enable this.
         description: "#{name2logo[dojo[:name]]}#{dojo[:name]}<br />#{name2text[dojo[:name]]}<a target='_blank' href='http://zen.coderdojo.com/dojos/#{dojo[:urlSlug]}'>連絡先を見る</a>",
       }
     }
