@@ -26,12 +26,12 @@ jobs:
     - name: 📥 Download codes from GitHub
       uses: actions/checkout@v3
       with:
-        fetch-depth: 1
+        fetch-depth: 2
 
     - name: 💎 Set up Ruby
       uses: ruby/setup-ruby@v1
-      #with:
-      #  bundler-cache: true
+      with:
+        bundler-cache: true
         #ruby-version: 3.2 # Not necessary if .ruby-version is given
 
     - name: 🧪 Install Ruby gems
