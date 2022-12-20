@@ -2,8 +2,14 @@
 url:     "https://map.coderdojo.jp"
 baseurl: "/" # the subpath of your site, e.g. /blog
 
-#exclude:
-#  - Rakefile
+exclude:
+  - README.md
+  - LICENSE.md
+  - CODE_OF_CONDUCT.md
+  - dojo2dojo.csv
+  - get_dojos_from_earth.rb
+  - get_dojos_from_japan.rb
+  - upsert_dojos_geojson.rb
 
 # See the official README for more options:
 # https://github.com/digitalsparky/jekyll-minifier
