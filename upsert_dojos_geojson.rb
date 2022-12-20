@@ -15,7 +15,7 @@ File.open("dojos_japan.json") do |file|
   dojos_japan = JSON.load(file, nil, symbolize_names: true, create_additions: false)
 end
 
-File.foreach("dojo2dojo.txt") do |line|
+File.foreach("dojo2dojo.csv") do |line|
   japan_name, zen_name = line.split("\t").map(&:chomp)
   next if japan_name.empty? or zen_name.empty?
   zen2japan[zen_name] = japan_name
