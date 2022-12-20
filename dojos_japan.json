@@ -2748,5 +2748,25 @@
     "is_active": true,
     "prefecture": "富山",
     "linked_text": "<a href='https://sites.google.com/coderdojo.com/funahashi/'>舟橋</a>（富山）"
+  },
+  {
+    "id": 294,
+    "url": "https://nara-coderdojo.github.io/",
+    "name": "平群",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "293423",
+    "is_active": true,
+    "prefecture": "奈良",
+    "linked_text": "<a href='https://nara-coderdojo.github.io/'>平群</a>（奈良）"
+  },
+  {
+    "id": 295,
+    "url": "https://zen.coderdojo.com/dojos/jp/minato-tokyo/tamachi-vmware",
+    "name": "田町@VMware",
+    "logo": "https://coderdojo.jp/img/dojos/tamachi-vmware.webp",
+    "order": "131032",
+    "is_active": true,
+    "prefecture": "東京",
+    "linked_text": "<a href='https://zen.coderdojo.com/dojos/jp/minato-tokyo/tamachi-vmware'>田町@VMware</a>（東京）"
   }
 ]

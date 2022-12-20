@@ -4126,27 +4126,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "We All Code",
-    "geoPoint": {
-      "lat": 41.8956094,
-      "lon": -87.7016721
-    },
-    "country": {
-      "countryName": "United States",
-      "alpha2": "US"
-    },
-    "stage": 2,
-    "urlSlug": "us/illinois/chicago-il/we-all-code",
-    "startTime": "00:00:00",
-    "endTime": "00:00:00",
-    "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "Every week, Saturdays and Sundays, year-round.",
-    "day": 7,
-    "id": "9df703c5-bfd3-494d-aaf0-ed726c27978d"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "British Colombia @ Moricetown Elementary",
     "geoPoint": {
       "lat": 55.0190279,
@@ -8206,30 +8185,6 @@
     "alternativeFrequency": "Once a month",
     "day": null,
     "id": "dee9dfb4-1373-49bd-a184-626734cdae38"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Riccione @ Ventooinirico",
-    "geoPoint": {
-      "lat": 43.9992942,
-      "lon": 12.627494299999967
-    },
-    "country": {
-      "countryName": "Italy",
-      "continent": "EU",
-      "alpha2": "IT",
-      "alpha3": "ITA",
-      "countryNumber": "380"
-    },
-    "stage": 3,
-    "urlSlug": "it/riccione-province-of-rimini/riccione-ventooinirico",
-    "startTime": "15:30:00",
-    "endTime": "18:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "first",
-    "day": 6,
-    "id": "67a7ee9c-a913-4c1b-9d2f-ffaaff4c16b4"
   },
   {
     "entity$": "-/cd/dojos",
@@ -15757,6 +15712,27 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Nagaokakyo, Kyoto",
+    "geoPoint": {
+      "lat": 34.9219724,
+      "lon": 135.6916446
+    },
+    "country": {
+      "countryName": "Japan",
+      "alpha2": "JP"
+    },
+    "stage": 1,
+    "urlSlug": "jp/nagaokakyo-city-kyoto/nagaokakyo-kyoto",
+    "startTime": "13:30:00",
+    "endTime": "16:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "Third Saturday, 3pm-5pm",
+    "day": 7,
+    "id": "fa0ae0bf-b6b3-4d57-975b-6f095ab89c7a"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Tradate @ MakerSchool",
     "geoPoint": {
       "lat": 45.71357749620116,
@@ -18592,30 +18568,6 @@
     "alternativeFrequency": "First DoJo is April 27, 2014 - 12PM to 3PM",
     "day": null,
     "id": "44eaaa10-34b3-487e-ba84-3e7d219b95b3"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Saint Charles/BGCST",
-    "geoPoint": {
-      "lat": 38.7960589,
-      "lon": -90.48106210000003
-    },
-    "country": {
-      "countryName": "United States",
-      "continent": "NA",
-      "alpha2": "US",
-      "alpha3": "USA",
-      "countryNumber": "840"
-    },
-    "stage": 2,
-    "urlSlug": "us/saint-charles-mo/saint-charles-bgcst",
-    "startTime": "15:00:00",
-    "endTime": "17:00:00",
-    "private": 1,
-    "frequency": "1/w",
-    "alternativeFrequency": null,
-    "day": 5,
-    "id": "458f21b6-4086-4dd8-8444-1a967abc9e0d"
   },
   {
     "entity$": "-/cd/dojos",
@@ -23482,6 +23434,27 @@
     "alternativeFrequency": "last",
     "day": 7,
     "id": "3d1dc877-932f-4e0d-a160-7ef254e5dbd7"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "We All Code",
+    "geoPoint": {
+      "lat": 41.8956094,
+      "lon": -87.7016721
+    },
+    "country": {
+      "countryName": "United States",
+      "alpha2": "US"
+    },
+    "stage": 2,
+    "urlSlug": "us/illinois/chicago-il/we-all-code",
+    "startTime": "09:00:00",
+    "endTime": "14:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": "Every week, Saturdays and Sundays, year-round.",
+    "day": 6,
+    "id": "9df703c5-bfd3-494d-aaf0-ed726c27978d"
   },
   {
     "entity$": "-/cd/dojos",
@@ -28462,30 +28435,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Apex , NC",
-    "geoPoint": {
-      "lat": 35.7539543,
-      "lon": -78.849447
-    },
-    "country": {
-      "countryName": "United States",
-      "continent": "NA",
-      "alpha2": "US",
-      "alpha3": "USA",
-      "countryNumber": "840"
-    },
-    "stage": 3,
-    "urlSlug": "us/apex-nc/apex-nc",
-    "startTime": "10:30:00",
-    "endTime": "12:30:00",
-    "private": 0,
-    "frequency": "1/w",
-    "alternativeFrequency": null,
-    "day": 6,
-    "id": "b0d698a8-40bc-403e-b2b0-2ecffb459db2"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Killybegs @St Catherines",
     "geoPoint": {
       "lat": 54.6347625,
@@ -29071,6 +29020,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Apex , NC",
+    "geoPoint": {
+      "lat": 35.7539543,
+      "lon": -78.849447
+    },
+    "country": {
+      "countryName": "United States",
+      "continent": "NA",
+      "alpha2": "US",
+      "alpha3": "USA",
+      "countryNumber": "840"
+    },
+    "stage": 3,
+    "urlSlug": "us/apex-nc/apex-nc",
+    "startTime": "10:30:00",
+    "endTime": "12:30:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "b0d698a8-40bc-403e-b2b0-2ecffb459db2"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Milan, IN @ Milan DSL",
     "geoPoint": {
       "lat": 39.12883799999999,
@@ -29305,30 +29278,6 @@
     "alternativeFrequency": "monthly",
     "day": null,
     "id": "371e3de5-6294-4667-a966-c45d8c852b81"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "CIT, Bishopstown, Cork Advanced",
-    "geoPoint": {
-      "lat": 51.886054345731814,
-      "lon": -8.533587455749512
-    },
-    "country": {
-      "countryName": "Ireland",
-      "continent": "EU",
-      "alpha2": "IE",
-      "alpha3": "IRL",
-      "countryNumber": "372"
-    },
-    "stage": 1,
-    "urlSlug": "ie/cork/cit-bishopstown-cork-advanced",
-    "startTime": "16:00:00",
-    "endTime": "18:00:00",
-    "private": 0,
-    "frequency": "1/w",
-    "alternativeFrequency": null,
-    "day": 5,
-    "id": "9ac2133e-7fc3-4d51-9b09-959f0830644e"
   },
   {
     "entity$": "-/cd/dojos",
@@ -40192,30 +40141,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "RTP (Raleigh)",
-    "geoPoint": {
-      "lat": 35.7897335,
-      "lon": -78.6509201
-    },
-    "country": {
-      "countryName": "United States",
-      "countryNumber": 840,
-      "continent": "NA",
-      "alpha2": "US",
-      "alpha3": "USA"
-    },
-    "stage": 2,
-    "urlSlug": "us/raleigh-nc/rtp-raleigh",
-    "startTime": "16:30:00",
-    "endTime": "18:30:00",
-    "private": 0,
-    "frequency": "2/m",
-    "alternativeFrequency": "Every other Sunday, 4:30-6pm",
-    "day": 7,
-    "id": "22cbd50a-40db-44e5-88b3-04462772a8bb"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Cologne",
     "geoPoint": {
       "lat": 50.937531,
@@ -42247,27 +42172,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Nagaokakyo, Kyoto",
-    "geoPoint": {
-      "lat": 34.9226049,
-      "lon": 135.69980429999998
-    },
-    "country": {
-      "countryName": "Japan",
-      "alpha2": "JP"
-    },
-    "stage": 1,
-    "urlSlug": "jp/2-3-1-kotari-nagaokakyo-shi-kyoto-617-0833-japan/nagaokakyo-kyoto",
-    "startTime": null,
-    "endTime": null,
-    "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "Third Saturday, 3pm-5pm",
-    "day": null,
-    "id": "fa0ae0bf-b6b3-4d57-975b-6f095ab89c7a"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Athens,@Microsoft Coding Adventure Class",
     "geoPoint": {
       "lat": 38.0381497,
@@ -43369,6 +43273,30 @@
     "alternativeFrequency": null,
     "day": 2,
     "id": "0d6a71af-0de7-416e-b071-9675f43a0644"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "CodeSchool@ForMyCampus",
+    "geoPoint": {
+      "lat": 24.947073391388578,
+      "lon": 67.0628004188713
+    },
+    "country": {
+      "countryName": "Pakistan",
+      "continent": "AS",
+      "alpha2": "PK",
+      "alpha3": "PAK",
+      "countryNumber": "586"
+    },
+    "stage": 1,
+    "urlSlug": "pk/karachi/codeschool-formycampus",
+    "startTime": "14:00:00",
+    "endTime": "19:00:00",
+    "private": 1,
+    "frequency": "1/w",
+    "alternativeFrequency": "4th",
+    "day": 5,
+    "id": "f08e3109-5141-467b-be7d-33d9776c72e7"
   },
   {
     "entity$": "-/cd/dojos",
@@ -47341,6 +47269,30 @@
     "alternativeFrequency": "毎週第4日曜日 10:00 - 12:00",
     "day": null,
     "id": "1d5eaad4-447f-4397-b80b-356a76c4146b"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Saint Charles/BGCST",
+    "geoPoint": {
+      "lat": 38.7960589,
+      "lon": -90.48106210000003
+    },
+    "country": {
+      "countryName": "United States",
+      "continent": "NA",
+      "alpha2": "US",
+      "alpha3": "USA",
+      "countryNumber": "840"
+    },
+    "stage": 4,
+    "urlSlug": "us/saint-charles-mo/saint-charles-bgcst",
+    "startTime": "15:00:00",
+    "endTime": "17:00:00",
+    "private": 1,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 5,
+    "id": "458f21b6-4086-4dd8-8444-1a967abc9e0d"
   },
   {
     "entity$": "-/cd/dojos",
@@ -57802,6 +57754,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Dolton@quetice code club",
+    "geoPoint": {
+      "lat": 6.472519899614285,
+      "lon": 3.568583938667416
+    },
+    "country": {
+      "countryName": "Nigeria",
+      "continent": "AF",
+      "alpha2": "NG",
+      "alpha3": "NGA",
+      "countryNumber": "566"
+    },
+    "stage": 4,
+    "urlSlug": "ng/lagos/dolton-quetice-code-club",
+    "startTime": "02:00:00",
+    "endTime": "03:30:00",
+    "private": 1,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 3,
+    "id": "c7295b37-a209-4bf3-8468-ab00dbded556"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Floreat@Floreat Park Primary School",
     "geoPoint": {
       "lat": -31.9368438,
@@ -65038,30 +65014,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Anna Paulowna @ Kopgroep Spoorbuurt",
-    "geoPoint": {
-      "lat": 52.8664875,
-      "lon": 4.8141904000000295
-    },
-    "country": {
-      "countryName": "Netherlands",
-      "continent": "EU",
-      "alpha2": "NL",
-      "alpha3": "NLD",
-      "countryNumber": "528"
-    },
-    "stage": 1,
-    "urlSlug": "nl/anna-paulowna/anna-paulowna-kopgroep-spoorbuurt",
-    "startTime": "10:30:00",
-    "endTime": "12:30:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "first",
-    "day": 6,
-    "id": "623cca60-57bd-462b-a7b6-d7252641ed7f"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Prijedor @ CircleHub",
     "geoPoint": {
       "lat": 44.9778368,
@@ -68092,30 +68044,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Durham @ Clayport Library",
-    "geoPoint": {
-      "lat": 54.7780486,
-      "lon": -1.5754164999999603
-    },
-    "country": {
-      "countryName": "United Kingdom",
-      "continent": "EU",
-      "alpha2": "GB",
-      "alpha3": "GBR",
-      "countryNumber": "826"
-    },
-    "stage": 1,
-    "urlSlug": "gb/durham/durham-clayport-library-1",
-    "startTime": "10:00:00",
-    "endTime": "12:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "3rd",
-    "day": 6,
-    "id": "b8dcb1e6-2b66-4ae6-b755-cb54a54fb6b4"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Waterford City @ WETNS",
     "geoPoint": {
       "lat": 52.2604619,
@@ -68137,6 +68065,30 @@
     "alternativeFrequency": "2nd",
     "day": 2,
     "id": "7ff763bf-9735-4ae8-a3ed-43071c1d6162"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Durham @ Clayport Library",
+    "geoPoint": {
+      "lat": 54.7780486,
+      "lon": -1.5754164999999603
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/durham/durham-clayport-library-1",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "3rd",
+    "day": 6,
+    "id": "b8dcb1e6-2b66-4ae6-b755-cb54a54fb6b4"
   },
   {
     "entity$": "-/cd/dojos",
@@ -68542,30 +68494,6 @@
     "alternativeFrequency": null,
     "day": 3,
     "id": "79ed89e3-fe80-4a41-bd69-97879ae7ffd7"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Dolton@quetice code club",
-    "geoPoint": {
-      "lat": 6.472519899614285,
-      "lon": 3.568583938667416
-    },
-    "country": {
-      "countryName": "Nigeria",
-      "continent": "AF",
-      "alpha2": "NG",
-      "alpha3": "NGA",
-      "countryNumber": "566"
-    },
-    "stage": 1,
-    "urlSlug": "ng/lagos/dolton-quetice-code-club",
-    "startTime": "02:00:00",
-    "endTime": "03:30:00",
-    "private": 1,
-    "frequency": "1/w",
-    "alternativeFrequency": null,
-    "day": 3,
-    "id": "c7295b37-a209-4bf3-8468-ab00dbded556"
   },
   {
     "entity$": "-/cd/dojos",
@@ -70138,6 +70066,30 @@
     "alternativeFrequency": "every Monday evening, 18.00-20.00h",
     "day": 7,
     "id": "1b605300-d627-4a35-b135-2ed1c67f30e8"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "たかおか@Fablab",
+    "geoPoint": {
+      "lat": 36.7581847,
+      "lon": 137.0224687
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/takaoka-city-toyama/takaokafablab",
+    "startTime": "10:00:00",
+    "endTime": "12:30:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "da06459a-8b91-459b-8c2c-a81b46c791d7"
   },
   {
     "entity$": "-/cd/dojos",
@@ -84322,6 +84274,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Dean Court",
+    "geoPoint": {
+      "lat": 51.7479999,
+      "lon": -1.3121206000000711
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 0,
+    "urlSlug": "gb/oxford/dean-court",
+    "startTime": "11:00:00",
+    "endTime": "12:30:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "25 January is our first session, we will run it monthly but not sure yet which week in the month.",
+    "day": 6,
+    "id": "b760d811-566a-4468-ac7a-c85ce3155cb1"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "St Ives Cambridgeshire @ Corn Exchange",
     "geoPoint": {
       "lat": 52.3230867,
@@ -84391,30 +84367,6 @@
     "alternativeFrequency": "Please see the Arapahoe Library District Website for session times",
     "day": 2,
     "id": "f36b224e-4f04-4b03-afa1-ebc9c014535d"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Dean Court",
-    "geoPoint": {
-      "lat": 51.7479999,
-      "lon": -1.3121206000000711
-    },
-    "country": {
-      "countryName": "United Kingdom",
-      "continent": "EU",
-      "alpha2": "GB",
-      "alpha3": "GBR",
-      "countryNumber": "826"
-    },
-    "stage": 2,
-    "urlSlug": "gb/oxford/dean-court",
-    "startTime": "11:00:00",
-    "endTime": "12:30:00",
-    "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "25 January is our first session, we will run it monthly but not sure yet which week in the month.",
-    "day": 6,
-    "id": "b760d811-566a-4468-ac7a-c85ce3155cb1"
   },
   {
     "entity$": "-/cd/dojos",
@@ -86746,30 +86698,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Open Source Academy, Karachi@National Incubation Center",
-    "geoPoint": {
-      "lat": 24.929064,
-      "lon": 67.1133234
-    },
-    "country": {
-      "countryName": "Pakistan",
-      "continent": "AS",
-      "alpha2": "PK",
-      "alpha3": "PAK",
-      "countryNumber": "586"
-    },
-    "stage": 1,
-    "urlSlug": "pk/karachi/open-source-academy-karachi-national-incubation-center",
-    "startTime": "08:00:00",
-    "endTime": "13:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "4th",
-    "day": 6,
-    "id": "f08e3109-5141-467b-be7d-33d9776c72e7"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Sammamish Library",
     "geoPoint": {
       "lat": 47.59950768320416,
@@ -86911,30 +86839,6 @@
     "alternativeFrequency": "Nach Bedarf ... Ankündigungen über Facebook und Twitter",
     "day": null,
     "id": "9fdffbf2-e3cc-4622-859f-c0e154e9d9a3"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Bayard @ 3SSISTEMI",
-    "geoPoint": {
-      "lat": 40.9241026,
-      "lon": 14.2060117
-    },
-    "country": {
-      "countryName": "Italy",
-      "continent": "EU",
-      "alpha2": "IT",
-      "alpha3": "ITA",
-      "countryNumber": "380"
-    },
-    "stage": 1,
-    "urlSlug": "it/mugnano-di-napoli-metropolitan-city-of-naples/bayard-3ssistemi",
-    "startTime": "15:00:00",
-    "endTime": "17:00:00",
-    "private": 0,
-    "frequency": "1/w",
-    "alternativeFrequency": null,
-    "day": 6,
-    "id": "bf56e8f0-a51e-4672-b6ab-418743f7a72c"
   },
   {
     "entity$": "-/cd/dojos",
@@ -87673,30 +87577,6 @@
     "alternativeFrequency": null,
     "day": 5,
     "id": "336aec91-d550-4a17-a117-b03dec054a2d"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Shintokorozawa",
-    "geoPoint": {
-      "lat": 35.8040695,
-      "lon": 139.451275
-    },
-    "country": {
-      "countryName": "Japan",
-      "countryNumber": 392,
-      "continent": "AS",
-      "alpha2": "JP",
-      "alpha3": "JPN"
-    },
-    "stage": 0,
-    "urlSlug": "jp/ri4-ben3-qi2-yu4-xian4-suo3-ze2-shi4/shintokorozawa",
-    "startTime": "00:00:00",
-    "endTime": "00:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "2nd",
-    "day": 7,
-    "id": "b7047446-18b0-4821-a49e-a11543098677"
   },
   {
     "entity$": "-/cd/dojos",
@@ -94555,7 +94435,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 0,
+    "stage": 4,
     "urlSlug": "gb/darlington/darlington-firthmoor",
     "startTime": "16:30:00",
     "endTime": "18:30:00",
@@ -94684,6 +94564,27 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Potsdam @ HPI",
+    "geoPoint": {
+      "lat": 52.39362999999999,
+      "lon": 13.13175
+    },
+    "country": {
+      "countryName": "Germany",
+      "alpha2": "DE"
+    },
+    "stage": 1,
+    "urlSlug": "de/brandenburg/potsdam/potsdam-hpi",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "Im Jahr 2023 wollen wir uns jeden zweiten Samstag im Monat treffen",
+    "day": 6,
+    "id": "0be123e7-c9be-4002-a3cf-f0c8550f749a"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Brickodeurs::Saint Gratien 95",
     "geoPoint": {
       "lat": 48.970259,
@@ -94702,27 +94603,6 @@
     "alternativeFrequency": "Every Saturday, 10am-12am",
     "day": 6,
     "id": "3062080b-919e-462f-9cd0-08a7ae439d80"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Potsdam @ HPI",
-    "geoPoint": {
-      "lat": 52.39362999999999,
-      "lon": 13.13175
-    },
-    "country": {
-      "countryName": "Germany",
-      "alpha2": "DE"
-    },
-    "stage": 1,
-    "urlSlug": "de/potsdam/potsdam-hpi",
-    "startTime": "00:00:00",
-    "endTime": "00:00:00",
-    "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "Aktuell keine regelmäßigen Treffen",
-    "day": 6,
-    "id": "0be123e7-c9be-4002-a3cf-f0c8550f749a"
   },
   {
     "entity$": "-/cd/dojos",
@@ -95764,30 +95644,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Dungannon, Co. Tyrone @ Dungannon Library",
-    "geoPoint": {
-      "lat": 54.504905,
-      "lon": -6.769314899999999
-    },
-    "country": {
-      "countryName": "United Kingdom",
-      "continent": "EU",
-      "alpha2": "GB",
-      "alpha3": "GBR",
-      "countryNumber": "826"
-    },
-    "stage": 1,
-    "urlSlug": "gb/dungannon/dungannon-co-tyrone-dungannon-library",
-    "startTime": "14:00:00",
-    "endTime": "16:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "2nd",
-    "day": 6,
-    "id": "0da27b1d-573d-44f0-89a4-59f711381608"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Airport Business Park, Cork @ IBM Ireland",
     "geoPoint": {
       "lat": 51.8500653,
@@ -96112,5 +95968,293 @@
     "alternativeFrequency": "3rd",
     "day": 7,
     "id": "cb5e54eb-717b-42ee-88a3-fa7eb1b66fc5"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Dublin 7 @An Siol CDP",
+    "geoPoint": {
+      "lat": 53.35236140000001,
+      "lon": -6.2835386
+    },
+    "country": {
+      "countryName": "Ireland",
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "countryNumber": "372"
+    },
+    "stage": 1,
+    "urlSlug": "ie/dublin/dublin-7-an-siol-cdp",
+    "startTime": "14:45:00",
+    "endTime": "17:15:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "42ec6720-5a7d-45f2-b08d-b46cde6f7c59"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Anna Paulowna @ Kopgroep Spoorbuurt",
+    "geoPoint": {
+      "lat": 52.8664875,
+      "lon": 4.8141904000000295
+    },
+    "country": {
+      "countryName": "Netherlands",
+      "continent": "EU",
+      "alpha2": "NL",
+      "alpha3": "NLD",
+      "countryNumber": "528"
+    },
+    "stage": 1,
+    "urlSlug": "nl/anna-paulowna/anna-paulowna-kopgroep-spoorbuurt",
+    "startTime": "10:30:00",
+    "endTime": "12:30:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "first",
+    "day": 6,
+    "id": "623cca60-57bd-462b-a7b6-d7252641ed7f"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "CODA ExperienceLab Apeldoorn",
+    "geoPoint": {
+      "lat": 52.2154465,
+      "lon": 5.9586234
+    },
+    "country": {
+      "countryName": "Netherlands",
+      "continent": "EU",
+      "alpha2": "NL",
+      "alpha3": "NLD",
+      "countryNumber": "528"
+    },
+    "stage": 1,
+    "urlSlug": "nl/apeldoorn/coda-experiencelab-apeldoorn",
+    "startTime": "14:00:00",
+    "endTime": "16:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "ee4465a2-2e85-4aa9-bbd9-53b0ea2f7113"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Hammersmith, London @PAN Learning, Old Oak Community Centre",
+    "geoPoint": {
+      "lat": 51.5184627,
+      "lon": -0.2435172
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/london-borough-of-hammersmith-and-fulham-london/hammersmith-london-pan-learning-old-oak-community-centre",
+    "startTime": "10:00:00",
+    "endTime": "14:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "13127fb0-103d-4cb4-ad56-7f7bf5835c58"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Riccione @TasselloMancante",
+    "geoPoint": {
+      "lat": 43.9992942,
+      "lon": 12.627494299999967
+    },
+    "country": {
+      "countryName": "Italy",
+      "continent": "EU",
+      "alpha2": "IT",
+      "alpha3": "ITA",
+      "countryNumber": "380"
+    },
+    "stage": 3,
+    "urlSlug": "it/riccione-province-of-rimini/riccione-tassellomancante",
+    "startTime": "15:30:00",
+    "endTime": "18:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "first",
+    "day": 6,
+    "id": "67a7ee9c-a913-4c1b-9d2f-ffaaff4c16b4"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "CIT, Bishopstown, Cork Advanced",
+    "geoPoint": {
+      "lat": 51.886054345731814,
+      "lon": -8.533587455749512
+    },
+    "country": {
+      "countryName": "Ireland",
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "countryNumber": "372"
+    },
+    "stage": 4,
+    "urlSlug": "ie/cork/cit-bishopstown-cork-advanced",
+    "startTime": "16:00:00",
+    "endTime": "18:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 5,
+    "id": "9ac2133e-7fc3-4d51-9b09-959f0830644e"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Bolsover@Bolsover Library",
+    "geoPoint": {
+      "lat": 53.2283821,
+      "lon": -1.2916352
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/bolsover-chesterfield/bolsover-bolsover-library",
+    "startTime": "15:45:00",
+    "endTime": "16:45:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 1,
+    "id": "9b2fba2f-ff32-4c46-862a-0cdb7a99887f"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Code@Ghaziabad",
+    "geoPoint": {
+      "lat": 28.6891368,
+      "lon": 77.4559226
+    },
+    "country": {
+      "countryName": "India",
+      "continent": "AS",
+      "alpha2": "IN",
+      "alpha3": "IND",
+      "countryNumber": "356"
+    },
+    "stage": 1,
+    "urlSlug": "in/ghaziabad-uttar-pradesh/code-ghaziabad",
+    "startTime": "10:00:00",
+    "endTime": "12:30:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "2nd",
+    "day": 7,
+    "id": "fa3ee0a1-5adf-43e7-bf6f-b49d132eacb9"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Shintokorozawa",
+    "geoPoint": {
+      "lat": 35.8040695,
+      "lon": 139.451275
+    },
+    "country": {
+      "countryName": "Japan",
+      "countryNumber": 392,
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN"
+    },
+    "stage": 1,
+    "urlSlug": "jp/ri4-ben3-qi2-yu4-xian4-suo3-ze2-shi4/shintokorozawa",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "2nd",
+    "day": 7,
+    "id": "b7047446-18b0-4821-a49e-a11543098677"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Bayard @ 3SSISTEMI",
+    "geoPoint": {
+      "lat": 40.9241026,
+      "lon": 14.2060117
+    },
+    "country": {
+      "countryName": "Italy",
+      "continent": "EU",
+      "alpha2": "IT",
+      "alpha3": "ITA",
+      "countryNumber": "380"
+    },
+    "stage": 1,
+    "urlSlug": "it/mugnano-di-napoli-metropolitan-city-of-naples/bayard-3ssistemi",
+    "startTime": "16:00:00",
+    "endTime": "17:30:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "bf56e8f0-a51e-4672-b6ab-418743f7a72c"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "RTP (Raleigh)",
+    "geoPoint": {
+      "lat": 35.7897335,
+      "lon": -78.6509201
+    },
+    "country": {
+      "countryName": "United States",
+      "countryNumber": 840,
+      "continent": "NA",
+      "alpha2": "US",
+      "alpha3": "USA"
+    },
+    "stage": 2,
+    "urlSlug": "us/raleigh-nc/rtp-raleigh",
+    "startTime": "16:30:00",
+    "endTime": "18:30:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": "Every other Sunday, 4:30-6pm",
+    "day": 7,
+    "id": "22cbd50a-40db-44e5-88b3-04462772a8bb"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Dungannon, Co. Tyrone @ Dungannon Library",
+    "geoPoint": {
+      "lat": 54.504905,
+      "lon": -6.769314899999999
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/dungannon/dungannon-co-tyrone-dungannon-library",
+    "startTime": "14:00:00",
+    "endTime": "16:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "2nd",
+    "day": 6,
+    "id": "0da27b1d-573d-44f0-89a4-59f711381608"
   }
 ]
