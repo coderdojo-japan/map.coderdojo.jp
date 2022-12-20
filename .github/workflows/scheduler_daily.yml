@@ -56,8 +56,10 @@ jobs:
           git config --global user.name  "Yohei Yasukawa"
           git config --global user.email "yohei@yasslab.jp"
           git checkout main
+          git add Gemfile.lock
           git add dojos_earth.json
           git add dojos_japan.json
+          git add dojos.geojson
           git commit -m '🤖 Upsert Earth/Japan data for DojoMap'
           git push origin main
         fi
