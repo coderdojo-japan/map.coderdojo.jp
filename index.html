@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>地図から探す (DojoMap) - CoderDojo Japan</title>
+    <meta content="地図から探す (DojoMap) - CoderDojo Japan" property="og:title">
+    <meta content="https://map.coderdojo.jp/" property="og:url">
+    <meta content="715330868"                 property="fb:admins">
+    <meta content="805184859580207"           property="fb:app_id">
+    <meta content="地図を使って最寄りの CoderDojo を探してみよう。" name="description">
+    <meta content="地図を使って最寄りの CoderDojo を探してみよう。" property="og:description">
+    <meta content="https://map.coderdojo.jp/images/ogp.png" property="og:image">
+    <meta content="image/png"       property="og:image:type">
+    <meta content="CoderDojo Japan" property="og:site_name">
+    <meta content="website"         property="og:type">
+    <meta content="summary_large_image"                             name="twitter:card">
+    <meta content="@CoderDojoJapan"                                 name="twitter:site">
+    <meta content="@CoderDojoJapan"                                 name="twitter:creator">
+    <meta content="地図から探す (DojoMap) - CoderDojo Japan"        name="twitter:title">
+    <meta content="地図を使って最寄りの CoderDojo を探してみよう。" name="twitter:description">
+    <meta content="https://map.coderdojo.jp/images/ogp.png"         name="twitter:image">
+    <meta content="https://map.coderdojo.jp/"                       name="twitter:url">
+
+    <!-- Icons for iOS, Android, and Windows -->
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/images/icons/ms-icon-144x144.png">
+    <meta name="theme-color"             content="#ffffff">
+    <link href="/manifest.json"          rel="manifest">
+    <link href="/images/icons/safari-pinned-tab.svg"    rel="mask-icon" color="#1373ce">
+    <link href="/images/icons/apple-icon-57x57.png"     rel="apple-touch-icon" sizes="57x57">
+    <link href="/images/icons/apple-icon-60x60.png"     rel="apple-touch-icon" sizes="60x60">
+    <link href="/images/icons/apple-icon-72x72.png"     rel="apple-touch-icon" sizes="72x72">
+    <link href="/images/icons/apple-icon-76x76.png"     rel="apple-touch-icon" sizes="76x76">
+    <link href="/images/icons/apple-icon-114x114.png"   rel="apple-touch-icon" sizes="114x114">
+    <link href="/images/icons/apple-icon-120x120.png"   rel="apple-touch-icon" sizes="120x120">
+    <link href="/images/icons/apple-icon-144x144.png"   rel="apple-touch-icon" sizes="144x144">
+    <link href="/images/icons/apple-icon-152x152.png"   rel="apple-touch-icon" sizes="152x152">
+    <link href="/images/icons/apple-icon-180x180.png"   rel="apple-touch-icon" sizes="180x180">
+    <link href="/images/icons/favicon-16x16.png"        rel="icon" sizes="16x16"   type="image/png">
+    <link href="/images/icons/favicon-32x32.png"        rel="icon" sizes="32x32"   type="image/png">
+    <link href="/images/icons/favicon-96x96.png"        rel="icon" sizes="96x96"   type="image/png">
+    <link href="/images/icons/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png">
+    <style>
+      body, html {
+        width:  100%;
+        height: 100%;
+        margin:  0;
+        padding: 0;
+      }
+      .geolonia {
+        width:  100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <script id="geojson" type="application/json"></script>
+    <div
+      class="geolonia"
+      data-geojson="./dojos.geojson"
+      data-lat="35.6809591"
+      data-lng="139.7673068"
+      data-zoom="5"
+      data-marker="off"
+      data-custom-marker="#custom-marker"
+      data-custom-marker-offset="0, 0"
+      data-geolocate-control="on"
+      data-cluster="off"
+    ></div>
+
+    <script
+      type="text/javascript"
+      src="https://cdn.geolonia.com/v1/embed?geolonia-api-key=YOUR-API-KEY"
+    ></script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-62337761-10"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-62337761-10');
+    </script>
+  </body>
+</html>
