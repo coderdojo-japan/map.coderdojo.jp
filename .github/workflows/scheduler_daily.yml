@@ -64,10 +64,33 @@ jobs:
       env:
         GITHUB_TOKEN:
 
+    - name: 🔧 Build & Test
+      run: |
+        JEKYLL_ENV=production bundle exec jekyll build
+        JEKYLL_ENV=production bundle exec jekyll doctor
+        # SKIP_BUILD=true       bundle exec rake test
+
+    # This is NOT for security reason but for others, especially who fork,
+    # to easier find out which API key they need to replace with their own.
+    # Check out the official tutorial for details: https://docs.geolonia.com/tutorial
+    - name: 🔑 Pass Geolonia YOUR-API-KEY from secrets
+      env:
+        GEOLONIA_API_KEY: ${{ secrets.GEOLONIA_API_KEY }}
+      run: |
+        ruby -i -pe '$_.gsub!("geolonia-api-key=YOUR-API-KEY",
+                              "geolonia-api-key=${{ env.GEOLONIA_API_KEY }}")' _site/index.html
+
+    - name: 🚀 Deploy to GitHub Pages
+      if:   github.ref == 'refs/heads/main' && job.status == 'success'
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        personal_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir:    ./_site
+
     - name: 🚨 Notify if tasks in GitHub Actions failed
       env:
         IDOBATA_GITHUB_ACTIONS: ${{ secrets.IDOBATA_GITHUB_ACTIONS }}
-      if: failure() && (env.IDOBATA_GITHUB_ACTIONS != null)
+      if: always() && (env.IDOBATA_GITHUB_ACTIONS != null)
       uses: mahaker/actions-idobata@v1.1.2
       with:
         hookUrl: ${{ secrets.IDOBATA_GITHUB_ACTIONS }}
