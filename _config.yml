@@ -1,0 +1,18 @@
+# the base hostname & protocol for your site, e.g. http://example.com
+url:     "https://map.coderdojo.jp"
+baseurl: "/" # the subpath of your site, e.g. /blog
+
+#exclude:
+#  - Rakefile
+
+# See the official README for more options:
+# https://github.com/digitalsparky/jekyll-minifier
+#jekyll-minifier:
+#  preserve_php: false
+#  compress_css: false        # Comppressed by Sass. No need to set this 'true'
+#  compress_javascript: false # TODO: Setting this 'true' fails to build files.
+#  compress_json: true
+#  simple_doctype: false
+#  preserve_line_breaks: false
+#  simple_boolean_attributes: false
+#  compress_js_templates: false
