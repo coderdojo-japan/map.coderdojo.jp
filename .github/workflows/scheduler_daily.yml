@@ -92,7 +92,7 @@ jobs:
     - name: 🚨 Notify if tasks in GitHub Actions failed
       env:
         IDOBATA_GITHUB_ACTIONS: ${{ secrets.IDOBATA_GITHUB_ACTIONS }}
-      if: always() && (env.IDOBATA_GITHUB_ACTIONS != null)
+      if: failure() && (env.IDOBATA_GITHUB_ACTIONS != null)
       uses: mahaker/actions-idobata@v1.1.2
       with:
         hookUrl: ${{ secrets.IDOBATA_GITHUB_ACTIONS }}
