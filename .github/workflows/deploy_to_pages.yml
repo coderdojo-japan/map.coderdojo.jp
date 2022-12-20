@@ -38,7 +38,7 @@ jobs:
         GEOLONIA_API_KEY: ${{ secrets.GEOLONIA_API_KEY }}
       run: |
         ruby -i -pe '$_.gsub!("geolonia-api-key=YOUR-API-KEY",
-                              "geolonia-api-key=${{ env.GEOLONIA_API_KEY }}")' index.html
+                              "geolonia-api-key=${{ env.GEOLONIA_API_KEY }}")' _site/index.html
 
     - name: 🚀 Deploy to GitHub Pages
       if:   github.ref == 'refs/heads/main' && job.status == 'success'
