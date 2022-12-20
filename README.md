@@ -33,12 +33,12 @@ https://map.coderdojo.jp/
 
 1. CoderDojo Zen から Dojo 情報一覧を取得する（[`dojos_earth.json`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/dojos_earth.json)にある位置情報が欲しい）
    ```
-   $ ./get-dojos-from-earth.rb
+   $ ./get_dojos_from_earth.rb
    ```
 
 1. CoderDojo Japan から Dojo 情報一覧を取得する（[`dojos_japan.json`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/dojos_japan.json)にある詳細情報が欲しい）
    ```
-   $ ./get-dojos-from-japan.rb
+   $ ./get_dojos_from_japan.rb
    ```
 
 1. 上記２つの取得結果を組み合わせて [`dojos.geojson`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/dojos.geojson) ファイルを生成する
