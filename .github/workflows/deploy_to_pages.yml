@@ -1,5 +1,5 @@
 # Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+name: Deploy static content to GitHub Pages
 
 # Runs on pushes targeting the default branch
 on:
@@ -12,7 +12,7 @@ on:
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
-  pages:    write # to deploy to Pages
+  pages:    write # to deploy to GitHub Pages
   id-token: write # to verify the deployment originates from an appropriate source
 
 # Allow one concurrent deployment
@@ -44,7 +44,7 @@ jobs:
           ruby -i -pe '$_.gsub!("geolonia-api-key=YOUR-API-KEY",
                                 "geolonia-api-key=${{ env.GEOLONIA_API_KEY }}")' index.html
 
-      - name: "Setup Pages"
+      - name: "Setup GitHub Pages"
         uses: actions/configure-pages@v2
       - name: "Upload artifact"
         uses: actions/upload-pages-artifact@v1
