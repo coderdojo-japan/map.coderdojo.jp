@@ -1,0 +1,76 @@
+name: Scheduler (Daily)
+
+# NOTE: GitHub Action's scheduler is always set to UTC+0. So 9am should be set at 0am for JST (UTC+9)
+# https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events-schedule
+
+# '0 23 * * *' ==  8am in JST (UTC+9)
+# '0 0 * * *'  ==  9am in JST (UTC+9)
+# '0 1 * * *'  == 10am in JST (UTC+9)
+# '59 23 * * *' task will be completed after 9am in JST
+on:
+  schedule:
+    - cron:  '59 23 * * *'
+
+    # [DEBUG ONLY] Every 5 minutes
+    # https://github.blog/changelog/2019-11-01-github-actions-scheduled-jobs-maximum-frequency-is-changing
+    #- cron:  '*/5 * * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 📥 Download codes from GitHub
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 1
+
+    - name: 💎 Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
+        #ruby-version: 3.2 # Not necessary if .ruby-version is given
+
+    - name: 🧪 Install Ruby gems
+      run: |
+        bundle install --jobs 4 --retry 3
+
+    - name: 🌐 Fetch dojo data from farth
+      run: |
+        bundle exec ruby get_dojos_from_earth.rb
+
+    - name: 🗾 Fetch dojo data from Japan
+      run: |
+        bundle exec ruby get_dojos_from_japan.rb
+
+    - name: 📍 Generate DojoMap from Earth/Japan data
+      run: |
+        bundle exec ruby upsert_dojos_geojson.rb
+
+    - name: 🆙 Commit latest data to update DojoMap (if any)
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          git config --global user.name  "Yohei Yasukawa"
+          git config --global user.email "yohei@yasslab.jp"
+          git checkout main
+          git add dojos_earth.json
+          git add dojos_japan.json
+          git commit -m '🤖 Upsert Earth/Japan data for DojoMap'
+          git push origin main
+        fi
+      env:
+        GITHUB_TOKEN:
+
+    - name: 🚨 Notify if tasks in GitHub Actions failed
+      env:
+        IDOBATA_GITHUB_ACTIONS: ${{ secrets.IDOBATA_GITHUB_ACTIONS }}
+      if: failure() && (env.IDOBATA_GITHUB_ACTIONS != null)
+      uses: mahaker/actions-idobata@v1.1.2
+      with:
+        hookUrl: ${{ secrets.IDOBATA_GITHUB_ACTIONS }}
+        format: 'markdown'
+        message: |
+          <span class='label label-danger'>failed</span> @yasulab :warning: GitHub Actions のタスク実行に失敗しました >< :sweat_drops: ([build](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}))
