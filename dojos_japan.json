@@ -2768,5 +2768,15 @@
     "is_active": true,
     "prefecture": "東京",
     "linked_text": "<a href='https://zen.coderdojo.com/dojos/jp/minato-tokyo/tamachi-vmware'>田町@VMware</a>（東京）"
+  },
+  {
+    "id": 296,
+    "url": "https://www.facebook.com/CoderDojoOfuna/",
+    "name": "大船",
+    "logo": "https://coderdojo.jp/img/dojos/ofuna.webp",
+    "order": "142042",
+    "is_active": true,
+    "prefecture": "神奈川",
+    "linked_text": "<a href='https://www.facebook.com/CoderDojoOfuna/'>大船</a>（神奈川）"
   }
 ]
