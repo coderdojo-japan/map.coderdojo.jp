@@ -27,12 +27,17 @@ name2text      = {}
 name2logo      = {}
 name2is_active = {}
 dojos_japan.each do |dojo|
-  name2text[dojo[:name]] = "<a href='#{dojo[:url]}' target='_blank' rel='noopener'>Webサイトを見る</a><br />"
-
-  # TODO: Image cannot be displayed for some reasone?? (API Restriction??)
+  # TODO: Ideally want to change marker image into each CoderDojo logo.
   # Details: https://github.com/coderdojo-japan/map.coderdojo.jp/issues/1
-  #name2logo[dojo[:name]] = "<a href='#{dojo[:url]}' target='_blank' rel='noopener'><img src='#{dojo[:logo]}' loading='lazy' /></a><br />"
-  #p name2logo[dojo[:name]]
+  name2logo[dojo[:name]] = <<~HTML
+    <a href='#{dojo[:url]}' target='_blank' rel='noopener'>
+      <img src='#{dojo[:logo].gsub('.webp', '.png')}' alt='#{dojo[:name]}' loading='lazy' width='100px' />
+    </a><br>
+    #{dojo[:name]}<br>
+    <a href='#{dojo[:url]}' target='_blank' rel='noopener'>Webサイトを見る</a>
+  HTML
+  puts name2logo[dojo[:name]].delete!("\n")
+  puts
 
   name2is_active[dojo[:name]] = dojo[:is_active]
 end
@@ -58,12 +63,12 @@ dojos_earth.each do |dojo|
       next if zen2japan[dojo[:name]].nil?
       next if name2is_active[zen2japan[dojo[:name]]] == false
 
-      # Conver name in Zen into name in Japan by Hash
+      # Convert Zen name into Japan name by Hash
       dojo[:name] = zen2japan[dojo[:name]] if zen2japan[dojo[:name]]
 
-      # Count active dojo in Japan displayed on DojoMap
+      # Count active dojo in Japan displayed on DojoMap for debugging
       japan_count = japan_count.succ
-      p "#{japan_count.to_s.rjust(3, '0')}: #{dojo[:name]}"
+      #p "#{japan_count.to_s.rjust(3, '0')}: #{dojo[:name]}"
     end
 
     features << {
@@ -73,10 +78,10 @@ dojos_earth.each do |dojo|
         coordinates: [dojo[:geoPoint][:lon], dojo[:geoPoint][:lat]],
       },
       properties: {
-        'marker-size'   => 'medium',
-        'marker-color'  => 'rgba(46,154,217, 0.5)',
-        #'marker-symbol' => 'coderdojo', # MEMO: Set YOUR-API-KEY in index.html to enable this.
-        description: "#{name2logo[dojo[:name]]}#{dojo[:name]}<br />#{name2text[dojo[:name]]}<a target='_blank' href='http://zen.coderdojo.com/dojos/#{dojo[:urlSlug]}'>連絡先を見る</a>",
+        'marker-size'   => 'small', # small, medium, large
+        #'marker-color'  => 'rgba(46,154,217, 0.5)',
+        'marker-symbol' => 'coderdojo', # MEMO: Set YOUR-API-KEY in index.html to enable this.
+        description: "#{name2logo[dojo[:name]]}<br>#{name2text[dojo[:name]]}<a target='_blank' href='http://zen.coderdojo.com/dojos/#{dojo[:urlSlug]}'>連絡先を見る</a>",
       }
     }
   end
