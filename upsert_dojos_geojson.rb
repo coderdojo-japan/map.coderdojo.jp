@@ -29,12 +29,11 @@ name2is_active = {}
 dojos_japan.each do |dojo|
   # TODO: Ideally want to change marker image into each CoderDojo logo.
   # Details: https://github.com/coderdojo-japan/map.coderdojo.jp/issues/1
+  name2text[dojo[:name]] = "<a href='#{dojo[:url]}' target='_blank' rel='noopener'>Webサイトを見る</a><br>"
   name2logo[dojo[:name]] = <<~HTML
     <a href='#{dojo[:url]}' target='_blank' rel='noopener'>
       <img src='#{dojo[:logo].gsub('.webp', '.png')}' alt='#{dojo[:name]}' loading='lazy' width='100px' />
     </a><br>
-    #{dojo[:name]}<br>
-    <a href='#{dojo[:url]}' target='_blank' rel='noopener'>Webサイトを見る</a>
   HTML
   puts name2logo[dojo[:name]].delete!("\n")
   puts
@@ -81,7 +80,11 @@ dojos_earth.each do |dojo|
         'marker-size'   => 'small', # small, medium, large
         #'marker-color'  => 'rgba(46,154,217, 0.5)',
         'marker-symbol' => 'coderdojo', # MEMO: Set YOUR-API-KEY in index.html to enable this.
-        description: "#{name2logo[dojo[:name]]}<br>#{name2text[dojo[:name]]}<a target='_blank' href='http://zen.coderdojo.com/dojos/#{dojo[:urlSlug]}'>連絡先を見る</a>",
+        description: "
+          #{name2logo[dojo[:name]] ? name2logo[dojo[:name]] : "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' width='100px' /><br>"}
+          #{dojo[:name]}<br>
+          #{name2text[dojo[:name]]}
+          <a target='_blank' href='http://zen.coderdojo.com/dojos/#{dojo[:urlSlug]}'>連絡先を見る</a>",
       }
     }
   end
