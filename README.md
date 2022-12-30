@@ -58,7 +58,7 @@ https://map.coderdojo.jp/
    $ open http://localhost:4000
    ```
 
-![ローカル環境で確認している様子のスクショ](https://raw.githubusercontent.com/coderdojo-japan/map.coderdojo.jp/main/images/how-to-setup.png)
+![ローカル環境で確認している様子のスクショ](https://raw.githubusercontent.com/coderdojo-japan/map.coderdojo.jp/main/images/localhost.png)
 
 <br>
 
