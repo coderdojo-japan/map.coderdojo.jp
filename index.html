@@ -1,3 +1,6 @@
+---
+---
+
 <!DOCTYPE html>
 <html lang="ja">
   <head>
@@ -72,7 +75,11 @@
 
     <script
       type="text/javascript"
+      {% if site.env.GEOLONIA_API_KEY %}
+      src="https://cdn.geolonia.com/v1/embed?geolonia-api-key={{ site.env.GEOLONIA_API_KEY }}"
+      {% else %}
       src="https://cdn.geolonia.com/v1/embed?geolonia-api-key=YOUR-API-KEY"
+      {% endif %}
     ></script>
 
     <!-- Google tag (gtag.js) -->
