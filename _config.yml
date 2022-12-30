@@ -14,6 +14,7 @@ exclude:
   - get_dojos_from_earth.rb
   - get_dojos_from_japan.rb
   - upsert_dojos_geojson.rb
+  - compact_geojson.rb
 
 # See the official README for more options:
 # https://github.com/digitalsparky/jekyll-minifier
