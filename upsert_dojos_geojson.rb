@@ -13,6 +13,10 @@ File.open("dojos_japan.json") do |file|
   dojos_japan = JSON.load(file, nil, symbolize_names: true, create_additions: false)
 end
 
+# Sample format of dojo2dojo.csv:
+# Japan登録名	Zen登録名
+# ひばりヶ丘	Hibarigaoka
+# ...
 File.foreach("dojo2dojo.csv") do |line|
   japan_name, zen_name = line.split("\t").map(&:chomp)
   next if japan_name.empty? or zen_name.empty?
@@ -21,13 +25,14 @@ end
 #pp zen2japan; p zen2japan.count; p zen2japan['Kunitachi'] ; exit
 
 # Japan's name to text/logo by Hash
-name2text      = {}
-name2logo      = {}
-name2is_active = {}
+name2logo      = {} # => CoderDojo ロゴ
+name2site      = {} # => Webサイトを見る
+name2is_active = {} # => Active かどうかのフラグ
 dojos_japan.each do |dojo|
   # TODO: Ideally want to change marker image into each CoderDojo logo.
   # Details: https://github.com/coderdojo-japan/map.coderdojo.jp/issues/1
-  name2text[dojo[:name]] = "<a href='#{dojo[:url]}' target='_blank' rel='noopener'>Webサイトを見る</a><br>"
+
+  # TODO: Geolonia Maps 側が .webp 画像に対応したら .png への変換などは不要になる (coderdojo.jp からも削除する!)
   name2logo[dojo[:name]] = <<~HTML
     <a href='#{dojo[:url]}' target='_blank' rel='noopener'>
       <img src='#{dojo[:logo].gsub('.webp', '.png')}' alt='#{dojo[:name]}' loading='lazy' width='100px' />
@@ -36,6 +41,7 @@ dojos_japan.each do |dojo|
   puts name2logo[dojo[:name]].delete!("\n")
   puts
 
+  name2site[dojo[:name]] = "<a href='#{dojo[:url]}' target='_blank' rel='noopener'>Webサイトを見る</a><br>"
   name2is_active[dojo[:name]] = dojo[:is_active]
 end
 
@@ -56,7 +62,7 @@ dojos_earth.each do |dojo|
     # Show only active dojos in Japan area on DojoMap
     if dojo[:country][:countryName] == "Japan"
 
-      # Skip if not existing or marked at Inactive by Japan DB
+      # Skip if not existing or marked as inactive by Japan DB
       next if zen2japan[dojo[:name]].nil?
       next if name2is_active[zen2japan[dojo[:name]]] == false
 
@@ -81,7 +87,7 @@ dojos_earth.each do |dojo|
         description: "
           #{name2logo[dojo[:name]] ? name2logo[dojo[:name]] : "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>"}
           #{dojo[:name]}<br>
-          #{name2text[dojo[:name]]}
+          #{name2site[dojo[:name]]}
           <a target='_blank' href='http://zen.coderdojo.com/dojos/#{dojo[:urlSlug]}'>連絡先を見る</a>",
       }
     }
