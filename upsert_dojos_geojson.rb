@@ -99,6 +99,8 @@ geojson = {
   features: features
 }
 
+DOJOS_GEOJSON = JSON.pretty_generate(geojson)
 File.open("dojos.geojson", "w") do |file|
-  JSON.dump(geojson, file)
+  file.write(DOJOS_GEOJSON)
+  #JSON.dump(geojson, file)
 end
