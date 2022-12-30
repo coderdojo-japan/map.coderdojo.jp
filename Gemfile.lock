@@ -12,6 +12,7 @@ GEM
     ffi (1.15.5)
     forwardable-extended (2.6.0)
     google-protobuf (3.21.12)
+    google-protobuf (3.21.12-x86_64-linux)
     http_parser.rb (0.8.0)
     i18n (1.12.0)
       concurrent-ruby (~> 1.0)
@@ -33,6 +34,8 @@ GEM
       webrick (~> 1.7)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
+    jekyll-sitemap (1.4.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -68,6 +71,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-sitemap
 
 BUNDLED WITH
-   2.4.1
+   2.3.26
