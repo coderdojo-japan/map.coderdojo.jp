@@ -36,17 +36,16 @@ dojos_japan.each do |dojo|
   name2logo[dojo[:name]] = <<~HTML
     <a href='#{dojo[:url]}' target='_blank' rel='noopener'>
       <img src='#{dojo[:logo].gsub('.webp', '.png')}' alt='#{dojo[:name]}' loading='lazy' width='100px' />
-    </a><br>
+    </a>
   HTML
-  puts name2logo[dojo[:name]].delete!("\n")
-  puts
 
-  name2site[dojo[:name]] = "<a href='#{dojo[:url]}' target='_blank' rel='noopener'>Webサイトを見る</a><br>"
+  name2site[dojo[:name]] = "<a href='#{dojo[:url]}' target='_blank' rel='noopener'>Webサイトを見る</a>"
   name2is_active[dojo[:name]] = dojo[:is_active]
 end
 
 
 features    = []
+description = ''
 japan_count = 0
 dojos_earth.each do |dojo|
   # 活動していない道場は除外
@@ -74,6 +73,24 @@ dojos_earth.each do |dojo|
       #p "#{japan_count.to_s.rjust(3, '0')}: #{dojo[:name]}"
     end
 
+    # Compose 'description' passned to Geojson
+    if name2logo[dojo[:name]].nil?
+      # for Dojos overseas
+      description = <<~HTML
+        <img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>
+        #{dojo[:name]}<br>
+        <a target='_blank' href='http://zen.coderdojo.com/dojos/#{dojo[:urlSlug]}'>連絡先を見る</a>
+      HTML
+    else
+      # for Dojos regeisted in coderdojo.jp
+      description = <<~HTML
+        #{name2logo[dojo[:name]]}<br>
+        #{dojo[:name]}<br>
+        #{name2site[dojo[:name]]}<br>
+        <a target='_blank' href='http://zen.coderdojo.com/dojos/#{dojo[:urlSlug]}'>連絡先を見る</a>
+      HTML
+    end
+
     features << {
       type: "Feature",
       geometry: {
@@ -84,11 +101,7 @@ dojos_earth.each do |dojo|
         'marker-size'   => 'small', # small, medium, large
         #'marker-color'  => 'rgba(46,154,217, 0.5)',
         'marker-symbol' => 'coderdojo', # MEMO: Set YOUR-API-KEY in index.html to enable this.
-        description: "
-          #{name2logo[dojo[:name]] ? name2logo[dojo[:name]] : "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>"}
-          #{dojo[:name]}<br>
-          #{name2site[dojo[:name]]}
-          <a target='_blank' href='http://zen.coderdojo.com/dojos/#{dojo[:urlSlug]}'>連絡先を見る</a>",
+        description: description.delete!("\n"),
       }
     }
   end
