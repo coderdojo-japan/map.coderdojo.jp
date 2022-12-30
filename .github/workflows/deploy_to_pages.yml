@@ -24,6 +24,11 @@ jobs:
       run: |
         bundle install --jobs 4 --retry 3
 
+    # Conver human-readblae Geojson file into computer-friendly one
+    - name: 📦 Compact geojson
+      run: |
+        bundle exec ruby compact_geojson.rb
+
     - name: 🔧 Build & Test
       run: |
         bundle exec jekyll build
