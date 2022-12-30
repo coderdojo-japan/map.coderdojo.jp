@@ -5,8 +5,6 @@ dojos_earth = []
 dojos_japan = []
 zen2japan   = {}
 
-# TODO: These data are now updated by hand. Can be improved by automation.
-# Details: https://github.com/coderdojo-japan/map.coderdojo.jp/issues/2
 File.open("dojos_earth.json") do |file|
   dojos_earth = JSON.load(file, nil, symbolize_names: true, create_additions: false)
 end
