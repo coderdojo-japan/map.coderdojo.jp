@@ -50,11 +50,6 @@ jobs:
       run: |
         bundle exec ruby upsert_dojos_geojson.rb
 
-    # Conver human-readblae Geojson file into computer-friendly one
-    - name: 📦 Compact geojson
-      run: |
-        bundle exec ruby compact_geojson.rb
-
     - name: 🆙 Commit latest data to update DojoMap (if any)
       run: |
         if [ -n "$(git status --porcelain)" ]; then
@@ -73,6 +68,8 @@ jobs:
 
     - name: 🔧 Build & Test
       run: |
+        # Conver human-readable Geojson file into computer-friendly one
+        bundle exec ruby compact_geojson.rb
         bundle exec jekyll build
         bundle exec jekyll doctor
         # SKIP_BUILD=true       bundle exec rake test
