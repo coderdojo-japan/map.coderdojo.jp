@@ -44209,30 +44209,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "舟橋",
-    "geoPoint": {
-      "lat": 36.703544,
-      "lon": 137.3074521
-    },
-    "country": {
-      "countryName": "Japan",
-      "continent": "AS",
-      "alpha2": "JP",
-      "alpha3": "JPN",
-      "countryNumber": "392"
-    },
-    "stage": 0,
-    "urlSlug": "jp/japan-toyama/zhou1-qiao2",
-    "startTime": "00:00:00",
-    "endTime": "00:00:00",
-    "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "月2回",
-    "day": null,
-    "id": "0b208aca-b939-4ad0-b2ef-286dacd9fc19"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Hammersmith @Barclays #EagleDojo",
     "geoPoint": {
       "lat": 51.4408622,
@@ -53482,30 +53458,6 @@
     "alternativeFrequency": null,
     "day": 6,
     "id": "0c4ec83b-0318-4668-bde6-069c7236bb0d"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Urayasu",
-    "geoPoint": {
-      "lat": 35.65818977401985,
-      "lon": 139.9025121331215
-    },
-    "country": {
-      "countryName": "Japan",
-      "countryNumber": 392,
-      "continent": "AS",
-      "alpha2": "JP",
-      "alpha3": "JPN"
-    },
-    "stage": 0,
-    "urlSlug": "jp/urayasu-chiba-prefecture/urayasu",
-    "startTime": null,
-    "endTime": null,
-    "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "毎月1回 10:00-13:00",
-    "day": null,
-    "id": "d7563ebf-f2d6-491e-9be8-8b0bd856ed4f"
   },
   {
     "entity$": "-/cd/dojos",
@@ -77548,6 +77500,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Belfast @ Shockwaves Makerspace",
+    "geoPoint": {
+      "lat": 54.540435,
+      "lon": -5.902880999999979
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 2,
+    "urlSlug": "gb/belfast/belfast-shockwaves-makerspace",
+    "startTime": "10:30:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "4th",
+    "day": 6,
+    "id": "1b9a45fe-2939-4752-840c-1ec4637a4eb7"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Cordoba @ Sur",
     "geoPoint": {
       "lat": -31.4675811,
@@ -77569,30 +77545,6 @@
     "alternativeFrequency": "Sabados, 10 AM a 12 PM",
     "day": 6,
     "id": "efdc5185-d5a4-4f7d-a38b-153749d1af47"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Belfast @ Shockwaves Makerspace",
-    "geoPoint": {
-      "lat": 54.540435,
-      "lon": -5.902880999999979
-    },
-    "country": {
-      "countryName": "United Kingdom",
-      "continent": "EU",
-      "alpha2": "GB",
-      "alpha3": "GBR",
-      "countryNumber": "826"
-    },
-    "stage": 1,
-    "urlSlug": "gb/belfast/belfast-shockwaves-makerspace",
-    "startTime": "10:30:00",
-    "endTime": "12:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "4th",
-    "day": 6,
-    "id": "1b9a45fe-2939-4752-840c-1ec4637a4eb7"
   },
   {
     "entity$": "-/cd/dojos",
@@ -96211,6 +96163,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Urayasu",
+    "geoPoint": {
+      "lat": 35.65818977401985,
+      "lon": 139.9025121331215
+    },
+    "country": {
+      "countryName": "Japan",
+      "countryNumber": 392,
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN"
+    },
+    "stage": 0,
+    "urlSlug": "jp/urayasu-chiba-prefecture/urayasu",
+    "startTime": null,
+    "endTime": null,
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "毎月1回 10:00-13:00",
+    "day": null,
+    "id": "d7563ebf-f2d6-491e-9be8-8b0bd856ed4f"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Dungannon, Co. Tyrone @ Dungannon Library",
     "geoPoint": {
       "lat": 54.504905,
@@ -96256,5 +96232,29 @@
     "alternativeFrequency": null,
     "day": 6,
     "id": "13127fb0-103d-4cb4-ad56-7f7bf5835c58"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "舟橋",
+    "geoPoint": {
+      "lat": 36.703544,
+      "lon": 137.3074521
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/japan-toyama/zhou1-qiao2",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "月2回",
+    "day": null,
+    "id": "0b208aca-b939-4ad0-b2ef-286dacd9fc19"
   }
 ]

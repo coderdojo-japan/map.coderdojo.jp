@@ -15651,21 +15651,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.9025121331215,
-          35.65818977401985
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='http://urayasu.coderdojo.chiba.jp/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/urayasu.png' alt='浦安' loading='lazy' width='100px' /></a><br>浦安<br><a href='http://urayasu.coderdojo.chiba.jp/' target='_blank' rel='noopener'>Webサイトを見る</a><br><a target='_blank' href='http://zen.coderdojo.com/dojos/jp/urayasu-chiba-prefecture/urayasu'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.764162299999953,
           51.4014003
         ]
@@ -33959,6 +33944,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>RTP (Raleigh)<br><a target='_blank' href='http://zen.coderdojo.com/dojos/us/raleigh-nc/rtp-raleigh'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9025121331215,
+          35.65818977401985
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='http://urayasu.coderdojo.chiba.jp/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/urayasu.png' alt='浦安' loading='lazy' width='100px' /></a><br>浦安<br><a href='http://urayasu.coderdojo.chiba.jp/' target='_blank' rel='noopener'>Webサイトを見る</a><br><a target='_blank' href='http://zen.coderdojo.com/dojos/jp/urayasu-chiba-prefecture/urayasu'>連絡先を見る</a>"
       }
     },
     {
