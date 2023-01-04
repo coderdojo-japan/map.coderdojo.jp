@@ -30771,21 +30771,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.7038101,
-          37.9760654
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Votanikos@63GymAth<br><a target='_blank' href='http://zen.coderdojo.com/dojos/gr/central-athens/votanikos-63-gymath'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.1205313,
           52.2045684
         ]
@@ -33951,6 +33936,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.1969407,
+          52.9984933
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Bulwell,Nottingham@RiversideLibrary<br><a target='_blank' href='http://zen.coderdojo.com/dojos/gb/nottingham/bulwell-nottingham-riversidelibrary'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.9025121331215,
           35.65818977401985
         ]
@@ -33989,6 +33989,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Hammersmith @People Arise Now, Old Oak Community Centre<br><a target='_blank' href='http://zen.coderdojo.com/dojos/gb/london-borough-of-hammersmith-and-fulham-london/hammersmith-people-arise-now-old-oak-community-centre'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7038101,
+          37.9760654
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Votanikos@63GymAth<br><a target='_blank' href='http://zen.coderdojo.com/dojos/gr/central-athens/votanikos-63-gymath'>連絡先を見る</a>"
       }
     }
   ]
