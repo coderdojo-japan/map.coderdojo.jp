@@ -90,25 +90,3 @@ jobs:
       with:
         personal_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir:    ./_site
-
-    - name: 🔔 Notify results
-      env:
-        IDOBATA_GITHUB_ACTIONS: ${{ secrets.IDOBATA_GITHUB_ACTIONS_SCHEDULER }}
-      if: always() && (env.IDOBATA_GITHUB_ACTIONS_SCHEDULER != null)
-      uses: mahaker/actions-idobata@v1.1.2
-      with:
-        hookUrl: ${{ secrets.IDOBATA_GITHUB_ACTIONS_SCHEDULER }}
-        format: 'markdown'
-        message: |
-          DojoMap データを更新しました
-
-    - name: 🚨 Notify if tasks in GitHub Actions failed
-      env:
-        IDOBATA_GITHUB_ACTIONS: ${{ secrets.IDOBATA_GITHUB_ACTIONS }}
-      if: failure() && (env.IDOBATA_GITHUB_ACTIONS != null)
-      uses: mahaker/actions-idobata@v1.1.2
-      with:
-        hookUrl: ${{ secrets.IDOBATA_GITHUB_ACTIONS }}
-        format: 'markdown'
-        message: |
-          <span class='label label-danger'>failed</span> @yasulab :warning: GitHub Actions のタスク実行に失敗しました >< :sweat_drops: ([build](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}))
