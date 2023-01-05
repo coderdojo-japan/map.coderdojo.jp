@@ -79198,30 +79198,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Shirakawa",
-    "geoPoint": {
-      "lat": 37.1256854,
-      "lon": 140.1923876
-    },
-    "country": {
-      "countryName": "Japan",
-      "continent": "AS",
-      "alpha2": "JP",
-      "alpha3": "JPN",
-      "countryNumber": "392"
-    },
-    "stage": 1,
-    "urlSlug": "jp/shirakawa-fukushima-prefecture/shirakawa",
-    "startTime": "13:30:00",
-    "endTime": "15:30:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "2nd",
-    "day": 6,
-    "id": "71cf13bc-446f-482e-8581-3b50795d3528"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Creil Centre",
     "geoPoint": {
       "lat": 49.25743809999999,
@@ -88819,7 +88795,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 3,
+    "stage": 2,
     "urlSlug": "gb/cambridge/cambridge-central-library",
     "startTime": "10:30:00",
     "endTime": "12:30:00",
@@ -96211,30 +96187,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Hammersmith @People Arise Now, Old Oak Community Centre",
-    "geoPoint": {
-      "lat": 51.5184627,
-      "lon": -0.2435172
-    },
-    "country": {
-      "countryName": "United Kingdom",
-      "continent": "EU",
-      "alpha2": "GB",
-      "alpha3": "GBR",
-      "countryNumber": "826"
-    },
-    "stage": 1,
-    "urlSlug": "gb/london-borough-of-hammersmith-and-fulham-london/hammersmith-people-arise-now-old-oak-community-centre",
-    "startTime": "10:00:00",
-    "endTime": "14:00:00",
-    "private": 0,
-    "frequency": "1/w",
-    "alternativeFrequency": null,
-    "day": 6,
-    "id": "13127fb0-103d-4cb4-ad56-7f7bf5835c58"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "舟橋",
     "geoPoint": {
       "lat": 36.703544,
@@ -96259,6 +96211,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Hammersmith @People Arise Now, Old Oak Community Centre",
+    "geoPoint": {
+      "lat": 51.5184627,
+      "lon": -0.2435172
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/london-borough-of-hammersmith-and-fulham-london/hammersmith-people-arise-now-old-oak-community-centre",
+    "startTime": "10:00:00",
+    "endTime": "14:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "13127fb0-103d-4cb4-ad56-7f7bf5835c58"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Votanikos@63GymAth",
     "geoPoint": {
       "lat": 37.9760654,
@@ -96280,5 +96256,29 @@
     "alternativeFrequency": null,
     "day": 6,
     "id": "e0e6418b-3f65-4791-ba0a-56eb786f3789"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Shirakawa",
+    "geoPoint": {
+      "lat": 37.127248,
+      "lon": 140.21472
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/shirakawa-fukushima-prefecture/shirakawa",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "2nd",
+    "day": 6,
+    "id": "71cf13bc-446f-482e-8581-3b50795d3528"
   }
 ]
