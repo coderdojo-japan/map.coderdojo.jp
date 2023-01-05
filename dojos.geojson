@@ -26166,21 +26166,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          140.1923876,
-          37.1256854
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-shirakawa.work' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/shirakawa.png' alt='白河' loading='lazy' width='100px' /></a><br>白河<br><a href='https://coderdojo-shirakawa.work' target='_blank' rel='noopener'>Webサイトを見る</a><br><a target='_blank' href='http://zen.coderdojo.com/dojos/jp/shirakawa-fukushima-prefecture/shirakawa'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.4741447999999764,
           49.25743809999999
         ]
@@ -34004,6 +33989,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Votanikos@63GymAth<br><a target='_blank' href='http://zen.coderdojo.com/dojos/gr/central-athens/votanikos-63-gymath'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.21472,
+          37.127248
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://coderdojoshirakawa.hateblo.jp/entry/top' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/shirakawa.png' alt='白河' loading='lazy' width='100px' /></a><br>白河<br><a href='https://coderdojoshirakawa.hateblo.jp/entry/top' target='_blank' rel='noopener'>Webサイトを見る</a><br><a target='_blank' href='http://zen.coderdojo.com/dojos/jp/shirakawa-fukushima-prefecture/shirakawa'>連絡先を見る</a>"
       }
     }
   ]
