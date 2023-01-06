@@ -32661,8 +32661,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.660678,
-          35.57465699999999
+          139.660431,
+          35.574674
         ]
       },
       "properties": {
@@ -33614,6 +33614,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Farset Dojo @ Belfast<br><a target='_blank' href='http://zen.coderdojo.com/dojos/gb/belfast/farset-dojo-belfast'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.892416,
+          50.80138960000001
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Ferndown@ferndownlibrary<br><a target='_blank' href='http://zen.coderdojo.com/dojos/gb/ferndown/ferndown-ferndownlibrary'>連絡先を見る</a>"
       }
     },
     {

@@ -93505,30 +93505,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "MusashiKosugi",
-    "geoPoint": {
-      "lat": 35.57465699999999,
-      "lon": 139.660678
-    },
-    "country": {
-      "countryName": "Japan",
-      "continent": "AS",
-      "alpha2": "JP",
-      "alpha3": "JPN",
-      "countryNumber": "392"
-    },
-    "stage": 1,
-    "urlSlug": "jp/japan-kanagawa/musashikosugi",
-    "startTime": "10:00:00",
-    "endTime": "12:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "不定期",
-    "day": 7,
-    "id": "53fdf401-51bd-401c-8260-4632e89326c8"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Babice @ Open Gate",
     "geoPoint": {
       "lat": 49.9816805,
@@ -93550,6 +93526,30 @@
     "alternativeFrequency": null,
     "day": 1,
     "id": "61107d2d-b097-4ebb-a4ae-f6572c4e15a4"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "MusashiKosugi",
+    "geoPoint": {
+      "lat": 35.574674,
+      "lon": 139.660431
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/japan-kanagawa/musashikosugi",
+    "startTime": "09:30:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": "不定期",
+    "day": 7,
+    "id": "53fdf401-51bd-401c-8260-4632e89326c8"
   },
   {
     "entity$": "-/cd/dojos",
@@ -95521,6 +95521,30 @@
     "alternativeFrequency": "4th",
     "day": 1,
     "id": "0d9ed016-0d96-4d88-896c-3aaa61064c18"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Ferndown@ferndownlibrary",
+    "geoPoint": {
+      "lat": 50.80138960000001,
+      "lon": -1.892416
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/ferndown/ferndown-ferndownlibrary",
+    "startTime": "15:45:00",
+    "endTime": "16:45:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 4,
+    "id": "69405f3f-4693-45b7-87e4-3b9ad13d007f"
   },
   {
     "entity$": "-/cd/dojos",
