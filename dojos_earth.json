@@ -6697,30 +6697,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Wigan @ Wigan Youth Zone",
-    "geoPoint": {
-      "lat": 53.54937583525053,
-      "lon": -2.6342403888702393
-    },
-    "country": {
-      "countryName": "United Kingdom",
-      "continent": "EU",
-      "alpha2": "GB",
-      "alpha3": "GBR",
-      "countryNumber": "826"
-    },
-    "stage": 2,
-    "urlSlug": "gb/wn1-1ru/wigan-wigan-youth-zone",
-    "startTime": "11:00:00",
-    "endTime": "12:45:00",
-    "private": 0,
-    "frequency": "1/w",
-    "alternativeFrequency": "last",
-    "day": 7,
-    "id": "5e0e864d-1cd2-40ea-8c0a-e0c176df5bf4"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Cullercoats, @North Tyneside City Learning Centre",
     "geoPoint": {
       "lat": 55.02831500000001,
@@ -96304,5 +96280,29 @@
     "alternativeFrequency": "2nd",
     "day": 6,
     "id": "71cf13bc-446f-482e-8581-3b50795d3528"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Wigan @ Wigan Youth Zone",
+    "geoPoint": {
+      "lat": 53.54937583525053,
+      "lon": -2.6342403888702393
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 2,
+    "urlSlug": "gb/wn1-1ru/wigan-wigan-youth-zone",
+    "startTime": "11:00:00",
+    "endTime": "12:45:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": "last",
+    "day": 7,
+    "id": "5e0e864d-1cd2-40ea-8c0a-e0c176df5bf4"
   }
 ]
