@@ -5,8 +5,10 @@
     "name": "札幌",
     "logo": "https://coderdojo.jp/img/dojos/sapporo.webp",
     "order": "011002",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "北海道"
+    "prefecture": "北海道",
+    "created_at": "2016-09-26T00:00:00.000+09:00"
   },
   {
     "id": 104,
@@ -14,8 +16,10 @@
     "name": "札幌東",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "011002",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "北海道"
+    "prefecture": "北海道",
+    "created_at": "2016-09-26T00:00:00.000+09:00"
   },
   {
     "id": 253,
@@ -23,8 +27,10 @@
     "name": "室蘭",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "012050",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "北海道"
+    "prefecture": "北海道",
+    "created_at": "2020-09-10T00:00:00.000+09:00"
   },
   {
     "id": 261,
@@ -32,8 +38,10 @@
     "name": "江別",
     "logo": "https://coderdojo.jp/img/dojos/ebetsu.webp",
     "order": "012173",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "北海道"
+    "prefecture": "北海道",
+    "created_at": "2021-01-09T00:00:00.000+09:00"
   },
   {
     "id": 100,
@@ -41,8 +49,10 @@
     "name": "恵庭",
     "logo": "https://coderdojo.jp/img/dojos/eniwa.webp",
     "order": "012319",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "北海道"
+    "prefecture": "北海道",
+    "created_at": "2017-09-20T00:00:00.000+09:00"
   },
   {
     "id": 265,
@@ -50,8 +60,10 @@
     "name": "八戸@吹上",
     "logo": "https://coderdojo.jp/img/dojos/hachinohe.webp",
     "order": "022039",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "青森"
+    "prefecture": "青森",
+    "created_at": "2021-02-28T00:00:00.000+09:00"
   },
   {
     "id": 201,
@@ -59,8 +71,10 @@
     "name": "宮古",
     "logo": "https://coderdojo.jp/img/dojos/miyako.webp",
     "order": "032026",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "岩手"
+    "prefecture": "岩手",
+    "created_at": "2019-02-14T00:00:00.000+09:00"
   },
   {
     "id": 107,
@@ -68,8 +82,10 @@
     "name": "きたかみ",
     "logo": "https://coderdojo.jp/img/dojos/kitakami.webp",
     "order": "032069",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "岩手"
+    "prefecture": "岩手",
+    "created_at": "2017-06-20T00:00:00.000+09:00"
   },
   {
     "id": 259,
@@ -77,8 +93,10 @@
     "name": "一関平泉",
     "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
     "order": "032093",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "岩手"
+    "prefecture": "岩手",
+    "created_at": "2020-12-15T00:00:00.000+09:00"
   },
   {
     "id": 143,
@@ -86,8 +104,10 @@
     "name": "陸前高田",
     "logo": "https://coderdojo.jp/img/dojos/rikuzentakata.webp",
     "order": "032107",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "岩手"
+    "prefecture": "岩手",
+    "created_at": "2018-04-21T00:00:00.000+09:00"
   },
   {
     "id": 109,
@@ -95,8 +115,10 @@
     "name": "滝沢",
     "logo": "https://coderdojo.jp/img/dojos/takizawa.webp",
     "order": "032166",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "岩手"
+    "prefecture": "岩手",
+    "created_at": "2017-09-25T00:00:00.000+09:00"
   },
   {
     "id": 90,
@@ -104,8 +126,10 @@
     "name": "愛子",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "041009",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "宮城"
+    "prefecture": "宮城",
+    "created_at": "2017-07-01T00:00:00.000+09:00"
   },
   {
     "id": 3,
@@ -113,8 +137,10 @@
     "name": "泉",
     "logo": "https://coderdojo.jp/img/dojos/izumi.webp",
     "order": "041009",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "宮城"
+    "prefecture": "宮城",
+    "created_at": "2014-01-23T00:00:00.000+09:00"
   },
   {
     "id": 85,
@@ -122,8 +148,10 @@
     "name": "名取",
     "logo": "https://coderdojo.jp/img/dojos/natori.webp",
     "order": "042072",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "宮城"
+    "prefecture": "宮城",
+    "created_at": "2017-03-27T00:00:00.000+09:00"
   },
   {
     "id": 4,
@@ -131,8 +159,10 @@
     "name": "登米",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "042129",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "宮城"
+    "prefecture": "宮城",
+    "created_at": "2016-04-25T00:00:00.000+09:00"
   },
   {
     "id": 277,
@@ -140,8 +170,10 @@
     "name": "富谷",
     "logo": "https://coderdojo.jp/img/dojos/tomiya.webp",
     "order": "042129",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "宮城"
+    "prefecture": "宮城",
+    "created_at": "2021-10-18T00:00:00.000+09:00"
   },
   {
     "id": 59,
@@ -149,8 +181,10 @@
     "name": "中新田",
     "logo": "https://coderdojo.jp/img/dojos/nakaniida.webp",
     "order": "044458",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "宮城"
+    "prefecture": "宮城",
+    "created_at": "2016-10-06T00:00:00.000+09:00"
   },
   {
     "id": 75,
@@ -158,8 +192,10 @@
     "name": "秋田",
     "logo": "https://coderdojo.jp/img/dojos/akita.webp",
     "order": "052019",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "秋田"
+    "prefecture": "秋田",
+    "created_at": "2017-04-03T00:00:00.000+09:00"
   },
   {
     "id": 139,
@@ -167,8 +203,10 @@
     "name": "増田",
     "logo": "https://coderdojo.jp/img/dojos/masuda.webp",
     "order": "052035",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "秋田"
+    "prefecture": "秋田",
+    "created_at": "2018-03-27T00:00:00.000+09:00"
   },
   {
     "id": 74,
@@ -176,8 +214,10 @@
     "name": "山形",
     "logo": "https://coderdojo.jp/img/dojos/yamagata.webp",
     "order": "062014",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "山形"
+    "prefecture": "山形",
+    "created_at": "2017-03-28T00:00:00.000+09:00"
   },
   {
     "id": 215,
@@ -185,8 +225,10 @@
     "name": "大石田@PCチャレンジ倶楽部",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "063410",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "山形"
+    "prefecture": "山形",
+    "created_at": "2019-04-24T00:00:00.000+09:00"
   },
   {
     "id": 79,
@@ -194,8 +236,10 @@
     "name": "会津",
     "logo": "https://coderdojo.jp/img/dojos/aizu.webp",
     "order": "072028",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "福島"
+    "prefecture": "福島",
+    "created_at": "2017-03-29T00:00:00.000+09:00"
   },
   {
     "id": 149,
@@ -203,8 +247,10 @@
     "name": "白河",
     "logo": "https://coderdojo.jp/img/dojos/shirakawa.webp",
     "order": "072052",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "福島"
+    "prefecture": "福島",
+    "created_at": "2018-05-29T00:00:00.000+09:00"
   },
   {
     "id": 165,
@@ -212,8 +258,10 @@
     "name": "喜多方",
     "logo": "https://coderdojo.jp/img/dojos/kitakata.webp",
     "order": "072087",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "福島"
+    "prefecture": "福島",
+    "created_at": "2018-08-13T00:00:00.000+09:00"
   },
   {
     "id": 292,
@@ -221,8 +269,10 @@
     "name": "二本松",
     "logo": "https://coderdojo.jp/img/dojos/nihonmatsu.webp",
     "order": "072109",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "福島"
+    "prefecture": "福島",
+    "created_at": "2022-11-27T00:00:00.000+09:00"
   },
   {
     "id": 248,
@@ -230,8 +280,10 @@
     "name": "矢吹",
     "logo": "https://coderdojo.jp/img/dojos/yabuki.webp",
     "order": "074667",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "福島"
+    "prefecture": "福島",
+    "created_at": "2020-06-20T00:00:00.000+09:00"
   },
   {
     "id": 223,
@@ -239,17 +291,10 @@
     "name": "三春",
     "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
     "order": "075213",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "福島"
-  },
-  {
-    "id": 65,
-    "url": "https://coderdojo-mito.com/",
-    "name": "水戸",
-    "logo": "https://coderdojo.jp/img/dojos/mito.webp",
-    "order": "082015",
-    "is_active": true,
-    "prefecture": "茨城"
+    "prefecture": "福島",
+    "created_at": "2019-08-26T00:00:00.000+09:00"
   },
   {
     "id": 222,
@@ -257,8 +302,21 @@
     "name": "三の丸",
     "logo": "https://coderdojo.jp/img/dojos/sannomaru.webp",
     "order": "082015",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "茨城"
+    "prefecture": "茨城",
+    "created_at": "2019-07-23T00:00:00.000+09:00"
+  },
+  {
+    "id": 65,
+    "url": "https://coderdojo-mito.com/",
+    "name": "水戸",
+    "logo": "https://coderdojo.jp/img/dojos/mito.webp",
+    "order": "082015",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "茨城",
+    "created_at": "2017-01-03T00:00:00.000+09:00"
   },
   {
     "id": 176,
@@ -266,8 +324,10 @@
     "name": "日立",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "082023",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "茨城"
+    "prefecture": "茨城",
+    "created_at": "2018-10-08T00:00:00.000+09:00"
   },
   {
     "id": 156,
@@ -275,8 +335,10 @@
     "name": "古河",
     "logo": "https://coderdojo.jp/img/dojos/koga.webp",
     "order": "082040",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "茨城"
+    "prefecture": "茨城",
+    "created_at": "2018-07-09T00:00:00.000+09:00"
   },
   {
     "id": 134,
@@ -284,8 +346,10 @@
     "name": "つくば",
     "logo": "https://coderdojo.jp/img/dojos/tsukuba.webp",
     "order": "082201",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "茨城"
+    "prefecture": "茨城",
+    "created_at": "2017-03-28T00:00:00.000+09:00"
   },
   {
     "id": 73,
@@ -293,8 +357,10 @@
     "name": "ひたちなか",
     "logo": "https://coderdojo.jp/img/dojos/hitachinaka.webp",
     "order": "082210",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "茨城"
+    "prefecture": "茨城",
+    "created_at": "2017-03-28T00:00:00.000+09:00"
   },
   {
     "id": 203,
@@ -302,8 +368,10 @@
     "name": "六ツ野",
     "logo": "https://coderdojo.jp/img/dojos/mutsuno.webp",
     "order": "082210",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "茨城"
+    "prefecture": "茨城",
+    "created_at": "2019-02-23T00:00:00.000+09:00"
   },
   {
     "id": 8,
@@ -311,8 +379,10 @@
     "name": "守谷",
     "logo": "https://coderdojo.jp/img/dojos/moriya.webp",
     "order": "082244",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "茨城"
+    "prefecture": "茨城",
+    "created_at": "2016-07-12T00:00:00.000+09:00"
   },
   {
     "id": 246,
@@ -320,8 +390,10 @@
     "name": "宇都宮",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "092011",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "栃木"
+    "prefecture": "栃木",
+    "created_at": "2020-03-11T00:00:00.000+09:00"
   },
   {
     "id": 242,
@@ -329,8 +401,10 @@
     "name": "おおたわら",
     "logo": "https://coderdojo.jp/img/dojos/otawara.webp",
     "order": "092100",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "栃木"
+    "prefecture": "栃木",
+    "created_at": "2020-02-20T00:00:00.000+09:00"
   },
   {
     "id": 280,
@@ -338,8 +412,10 @@
     "name": "西那須野@南コミュニティセンター",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "092134",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "栃木"
+    "prefecture": "栃木",
+    "created_at": "2022-03-09T00:00:00.000+09:00"
   },
   {
     "id": 89,
@@ -347,8 +423,10 @@
     "name": "さくら",
     "logo": "https://coderdojo.jp/img/dojos/sakura.webp",
     "order": "092142",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "栃木"
+    "prefecture": "栃木",
+    "created_at": "2017-06-21T00:00:00.000+09:00"
   },
   {
     "id": 7,
@@ -356,8 +434,10 @@
     "name": "前橋",
     "logo": "https://coderdojo.jp/img/dojos/maebashi.webp",
     "order": "102016",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "群馬"
+    "prefecture": "群馬",
+    "created_at": "2016-10-17T00:00:00.000+09:00"
   },
   {
     "id": 180,
@@ -365,8 +445,10 @@
     "name": "館林",
     "logo": "https://coderdojo.jp/img/dojos/tatebayashi.webp",
     "order": "102075",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "群馬"
+    "prefecture": "群馬",
+    "created_at": "2018-08-08T00:00:00.000+09:00"
   },
   {
     "id": 9,
@@ -374,8 +456,10 @@
     "name": "さいたま",
     "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
     "order": "111007",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "埼玉"
+    "prefecture": "埼玉",
+    "created_at": "2014-05-26T00:00:00.000+09:00"
   },
   {
     "id": 263,
@@ -383,8 +467,10 @@
     "name": "浦和@Urawa Minecraft Club",
     "logo": "https://coderdojo.jp/img/dojos/urawa.webp",
     "order": "111074",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "埼玉"
+    "prefecture": "埼玉",
+    "created_at": "2021-01-16T00:00:00.000+09:00"
   },
   {
     "id": 77,
@@ -392,17 +478,10 @@
     "name": "小手指",
     "logo": "https://coderdojo.jp/img/dojos/kotesashi.webp",
     "order": "112089",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "埼玉"
-  },
-  {
-    "id": 287,
-    "url": "https://coderdojoshintokorozawa.github.io/",
-    "name": "新所沢",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "112089",
-    "is_active": true,
-    "prefecture": "埼玉"
+    "prefecture": "埼玉",
+    "created_at": "2017-03-14T00:00:00.000+09:00"
   },
   {
     "id": 12,
@@ -410,8 +489,21 @@
     "name": "所沢",
     "logo": "https://coderdojo.jp/img/dojos/tokorozawa.webp",
     "order": "112089",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "埼玉"
+    "prefecture": "埼玉",
+    "created_at": "2015-12-01T00:00:00.000+09:00"
+  },
+  {
+    "id": 287,
+    "url": "https://coderdojoshintokorozawa.github.io/",
+    "name": "新所沢",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "112089",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "埼玉",
+    "created_at": "2022-09-20T00:00:00.000+09:00"
   },
   {
     "id": 11,
@@ -419,8 +511,10 @@
     "name": "飯能",
     "logo": "https://coderdojo.jp/img/dojos/hanno.webp",
     "order": "112097",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "埼玉"
+    "prefecture": "埼玉",
+    "created_at": "2015-05-13T00:00:00.000+09:00"
   },
   {
     "id": 227,
@@ -428,8 +522,10 @@
     "name": "戸田公園",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "112241",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "埼玉"
+    "prefecture": "埼玉",
+    "created_at": "2019-10-07T00:00:00.000+09:00"
   },
   {
     "id": 10,
@@ -437,8 +533,10 @@
     "name": "ひばりヶ丘",
     "logo": "https://coderdojo.jp/img/dojos/hibarigaoka.webp",
     "order": "112305",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "埼玉"
+    "prefecture": "埼玉",
+    "created_at": "2012-07-02T00:00:00.000+09:00"
   },
   {
     "id": 238,
@@ -446,26 +544,10 @@
     "name": "新座志木",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "112305",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "埼玉"
-  },
-  {
-    "id": 151,
-    "url": "https://coderdojo-wakaba-wakamatsu.github.io/",
-    "name": "若葉若松",
-    "logo": "https://coderdojo.jp/img/dojos/wakaba-wakamatsu.webp",
-    "order": "121002",
-    "is_active": true,
-    "prefecture": "千葉"
-  },
-  {
-    "id": 22,
-    "url": "https://chiba.coderdojo.chiba.jp/",
-    "name": "千葉",
-    "logo": "https://coderdojo.jp/img/dojos/chiba.webp",
-    "order": "121002",
-    "is_active": false,
-    "prefecture": "千葉"
+    "prefecture": "埼玉",
+    "created_at": "2020-02-03T00:00:00.000+09:00"
   },
   {
     "id": 25,
@@ -473,8 +555,32 @@
     "name": "若葉みつわ台",
     "logo": "https://coderdojo.jp/img/dojos/wakaba-mitsuwadai.webp",
     "order": "121002",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "千葉"
+    "prefecture": "千葉",
+    "created_at": "2016-04-27T00:00:00.000+09:00"
+  },
+  {
+    "id": 22,
+    "url": "https://chiba.coderdojo.chiba.jp/",
+    "name": "千葉",
+    "logo": "https://coderdojo.jp/img/dojos/chiba.webp",
+    "order": "121002",
+    "counter": 1,
+    "is_active": false,
+    "prefecture": "千葉",
+    "created_at": "2013-07-30T00:00:00.000+09:00"
+  },
+  {
+    "id": 151,
+    "url": "https://coderdojo-wakaba-wakamatsu.github.io/",
+    "name": "若葉若松",
+    "logo": "https://coderdojo.jp/img/dojos/wakaba-wakamatsu.webp",
+    "order": "121002",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "千葉",
+    "created_at": "2018-04-24T00:00:00.000+09:00"
   },
   {
     "id": 159,
@@ -482,8 +588,10 @@
     "name": "土気",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "121003",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "千葉"
+    "prefecture": "千葉",
+    "created_at": "2018-12-02T00:00:00.000+09:00"
   },
   {
     "id": 60,
@@ -491,8 +599,10 @@
     "name": "市川",
     "logo": "https://coderdojo.jp/img/dojos/ichikawa.webp",
     "order": "122033",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "千葉"
+    "prefecture": "千葉",
+    "created_at": "2016-12-15T00:00:00.000+09:00"
   },
   {
     "id": 82,
@@ -500,8 +610,10 @@
     "name": "市川真間",
     "logo": "https://coderdojo.jp/img/dojos/ichikawa-mama.webp",
     "order": "122033",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "千葉"
+    "prefecture": "千葉",
+    "created_at": "2017-03-28T00:00:00.000+09:00"
   },
   {
     "id": 86,
@@ -509,8 +621,10 @@
     "name": "船橋",
     "logo": "https://coderdojo.jp/img/dojos/funabashi.webp",
     "order": "122041",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "千葉"
+    "prefecture": "千葉",
+    "created_at": "2017-05-16T00:00:00.000+09:00"
   },
   {
     "id": 83,
@@ -518,8 +632,10 @@
     "name": "木更津",
     "logo": "https://coderdojo.jp/img/dojos/kisarazu.webp",
     "order": "122068",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "千葉"
+    "prefecture": "千葉",
+    "created_at": "2017-04-27T00:00:00.000+09:00"
   },
   {
     "id": 114,
@@ -527,8 +643,10 @@
     "name": "松戸",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "122076",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "千葉"
+    "prefecture": "千葉",
+    "created_at": "2017-09-06T00:00:00.000+09:00"
   },
   {
     "id": 283,
@@ -536,8 +654,10 @@
     "name": "野田",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "122084",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "千葉"
+    "prefecture": "千葉",
+    "created_at": "2022-04-21T00:00:00.000+09:00"
   },
   {
     "id": 20,
@@ -545,26 +665,10 @@
     "name": "野田",
     "logo": "https://coderdojo.jp/img/dojos/noda.webp",
     "order": "122084",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "千葉"
-  },
-  {
-    "id": 125,
-    "url": "https://www.coderdojo-kashiwa.com/dojoInfo.php?dojo=kashiwashounan",
-    "name": "柏沼南",
-    "logo": "https://coderdojo.jp/img/dojos/kashiwa-shounan.webp",
-    "order": "122173",
-    "is_active": true,
-    "prefecture": "千葉"
-  },
-  {
-    "id": 112,
-    "url": "https://www.coderdojo-kashiwa.com/dojoInfo.php?dojo=minamikashiwa",
-    "name": "南柏",
-    "logo": "https://coderdojo.jp/img/dojos/minami-kashiwa.webp",
-    "order": "122173",
-    "is_active": true,
-    "prefecture": "千葉"
+    "prefecture": "千葉",
+    "created_at": "2016-11-08T00:00:00.000+09:00"
   },
   {
     "id": 23,
@@ -572,8 +676,32 @@
     "name": "柏",
     "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
     "order": "122173",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "千葉"
+    "prefecture": "千葉",
+    "created_at": "2014-09-22T00:00:00.000+09:00"
+  },
+  {
+    "id": 112,
+    "url": "https://www.coderdojo-kashiwa.com/dojoInfo.php?dojo=minamikashiwa",
+    "name": "南柏",
+    "logo": "https://coderdojo.jp/img/dojos/minami-kashiwa.webp",
+    "order": "122173",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "千葉",
+    "created_at": "2017-09-26T00:00:00.000+09:00"
+  },
+  {
+    "id": 125,
+    "url": "https://www.coderdojo-kashiwa.com/dojoInfo.php?dojo=kashiwashounan",
+    "name": "柏沼南",
+    "logo": "https://coderdojo.jp/img/dojos/kashiwa-shounan.webp",
+    "order": "122173",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "千葉",
+    "created_at": "2018-01-27T00:00:00.000+09:00"
   },
   {
     "id": 24,
@@ -581,8 +709,10 @@
     "name": "流山",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "122203",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "千葉"
+    "prefecture": "千葉",
+    "created_at": "2016-04-27T00:00:00.000+09:00"
   },
   {
     "id": 284,
@@ -590,8 +720,10 @@
     "name": "八千代",
     "logo": "https://coderdojo.jp/img/dojos/yachiyo.webp",
     "order": "122211",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "千葉"
+    "prefecture": "千葉",
+    "created_at": "2022-06-17T00:00:00.000+09:00"
   },
   {
     "id": 251,
@@ -599,8 +731,10 @@
     "name": "鎌ケ谷",
     "logo": "https://coderdojo.jp/img/dojos/kamagaya.webp",
     "order": "122246",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "千葉"
+    "prefecture": "千葉",
+    "created_at": "2020-07-29T00:00:00.000+09:00"
   },
   {
     "id": 21,
@@ -608,8 +742,10 @@
     "name": "浦安",
     "logo": "https://coderdojo.jp/img/dojos/urayasu.webp",
     "order": "122271",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "千葉"
+    "prefecture": "千葉",
+    "created_at": "2016-11-08T00:00:00.000+09:00"
   },
   {
     "id": 152,
@@ -617,8 +753,10 @@
     "name": "やちまた",
     "logo": "https://coderdojo.jp/img/dojos/yachimata.webp",
     "order": "122301",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "千葉"
+    "prefecture": "千葉",
+    "created_at": "2018-06-30T00:00:00.000+09:00"
   },
   {
     "id": 157,
@@ -626,8 +764,10 @@
     "name": "酒々井",
     "logo": "https://coderdojo.jp/img/dojos/shisui.webp",
     "order": "122302",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "千葉"
+    "prefecture": "千葉",
+    "created_at": "2018-11-25T00:00:00.000+09:00"
   },
   {
     "id": 158,
@@ -635,8 +775,10 @@
     "name": "成田",
     "logo": "https://coderdojo.jp/img/dojos/narita.webp",
     "order": "122303",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "千葉"
+    "prefecture": "千葉",
+    "created_at": "2018-11-17T00:00:00.000+09:00"
   },
   {
     "id": 219,
@@ -644,17 +786,10 @@
     "name": "印西",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "122319",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "千葉"
-  },
-  {
-    "id": 121,
-    "url": "https://www.facebook.com/CoderDojoOchanomizuTam/",
-    "name": "御茶ノ水",
-    "logo": "https://coderdojo.jp/img/dojos/ochanomizu.webp",
-    "order": "131016",
-    "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "千葉",
+    "created_at": "2019-06-26T00:00:00.000+09:00"
   },
   {
     "id": 97,
@@ -662,8 +797,21 @@
     "name": "末広町",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "131016",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2017-08-16T00:00:00.000+09:00"
+  },
+  {
+    "id": 121,
+    "url": "https://www.facebook.com/CoderDojoOchanomizuTam/",
+    "name": "御茶ノ水",
+    "logo": "https://coderdojo.jp/img/dojos/ochanomizu.webp",
+    "order": "131016",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "東京",
+    "created_at": "2017-11-28T00:00:00.000+09:00"
   },
   {
     "id": 274,
@@ -671,8 +819,10 @@
     "name": "麹町@アドバンスト・ソフト",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "131016",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2021-09-14T00:00:00.000+09:00"
   },
   {
     "id": 295,
@@ -680,8 +830,10 @@
     "name": "田町@VMware",
     "logo": "https://coderdojo.jp/img/dojos/tamachi-vmware.webp",
     "order": "131032",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2022-12-16T00:00:00.000+09:00"
   },
   {
     "id": 289,
@@ -689,8 +841,10 @@
     "name": "たまち",
     "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
     "order": "131032",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2022-10-23T00:00:00.000+09:00"
   },
   {
     "id": 58,
@@ -698,8 +852,10 @@
     "name": "高田馬場",
     "logo": "https://coderdojo.jp/img/dojos/takadanobaba.webp",
     "order": "131041",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2017-09-26T00:00:00.000+09:00"
   },
   {
     "id": 69,
@@ -707,8 +863,10 @@
     "name": "西新宿",
     "logo": "https://coderdojo.jp/img/dojos/nishishinjuku.webp",
     "order": "131041",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2017-01-23T00:00:00.000+09:00"
   },
   {
     "id": 173,
@@ -716,8 +874,10 @@
     "name": "品川御殿山",
     "logo": "https://coderdojo.jp/img/dojos/shinagawa-gotenyama.webp",
     "order": "131091",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2018-09-26T00:00:00.000+09:00"
   },
   {
     "id": 185,
@@ -725,8 +885,10 @@
     "name": "五反田",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "131091",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2018-11-20T00:00:00.000+09:00"
   },
   {
     "id": 17,
@@ -734,8 +896,10 @@
     "name": "下北沢",
     "logo": "https://coderdojo.jp/img/dojos/shimokitazawa.webp",
     "order": "131121",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2012-03-12T00:00:00.000+09:00"
   },
   {
     "id": 19,
@@ -743,8 +907,10 @@
     "name": "渋谷",
     "logo": "https://coderdojo.jp/img/dojos/shibuya.webp",
     "order": "131130",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2020-01-30T00:00:00.000+09:00"
   },
   {
     "id": 15,
@@ -752,8 +918,10 @@
     "name": "中野",
     "logo": "https://coderdojo.jp/img/dojos/nakano.webp",
     "order": "131148",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2016-07-20T00:00:00.000+09:00"
   },
   {
     "id": 16,
@@ -761,8 +929,10 @@
     "name": "すぎなみ",
     "logo": "https://coderdojo.jp/img/dojos/suginami.webp",
     "order": "131156",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2016-09-09T00:00:00.000+09:00"
   },
   {
     "id": 123,
@@ -770,8 +940,10 @@
     "name": "池袋",
     "logo": "https://coderdojo.jp/img/dojos/ikebukuro.webp",
     "order": "131164",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2018-01-25T00:00:00.000+09:00"
   },
   {
     "id": 130,
@@ -779,8 +951,10 @@
     "name": "赤羽",
     "logo": "https://coderdojo.jp/img/dojos/akabane.webp",
     "order": "131172",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2018-02-21T00:00:00.000+09:00"
   },
   {
     "id": 231,
@@ -788,8 +962,10 @@
     "name": "板橋@桜川",
     "logo": "https://coderdojo.jp/img/dojos/itabashi.webp",
     "order": "131199",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2019-10-30T00:00:00.000+09:00"
   },
   {
     "id": 233,
@@ -797,8 +973,10 @@
     "name": "足立",
     "logo": "https://coderdojo.jp/img/dojos/adachi.webp",
     "order": "131211",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2019-11-19T00:00:00.000+09:00"
   },
   {
     "id": 14,
@@ -806,8 +984,10 @@
     "name": "八王子",
     "logo": "https://coderdojo.jp/img/dojos/hachioji.webp",
     "order": "132012",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2015-06-22T00:00:00.000+09:00"
   },
   {
     "id": 117,
@@ -815,8 +995,10 @@
     "name": "立川",
     "logo": "https://coderdojo.jp/img/dojos/tachikawa.webp",
     "order": "132021",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2017-11-18T00:00:00.000+09:00"
   },
   {
     "id": 221,
@@ -824,8 +1006,10 @@
     "name": "たまみら",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "132021",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2019-07-08T00:00:00.000+09:00"
   },
   {
     "id": 105,
@@ -833,8 +1017,10 @@
     "name": "吉祥寺",
     "logo": "https://coderdojo.jp/img/dojos/kichijoji.webp",
     "order": "132039",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2017-09-06T00:00:00.000+09:00"
   },
   {
     "id": 174,
@@ -842,8 +1028,10 @@
     "name": "三鷹",
     "logo": "https://coderdojo.jp/img/dojos/mitaka.webp",
     "order": "132047",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2018-10-05T00:00:00.000+09:00"
   },
   {
     "id": 254,
@@ -851,8 +1039,10 @@
     "name": "青梅",
     "logo": "https://coderdojo.jp/img/dojos/ome.webp",
     "order": "132055",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2020-09-14T00:00:00.000+09:00"
   },
   {
     "id": 228,
@@ -860,17 +1050,10 @@
     "name": "昭島",
     "logo": "https://coderdojo.jp/img/dojos/akishima.webp",
     "order": "132071",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
-  },
-  {
-    "id": 18,
-    "url": "https://coderdojochofu.hatenablog.jp/",
-    "name": "調布",
-    "logo": "https://coderdojo.jp/img/dojos/chofu.webp",
-    "order": "132080",
-    "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2019-10-11T00:00:00.000+09:00"
   },
   {
     "id": 212,
@@ -878,8 +1061,21 @@
     "name": "調布@電気通信大学",
     "logo": "https://coderdojo.jp/img/dojos/chofu-uec.webp",
     "order": "132080",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2019-06-10T00:00:00.000+09:00"
+  },
+  {
+    "id": 18,
+    "url": "https://coderdojochofu.hatenablog.jp/",
+    "name": "調布",
+    "logo": "https://coderdojo.jp/img/dojos/chofu.webp",
+    "order": "132080",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "東京",
+    "created_at": "2016-09-05T00:00:00.000+09:00"
   },
   {
     "id": 189,
@@ -887,8 +1083,10 @@
     "name": "まちだ",
     "logo": "https://coderdojo.jp/img/dojos/machida.webp",
     "order": "132098",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2018-12-21T00:00:00.000+09:00"
   },
   {
     "id": 13,
@@ -896,8 +1094,10 @@
     "name": "こだいら",
     "logo": "https://coderdojo.jp/img/dojos/kodaira.webp",
     "order": "132110",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2014-05-21T00:00:00.000+09:00"
   },
   {
     "id": 275,
@@ -905,8 +1105,10 @@
     "name": "国立",
     "logo": "https://coderdojo.jp/img/dojos/kunitachi.webp",
     "order": "132152",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2021-09-22T00:00:00.000+09:00"
   },
   {
     "id": 204,
@@ -914,8 +1116,10 @@
     "name": "武蔵村山",
     "logo": "https://coderdojo.jp/img/dojos/musamura.webp",
     "order": "132233",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2019-02-26T00:00:00.000+09:00"
   },
   {
     "id": 153,
@@ -923,8 +1127,10 @@
     "name": "多摩センター",
     "logo": "https://coderdojo.jp/img/dojos/tama-center.webp",
     "order": "132241",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2018-05-30T00:00:00.000+09:00"
   },
   {
     "id": 147,
@@ -932,8 +1138,10 @@
     "name": "稲城",
     "logo": "https://coderdojo.jp/img/dojos/inagi.webp",
     "order": "132250",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "東京"
+    "prefecture": "東京",
+    "created_at": "2018-05-06T00:00:00.000+09:00"
   },
   {
     "id": 70,
@@ -941,8 +1149,10 @@
     "name": "横浜",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "141020",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "神奈川"
+    "prefecture": "神奈川",
+    "created_at": "2017-01-30T00:00:00.000+09:00"
   },
   {
     "id": 126,
@@ -950,8 +1160,10 @@
     "name": "戸部",
     "logo": "https://coderdojo.jp/img/dojos/tobe.webp",
     "order": "141038",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "神奈川"
+    "prefecture": "神奈川",
+    "created_at": "2018-02-02T00:00:00.000+09:00"
   },
   {
     "id": 137,
@@ -959,17 +1171,10 @@
     "name": "保土ヶ谷",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "141062",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "神奈川"
-  },
-  {
-    "id": 288,
-    "url": "https://coderdojo-morooka.connpass.com",
-    "name": "横浜師岡",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "141097",
-    "is_active": true,
-    "prefecture": "神奈川"
+    "prefecture": "神奈川",
+    "created_at": "2018-03-24T00:00:00.000+09:00"
   },
   {
     "id": 68,
@@ -977,8 +1182,10 @@
     "name": "新羽",
     "logo": "https://coderdojo.jp/img/dojos/nippa.webp",
     "order": "141097",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "神奈川"
+    "prefecture": "神奈川",
+    "created_at": "2017-01-09T00:00:00.000+09:00"
   },
   {
     "id": 208,
@@ -986,17 +1193,21 @@
     "name": "小机",
     "logo": "https://coderdojo.jp/img/dojos/kozukue.webp",
     "order": "141097",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "神奈川"
+    "prefecture": "神奈川",
+    "created_at": "2019-03-08T00:00:00.000+09:00"
   },
   {
-    "id": 154,
-    "url": "https://coderdojo-kamoi.connpass.com/",
-    "name": "鴨居",
-    "logo": "https://coderdojo.jp/img/dojos/kamoi.webp",
-    "order": "141135",
-    "is_active": false,
-    "prefecture": "神奈川"
+    "id": 288,
+    "url": "https://coderdojo-morooka.connpass.com",
+    "name": "横浜師岡",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "141097",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "神奈川",
+    "created_at": "2022-10-10T00:00:00.000+09:00"
   },
   {
     "id": 76,
@@ -1004,8 +1215,21 @@
     "name": "長津田",
     "logo": "https://coderdojo.jp/img/dojos/nagatsuta.webp",
     "order": "141135",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "神奈川"
+    "prefecture": "神奈川",
+    "created_at": "2017-04-03T00:00:00.000+09:00"
+  },
+  {
+    "id": 154,
+    "url": "https://coderdojo-kamoi.connpass.com/",
+    "name": "鴨居",
+    "logo": "https://coderdojo.jp/img/dojos/kamoi.webp",
+    "order": "141135",
+    "counter": 1,
+    "is_active": false,
+    "prefecture": "神奈川",
+    "created_at": "2017-04-03T00:00:00.000+09:00"
   },
   {
     "id": 184,
@@ -1013,8 +1237,10 @@
     "name": "あざみ野",
     "logo": "https://coderdojo.jp/img/dojos/azamino.webp",
     "order": "141178",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "神奈川"
+    "prefecture": "神奈川",
+    "created_at": "2018-11-05T00:00:00.000+09:00"
   },
   {
     "id": 179,
@@ -1022,17 +1248,10 @@
     "name": "港北NT",
     "logo": "https://coderdojo.jp/img/dojos/kohoku-nt.webp",
     "order": "141186",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "神奈川"
-  },
-  {
-    "id": 190,
-    "url": "https://coderdojo-mizonokuchi.connpass.com/",
-    "name": "溝口",
-    "logo": "https://coderdojo.jp/img/dojos/mizonokuchi.webp",
-    "order": "141305",
-    "is_active": true,
-    "prefecture": "神奈川"
+    "prefecture": "神奈川",
+    "created_at": "2018-08-15T00:00:00.000+09:00"
   },
   {
     "id": 210,
@@ -1040,8 +1259,21 @@
     "name": "久地",
     "logo": "https://coderdojo.jp/img/dojos/kuji.webp",
     "order": "141305",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "神奈川"
+    "prefecture": "神奈川",
+    "created_at": "2019-05-05T00:00:00.000+09:00"
+  },
+  {
+    "id": 190,
+    "url": "https://coderdojo-mizonokuchi.connpass.com/",
+    "name": "溝口",
+    "logo": "https://coderdojo.jp/img/dojos/mizonokuchi.webp",
+    "order": "141305",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "神奈川",
+    "created_at": "2018-12-27T00:00:00.000+09:00"
   },
   {
     "id": 278,
@@ -1049,8 +1281,10 @@
     "name": "武蔵小杉",
     "logo": "https://coderdojo.jp/img/dojos/musashi-kosugi.webp",
     "order": "141330",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "神奈川"
+    "prefecture": "神奈川",
+    "created_at": "2022-01-04T00:00:00.000+09:00"
   },
   {
     "id": 138,
@@ -1058,8 +1292,10 @@
     "name": "鎌倉",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "142042",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "神奈川"
+    "prefecture": "神奈川",
+    "created_at": "2018-03-25T00:00:00.000+09:00"
   },
   {
     "id": 296,
@@ -1067,8 +1303,10 @@
     "name": "大船",
     "logo": "https://coderdojo.jp/img/dojos/ofuna.webp",
     "order": "142042",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "神奈川"
+    "prefecture": "神奈川",
+    "created_at": "2022-12-28T00:00:00.000+09:00"
   },
   {
     "id": 26,
@@ -1076,8 +1314,10 @@
     "name": "藤沢",
     "logo": "https://coderdojo.jp/img/dojos/fujisawa.webp",
     "order": "142051",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "神奈川"
+    "prefecture": "神奈川",
+    "created_at": "2016-12-14T00:00:00.000+09:00"
   },
   {
     "id": 199,
@@ -1085,8 +1325,10 @@
     "name": "茅ヶ崎",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "142077",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "神奈川"
+    "prefecture": "神奈川",
+    "created_at": "2019-02-06T00:00:00.000+09:00"
   },
   {
     "id": 140,
@@ -1094,8 +1336,10 @@
     "name": "厚木",
     "logo": "https://coderdojo.jp/img/dojos/atsugi.webp",
     "order": "142123",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "神奈川"
+    "prefecture": "神奈川",
+    "created_at": "2018-03-29T00:00:00.000+09:00"
   },
   {
     "id": 247,
@@ -1103,8 +1347,10 @@
     "name": "中央林間",
     "logo": "https://coderdojo.jp/img/dojos/chuo-rinkan.webp",
     "order": "142131",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "神奈川"
+    "prefecture": "神奈川",
+    "created_at": "2020-05-07T00:00:00.000+09:00"
   },
   {
     "id": 260,
@@ -1112,8 +1358,10 @@
     "name": "伊勢原",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "142140",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "神奈川"
+    "prefecture": "神奈川",
+    "created_at": "2021-01-07T00:00:00.000+09:00"
   },
   {
     "id": 91,
@@ -1121,8 +1369,10 @@
     "name": "海老名",
     "logo": "https://coderdojo.jp/img/dojos/ebina.webp",
     "order": "142158",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "神奈川"
+    "prefecture": "神奈川",
+    "created_at": "2017-06-26T00:00:00.000+09:00"
   },
   {
     "id": 5,
@@ -1130,8 +1380,10 @@
     "name": "新潟西",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "151009",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "新潟"
+    "prefecture": "新潟",
+    "created_at": "2015-09-16T00:00:00.000+09:00"
   },
   {
     "id": 127,
@@ -1139,8 +1391,10 @@
     "name": "新発田",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "152064",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "新潟"
+    "prefecture": "新潟",
+    "created_at": "2018-02-17T00:00:00.000+09:00"
   },
   {
     "id": 293,
@@ -1148,8 +1402,10 @@
     "name": "舟橋",
     "logo": "https://coderdojo.jp/img/dojos/funabashimura.webp",
     "order": "160008",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "富山"
+    "prefecture": "富山",
+    "created_at": "2022-12-04T00:00:00.000+09:00"
   },
   {
     "id": 267,
@@ -1157,8 +1413,10 @@
     "name": "富山",
     "logo": "https://coderdojo.jp/img/dojos/toyama.webp",
     "order": "162019",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "富山"
+    "prefecture": "富山",
+    "created_at": "2021-04-29T00:00:00.000+09:00"
   },
   {
     "id": 279,
@@ -1166,8 +1424,10 @@
     "name": "滑川",
     "logo": "https://coderdojo.jp/img/dojos/namerikawa.webp",
     "order": "162060",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "富山"
+    "prefecture": "富山",
+    "created_at": "2022-03-01T00:00:00.000+09:00"
   },
   {
     "id": 257,
@@ -1175,8 +1435,10 @@
     "name": "となみ",
     "logo": "https://coderdojo.jp/img/dojos/tonami.webp",
     "order": "162086",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "富山"
+    "prefecture": "富山",
+    "created_at": "2020-11-13T00:00:00.000+09:00"
   },
   {
     "id": 276,
@@ -1184,8 +1446,10 @@
     "name": "なんと@よってカフェ",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "162108",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "富山"
+    "prefecture": "富山",
+    "created_at": "2021-10-08T00:00:00.000+09:00"
   },
   {
     "id": 6,
@@ -1193,8 +1457,10 @@
     "name": "金沢",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "172014",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "石川"
+    "prefecture": "石川",
+    "created_at": "2016-11-24T00:00:00.000+09:00"
   },
   {
     "id": 28,
@@ -1202,8 +1468,10 @@
     "name": "福井",
     "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
     "order": "182010",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "福井"
+    "prefecture": "福井",
+    "created_at": "2013-08-14T00:00:00.000+09:00"
   },
   {
     "id": 88,
@@ -1211,8 +1479,10 @@
     "name": "甲府",
     "logo": "https://coderdojo.jp/img/dojos/kofu.webp",
     "order": "192015",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "山梨"
+    "prefecture": "山梨",
+    "created_at": "2017-05-29T00:00:00.000+09:00"
   },
   {
     "id": 195,
@@ -1220,8 +1490,10 @@
     "name": "韮崎",
     "logo": "https://coderdojo.jp/img/dojos/nirasaki.webp",
     "order": "192074",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "山梨"
+    "prefecture": "山梨",
+    "created_at": "2019-02-03T00:00:00.000+09:00"
   },
   {
     "id": 196,
@@ -1229,8 +1501,10 @@
     "name": "北杜",
     "logo": "https://coderdojo.jp/img/dojos/hokuto.webp",
     "order": "192091",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "山梨"
+    "prefecture": "山梨",
+    "created_at": "2019-02-03T00:00:00.000+09:00"
   },
   {
     "id": 133,
@@ -1238,8 +1512,10 @@
     "name": "甲斐竜王",
     "logo": "https://coderdojo.jp/img/dojos/kairyuo.webp",
     "order": "192104",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "山梨"
+    "prefecture": "山梨",
+    "created_at": "2018-03-02T00:00:00.000+09:00"
   },
   {
     "id": 175,
@@ -1247,8 +1523,10 @@
     "name": "松本",
     "logo": "https://coderdojo.jp/img/dojos/matsumoto.webp",
     "order": "202029",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "長野"
+    "prefecture": "長野",
+    "created_at": "2018-10-05T00:00:00.000+09:00"
   },
   {
     "id": 232,
@@ -1256,8 +1534,10 @@
     "name": "上田",
     "logo": "https://coderdojo.jp/img/dojos/ueda.webp",
     "order": "202037",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "長野"
+    "prefecture": "長野",
+    "created_at": "2019-11-10T00:00:00.000+09:00"
   },
   {
     "id": 94,
@@ -1265,8 +1545,10 @@
     "name": "諏訪湖",
     "logo": "https://coderdojo.jp/img/dojos/suwako.webp",
     "order": "202061",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "長野"
+    "prefecture": "長野",
+    "created_at": "2017-02-20T00:00:00.000+09:00"
   },
   {
     "id": 237,
@@ -1274,8 +1556,10 @@
     "name": "伊那",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "202096",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "長野"
+    "prefecture": "長野",
+    "created_at": "2020-01-19T00:00:00.000+09:00"
   },
   {
     "id": 27,
@@ -1283,8 +1567,10 @@
     "name": "塩尻",
     "logo": "https://coderdojo.jp/img/dojos/shiojiri.webp",
     "order": "202151",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "長野"
+    "prefecture": "長野",
+    "created_at": "2012-11-08T00:00:00.000+09:00"
   },
   {
     "id": 87,
@@ -1292,8 +1578,10 @@
     "name": "安曇野",
     "logo": "https://coderdojo.jp/img/dojos/azumino.webp",
     "order": "202207",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "長野"
+    "prefecture": "長野",
+    "created_at": "2017-05-11T00:00:00.000+09:00"
   },
   {
     "id": 282,
@@ -1301,8 +1589,10 @@
     "name": "木曽",
     "logo": "https://coderdojo.jp/img/dojos/kiso.webp",
     "order": "204234",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "長野"
+    "prefecture": "長野",
+    "created_at": "2022-03-17T00:00:00.000+09:00"
   },
   {
     "id": 200,
@@ -1310,8 +1600,10 @@
     "name": "岐阜",
     "logo": "https://coderdojo.jp/img/dojos/gifu.webp",
     "order": "212016",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "岐阜"
+    "prefecture": "岐阜",
+    "created_at": "2019-02-06T00:00:00.000+09:00"
   },
   {
     "id": 197,
@@ -1319,8 +1611,10 @@
     "name": "東濃",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "212041",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "岐阜"
+    "prefecture": "岐阜",
+    "created_at": "2019-02-03T00:00:00.000+09:00"
   },
   {
     "id": 285,
@@ -1328,8 +1622,10 @@
     "name": "恵那",
     "logo": "https://coderdojo.jp/img/dojos/ena.webp",
     "order": "212105",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "岐阜"
+    "prefecture": "岐阜",
+    "created_at": "2022-08-12T00:00:00.000+09:00"
   },
   {
     "id": 96,
@@ -1337,8 +1633,10 @@
     "name": "海津",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "212211",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "岐阜"
+    "prefecture": "岐阜",
+    "created_at": "2017-09-26T00:00:00.000+09:00"
   },
   {
     "id": 148,
@@ -1346,8 +1644,10 @@
     "name": "静岡",
     "logo": "https://coderdojo.jp/img/dojos/shizuoka.webp",
     "order": "221007",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "静岡"
+    "prefecture": "静岡",
+    "created_at": "2016-02-25T00:00:00.000+09:00"
   },
   {
     "id": 98,
@@ -1355,8 +1655,10 @@
     "name": "浜松",
     "logo": "https://coderdojo.jp/img/dojos/hamamatsu.webp",
     "order": "221309",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "静岡"
+    "prefecture": "静岡",
+    "created_at": "2016-02-25T00:00:00.000+09:00"
   },
   {
     "id": 129,
@@ -1364,17 +1666,10 @@
     "name": "三島・沼津",
     "logo": "https://coderdojo.jp/img/dojos/mishima-numazu.webp",
     "order": "222038",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "静岡"
-  },
-  {
-    "id": 31,
-    "url": "https://coderdojo-nagoya.connpass.com/",
-    "name": "名古屋",
-    "logo": "https://coderdojo.jp/img/dojos/nagoya.webp",
-    "order": "231002",
-    "is_active": true,
-    "prefecture": "愛知"
+    "prefecture": "静岡",
+    "created_at": "2018-02-18T00:00:00.000+09:00"
   },
   {
     "id": 32,
@@ -1382,8 +1677,21 @@
     "name": "天白",
     "logo": "https://coderdojo.jp/img/dojos/tempaku.webp",
     "order": "231002",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "愛知"
+    "prefecture": "愛知",
+    "created_at": "2014-12-08T00:00:00.000+09:00"
+  },
+  {
+    "id": 31,
+    "url": "https://coderdojo-nagoya.connpass.com/",
+    "name": "名古屋",
+    "logo": "https://coderdojo.jp/img/dojos/nagoya.webp",
+    "order": "231002",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "愛知",
+    "created_at": "2014-10-20T00:00:00.000+09:00"
   },
   {
     "id": 2,
@@ -1391,8 +1699,10 @@
     "name": "瑞穂",
     "logo": "https://coderdojo.jp/img/dojos/mizuho.webp",
     "order": "231088",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "愛知"
+    "prefecture": "愛知",
+    "created_at": "2019-04-30T00:00:00.000+09:00"
   },
   {
     "id": 30,
@@ -1400,8 +1710,10 @@
     "name": "豊橋",
     "logo": "https://coderdojo.jp/img/dojos/toyohashi.webp",
     "order": "232017",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "愛知"
+    "prefecture": "愛知",
+    "created_at": "2016-06-03T00:00:00.000+09:00"
   },
   {
     "id": 214,
@@ -1409,8 +1721,10 @@
     "name": "一宮",
     "logo": "https://coderdojo.jp/img/dojos/ichinomiya.webp",
     "order": "232033",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "愛知"
+    "prefecture": "愛知",
+    "created_at": "2019-05-18T00:00:00.000+09:00"
   },
   {
     "id": 182,
@@ -1418,8 +1732,10 @@
     "name": "瀬戸",
     "logo": "https://coderdojo.jp/img/dojos/seto.webp",
     "order": "232041",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "愛知"
+    "prefecture": "愛知",
+    "created_at": "2018-10-21T00:00:00.000+09:00"
   },
   {
     "id": 118,
@@ -1427,8 +1743,10 @@
     "name": "安城",
     "logo": "https://coderdojo.jp/img/dojos/anjo.webp",
     "order": "232122",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "愛知"
+    "prefecture": "愛知",
+    "created_at": "2017-11-13T00:00:00.000+09:00"
   },
   {
     "id": 241,
@@ -1436,8 +1754,10 @@
     "name": "西尾",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "232131",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "愛知"
+    "prefecture": "愛知",
+    "created_at": "2020-02-10T00:00:00.000+09:00"
   },
   {
     "id": 218,
@@ -1445,8 +1765,10 @@
     "name": "犬山",
     "logo": "https://coderdojo.jp/img/dojos/inuyama.webp",
     "order": "232157",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "愛知"
+    "prefecture": "愛知",
+    "created_at": "2019-06-23T00:00:00.000+09:00"
   },
   {
     "id": 235,
@@ -1454,8 +1776,10 @@
     "name": "稲沢正明寺",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "232203",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "愛知"
+    "prefecture": "愛知",
+    "created_at": "2020-01-03T00:00:00.000+09:00"
   },
   {
     "id": 84,
@@ -1463,8 +1787,10 @@
     "name": "新城",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "232211",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "愛知"
+    "prefecture": "愛知",
+    "created_at": "2017-05-16T00:00:00.000+09:00"
   },
   {
     "id": 243,
@@ -1472,8 +1798,10 @@
     "name": "大府",
     "logo": "https://coderdojo.jp/img/dojos/obu.webp",
     "order": "232238",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "愛知"
+    "prefecture": "愛知",
+    "created_at": "2020-02-22T00:00:00.000+09:00"
   },
   {
     "id": 71,
@@ -1481,8 +1809,10 @@
     "name": "尾張",
     "logo": "https://coderdojo.jp/img/dojos/owari.webp",
     "order": "232289",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "愛知"
+    "prefecture": "愛知",
+    "created_at": "2017-02-17T00:00:00.000+09:00"
   },
   {
     "id": 145,
@@ -1490,8 +1820,10 @@
     "name": "日進",
     "logo": "https://coderdojo.jp/img/dojos/nisshin.webp",
     "order": "232301",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "愛知"
+    "prefecture": "愛知",
+    "created_at": "2018-04-22T00:00:00.000+09:00"
   },
   {
     "id": 217,
@@ -1499,8 +1831,10 @@
     "name": "師勝",
     "logo": "https://coderdojo.jp/img/dojos/shikatsu.webp",
     "order": "232343",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "愛知"
+    "prefecture": "愛知",
+    "created_at": "2019-06-20T00:00:00.000+09:00"
   },
   {
     "id": 33,
@@ -1508,8 +1842,10 @@
     "name": "大治",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "234249",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "愛知"
+    "prefecture": "愛知",
+    "created_at": "2016-08-12T00:00:00.000+09:00"
   },
   {
     "id": 255,
@@ -1517,8 +1853,10 @@
     "name": "四日市",
     "logo": "https://coderdojo.jp/img/dojos/yokkaichi.webp",
     "order": "242021",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "三重"
+    "prefecture": "三重",
+    "created_at": "2020-11-02T00:00:00.000+09:00"
   },
   {
     "id": 62,
@@ -1526,8 +1864,10 @@
     "name": "伊勢",
     "logo": "https://coderdojo.jp/img/dojos/ise.webp",
     "order": "242039",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "三重"
+    "prefecture": "三重",
+    "created_at": "2016-12-22T00:00:00.000+09:00"
   },
   {
     "id": 37,
@@ -1535,26 +1875,10 @@
     "name": "大津",
     "logo": "https://coderdojo.jp/img/dojos/otsu.webp",
     "order": "252018",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "滋賀"
-  },
-  {
-    "id": 34,
-    "url": "https://coderdojo-nagaokakyo.doorkeeper.jp/",
-    "name": "長岡京",
-    "logo": "https://coderdojo.jp/img/dojos/nagaokakyo.webp",
-    "order": "261009",
-    "is_active": true,
-    "prefecture": "京都"
-  },
-  {
-    "id": 240,
-    "url": "https://coderdojo-kyoto-shijo.doorkeeper.jp/",
-    "name": "京都四条",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "261009",
-    "is_active": false,
-    "prefecture": "京都"
+    "prefecture": "滋賀",
+    "created_at": "2015-09-16T00:00:00.000+09:00"
   },
   {
     "id": 39,
@@ -1562,8 +1886,32 @@
     "name": "京都伏見",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "261009",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "京都"
+    "prefecture": "京都",
+    "created_at": "2016-03-01T00:00:00.000+09:00"
+  },
+  {
+    "id": 34,
+    "url": "https://coderdojo-nagaokakyo.doorkeeper.jp/",
+    "name": "長岡京",
+    "logo": "https://coderdojo.jp/img/dojos/nagaokakyo.webp",
+    "order": "261009",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "京都",
+    "created_at": "2014-10-14T00:00:00.000+09:00"
+  },
+  {
+    "id": 240,
+    "url": "https://coderdojo-kyoto-shijo.doorkeeper.jp/",
+    "name": "京都四条",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "261009",
+    "counter": 1,
+    "is_active": false,
+    "prefecture": "京都",
+    "created_at": "2020-02-09T00:00:00.000+09:00"
   },
   {
     "id": 262,
@@ -1571,8 +1919,10 @@
     "name": "宇治",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "262048",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "京都"
+    "prefecture": "京都",
+    "created_at": "2021-01-12T00:00:00.000+09:00"
   },
   {
     "id": 250,
@@ -1580,26 +1930,10 @@
     "name": "京丹後",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "262129",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "京都"
-  },
-  {
-    "id": 116,
-    "url": "https://coderdojo-abeno.doorkeeper.jp/",
-    "name": "阿倍野",
-    "logo": "https://coderdojo.jp/img/dojos/abeno.webp",
-    "order": "271004",
-    "is_active": false,
-    "prefecture": "大阪"
-  },
-  {
-    "id": 45,
-    "url": "https://www.facebook.com/coderdojo.nishinari.osaka/",
-    "name": "西成",
-    "logo": "https://coderdojo.jp/img/dojos/nishinari.webp",
-    "order": "271004",
-    "is_active": false,
-    "prefecture": "大阪"
+    "prefecture": "京都",
+    "created_at": "2020-06-27T00:00:00.000+09:00"
   },
   {
     "id": 42,
@@ -1607,17 +1941,10 @@
     "name": "西宮・梅田",
     "logo": "https://coderdojo.jp/img/dojos/nishinomiya.webp",
     "order": "271004",
+    "counter": 2,
     "is_active": true,
-    "prefecture": "大阪"
-  },
-  {
-    "id": 43,
-    "url": "https://zen.coderdojo.com/dojo/jp/osaka-osaka-prefecture/namba-osaka",
-    "name": "なんば",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "271004",
-    "is_active": false,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2014-02-11T00:00:00.000+09:00"
   },
   {
     "id": 44,
@@ -1625,8 +1952,43 @@
     "name": "大阪狭山",
     "logo": "https://coderdojo.jp/img/dojos/osakasayama.webp",
     "order": "271004",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2016-08-15T00:00:00.000+09:00"
+  },
+  {
+    "id": 43,
+    "url": "https://zen.coderdojo.com/dojo/jp/osaka-osaka-prefecture/namba-osaka",
+    "name": "なんば",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "271004",
+    "counter": 1,
+    "is_active": false,
+    "prefecture": "大阪",
+    "created_at": "2016-09-27T00:00:00.000+09:00"
+  },
+  {
+    "id": 116,
+    "url": "https://coderdojo-abeno.doorkeeper.jp/",
+    "name": "阿倍野",
+    "logo": "https://coderdojo.jp/img/dojos/abeno.webp",
+    "order": "271004",
+    "counter": 1,
+    "is_active": false,
+    "prefecture": "大阪",
+    "created_at": "2017-11-02T00:00:00.000+09:00"
+  },
+  {
+    "id": 45,
+    "url": "https://www.facebook.com/coderdojo.nishinari.osaka/",
+    "name": "西成",
+    "logo": "https://coderdojo.jp/img/dojos/nishinari.webp",
+    "order": "271004",
+    "counter": 1,
+    "is_active": false,
+    "prefecture": "大阪",
+    "created_at": "2016-07-13T00:00:00.000+09:00"
   },
   {
     "id": 266,
@@ -1634,8 +1996,10 @@
     "name": "東住吉",
     "logo": "https://coderdojo.jp/img/dojos/higashi-sumiyoshi.webp",
     "order": "271217",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2021-04-25T00:00:00.000+09:00"
   },
   {
     "id": 46,
@@ -1643,8 +2007,10 @@
     "name": "堺",
     "logo": "https://coderdojo.jp/img/dojos/sakai.webp",
     "order": "271403",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2016-03-22T00:00:00.000+09:00"
   },
   {
     "id": 252,
@@ -1652,8 +2018,10 @@
     "name": "岸和田",
     "logo": "https://coderdojo.jp/img/dojos/kishiwada.webp",
     "order": "272027",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2020-07-30T00:00:00.000+09:00"
   },
   {
     "id": 193,
@@ -1661,8 +2029,10 @@
     "name": "とよなか",
     "logo": "https://coderdojo.jp/img/dojos/toyonaka.webp",
     "order": "272035",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2019-01-16T00:00:00.000+09:00"
   },
   {
     "id": 286,
@@ -1670,8 +2040,10 @@
     "name": "池田石橋",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "272043",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2022-08-28T00:00:00.000+09:00"
   },
   {
     "id": 206,
@@ -1679,8 +2051,10 @@
     "name": "吹田",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "272051",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2019-02-28T00:00:00.000+09:00"
   },
   {
     "id": 66,
@@ -1688,8 +2062,10 @@
     "name": "高槻",
     "logo": "https://coderdojo.jp/img/dojos/takatsuki.webp",
     "order": "272078",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2017-01-04T00:00:00.000+09:00"
   },
   {
     "id": 40,
@@ -1697,8 +2073,10 @@
     "name": "枚方",
     "logo": "https://coderdojo.jp/img/dojos/hirakata.webp",
     "order": "272108",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2016-05-18T00:00:00.000+09:00"
   },
   {
     "id": 256,
@@ -1706,8 +2084,10 @@
     "name": "茨木",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "272116",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2020-11-07T00:00:00.000+09:00"
   },
   {
     "id": 291,
@@ -1715,8 +2095,10 @@
     "name": "八尾@yotteco",
     "logo": "https://coderdojo.jp/img/dojos/yao-yotteco.webp",
     "order": "272124",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2022-11-18T00:00:00.000+09:00"
   },
   {
     "id": 101,
@@ -1724,8 +2106,10 @@
     "name": "八尾",
     "logo": "https://coderdojo.jp/img/dojos/yao.webp",
     "order": "272124",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2017-08-03T00:00:00.000+09:00"
   },
   {
     "id": 72,
@@ -1733,8 +2117,10 @@
     "name": "富田林",
     "logo": "https://coderdojo.jp/img/dojos/tondabayashi.webp",
     "order": "272141",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2017-02-19T00:00:00.000+09:00"
   },
   {
     "id": 202,
@@ -1742,8 +2128,10 @@
     "name": "松原",
     "logo": "https://coderdojo.jp/img/dojos/matsubara.webp",
     "order": "272175",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2019-02-18T00:00:00.000+09:00"
   },
   {
     "id": 135,
@@ -1751,8 +2139,10 @@
     "name": "大東",
     "logo": "https://coderdojo.jp/img/dojos/daito.webp",
     "order": "272183",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2018-03-13T00:00:00.000+09:00"
   },
   {
     "id": 108,
@@ -1760,8 +2150,10 @@
     "name": "みのお",
     "logo": "https://coderdojo.jp/img/dojos/minoh.webp",
     "order": "272205",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2017-09-06T00:00:00.000+09:00"
   },
   {
     "id": 271,
@@ -1769,8 +2161,10 @@
     "name": "柏原",
     "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
     "order": "272213",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2021-06-20T00:00:00.000+09:00"
   },
   {
     "id": 272,
@@ -1778,8 +2172,10 @@
     "name": "藤井寺・柏原",
     "logo": "https://coderdojo.jp/img/dojos/fujiidera-kashiwara.webp",
     "order": "272264",
+    "counter": 2,
     "is_active": true,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2021-02-28T00:00:00.000+09:00"
   },
   {
     "id": 264,
@@ -1787,8 +2183,10 @@
     "name": "藤井寺",
     "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
     "order": "272264",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2021-02-28T00:00:00.000+09:00"
   },
   {
     "id": 41,
@@ -1796,8 +2194,10 @@
     "name": "東大阪",
     "logo": "https://coderdojo.jp/img/dojos/higasi-osaka.webp",
     "order": "272272",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2016-09-01T00:00:00.000+09:00"
   },
   {
     "id": 110,
@@ -1805,8 +2205,10 @@
     "name": "せんなん",
     "logo": "https://coderdojo.jp/img/dojos/sennan.webp",
     "order": "272281",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "大阪"
+    "prefecture": "大阪",
+    "created_at": "2017-05-26T00:00:00.000+09:00"
   },
   {
     "id": 124,
@@ -1814,8 +2216,10 @@
     "name": "灘",
     "logo": "https://coderdojo.jp/img/dojos/nada.webp",
     "order": "281018",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "兵庫"
+    "prefecture": "兵庫",
+    "created_at": "2018-01-26T00:00:00.000+09:00"
   },
   {
     "id": 119,
@@ -1823,8 +2227,10 @@
     "name": "西神戸",
     "logo": "https://coderdojo.jp/img/dojos/nishi-kobe.webp",
     "order": "281069",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "兵庫"
+    "prefecture": "兵庫",
+    "created_at": "2017-11-08T00:00:00.000+09:00"
   },
   {
     "id": 67,
@@ -1832,8 +2238,10 @@
     "name": "北神戸",
     "logo": "https://coderdojo.jp/img/dojos/kitakobe.webp",
     "order": "281093",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "兵庫"
+    "prefecture": "兵庫",
+    "created_at": "2016-09-12T00:00:00.000+09:00"
   },
   {
     "id": 48,
@@ -1841,8 +2249,10 @@
     "name": "神戸",
     "logo": "https://coderdojo.jp/img/dojos/kobe.webp",
     "order": "281107",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "兵庫"
+    "prefecture": "兵庫",
+    "created_at": "2016-09-28T00:00:00.000+09:00"
   },
   {
     "id": 50,
@@ -1850,8 +2260,10 @@
     "name": "姫路",
     "logo": "https://coderdojo.jp/img/dojos/himeji.webp",
     "order": "282014",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "兵庫"
+    "prefecture": "兵庫",
+    "created_at": "2016-03-22T00:00:00.000+09:00"
   },
   {
     "id": 49,
@@ -1859,8 +2271,10 @@
     "name": "明石",
     "logo": "https://coderdojo.jp/img/dojos/akashi.webp",
     "order": "282031",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "兵庫"
+    "prefecture": "兵庫",
+    "created_at": "2016-04-04T00:00:00.000+09:00"
   },
   {
     "id": 146,
@@ -1868,8 +2282,10 @@
     "name": "淡路島",
     "logo": "https://coderdojo.jp/img/dojos/awajishima.webp",
     "order": "282057",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "兵庫"
+    "prefecture": "兵庫",
+    "created_at": "2018-04-24T00:00:00.000+09:00"
   },
   {
     "id": 220,
@@ -1877,8 +2293,10 @@
     "name": "あしや",
     "logo": "https://coderdojo.jp/img/dojos/ashiya.webp",
     "order": "282065",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "兵庫"
+    "prefecture": "兵庫",
+    "created_at": "2019-07-07T00:00:00.000+09:00"
   },
   {
     "id": 230,
@@ -1886,8 +2304,10 @@
     "name": "みき",
     "logo": "https://coderdojo.jp/img/dojos/miki.webp",
     "order": "282154",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "兵庫"
+    "prefecture": "兵庫",
+    "created_at": "2019-11-01T00:00:00.000+09:00"
   },
   {
     "id": 249,
@@ -1895,8 +2315,10 @@
     "name": "加西",
     "logo": "https://coderdojo.jp/img/dojos/kasai.webp",
     "order": "282201",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "兵庫"
+    "prefecture": "兵庫",
+    "created_at": "2020-06-21T00:00:00.000+09:00"
   },
   {
     "id": 181,
@@ -1904,8 +2326,10 @@
     "name": "猪名川",
     "logo": "https://coderdojo.jp/img/dojos/inagawa.webp",
     "order": "283011",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "兵庫"
+    "prefecture": "兵庫",
+    "created_at": "2018-10-18T00:00:00.000+09:00"
   },
   {
     "id": 35,
@@ -1913,8 +2337,10 @@
     "name": "奈良",
     "logo": "https://coderdojo.jp/img/dojos/nara.webp",
     "order": "292010",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "奈良"
+    "prefecture": "奈良",
+    "created_at": "2014-10-26T00:00:00.000+09:00"
   },
   {
     "id": 236,
@@ -1922,8 +2348,10 @@
     "name": "法隆寺",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "292095",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "奈良"
+    "prefecture": "奈良",
+    "created_at": "2020-01-11T00:00:00.000+09:00"
   },
   {
     "id": 36,
@@ -1931,8 +2359,10 @@
     "name": "生駒",
     "logo": "https://coderdojo.jp/img/dojos/ikoma.webp",
     "order": "292095",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "奈良"
+    "prefecture": "奈良",
+    "created_at": "2016-04-25T00:00:00.000+09:00"
   },
   {
     "id": 294,
@@ -1940,8 +2370,10 @@
     "name": "平群",
     "logo": "https://coderdojo.jp/img/dojos/heguri.webp",
     "order": "293423",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "奈良"
+    "prefecture": "奈良",
+    "created_at": "2022-12-12T00:00:00.000+09:00"
   },
   {
     "id": 128,
@@ -1949,17 +2381,10 @@
     "name": "三郷",
     "logo": "https://coderdojo.jp/img/dojos/sango.webp",
     "order": "293431",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "奈良"
-  },
-  {
-    "id": 177,
-    "url": "https://coderdojo-tawaramoto.github.io/",
-    "name": "田原本",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "293636",
-    "is_active": false,
-    "prefecture": "奈良"
+    "prefecture": "奈良",
+    "created_at": "2018-02-18T00:00:00.000+09:00"
   },
   {
     "id": 169,
@@ -1967,8 +2392,21 @@
     "name": "明日香",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "293636",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "奈良"
+    "prefecture": "奈良",
+    "created_at": "2018-07-31T00:00:00.000+09:00"
+  },
+  {
+    "id": 177,
+    "url": "https://coderdojo-tawaramoto.github.io/",
+    "name": "田原本",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "293636",
+    "counter": 1,
+    "is_active": false,
+    "prefecture": "奈良",
+    "created_at": "2018-07-31T00:00:00.000+09:00"
   },
   {
     "id": 47,
@@ -1976,8 +2414,10 @@
     "name": "和歌山",
     "logo": "https://coderdojo.jp/img/dojos/wakayama.webp",
     "order": "302015",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "和歌山"
+    "prefecture": "和歌山",
+    "created_at": "2016-11-01T00:00:00.000+09:00"
   },
   {
     "id": 99,
@@ -1985,8 +2425,10 @@
     "name": "南紀田辺",
     "logo": "https://coderdojo.jp/img/dojos/nanki-tanabe.webp",
     "order": "302066",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "和歌山"
+    "prefecture": "和歌山",
+    "created_at": "2017-09-06T00:00:00.000+09:00"
   },
   {
     "id": 38,
@@ -1994,8 +2436,10 @@
     "name": "熊野",
     "logo": "https://coderdojo.jp/img/dojos/kumano.webp",
     "order": "302074",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "和歌山"
+    "prefecture": "和歌山",
+    "created_at": "2012-11-08T00:00:00.000+09:00"
   },
   {
     "id": 131,
@@ -2003,8 +2447,10 @@
     "name": "鳥取",
     "logo": "https://coderdojo.jp/img/dojos/tottori.webp",
     "order": "312011",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "鳥取"
+    "prefecture": "鳥取",
+    "created_at": "2018-02-22T00:00:00.000+09:00"
   },
   {
     "id": 115,
@@ -2012,8 +2458,10 @@
     "name": "大山",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "313866",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "鳥取"
+    "prefecture": "鳥取",
+    "created_at": "2017-08-16T00:00:00.000+09:00"
   },
   {
     "id": 224,
@@ -2021,8 +2469,10 @@
     "name": "大田・邑南、他",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "320005",
+    "counter": 7,
     "is_active": true,
-    "prefecture": "島根"
+    "prefecture": "島根",
+    "created_at": "2019-09-06T00:00:00.000+09:00"
   },
   {
     "id": 225,
@@ -2030,8 +2480,10 @@
     "name": "浜田",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "320225",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "島根"
+    "prefecture": "島根",
+    "created_at": "2019-09-06T00:00:00.000+09:00"
   },
   {
     "id": 211,
@@ -2039,8 +2491,10 @@
     "name": "石見@Takuno",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "322059",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "島根"
+    "prefecture": "島根",
+    "created_at": "2019-06-11T00:00:00.000+09:00"
   },
   {
     "id": 245,
@@ -2048,8 +2502,10 @@
     "name": "津和野",
     "logo": "https://coderdojo.jp/img/dojos/tsuwano.webp",
     "order": "325015",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "島根"
+    "prefecture": "島根",
+    "created_at": "2020-03-10T00:00:00.000+09:00"
   },
   {
     "id": 78,
@@ -2057,8 +2513,10 @@
     "name": "吉賀",
     "logo": "https://coderdojo.jp/img/dojos/yoshika.webp",
     "order": "325058",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "島根"
+    "prefecture": "島根",
+    "created_at": "2017-03-10T00:00:00.000+09:00"
   },
   {
     "id": 81,
@@ -2066,8 +2524,10 @@
     "name": "岡南",
     "logo": "https://coderdojo.jp/img/dojos/okayama.webp",
     "order": "331007",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "岡山"
+    "prefecture": "岡山",
+    "created_at": "2017-03-20T00:00:00.000+09:00"
   },
   {
     "id": 268,
@@ -2075,8 +2535,10 @@
     "name": "吉備",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "331015",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "岡山"
+    "prefecture": "岡山",
+    "created_at": "2021-05-01T00:00:00.000+09:00"
   },
   {
     "id": 150,
@@ -2084,8 +2546,10 @@
     "name": "倉敷",
     "logo": "https://coderdojo.jp/img/dojos/kurashiki.webp",
     "order": "332020",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "岡山"
+    "prefecture": "岡山",
+    "created_at": "2018-05-29T00:00:00.000+09:00"
   },
   {
     "id": 132,
@@ -2093,8 +2557,10 @@
     "name": "津山",
     "logo": "https://coderdojo.jp/img/dojos/tsuyama.webp",
     "order": "332038",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "岡山"
+    "prefecture": "岡山",
+    "created_at": "2018-02-28T00:00:00.000+09:00"
   },
   {
     "id": 258,
@@ -2102,8 +2568,10 @@
     "name": "笠岡",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "332054",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "岡山"
+    "prefecture": "岡山",
+    "created_at": "2020-12-07T00:00:00.000+09:00"
   },
   {
     "id": 53,
@@ -2111,8 +2579,10 @@
     "name": "五日市",
     "logo": "https://coderdojo.jp/img/dojos/itsukaichi.webp",
     "order": "341002",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "広島"
+    "prefecture": "広島",
+    "created_at": "2016-09-29T00:00:00.000+09:00"
   },
   {
     "id": 52,
@@ -2120,8 +2590,10 @@
     "name": "紙屋町",
     "logo": "https://coderdojo.jp/img/dojos/hiroshima.webp",
     "order": "341002",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "広島"
+    "prefecture": "広島",
+    "created_at": "2016-05-04T00:00:00.000+09:00"
   },
   {
     "id": 141,
@@ -2129,17 +2601,10 @@
     "name": "呉",
     "logo": "https://coderdojo.jp/img/dojos/kure.webp",
     "order": "342025",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "広島"
-  },
-  {
-    "id": 51,
-    "url": "https://www.facebook.com/CoderDojo.Fukuyama",
-    "name": "福山",
-    "logo": "https://coderdojo.jp/img/dojos/fukuyama.webp",
-    "order": "342076",
-    "is_active": false,
-    "prefecture": "広島"
+    "prefecture": "広島",
+    "created_at": "2018-04-11T00:00:00.000+09:00"
   },
   {
     "id": 281,
@@ -2147,8 +2612,21 @@
     "name": "福山大門",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "342076",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "広島"
+    "prefecture": "広島",
+    "created_at": "2022-03-16T00:00:00.000+09:00"
+  },
+  {
+    "id": 51,
+    "url": "https://www.facebook.com/CoderDojo.Fukuyama",
+    "name": "福山",
+    "logo": "https://coderdojo.jp/img/dojos/fukuyama.webp",
+    "order": "342076",
+    "counter": 1,
+    "is_active": false,
+    "prefecture": "広島",
+    "created_at": "2016-06-01T00:00:00.000+09:00"
   },
   {
     "id": 194,
@@ -2156,8 +2634,10 @@
     "name": "三次",
     "logo": "https://coderdojo.jp/img/dojos/miyoshi-hiroshima.webp",
     "order": "342092",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "広島"
+    "prefecture": "広島",
+    "created_at": "2019-01-18T00:00:00.000+09:00"
   },
   {
     "id": 192,
@@ -2165,8 +2645,10 @@
     "name": "宇部",
     "logo": "https://coderdojo.jp/img/dojos/ube.webp",
     "order": "352021",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "山口"
+    "prefecture": "山口",
+    "created_at": "2019-01-14T00:00:00.000+09:00"
   },
   {
     "id": 92,
@@ -2174,8 +2656,10 @@
     "name": "光",
     "logo": "https://coderdojo.jp/img/dojos/hikari.webp",
     "order": "352101",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "山口"
+    "prefecture": "山口",
+    "created_at": "2017-06-19T00:00:00.000+09:00"
   },
   {
     "id": 270,
@@ -2183,8 +2667,10 @@
     "name": "長門",
     "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
     "order": "352110",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "山口"
+    "prefecture": "山口",
+    "created_at": "2021-05-13T00:00:00.000+09:00"
   },
   {
     "id": 103,
@@ -2192,8 +2678,10 @@
     "name": "徳島",
     "logo": "https://coderdojo.jp/img/dojos/tokushima.webp",
     "order": "362018",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "徳島"
+    "prefecture": "徳島",
+    "created_at": "2017-10-02T00:00:00.000+09:00"
   },
   {
     "id": 111,
@@ -2201,8 +2689,10 @@
     "name": "三好",
     "logo": "https://coderdojo.jp/img/dojos/miyoshi.webp",
     "order": "362085",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "徳島"
+    "prefecture": "徳島",
+    "created_at": "2017-09-26T00:00:00.000+09:00"
   },
   {
     "id": 188,
@@ -2210,8 +2700,10 @@
     "name": "神山",
     "logo": "https://coderdojo.jp/img/dojos/kamiyama.webp",
     "order": "363421",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "徳島"
+    "prefecture": "徳島",
+    "created_at": "2018-12-13T00:00:00.000+09:00"
   },
   {
     "id": 290,
@@ -2219,8 +2711,10 @@
     "name": "紫雲",
     "logo": "https://coderdojo.jp/img/dojos/shiun.webp",
     "order": "372013",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "香川"
+    "prefecture": "香川",
+    "created_at": "2022-11-02T00:00:00.000+09:00"
   },
   {
     "id": 234,
@@ -2228,8 +2722,10 @@
     "name": "本山",
     "logo": "https://coderdojo.jp/img/dojos/motoyama.webp",
     "order": "372081",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "香川"
+    "prefecture": "香川",
+    "created_at": "2019-11-26T00:00:00.000+09:00"
   },
   {
     "id": 239,
@@ -2237,8 +2733,10 @@
     "name": "松山",
     "logo": "https://coderdojo.jp/img/dojos/matsuyama.webp",
     "order": "382019",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "愛媛"
+    "prefecture": "愛媛",
+    "created_at": "2020-02-03T00:00:00.000+09:00"
   },
   {
     "id": 226,
@@ -2246,8 +2744,10 @@
     "name": "伊予",
     "logo": "https://coderdojo.jp/img/dojos/iyo.webp",
     "order": "382108",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "愛媛"
+    "prefecture": "愛媛",
+    "created_at": "2019-10-02T00:00:00.000+09:00"
   },
   {
     "id": 144,
@@ -2255,8 +2755,10 @@
     "name": "北九州",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "401005",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "福岡"
+    "prefecture": "福岡",
+    "created_at": "2018-04-22T00:00:00.000+09:00"
   },
   {
     "id": 136,
@@ -2264,17 +2766,10 @@
     "name": "香椎",
     "logo": "https://coderdojo.jp/img/dojos/kashii.webp",
     "order": "401307",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "福岡"
-  },
-  {
-    "id": 113,
-    "url": "https://peraichi.com/landing_pages/view/coderdojo",
-    "name": "ももち",
-    "logo": "https://coderdojo.jp/img/dojos/momochi.webp",
-    "order": "401307",
-    "is_active": true,
-    "prefecture": "福岡"
+    "prefecture": "福岡",
+    "created_at": "2018-03-19T00:00:00.000+09:00"
   },
   {
     "id": 102,
@@ -2282,8 +2777,21 @@
     "name": "福岡",
     "logo": "https://coderdojo.jp/img/dojos/fukuoka.webp",
     "order": "401307",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "福岡"
+    "prefecture": "福岡",
+    "created_at": "2017-09-18T00:00:00.000+09:00"
+  },
+  {
+    "id": 113,
+    "url": "https://peraichi.com/landing_pages/view/coderdojo",
+    "name": "ももち",
+    "logo": "https://coderdojo.jp/img/dojos/momochi.webp",
+    "order": "401307",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "福岡",
+    "created_at": "2017-10-06T00:00:00.000+09:00"
   },
   {
     "id": 183,
@@ -2291,26 +2799,10 @@
     "name": "博多",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "401323",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "福岡"
-  },
-  {
-    "id": 207,
-    "url": "https://coderdojo-hiyoshi.com/",
-    "name": "日吉",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
-    "order": "402036",
-    "is_active": true,
-    "prefecture": "福岡"
-  },
-  {
-    "id": 54,
-    "url": "https://www.facebook.com/CoderDojoKurume/",
-    "name": "久留米",
-    "logo": "https://coderdojo.jp/img/dojos/kurume.webp",
-    "order": "402036",
-    "is_active": true,
-    "prefecture": "福岡"
+    "prefecture": "福岡",
+    "created_at": "2018-11-03T00:00:00.000+09:00"
   },
   {
     "id": 172,
@@ -2318,8 +2810,32 @@
     "name": "諏訪野＠ギャランドゥ",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "402036",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "福岡"
+    "prefecture": "福岡",
+    "created_at": "2018-08-25T00:00:00.000+09:00"
+  },
+  {
+    "id": 54,
+    "url": "https://www.facebook.com/CoderDojoKurume/",
+    "name": "久留米",
+    "logo": "https://coderdojo.jp/img/dojos/kurume.webp",
+    "order": "402036",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "福岡",
+    "created_at": "2016-10-06T00:00:00.000+09:00"
+  },
+  {
+    "id": 207,
+    "url": "https://coderdojo-hiyoshi.com/",
+    "name": "日吉",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "402036",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "福岡",
+    "created_at": "2019-03-05T00:00:00.000+09:00"
   },
   {
     "id": 229,
@@ -2327,8 +2843,10 @@
     "name": "ナカマ",
     "logo": "https://coderdojo.jp/img/dojos/nakama.webp",
     "order": "402150",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "福岡"
+    "prefecture": "福岡",
+    "created_at": "2019-10-26T00:00:00.000+09:00"
   },
   {
     "id": 273,
@@ -2336,8 +2854,10 @@
     "name": "春日",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "402184",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "福岡"
+    "prefecture": "福岡",
+    "created_at": "2021-08-16T00:00:00.000+09:00"
   },
   {
     "id": 191,
@@ -2345,8 +2865,10 @@
     "name": "太宰府",
     "logo": "https://coderdojo.jp/img/dojos/dazaifu.webp",
     "order": "402214",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "福岡"
+    "prefecture": "福岡",
+    "created_at": "2019-01-04T00:00:00.000+09:00"
   },
   {
     "id": 269,
@@ -2354,8 +2876,10 @@
     "name": "さが",
     "logo": "https://coderdojo.jp/img/dojos/saga.webp",
     "order": "412015",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "佐賀"
+    "prefecture": "佐賀",
+    "created_at": "2021-05-03T00:00:00.000+09:00"
   },
   {
     "id": 122,
@@ -2363,8 +2887,10 @@
     "name": "基山",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "413411",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "佐賀"
+    "prefecture": "佐賀",
+    "created_at": "2017-12-15T00:00:00.000+09:00"
   },
   {
     "id": 120,
@@ -2372,8 +2898,10 @@
     "name": "長崎",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "422011",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "長崎"
+    "prefecture": "長崎",
+    "created_at": "2017-11-14T00:00:00.000+09:00"
   },
   {
     "id": 178,
@@ -2381,8 +2909,10 @@
     "name": "熊本",
     "logo": "https://coderdojo.jp/img/dojos/kumamoto.webp",
     "order": "431001",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "熊本"
+    "prefecture": "熊本",
+    "created_at": "2018-08-05T00:00:00.000+09:00"
   },
   {
     "id": 55,
@@ -2390,8 +2920,10 @@
     "name": "宮崎",
     "logo": "https://coderdojo.jp/img/dojos/miyazaki.webp",
     "order": "454419",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "宮崎"
+    "prefecture": "宮崎",
+    "created_at": "2016-09-15T00:00:00.000+09:00"
   },
   {
     "id": 187,
@@ -2399,8 +2931,10 @@
     "name": "鹿児島",
     "logo": "https://coderdojo.jp/img/dojos/kagoshima.webp",
     "order": "462012",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "鹿児島"
+    "prefecture": "鹿児島",
+    "created_at": "2018-12-09T00:00:00.000+09:00"
   },
   {
     "id": 216,
@@ -2408,8 +2942,10 @@
     "name": "那覇",
     "logo": "https://coderdojo.jp/img/dojos/naha.webp",
     "order": "472018",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "沖縄"
+    "prefecture": "沖縄",
+    "created_at": "2019-06-15T00:00:00.000+09:00"
   },
   {
     "id": 106,
@@ -2417,8 +2953,10 @@
     "name": "宜野湾",
     "logo": "https://coderdojo.jp/img/dojos/ginowan.webp",
     "order": "472051",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "沖縄"
+    "prefecture": "沖縄",
+    "created_at": "2017-09-20T00:00:00.000+09:00"
   },
   {
     "id": 209,
@@ -2426,8 +2964,10 @@
     "name": "石垣",
     "logo": "https://coderdojo.jp/img/dojos/ishigaki.webp",
     "order": "472077",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "沖縄"
+    "prefecture": "沖縄",
+    "created_at": "2019-03-15T00:00:00.000+09:00"
   },
   {
     "id": 205,
@@ -2435,8 +2975,10 @@
     "name": "浦添",
     "logo": "https://coderdojo.jp/img/dojos/japan.webp",
     "order": "472085",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "沖縄"
+    "prefecture": "沖縄",
+    "created_at": "2019-02-28T00:00:00.000+09:00"
   },
   {
     "id": 186,
@@ -2444,8 +2986,10 @@
     "name": "名護",
     "logo": "https://coderdojo.jp/img/dojos/nago.webp",
     "order": "472093",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "沖縄"
+    "prefecture": "沖縄",
+    "created_at": "2018-12-02T00:00:00.000+09:00"
   },
   {
     "id": 198,
@@ -2453,8 +2997,10 @@
     "name": "コザ",
     "logo": "https://coderdojo.jp/img/dojos/koza.webp",
     "order": "472115",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "沖縄"
+    "prefecture": "沖縄",
+    "created_at": "2019-02-03T00:00:00.000+09:00"
   },
   {
     "id": 244,
@@ -2462,8 +3008,10 @@
     "name": "沖縄@ぴあ",
     "logo": "https://coderdojo.jp/img/dojos/okinawa-deaf.webp",
     "order": "472115",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "沖縄"
+    "prefecture": "沖縄",
+    "created_at": "2020-02-25T00:00:00.000+09:00"
   },
   {
     "id": 155,
@@ -2471,8 +3019,10 @@
     "name": "うるま",
     "logo": "https://coderdojo.jp/img/dojos/uruma.webp",
     "order": "472131",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "沖縄"
+    "prefecture": "沖縄",
+    "created_at": "2018-07-07T00:00:00.000+09:00"
   },
   {
     "id": 56,
@@ -2480,8 +3030,10 @@
     "name": "宮古島",
     "logo": "https://coderdojo.jp/img/dojos/miyakojima.webp",
     "order": "472140",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "沖縄"
+    "prefecture": "沖縄",
+    "created_at": "2016-11-02T00:00:00.000+09:00"
   },
   {
     "id": 57,
@@ -2489,8 +3041,10 @@
     "name": "嘉手納",
     "logo": "https://coderdojo.jp/img/dojos/kadena.webp",
     "order": "473251",
+    "counter": 1,
     "is_active": true,
-    "prefecture": "沖縄"
+    "prefecture": "沖縄",
+    "created_at": "2016-12-19T00:00:00.000+09:00"
   },
   {
     "id": 61,
@@ -2498,7 +3052,9 @@
     "name": "南風原",
     "logo": "https://coderdojo.jp/img/dojos/haebaru.webp",
     "order": "473502",
+    "counter": 1,
     "is_active": false,
-    "prefecture": "沖縄"
+    "prefecture": "沖縄",
+    "created_at": "2012-07-09T00:00:00.000+09:00"
   }
 ]

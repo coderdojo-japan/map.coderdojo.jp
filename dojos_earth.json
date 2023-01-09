@@ -3355,6 +3355,27 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Farset Dojo @ Belfast",
+    "geoPoint": {
+      "lat": 54.592826,
+      "lon": -5.940665999999965
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "alpha2": "GB"
+    },
+    "stage": 2,
+    "urlSlug": "gb/belfast/farset-dojo-belfast",
+    "startTime": "17:00:00",
+    "endTime": "19:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "4th",
+    "day": 1,
+    "id": "0d9ed016-0d96-4d88-896c-3aaa61064c18"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Rootkids @ FireEye Ireland",
     "geoPoint": {
       "lat": 51.8864768,
@@ -67447,6 +67468,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "八尾@くまのみぎて",
+    "geoPoint": {
+      "lat": 34.6255971,
+      "lon": 135.6172842
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/yao-osaka/kumanomigite",
+    "startTime": "17:00:00",
+    "endTime": "19:00:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 3,
+    "id": "da993487-80bb-43db-99da-0e96ca786f37"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Enghien",
     "geoPoint": {
       "lat": 50.69271519999999,
@@ -81115,30 +81160,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Warren County, Indiana @ Warren County Learning Center",
-    "geoPoint": {
-      "lat": 40.28864799999999,
-      "lon": -87.2937815
-    },
-    "country": {
-      "countryName": "United States",
-      "continent": "NA",
-      "alpha2": "US",
-      "alpha3": "USA",
-      "countryNumber": "840"
-    },
-    "stage": 1,
-    "urlSlug": "us/williamsport-in/warren-county-indiana-warren-county-learning-center",
-    "startTime": "18:00:00",
-    "endTime": "20:00:00",
-    "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "We plan to function monthly, but the day and date of the month with change to accommodate busy schedules!  Check out the Learning Center's website for upcoming dates!",
-    "day": 3,
-    "id": "0bc1c6c7-3ad2-49e1-9fc3-490da7fb36a6"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Athenry",
     "geoPoint": {
       "lat": 53.3043378,
@@ -93859,30 +93880,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Oranjestad @ Biblioteca Nacional Aruba",
-    "geoPoint": {
-      "lat": 12.5149506,
-      "lon": -70.0294907
-    },
-    "country": {
-      "countryName": "Aruba",
-      "continent": "NA",
-      "alpha2": "AW",
-      "alpha3": "ABW",
-      "countryNumber": "533"
-    },
-    "stage": 1,
-    "urlSlug": "aw/oranjestad/oranjestad-biblioteca-nacional-aruba",
-    "startTime": "14:30:00",
-    "endTime": "16:30:00",
-    "private": 0,
-    "frequency": "2/m",
-    "alternativeFrequency": "2nd",
-    "day": 2,
-    "id": "c41f82d2-4273-4de0-bce0-c714053856ff"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Salerno",
     "geoPoint": {
       "lat": 40.67649247042507,
@@ -95479,27 +95476,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Farset Dojo @ Belfast",
-    "geoPoint": {
-      "lat": 54.592826,
-      "lon": -5.940665999999965
-    },
-    "country": {
-      "countryName": "United Kingdom",
-      "alpha2": "GB"
-    },
-    "stage": 2,
-    "urlSlug": "gb/belfast/farset-dojo-belfast",
-    "startTime": "17:00:00",
-    "endTime": "19:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "4th",
-    "day": 1,
-    "id": "0d9ed016-0d96-4d88-896c-3aaa61064c18"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Ferndown@ferndownlibrary",
     "geoPoint": {
       "lat": 50.80138960000001,
@@ -96304,5 +96280,53 @@
     "alternativeFrequency": "last",
     "day": 7,
     "id": "5e0e864d-1cd2-40ea-8c0a-e0c176df5bf4"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Warren County, Indiana @ Warren County Learning Center",
+    "geoPoint": {
+      "lat": 40.28864799999999,
+      "lon": -87.2937815
+    },
+    "country": {
+      "countryName": "United States",
+      "continent": "NA",
+      "alpha2": "US",
+      "alpha3": "USA",
+      "countryNumber": "840"
+    },
+    "stage": 1,
+    "urlSlug": "us/williamsport-in/warren-county-indiana-warren-county-learning-center",
+    "startTime": "18:00:00",
+    "endTime": "20:00:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "We plan to function monthly, but the day and date of the month with change to accommodate busy schedules!  Check out the Learning Center's website for upcoming dates!",
+    "day": 3,
+    "id": "0bc1c6c7-3ad2-49e1-9fc3-490da7fb36a6"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Oranjestad @ Biblioteca Nacional Aruba",
+    "geoPoint": {
+      "lat": 12.5149506,
+      "lon": -70.0294907
+    },
+    "country": {
+      "countryName": "Aruba",
+      "continent": "NA",
+      "alpha2": "AW",
+      "alpha3": "ABW",
+      "countryNumber": "533"
+    },
+    "stage": 1,
+    "urlSlug": "aw/oranjestad/oranjestad-biblioteca-nacional-aruba",
+    "startTime": "15:00:00",
+    "endTime": "16:30:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": "2nd",
+    "day": 2,
+    "id": "c41f82d2-4273-4de0-bce0-c714053856ff"
   }
 ]
