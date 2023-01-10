@@ -95476,6 +95476,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Tsukuda@Openness Inc.",
+    "geoPoint": {
+      "lat": 35.6697055,
+      "lon": 139.7844217
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/chuo-city-tokyo/tsukuda-openness-inc",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": null,
+    "day": 7,
+    "id": "f7c90845-33b4-4b3d-b8bf-ad021ddcbb74"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Ferndown@ferndownlibrary",
     "geoPoint": {
       "lat": 50.80138960000001,
