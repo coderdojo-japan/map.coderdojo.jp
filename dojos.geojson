@@ -3816,6 +3816,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          15.055966,
+          40.190961
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Pollica @ Paideia Digital Academy<br><a target='_blank' href='http://zen.coderdojo.com/dojos/it/pollica-sa/pollica-paideia-digital-academy'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.385020199999985,
           51.1337305
         ]
@@ -3906,6 +3921,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          134.0221914,
+          35.065508
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://xn--coderdojo-ef6q138l.jp/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/tsuyama.png' alt='津山' loading='lazy' width='100px' /></a><br>津山<br><a href='https://xn--coderdojo-ef6q138l.jp/' target='_blank' rel='noopener'>Webサイトを見る</a><br><a target='_blank' href='http://zen.coderdojo.com/dojos/jp/tsuyama-okayama-prefecture/jin1-shan1'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -94.55496790000001,
           39.03508009999999
         ]
@@ -3959,6 +3989,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Galway @ Galway Technology Centre<br><a target='_blank' href='http://zen.coderdojo.com/dojos/ie/galway/galway-galway-technology-centre'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2229198,
+          36.4486391
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Rhodes @ Idryma Stamatiou<br><a target='_blank' href='http://zen.coderdojo.com/dojos/gr/rhodes/rhodes-idryma-stamatiou'>連絡先を見る</a>"
       }
     },
     {
@@ -20526,8 +20571,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.2098215,
-          51.529674
+          -3.2132528,
+          51.5213958
         ]
       },
       "properties": {
@@ -22649,21 +22694,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Randolph NJ<br><a target='_blank' href='http://zen.coderdojo.com/dojos/us/randolph-nj/randolph-nj'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.055966,
-          40.190961
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Pollica @ Paideia Digital Academy<br><a target='_blank' href='http://zen.coderdojo.com/dojos/it/pollica-sa/pollica-paideia-digital-academy'>連絡先を見る</a>"
       }
     },
     {
@@ -26481,21 +26511,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          134.0221914,
-          35.065508
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://xn--coderdojo-ef6q138l.jp/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/tsuyama.png' alt='津山' loading='lazy' width='100px' /></a><br>津山<br><a href='https://xn--coderdojo-ef6q138l.jp/' target='_blank' rel='noopener'>Webサイトを見る</a><br><a target='_blank' href='http://zen.coderdojo.com/dojos/jp/tsuyama-okayama-prefecture/jin1-shan1'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -104.8435922,
           38.89504850000001
         ]
@@ -26729,21 +26744,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Fontana @ Lewis Library + Technology Center<br><a target='_blank' href='http://zen.coderdojo.com/dojos/us/fontana-ca/fontana-lewis-library-technology-center'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.2229198,
-          36.4486391
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Rhodes @ Idryma Stamatiou<br><a target='_blank' href='http://zen.coderdojo.com/dojos/gr/rhodes/rhodes-idryma-stamatiou'>連絡先を見る</a>"
       }
     },
     {

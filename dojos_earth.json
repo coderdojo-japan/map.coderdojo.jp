@@ -13111,6 +13111,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Pollica @ Paideia Digital Academy",
+    "geoPoint": {
+      "lat": 40.190961,
+      "lon": 15.055966
+    },
+    "country": {
+      "countryName": "Italy",
+      "continent": "EU",
+      "alpha2": "IT",
+      "alpha3": "ITA",
+      "countryNumber": "380"
+    },
+    "stage": 1,
+    "urlSlug": "it/pollica-sa/pollica-paideia-digital-academy",
+    "startTime": "16:00:00",
+    "endTime": "18:30:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "94d40734-bf18-4c99-982c-e06eef36ef79"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Paisley, Renfrewshire@ University of the West of Scotland",
     "geoPoint": {
       "lat": 55.8436743,
@@ -13411,6 +13435,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "津山",
+    "geoPoint": {
+      "lat": 35.065508,
+      "lon": 134.0221914
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/tsuyama-okayama-prefecture/jin1-shan1",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "2nd",
+    "day": 6,
+    "id": "a127c893-cb9e-4564-b69f-9877f107c08a"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "CoderDojo Durban",
     "geoPoint": {
       "lat": -29.92702379999999,
@@ -13642,6 +13690,30 @@
     "alternativeFrequency": null,
     "day": 2,
     "id": "bb927c2a-df1c-43b3-afac-3ff34eac6a46"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Rhodes @ Idryma Stamatiou",
+    "geoPoint": {
+      "lat": 36.4486391,
+      "lon": 28.2229198
+    },
+    "country": {
+      "countryName": "Greece",
+      "continent": "EU",
+      "alpha2": "GR",
+      "alpha3": "GRC",
+      "countryNumber": "300"
+    },
+    "stage": 3,
+    "urlSlug": "gr/rhodes/rhodes-idryma-stamatiou",
+    "startTime": "10:00:00",
+    "endTime": "11:30:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "aac04393-8c9c-49b6-9ece-b6f1ce2d3a54"
   },
   {
     "entity$": "-/cd/dojos",
@@ -67065,8 +67137,8 @@
     "entity$": "-/cd/dojos",
     "name": "Cardiff @ Rhiwbina Library",
     "geoPoint": {
-      "lat": 51.529674,
-      "lon": -3.2098215
+      "lat": 51.5213958,
+      "lon": -3.2132528
     },
     "country": {
       "countryName": "United Kingdom",
@@ -67468,30 +67540,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "八尾@くまのみぎて",
-    "geoPoint": {
-      "lat": 34.6255971,
-      "lon": 135.6172842
-    },
-    "country": {
-      "countryName": "Japan",
-      "continent": "AS",
-      "alpha2": "JP",
-      "alpha3": "JPN",
-      "countryNumber": "392"
-    },
-    "stage": 1,
-    "urlSlug": "jp/yao-osaka/kumanomigite",
-    "startTime": "17:00:00",
-    "endTime": "19:00:00",
-    "private": 0,
-    "frequency": "2/m",
-    "alternativeFrequency": null,
-    "day": 3,
-    "id": "da993487-80bb-43db-99da-0e96ca786f37"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Enghien",
     "geoPoint": {
       "lat": 50.69271519999999,
@@ -67513,6 +67561,30 @@
     "alternativeFrequency": "last",
     "day": 7,
     "id": "3a5ab7fc-564b-4920-bda4-baa50c3624e7"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "八尾@くまのみぎて",
+    "geoPoint": {
+      "lat": 34.6255971,
+      "lon": 135.6172842
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/yao-osaka/kumanomigite",
+    "startTime": "17:00:00",
+    "endTime": "19:00:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 3,
+    "id": "da993487-80bb-43db-99da-0e96ca786f37"
   },
   {
     "entity$": "-/cd/dojos",
@@ -71443,30 +71515,6 @@
     "alternativeFrequency": null,
     "day": 4,
     "id": "6fa37393-0303-49ff-943a-e953ea954eda"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Pollica @ Paideia Digital Academy",
-    "geoPoint": {
-      "lat": 40.190961,
-      "lon": 15.055966
-    },
-    "country": {
-      "countryName": "Italy",
-      "continent": "EU",
-      "alpha2": "IT",
-      "alpha3": "ITA",
-      "countryNumber": "380"
-    },
-    "stage": 1,
-    "urlSlug": "it/pollica-sa/pollica-paideia-digital-academy",
-    "startTime": "15:00:00",
-    "endTime": "18:30:00",
-    "private": 0,
-    "frequency": "2/m",
-    "alternativeFrequency": null,
-    "day": 6,
-    "id": "94d40734-bf18-4c99-982c-e06eef36ef79"
   },
   {
     "entity$": "-/cd/dojos",
@@ -80017,30 +80065,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "津山",
-    "geoPoint": {
-      "lat": 35.065508,
-      "lon": 134.0221914
-    },
-    "country": {
-      "countryName": "Japan",
-      "continent": "AS",
-      "alpha2": "JP",
-      "alpha3": "JPN",
-      "countryNumber": "392"
-    },
-    "stage": 1,
-    "urlSlug": "jp/tsuyama-okayama-prefecture/jin1-shan1",
-    "startTime": "10:00:00",
-    "endTime": "12:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "2nd",
-    "day": 6,
-    "id": "a127c893-cb9e-4564-b69f-9877f107c08a"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Colorado Springs @ Grace First Church",
     "geoPoint": {
       "lat": 38.89504850000001,
@@ -80533,30 +80557,6 @@
     "alternativeFrequency": null,
     "day": 3,
     "id": "f92bd08f-037f-4ccc-95df-b93aa3bfacf4"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Rhodes @ Idryma Stamatiou",
-    "geoPoint": {
-      "lat": 36.4486391,
-      "lon": 28.2229198
-    },
-    "country": {
-      "countryName": "Greece",
-      "continent": "EU",
-      "alpha2": "GR",
-      "alpha3": "GRC",
-      "countryNumber": "300"
-    },
-    "stage": 3,
-    "urlSlug": "gr/rhodes/rhodes-idryma-stamatiou",
-    "startTime": "10:00:00",
-    "endTime": "11:30:00",
-    "private": 0,
-    "frequency": "1/w",
-    "alternativeFrequency": null,
-    "day": 6,
-    "id": "aac04393-8c9c-49b6-9ece-b6f1ce2d3a54"
   },
   {
     "entity$": "-/cd/dojos",
@@ -95476,7 +95476,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Tsukuda@Openness Inc.",
+    "name": "Tsukuda@Tokyo Chuo",
     "geoPoint": {
       "lat": 35.6697055,
       "lon": 139.7844217
@@ -95488,13 +95488,13 @@
       "alpha3": "JPN",
       "countryNumber": "392"
     },
-    "stage": 1,
-    "urlSlug": "jp/chuo-city-tokyo/tsukuda-openness-inc",
+    "stage": 0,
+    "urlSlug": "jp/chuo-city-tokyo/tsukuda-tokyo-chuo",
     "startTime": "10:00:00",
     "endTime": "12:00:00",
     "private": 0,
     "frequency": "1/m",
-    "alternativeFrequency": null,
+    "alternativeFrequency": "last",
     "day": 7,
     "id": "f7c90845-33b4-4b3d-b8bf-ad021ddcbb74"
   },
