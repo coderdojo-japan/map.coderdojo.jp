@@ -4956,6 +4956,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          100.52484601736069,
+          13.831453203220448
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>CoderDojo @KnOw-Y<br><a target='_blank' href='http://zen.coderdojo.com/dojos/th/bangkok/coderdojo-know-y'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           26.061167299999966,
           44.4645063
         ]
@@ -27621,14 +27636,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.01827229999999,
-          18.7611728
+          100.52553534507751,
+          13.7343538880631
         ]
       },
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>CoderDojo ChiangMai<br><a target='_blank' href='http://zen.coderdojo.com/dojos/th/chiang-mai-thailand/coderdojo-chiangmai'>連絡先を見る</a>"
+        "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>CoderDojo @JoJoCafe<br><a target='_blank' href='http://zen.coderdojo.com/dojos/th/bangkok-thailand/coderdojo-jojocafe'>連絡先を見る</a>"
       }
     },
     {
@@ -27644,21 +27659,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Belluno@Segato<br><a target='_blank' href='http://zen.coderdojo.com/dojos/it/belluno-province-of-belluno/belluno-segato'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.5143683,
-          13.7283825
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Bangkok @ JoJoCafe<br><a target='_blank' href='http://zen.coderdojo.com/dojos/th/bangkok-thailand/bangkok-jojocafe'>連絡先を見る</a>"
       }
     },
     {
@@ -33839,6 +33839,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Hammersmith @People Arise Now, Old Oak Community Centre<br><a target='_blank' href='http://zen.coderdojo.com/dojos/gb/london-borough-of-hammersmith-and-fulham-london/hammersmith-people-arise-now-old-oak-community-centre'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.82506769999999,
+          47.3786098
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Orhei, Moldova @  Donici Library<br><a target='_blank' href='http://zen.coderdojo.com/dojos/md/orhei/orhei-moldova-donici-library'>連絡先を見る</a>"
       }
     },
     {
