@@ -17119,6 +17119,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "CoderDojo @KnOw-Y",
+    "geoPoint": {
+      "lat": 13.831453203220448,
+      "lon": 100.52484601736069
+    },
+    "country": {
+      "countryName": "Thailand",
+      "countryNumber": 764,
+      "continent": "AS",
+      "alpha2": "TH",
+      "alpha3": "THA"
+    },
+    "stage": 1,
+    "urlSlug": "th/bangkok/coderdojo-know-y",
+    "startTime": "13:00:00",
+    "endTime": "15:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": "Saturday, weekly 13.00-16.00",
+    "day": 3,
+    "id": "f5f70719-b13a-42c8-acfe-978ac7918909"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Bucharest @ Essensys",
     "geoPoint": {
       "lat": 44.4645063,
@@ -82279,30 +82303,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "CoderDojo ChiangMai",
-    "geoPoint": {
-      "lat": 18.7611728,
-      "lon": 99.01827229999999
-    },
-    "country": {
-      "countryName": "Thailand",
-      "countryNumber": 764,
-      "continent": "AS",
-      "alpha2": "TH",
-      "alpha3": "THA"
-    },
-    "stage": 1,
-    "urlSlug": "th/chiang-mai-thailand/coderdojo-chiangmai",
-    "startTime": "00:00:00",
-    "endTime": "00:00:00",
-    "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "Saturday, weekly 13.00-16.00",
-    "day": null,
-    "id": "f5f70719-b13a-42c8-acfe-978ac7918909"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Singapore @ Let's Code",
     "geoPoint": {
       "lat": 1.2832397,
@@ -82351,6 +82351,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "CoderDojo @JoJoCafe",
+    "geoPoint": {
+      "lat": 13.7343538880631,
+      "lon": 100.52553534507751
+    },
+    "country": {
+      "countryName": "Thailand",
+      "countryNumber": 764,
+      "continent": "AS",
+      "alpha2": "TH",
+      "alpha3": "THA"
+    },
+    "stage": 1,
+    "urlSlug": "th/bangkok-thailand/coderdojo-jojocafe",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": "Every Sunday 10.00-12.00",
+    "day": 7,
+    "id": "0536539c-2013-4875-a30a-c905de8dffe6"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Belluno@Segato",
     "geoPoint": {
       "lat": 46.1405964,
@@ -82372,30 +82396,6 @@
     "alternativeFrequency": "first",
     "day": 4,
     "id": "468c2c34-883b-4b80-898e-1b8f859d39ab"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Bangkok @ JoJoCafe",
-    "geoPoint": {
-      "lat": 13.7283825,
-      "lon": 100.5143683
-    },
-    "country": {
-      "countryName": "Thailand",
-      "countryNumber": 764,
-      "continent": "AS",
-      "alpha2": "TH",
-      "alpha3": "THA"
-    },
-    "stage": 1,
-    "urlSlug": "th/bangkok-thailand/bangkok-jojocafe",
-    "startTime": "00:00:00",
-    "endTime": "00:00:00",
-    "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "Every Sunday 10.00-12.00",
-    "day": null,
-    "id": "0536539c-2013-4875-a30a-c905de8dffe6"
   },
   {
     "entity$": "-/cd/dojos",
@@ -95394,8 +95394,8 @@
     },
     "stage": 1,
     "urlSlug": "ie/bray-county-wicklow/ballywaltrim-bray-library",
-    "startTime": "17:45:00",
-    "endTime": "23:15:00",
+    "startTime": "17:00:00",
+    "endTime": "18:30:00",
     "private": 0,
     "frequency": "1/w",
     "alternativeFrequency": null,
@@ -96232,6 +96232,30 @@
     "alternativeFrequency": null,
     "day": 6,
     "id": "13127fb0-103d-4cb4-ad56-7f7bf5835c58"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Orhei, Moldova @  Donici Library",
+    "geoPoint": {
+      "lat": 47.3786098,
+      "lon": 28.82506769999999
+    },
+    "country": {
+      "countryName": "Moldova, Republic of",
+      "continent": "EU",
+      "alpha2": "MD",
+      "alpha3": "MDA",
+      "countryNumber": "498"
+    },
+    "stage": 1,
+    "urlSlug": "md/orhei/orhei-moldova-donici-library",
+    "startTime": "10:00:00",
+    "endTime": "11:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "c76d3b9d-f221-4ec7-b5ec-71dd1bc08a34"
   },
   {
     "entity$": "-/cd/dojos",
