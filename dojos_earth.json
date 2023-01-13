@@ -43018,6 +43018,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Hope Valley@Hathersage Memorial Hall",
+    "geoPoint": {
+      "lat": 53.3284956,
+      "lon": -1.6538052
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/hathersage-hope-valley/hope-valley-hathersage-memorial-hall",
+    "startTime": "18:30:00",
+    "endTime": "20:30:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 3,
+    "id": "dd090413-c2e2-4ab4-8304-6d81df598047"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Moate, Westmeath @ Bank of Ireland",
     "geoPoint": {
       "lat": 53.3949987,
@@ -76006,30 +76030,6 @@
     "alternativeFrequency": "Pre-defined Saturdays, 9-16 (see program on the web site of the Dojo)",
     "day": null,
     "id": "635af3f1-3989-41ce-9d4b-08b8a72aa5c4"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Hope Valley@Hathersage Memorial Hall",
-    "geoPoint": {
-      "lat": 53.3284956,
-      "lon": -1.6538052
-    },
-    "country": {
-      "countryName": "United Kingdom",
-      "continent": "EU",
-      "alpha2": "GB",
-      "alpha3": "GBR",
-      "countryNumber": "826"
-    },
-    "stage": 1,
-    "urlSlug": "gb/hathersage-hope-valley/hope-valley-hathersage-memorial-hall",
-    "startTime": "18:30:00",
-    "endTime": "20:30:00",
-    "private": 0,
-    "frequency": "2/m",
-    "alternativeFrequency": null,
-    "day": 3,
-    "id": "dd090413-c2e2-4ab4-8304-6d81df598047"
   },
   {
     "entity$": "-/cd/dojos",
