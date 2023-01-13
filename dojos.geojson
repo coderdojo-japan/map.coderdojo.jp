@@ -12606,6 +12606,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6538052,
+          53.3284956
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Hope Valley@Hathersage Memorial Hall<br><a target='_blank' href='http://zen.coderdojo.com/dojos/gb/hathersage-hope-valley/hope-valley-hathersage-memorial-hall'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.40062339999997,
           37.6492498
         ]
@@ -24839,21 +24854,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Bucharest @ Deloitte Digital<br><a target='_blank' href='http://zen.coderdojo.com/dojos/ro/bucharest/bucharest-deloitte-digital'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6538052,
-          53.3284956
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Hope Valley@Hathersage Memorial Hall<br><a target='_blank' href='http://zen.coderdojo.com/dojos/gb/hathersage-hope-valley/hope-valley-hathersage-memorial-hall'>連絡先を見る</a>"
       }
     },
     {
