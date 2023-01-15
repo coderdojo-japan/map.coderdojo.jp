@@ -27891,21 +27891,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.10599799999999959,
-          51.5324621
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Angel, London @ Expedia Group<br><a target='_blank' href='http://zen.coderdojo.com/dojos/gb/london-borough-of-islington-london/angel-london-expedia-group'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           23.8350801,
           44.30876629999999
         ]
