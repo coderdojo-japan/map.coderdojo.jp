@@ -53320,6 +53320,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Angel, London @ Expedia Group",
+    "geoPoint": {
+      "lat": 51.5324621,
+      "lon": -0.10599799999999959
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 4,
+    "urlSlug": "gb/london-borough-of-islington-london/angel-london-expedia-group",
+    "startTime": "17:30:00",
+    "endTime": "19:30:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "3rd",
+    "day": 3,
+    "id": "04f9ca91-07b3-4eed-b280-29da5107312e"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Indianapolis @ Thomas D Gregg Elementary",
     "geoPoint": {
       "lat": 39.775226,
@@ -82849,30 +82873,6 @@
     "alternativeFrequency": null,
     "day": 3,
     "id": "b2eb3551-b6b7-432e-8624-d907079564f3"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Angel, London @ Expedia Group",
-    "geoPoint": {
-      "lat": 51.5324621,
-      "lon": -0.10599799999999959
-    },
-    "country": {
-      "countryName": "United Kingdom",
-      "continent": "EU",
-      "alpha2": "GB",
-      "alpha3": "GBR",
-      "countryNumber": "826"
-    },
-    "stage": 2,
-    "urlSlug": "gb/london-borough-of-islington-london/angel-london-expedia-group",
-    "startTime": "17:30:00",
-    "endTime": "19:30:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "3rd",
-    "day": 3,
-    "id": "04f9ca91-07b3-4eed-b280-29da5107312e"
   },
   {
     "entity$": "-/cd/dojos",
