@@ -15711,6 +15711,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.6049103,
+          34.6344207
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://www.facebook.com/profile.php?id=100087493006122' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/yao-yotteco.png' alt='八尾@yotteco' loading='lazy' width='100px' /></a><br>八尾@yotteco<br><a href='https://www.facebook.com/profile.php?id=100087493006122' target='_blank' rel='noopener'>Webサイトを見る</a><br><a target='_blank' href='http://zen.coderdojo.com/dojos/jp/yao-osaka/ba1-wei3-yotteco'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.270403,
           34.368285
         ]
@@ -15809,6 +15824,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Bramley Road @ Oakwood Library<br><a target='_blank' href='http://zen.coderdojo.com/dojos/gb/london-borough-of-enfield/bramley-road-oakwood-library'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.247750999999994,
+          53.349137
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>The Foundation @ HQ<br><a target='_blank' href='http://zen.coderdojo.com/dojos/ie/dublin/the-foundation-hq'>連絡先を見る</a>"
       }
     },
     {
@@ -22619,6 +22649,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Cherry Valley/NY@RickB/MM high school<br><a target='_blank' href='http://zen.coderdojo.com/dojos/us/west-winfield-ny/cherry-valley-ny-rickb-mm-high-school'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.036889,
+          -8.123089
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Trujillo @ Estación Coworking<br><a target='_blank' href='http://zen.coderdojo.com/dojos/pe/trujillo/trujillo-estacion-coworking'>連絡先を見る</a>"
       }
     },
     {
@@ -32871,6 +32916,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -8.5546039,
+          52.6705317
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Castletroy, Limerick @ ACI Worldwide<br><a target='_blank' href='http://zen.coderdojo.com/dojos/ie/limerick/castletroy-limerick-aci-worldwide'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           77.65289659999996,
           12.8901858
         ]
@@ -33389,21 +33449,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>Nachod @ FG Forrest<br><a target='_blank' href='http://zen.coderdojo.com/dojos/cz/nachod/nachod-fg-forrest'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.6049103,
-          34.6344207
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/profile.php?id=100087493006122' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/yao-yotteco.png' alt='八尾@yotteco' loading='lazy' width='100px' /></a><br>八尾@yotteco<br><a href='https://www.facebook.com/profile.php?id=100087493006122' target='_blank' rel='noopener'>Webサイトを見る</a><br><a target='_blank' href='http://zen.coderdojo.com/dojos/jp/yao-osaka/ba1-wei3-yotteco'>連絡先を見る</a>"
       }
     },
     {

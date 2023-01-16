@@ -53722,6 +53722,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "八尾@yotteco",
+    "geoPoint": {
+      "lat": 34.6344207,
+      "lon": 135.6049103
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/yao-osaka/ba1-wei3-yotteco",
+    "startTime": "14:00:00",
+    "endTime": "16:30:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "3rd",
+    "day": 6,
+    "id": "054e135a-c8f1-4f57-ba2e-1be96a5ae49c"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Sennan, Osaka",
     "geoPoint": {
       "lat": 34.368285,
@@ -53977,6 +54001,30 @@
     "alternativeFrequency": null,
     "day": 3,
     "id": "442d6a13-d302-4268-952f-4873323b8f0b"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "The Foundation @ HQ",
+    "geoPoint": {
+      "lat": 53.349137,
+      "lon": -6.247750999999994
+    },
+    "country": {
+      "countryName": "Ireland",
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "countryNumber": "372"
+    },
+    "stage": 0,
+    "urlSlug": "ie/dublin/the-foundation-hq",
+    "startTime": "17:00:00",
+    "endTime": "04:30:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "last",
+    "day": 2,
+    "id": "5c85f2be-30b3-42de-9f06-475795f4a147"
   },
   {
     "entity$": "-/cd/dojos",
@@ -66370,30 +66418,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "The Foundation @ HQ",
-    "geoPoint": {
-      "lat": 53.349137,
-      "lon": -6.247750999999994
-    },
-    "country": {
-      "countryName": "Ireland",
-      "continent": "EU",
-      "alpha2": "IE",
-      "alpha3": "IRL",
-      "countryNumber": "372"
-    },
-    "stage": 4,
-    "urlSlug": "ie/dublin/the-foundation-hq",
-    "startTime": "17:00:00",
-    "endTime": "04:30:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "last",
-    "day": 2,
-    "id": "5c85f2be-30b3-42de-9f06-475795f4a147"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Dahlem @  Freie Universität Berlin",
     "geoPoint": {
       "lat": 52.45588919999999,
@@ -67612,30 +67636,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Enghien",
-    "geoPoint": {
-      "lat": 50.69271519999999,
-      "lon": 4.0389675000000125
-    },
-    "country": {
-      "countryName": "Belgium",
-      "continent": "EU",
-      "alpha2": "BE",
-      "alpha3": "BEL",
-      "countryNumber": "056"
-    },
-    "stage": 1,
-    "urlSlug": "be/7-85-0-enghien/enghien",
-    "startTime": "09:30:00",
-    "endTime": "12:30:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "last",
-    "day": 7,
-    "id": "3a5ab7fc-564b-4920-bda4-baa50c3624e7"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "八尾@くまのみぎて",
     "geoPoint": {
       "lat": 34.6255971,
@@ -67657,6 +67657,30 @@
     "alternativeFrequency": null,
     "day": 3,
     "id": "da993487-80bb-43db-99da-0e96ca786f37"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Enghien",
+    "geoPoint": {
+      "lat": 50.69271519999999,
+      "lon": 4.0389675000000125
+    },
+    "country": {
+      "countryName": "Belgium",
+      "continent": "EU",
+      "alpha2": "BE",
+      "alpha3": "BEL",
+      "countryNumber": "056"
+    },
+    "stage": 1,
+    "urlSlug": "be/7-85-0-enghien/enghien",
+    "startTime": "09:30:00",
+    "endTime": "12:30:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "last",
+    "day": 7,
+    "id": "3a5ab7fc-564b-4920-bda4-baa50c3624e7"
   },
   {
     "entity$": "-/cd/dojos",
@@ -71395,6 +71419,30 @@
     "alternativeFrequency": "2nd Saturday of the month, 1pm-3pm",
     "day": null,
     "id": "eb1e73f5-cbc4-44b2-ae54-6e54b170a2d7"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Trujillo @ Estación Coworking",
+    "geoPoint": {
+      "lat": -8.123089,
+      "lon": -79.036889
+    },
+    "country": {
+      "countryName": "Peru",
+      "continent": "SA",
+      "alpha2": "PE",
+      "alpha3": "PER",
+      "countryNumber": "604"
+    },
+    "stage": 1,
+    "urlSlug": "pe/trujillo/trujillo-estacion-coworking",
+    "startTime": "09:30:00",
+    "endTime": "10:30:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "first",
+    "day": 6,
+    "id": "333e68e6-e035-41e7-9cca-ecb767eea58c"
   },
   {
     "entity$": "-/cd/dojos",
@@ -94324,6 +94372,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Castletroy, Limerick @ ACI Worldwide",
+    "geoPoint": {
+      "lat": 52.6705317,
+      "lon": -8.5546039
+    },
+    "country": {
+      "countryName": "Ireland",
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "countryNumber": "372"
+    },
+    "stage": 1,
+    "urlSlug": "ie/limerick/castletroy-limerick-aci-worldwide",
+    "startTime": "16:00:00",
+    "endTime": "17:00:00",
+    "private": 1,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 4,
+    "id": "0bcd18b1-ba09-401a-8d5d-34d41d68e4c0"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Kudlu @ Junior Coders",
     "geoPoint": {
       "lat": 12.8901858,
@@ -95281,30 +95353,6 @@
     "alternativeFrequency": null,
     "day": 1,
     "id": "49569e21-da9f-4d89-9d99-c14346d9a2e3"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "八尾@yotteco",
-    "geoPoint": {
-      "lat": 34.6344207,
-      "lon": 135.6049103
-    },
-    "country": {
-      "countryName": "Japan",
-      "continent": "AS",
-      "alpha2": "JP",
-      "alpha3": "JPN",
-      "countryNumber": "392"
-    },
-    "stage": 1,
-    "urlSlug": "jp/yao-osaka/ba1-wei3-yotteco",
-    "startTime": "14:00:00",
-    "endTime": "16:30:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "3rd",
-    "day": 6,
-    "id": "054e135a-c8f1-4f57-ba2e-1be96a5ae49c"
   },
   {
     "entity$": "-/cd/dojos",
