@@ -54004,30 +54004,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "The Foundation @ HQ",
-    "geoPoint": {
-      "lat": 53.349137,
-      "lon": -6.247750999999994
-    },
-    "country": {
-      "countryName": "Ireland",
-      "continent": "EU",
-      "alpha2": "IE",
-      "alpha3": "IRL",
-      "countryNumber": "372"
-    },
-    "stage": 0,
-    "urlSlug": "ie/dublin/the-foundation-hq",
-    "startTime": "17:00:00",
-    "endTime": "04:30:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "last",
-    "day": 2,
-    "id": "5c85f2be-30b3-42de-9f06-475795f4a147"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Lagos @ Epo IT-World",
     "geoPoint": {
       "lat": 6.4882458,
@@ -54214,6 +54190,30 @@
     "alternativeFrequency": null,
     "day": 3,
     "id": "cb47e338-9159-4388-9ec3-d96cbcd84ab0"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Tokyo Chuo@Openness",
+    "geoPoint": {
+      "lat": 35.6697055,
+      "lon": 139.7844217
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/chuo-city-tokyo/tokyo-chuo-openness",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "last",
+    "day": 7,
+    "id": "f7c90845-33b4-4b3d-b8bf-ad021ddcbb74"
   },
   {
     "entity$": "-/cd/dojos",
@@ -59746,6 +59746,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "George,Western Cape @ Garden Route Innovation and Technology Hub",
+    "geoPoint": {
+      "lat": -33.97193504673243,
+      "lon": 22.44461282062264
+    },
+    "country": {
+      "countryName": "South Africa",
+      "continent": "AF",
+      "alpha2": "ZA",
+      "alpha3": "ZAF",
+      "countryNumber": "710"
+    },
+    "stage": 1,
+    "urlSlug": "za/george-municipality/george-western-cape-garden-route-innovation-and-technology-hub",
+    "startTime": "15:00:00",
+    "endTime": "16:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 2,
+    "id": "c6381e81-dc5d-43c3-ae2b-f6dbe56abedd"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Indiana @ SHAK Makerspace",
     "geoPoint": {
       "lat": 40.4920324,
@@ -59959,6 +59983,30 @@
     "alternativeFrequency": null,
     "day": 3,
     "id": "fff32a39-9973-474f-9c6a-9b7e362e33a5"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "The Foundation @ HQ",
+    "geoPoint": {
+      "lat": 53.349137,
+      "lon": -6.247750999999994
+    },
+    "country": {
+      "countryName": "Ireland",
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "countryNumber": "372"
+    },
+    "stage": 4,
+    "urlSlug": "ie/dublin/the-foundation-hq",
+    "startTime": "17:00:00",
+    "endTime": "04:30:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "last",
+    "day": 2,
+    "id": "5c85f2be-30b3-42de-9f06-475795f4a147"
   },
   {
     "entity$": "-/cd/dojos",
@@ -61417,6 +61465,27 @@
     "alternativeFrequency": "14.00-16.00 uur",
     "day": null,
     "id": "5c781534-ae56-4dd2-8049-c6057041073a"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Dublin Docklands @ CHQ",
+    "geoPoint": {
+      "lat": 53.349321688468414,
+      "lon": -6.247529983520508
+    },
+    "country": {
+      "countryName": "Ireland",
+      "alpha2": "IE"
+    },
+    "stage": 0,
+    "urlSlug": "ie/dublin/dublin/dublin-docklands-chq",
+    "startTime": "18:00:00",
+    "endTime": "19:30:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": "***Currently taking a break for the summer - back in September 2018!***",
+    "day": 2,
+    "id": "358784b6-79e2-4e43-80a4-792da79f5418"
   },
   {
     "entity$": "-/cd/dojos",
@@ -78352,6 +78421,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "La Rinconada @ Sevilla",
+    "geoPoint": {
+      "lat": 37.4840576,
+      "lon": -5.946207900000001
+    },
+    "country": {
+      "countryName": "Spain",
+      "continent": "EU",
+      "alpha2": "ES",
+      "alpha3": "ESP",
+      "countryNumber": "724"
+    },
+    "stage": 1,
+    "urlSlug": "es/san-jose-de-la-rinconada/la-rinconada-sevilla",
+    "startTime": "16:30:00",
+    "endTime": "18:00:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 5,
+    "id": "0400d873-d066-4f6a-ae81-7a44ae1090ae"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Chofu",
     "geoPoint": {
       "lat": 35.6505758,
@@ -78397,30 +78490,6 @@
     "alternativeFrequency": null,
     "day": 6,
     "id": "6370c11b-8b20-4185-b7de-2b3e73ee6da4"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "La Rinconada @ Sevilla",
-    "geoPoint": {
-      "lat": 37.4840576,
-      "lon": -5.946207900000001
-    },
-    "country": {
-      "countryName": "Spain",
-      "continent": "EU",
-      "alpha2": "ES",
-      "alpha3": "ESP",
-      "countryNumber": "724"
-    },
-    "stage": 1,
-    "urlSlug": "es/san-jose-de-la-rinconada/la-rinconada-sevilla",
-    "startTime": "16:30:00",
-    "endTime": "18:00:00",
-    "private": 0,
-    "frequency": "2/m",
-    "alternativeFrequency": null,
-    "day": 5,
-    "id": "0400d873-d066-4f6a-ae81-7a44ae1090ae"
   },
   {
     "entity$": "-/cd/dojos",
@@ -89779,27 +89848,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Dublin Docklands @ CHQ",
-    "geoPoint": {
-      "lat": 53.349321688468414,
-      "lon": -6.247529983520508
-    },
-    "country": {
-      "countryName": "Ireland",
-      "alpha2": "IE"
-    },
-    "stage": 4,
-    "urlSlug": "ie/dublin/dublin/dublin-docklands-chq",
-    "startTime": "18:00:00",
-    "endTime": "19:30:00",
-    "private": 0,
-    "frequency": "2/m",
-    "alternativeFrequency": "***Currently taking a break for the summer - back in September 2018!***",
-    "day": 2,
-    "id": "358784b6-79e2-4e43-80a4-792da79f5418"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Glounthaune  @ Community Center",
     "geoPoint": {
       "lat": 51.9108157,
@@ -95524,30 +95572,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Tsukuda@Tokyo Chuo",
-    "geoPoint": {
-      "lat": 35.6697055,
-      "lon": 139.7844217
-    },
-    "country": {
-      "countryName": "Japan",
-      "continent": "AS",
-      "alpha2": "JP",
-      "alpha3": "JPN",
-      "countryNumber": "392"
-    },
-    "stage": 0,
-    "urlSlug": "jp/chuo-city-tokyo/tsukuda-tokyo-chuo",
-    "startTime": "10:00:00",
-    "endTime": "12:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "last",
-    "day": 7,
-    "id": "f7c90845-33b4-4b3d-b8bf-ad021ddcbb74"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Ferndown@ferndownlibrary",
     "geoPoint": {
       "lat": 50.80138960000001,
@@ -95971,6 +95995,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "CIT, Bishopstown, Cork Advanced(Closed)",
+    "geoPoint": {
+      "lat": 51.886054345731814,
+      "lon": -8.533587455749512
+    },
+    "country": {
+      "countryName": "Ireland",
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "countryNumber": "372"
+    },
+    "stage": 4,
+    "urlSlug": "ie/cork/cit-bishopstown-cork-advanced-closed",
+    "startTime": "16:00:00",
+    "endTime": "18:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 5,
+    "id": "9ac2133e-7fc3-4d51-9b09-959f0830644e"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "CODA ExperienceLab Apeldoorn",
     "geoPoint": {
       "lat": 52.2154465,
@@ -96019,27 +96067,27 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "CIT, Bishopstown, Cork Advanced",
+    "name": "Bayard @ 3SSISTEMI",
     "geoPoint": {
-      "lat": 51.886054345731814,
-      "lon": -8.533587455749512
+      "lat": 40.8501237,
+      "lon": 14.2203228
     },
     "country": {
-      "countryName": "Ireland",
+      "countryName": "Italy",
       "continent": "EU",
-      "alpha2": "IE",
-      "alpha3": "IRL",
-      "countryNumber": "372"
+      "alpha2": "IT",
+      "alpha3": "ITA",
+      "countryNumber": "380"
     },
-    "stage": 4,
-    "urlSlug": "ie/cork/cit-bishopstown-cork-advanced",
-    "startTime": "16:00:00",
-    "endTime": "18:00:00",
+    "stage": 1,
+    "urlSlug": "it/mugnano-di-napoli-metropolitan-city-of-naples/bayard-3ssistemi",
+    "startTime": "16:45:00",
+    "endTime": "17:30:00",
     "private": 0,
     "frequency": "1/w",
     "alternativeFrequency": null,
-    "day": 5,
-    "id": "9ac2133e-7fc3-4d51-9b09-959f0830644e"
+    "day": 6,
+    "id": "bf56e8f0-a51e-4672-b6ab-418743f7a72c"
   },
   {
     "entity$": "-/cd/dojos",
@@ -96112,30 +96160,6 @@
     "alternativeFrequency": "2nd",
     "day": 7,
     "id": "b7047446-18b0-4821-a49e-a11543098677"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Bayard @ 3SSISTEMI",
-    "geoPoint": {
-      "lat": 40.9241026,
-      "lon": 14.2060117
-    },
-    "country": {
-      "countryName": "Italy",
-      "continent": "EU",
-      "alpha2": "IT",
-      "alpha3": "ITA",
-      "countryNumber": "380"
-    },
-    "stage": 1,
-    "urlSlug": "it/mugnano-di-napoli-metropolitan-city-of-naples/bayard-3ssistemi",
-    "startTime": "16:00:00",
-    "endTime": "17:30:00",
-    "private": 0,
-    "frequency": "1/w",
-    "alternativeFrequency": null,
-    "day": 6,
-    "id": "bf56e8f0-a51e-4672-b6ab-418743f7a72c"
   },
   {
     "entity$": "-/cd/dojos",
