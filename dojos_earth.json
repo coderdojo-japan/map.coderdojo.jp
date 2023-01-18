@@ -54193,30 +54193,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Tokyo Chuo@Openness",
-    "geoPoint": {
-      "lat": 35.6697055,
-      "lon": 139.7844217
-    },
-    "country": {
-      "countryName": "Japan",
-      "continent": "AS",
-      "alpha2": "JP",
-      "alpha3": "JPN",
-      "countryNumber": "392"
-    },
-    "stage": 1,
-    "urlSlug": "jp/chuo-city-tokyo/tokyo-chuo-openness",
-    "startTime": "10:00:00",
-    "endTime": "12:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "last",
-    "day": 7,
-    "id": "f7c90845-33b4-4b3d-b8bf-ad021ddcbb74"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Noda, Chiba",
     "geoPoint": {
       "lat": 35.95644308660257,
@@ -69109,6 +69085,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "住吉",
+    "geoPoint": {
+      "lat": 34.5994179,
+      "lon": 135.5132788
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/osaka/zhu4-ji2",
+    "startTime": "18:30:00",
+    "endTime": "20:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "4th",
+    "day": 2,
+    "id": "a23e305c-493e-4738-b46e-48a8a9e86987"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Galway (currently innactive)",
     "geoPoint": {
       "lat": 53.285222,
@@ -69586,6 +69586,30 @@
     "alternativeFrequency": "first",
     "day": 7,
     "id": "542b0936-d7f7-49ef-9675-e352c3e5281c"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Tokyo Chuo@Openness",
+    "geoPoint": {
+      "lat": 35.6697055,
+      "lon": 139.7844217
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/chuo-city-tokyo/tokyo-chuo-openness",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "last",
+    "day": 7,
+    "id": "f7c90845-33b4-4b3d-b8bf-ad021ddcbb74"
   },
   {
     "entity$": "-/cd/dojos",
@@ -95827,30 +95851,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "住吉",
-    "geoPoint": {
-      "lat": 34.5994179,
-      "lon": 135.5132788
-    },
-    "country": {
-      "countryName": "Japan",
-      "continent": "AS",
-      "alpha2": "JP",
-      "alpha3": "JPN",
-      "countryNumber": "392"
-    },
-    "stage": 1,
-    "urlSlug": "jp/osaka/zhu4-ji2",
-    "startTime": "18:00:00",
-    "endTime": "20:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "4th",
-    "day": 2,
-    "id": "a23e305c-493e-4738-b46e-48a8a9e86987"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Balwyn @ Balwyn Library",
     "geoPoint": {
       "lat": -37.813522,
@@ -96376,6 +96376,30 @@
     "alternativeFrequency": "2nd",
     "day": 6,
     "id": "71cf13bc-446f-482e-8581-3b50795d3528"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Kamiichi@Ultinet",
+    "geoPoint": {
+      "lat": 36.7057056,
+      "lon": 137.3641125
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/kamiichi-town-toyama/kamiichi-ultinet",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "e211e285-a6bb-46e3-b147-0edb45b18744"
   },
   {
     "entity$": "-/cd/dojos",
