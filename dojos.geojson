@@ -1626,21 +1626,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.245101999999974,
-          53.34638400000001
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dublin @ Riot Games<br><a target='_blank' href='http://zen.coderdojo.com/dojos/ie/dublin/dublin-riot-games'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.3352624000000333,
           53.4864038
         ]
@@ -7844,21 +7829,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Miercurea Ciuc @ Marton Aron High School<br><a target='_blank' href='http://zen.coderdojo.com/dojos/ro/miercurea-ciuc/miercurea-ciuc-marton-aron-high-school'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.31917428970337,
-          53.428969322725976
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Oughterard<br><a target='_blank' href='http://zen.coderdojo.com/dojos/ie/oughterard/oughterard'>連絡先を見る</a>"
       }
     },
     {
@@ -18486,21 +18456,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.247529983520508,
-          53.349321688468414
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dublin Docklands @ CHQ<br><a target='_blank' href='http://zen.coderdojo.com/dojos/ie/dublin/dublin/dublin-docklands-chq'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.012185999999929,
           57.65564199999999
         ]
@@ -22611,6 +22566,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -9.3212233,
+          53.4277424
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Oughterard<br><a target='_blank' href='http://zen.coderdojo.com/dojos/ie/oughterard/oughterard'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.220443100000011,
           53.1439825
         ]
@@ -25604,6 +25574,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>technosoft@DI-TIC/UAM<br><a target='_blank' href='http://zen.coderdojo.com/dojos/ne/niamey/technosoft-di-tic-uam'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.247529983520508,
+          53.349321688468414
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dublin Docklands @ CHQ<br><a target='_blank' href='http://zen.coderdojo.com/dojos/ie/dublin/dublin/dublin-docklands-chq'>連絡先を見る</a>"
       }
     },
     {
@@ -30809,21 +30794,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<a href='https://coderdojoshiun.wordpress.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/shiun.webp' alt='紫雲' loading='lazy' width='100px' /></a><br>紫雲<br><a href='https://coderdojoshiun.wordpress.com/' target='_blank' rel='noopener'>Webサイトを見る</a><br><a target='_blank' href='http://zen.coderdojo.com/dojos/jp/takamatsu-kagawa-prefecture/shiun-kagawa'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.129296,
-          53.95371799999999
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>York<br><a target='_blank' href='http://zen.coderdojo.com/dojos/gb/york/york-1'>連絡先を見る</a>"
       }
     },
     {

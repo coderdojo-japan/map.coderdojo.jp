@@ -5764,30 +5764,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Dublin @ Riot Games",
-    "geoPoint": {
-      "lat": 53.34638400000001,
-      "lon": -6.245101999999974
-    },
-    "country": {
-      "countryName": "Ireland",
-      "countryNumber": 372,
-      "continent": "EU",
-      "alpha2": "IE",
-      "alpha3": "IRL"
-    },
-    "stage": 2,
-    "urlSlug": "ie/dublin/dublin-riot-games",
-    "startTime": null,
-    "endTime": null,
-    "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "6pm - 7:30pm",
-    "day": null,
-    "id": "a6796f63-db6b-429b-b2bd-612e0f107c84"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Eccles @ Eccles Cong",
     "geoPoint": {
       "lat": 53.4864038,
@@ -26224,30 +26200,6 @@
     "alternativeFrequency": "On Saturday, 5pm - 7pm",
     "day": null,
     "id": "d02701b7-0956-44a4-b55c-540da010ac9e"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Oughterard",
-    "geoPoint": {
-      "lat": 53.428969322725976,
-      "lon": -9.31917428970337
-    },
-    "country": {
-      "countryName": "Ireland",
-      "countryNumber": 372,
-      "continent": "EU",
-      "alpha2": "IE",
-      "alpha3": "IRL"
-    },
-    "stage": 1,
-    "urlSlug": "ie/oughterard/oughterard",
-    "startTime": "19:00:00",
-    "endTime": "20:30:00",
-    "private": 0,
-    "frequency": "1/w",
-    "alternativeFrequency": "Thursday 7-8:30 pm",
-    "day": 4,
-    "id": "d4d4eb4f-d873-4543-b26f-b28d575c422e"
   },
   {
     "entity$": "-/cd/dojos",
@@ -61444,27 +61396,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Dublin Docklands @ CHQ",
-    "geoPoint": {
-      "lat": 53.349321688468414,
-      "lon": -6.247529983520508
-    },
-    "country": {
-      "countryName": "Ireland",
-      "alpha2": "IE"
-    },
-    "stage": 0,
-    "urlSlug": "ie/dublin/dublin/dublin-docklands-chq",
-    "startTime": "18:00:00",
-    "endTime": "19:30:00",
-    "private": 0,
-    "frequency": "2/m",
-    "alternativeFrequency": "***Currently taking a break for the summer - back in September 2018!***",
-    "day": 2,
-    "id": "358784b6-79e2-4e43-80a4-792da79f5418"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "CoderDojo Göteborg",
     "geoPoint": {
       "lat": 57.65564199999999,
@@ -71329,6 +71260,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Oughterard",
+    "geoPoint": {
+      "lat": 53.4277424,
+      "lon": -9.3212233
+    },
+    "country": {
+      "countryName": "Ireland",
+      "countryNumber": 372,
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL"
+    },
+    "stage": 1,
+    "urlSlug": "ie/oughterard/oughterard",
+    "startTime": "19:30:00",
+    "endTime": "20:30:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": "Thursday 7-8:30 pm",
+    "day": 2,
+    "id": "d4d4eb4f-d873-4543-b26f-b28d575c422e"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Oldenburg@KtT",
     "geoPoint": {
       "lat": 53.1439825,
@@ -72040,6 +71995,30 @@
     "alternativeFrequency": "不定期で土日の14:00〜17:00で開催します。",
     "day": 7,
     "id": "d44d8fee-db0c-4a30-bc81-62f156039138"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "York",
+    "geoPoint": {
+      "lat": 53.95371799999999,
+      "lon": -1.129296
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 4,
+    "urlSlug": "gb/york/york-1",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "Every 2 months",
+    "day": 2,
+    "id": "af7e2387-b442-49db-8265-e4e6fd0b2bc9"
   },
   {
     "entity$": "-/cd/dojos",
@@ -75757,6 +75736,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Dublin @ Riot Games",
+    "geoPoint": {
+      "lat": 53.34638400000001,
+      "lon": -6.245101999999974
+    },
+    "country": {
+      "countryName": "Ireland",
+      "countryNumber": 372,
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL"
+    },
+    "stage": 4,
+    "urlSlug": "ie/dublin/dublin-riot-games",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 1,
+    "frequency": "other",
+    "alternativeFrequency": "CLOSED",
+    "day": null,
+    "id": "a6796f63-db6b-429b-b2bd-612e0f107c84"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Rio Rancho@Loma Colorado",
     "geoPoint": {
       "lat": 35.270534639485724,
@@ -78346,6 +78349,27 @@
     "alternativeFrequency": "last",
     "day": 6,
     "id": "55ed08ee-d405-4886-95d7-6c072ab28a2a"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Dublin Docklands @ CHQ",
+    "geoPoint": {
+      "lat": 53.349321688468414,
+      "lon": -6.247529983520508
+    },
+    "country": {
+      "countryName": "Ireland",
+      "alpha2": "IE"
+    },
+    "stage": 0,
+    "urlSlug": "ie/dublin/dublin/dublin-docklands-chq",
+    "startTime": "18:00:00",
+    "endTime": "19:30:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": "***Currently taking a break for the summer - back in September 2018!***",
+    "day": 2,
+    "id": "358784b6-79e2-4e43-80a4-792da79f5418"
   },
   {
     "entity$": "-/cd/dojos",
@@ -89155,30 +89179,6 @@
     "alternativeFrequency": "2nd",
     "day": 7,
     "id": "d9a2266b-d2c3-4541-9ff2-0a665a76be00"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "York",
-    "geoPoint": {
-      "lat": 53.95371799999999,
-      "lon": -1.129296
-    },
-    "country": {
-      "countryName": "United Kingdom",
-      "continent": "EU",
-      "alpha2": "GB",
-      "alpha3": "GBR",
-      "countryNumber": "826"
-    },
-    "stage": 1,
-    "urlSlug": "gb/york/york-1",
-    "startTime": "00:00:00",
-    "endTime": "00:00:00",
-    "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "Every 2 months",
-    "day": 2,
-    "id": "af7e2387-b442-49db-8265-e4e6fd0b2bc9"
   },
   {
     "entity$": "-/cd/dojos",
