@@ -32,7 +32,8 @@ dojos_japan.each do |dojo|
   # TODO: Ideally want to change marker image into each CoderDojo logo.
   # Details: https://github.com/coderdojo-japan/map.coderdojo.jp/issues/1
 
-  # TODO: Geolonia Maps 側が .webp 画像に対応したら .png への変換などは不要になる (coderdojo.jp からも削除する!)
+  # TODO: WebP 画像は外部から読み込めないっぽい? ローカルからなら読み込める
+  # 関連: https://github.com/coderdojo-japan/map.coderdojo.jp/pull/8
   name2logo[dojo[:name]] = <<~HTML
     <a href='#{dojo[:url]}' target='_blank' rel='noopener'>
       <img src='#{dojo[:logo].gsub('.webp', '.png')}' alt='#{dojo[:name]}' loading='lazy' width='100px' />
