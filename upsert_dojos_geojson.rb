@@ -84,7 +84,7 @@ dojos_earth.each do |dojo|
     else
       # for Dojos regeisted in coderdojo.jp
       description = <<~HTML
-        #{name2logo[dojo[:name]]}<br>
+        #{name2logo[dojo[:name]].gsub('.png', '.webp')}<br>
         #{dojo[:name]}<br>
         #{name2site[dojo[:name]]}<br>
         <a target='_blank' href='http://zen.coderdojo.com/dojos/#{dojo[:urlSlug]}'>連絡先を見る</a>
