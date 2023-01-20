@@ -36,7 +36,7 @@ dojos_japan.each do |dojo|
   # 関連: https://github.com/coderdojo-japan/map.coderdojo.jp/pull/8
   name2logo[dojo[:name]] = <<~HTML
     <a href='#{dojo[:url]}' target='_blank' rel='noopener'>
-      <img src='#{dojo[:logo].gsub('.webp', '.png')}' alt='#{dojo[:name]}' loading='lazy' width='100px' />
+      <img src='/images/dojos/#{dojo[:logo].split('/').last}' alt='#{dojo[:name]}' loading='lazy' width='100px' />
     </a>
   HTML
 
@@ -78,7 +78,7 @@ dojos_earth.each do |dojo|
     if name2logo[dojo[:name]].nil?
       # for Dojos overseas
       description = <<~HTML
-        <img src='https://coderdojo.jp/img/dojos/coderdojo.png' alt='CoderDojo logo' width='100px' /><br>
+        <img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>
         #{dojo[:name]}<br>
         <a target='_blank' href='http://zen.coderdojo.com/dojos/#{dojo[:urlSlug]}'>連絡先を見る</a>
       HTML
