@@ -23091,21 +23091,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.8359408999999687,
-          52.4948291
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Ward End, Birmingham @ Ward End Library<br><a target='_blank' href='http://zen.coderdojo.com/dojos/gb/birmingham/ward-end-birmingham-ward-end-library-1'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.1204837999999882,
           53.5318999
         ]
