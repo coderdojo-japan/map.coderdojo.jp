@@ -46,6 +46,10 @@ jobs:
       run: |
         bundle exec ruby get_dojos_from_japan.rb
 
+    - name: ☯️ Cache Dojo logos in Japan
+      run: |
+        bundle exec ruby caching_images.rb
+
     - name: 📍 Generate DojoMap from Earth/Japan data
       run: |
         bundle exec ruby upsert_dojos_geojson.rb
@@ -59,6 +63,7 @@ jobs:
           git add Gemfile.lock
           git add dojos_earth.json
           git add dojos_japan.json
+          git add images/dojos
           git add dojos.geojson
           git commit -m '🤖 Upsert Earth/Japan data for DojoMap'
           git push origin main
