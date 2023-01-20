@@ -72355,6 +72355,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Ward End, Birmingham @ Ward End Library",
+    "geoPoint": {
+      "lat": 52.4948291,
+      "lon": -1.8359408999999687
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 4,
+    "urlSlug": "gb/birmingham/ward-end-birmingham-ward-end-library-1",
+    "startTime": "11:00:00",
+    "endTime": "12:30:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "2nd",
+    "day": 6,
+    "id": "bc05e585-4110-4d31-92fa-7d4f29a0c4e2"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Finglas Community Dojo @ Coláiste Eoin",
     "geoPoint": {
       "lat": 53.38786750000001,
@@ -72424,30 +72448,6 @@
     "alternativeFrequency": null,
     "day": 2,
     "id": "f88fc0d4-d386-49f5-afcd-78481a3d8c37"
-  },
-  {
-    "entity$": "-/cd/dojos",
-    "name": "Ward End, Birmingham @ Ward End Library",
-    "geoPoint": {
-      "lat": 52.4948291,
-      "lon": -1.8359408999999687
-    },
-    "country": {
-      "countryName": "United Kingdom",
-      "continent": "EU",
-      "alpha2": "GB",
-      "alpha3": "GBR",
-      "countryNumber": "826"
-    },
-    "stage": 1,
-    "urlSlug": "gb/birmingham/ward-end-birmingham-ward-end-library-1",
-    "startTime": "11:00:00",
-    "endTime": "12:30:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "2nd",
-    "day": 6,
-    "id": "bc05e585-4110-4d31-92fa-7d4f29a0c4e2"
   },
   {
     "entity$": "-/cd/dojos",
