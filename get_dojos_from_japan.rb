@@ -4,7 +4,8 @@ require 'net/http'
 require 'json'
 
 DOJOS_URL  = 'https://coderdojo.jp/dojos.json'
-DOJOS_JSON = JSON.pretty_generate(JSON.parse(Net::HTTP.get URI.parse(DOJOS_URL)))
+DOJOS_DATA = JSON.parse Net::HTTP.get(URI.parse DOJOS_URL), symbolize_names: true
+DOJOS_JSON = JSON.pretty_generate DOJOS_DATA.sort_by{|dojo| dojo[:id]}
 
 File.open("dojos_japan.json", "w") do |file|
   file.write(DOJOS_JSON)

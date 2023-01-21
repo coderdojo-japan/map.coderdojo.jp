@@ -36,7 +36,8 @@ response = Net::HTTP.start(uri.hostname, uri.port, req_options) do |http|
   http.request(request)
 end
 
-DOJOS_JSON = JSON.pretty_generate(JSON.parse response.body)
+DOJOS_DATA = JSON.parse response.body, symbolize_names: true
+DOJOS_JSON = JSON.pretty_generate DOJOS_DATA.sort_by{|dojo| dojo[:id]}
 
 File.open("dojos_earth.json", "w") do |file|
   file.write(DOJOS_JSON)
