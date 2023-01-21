@@ -28,8 +28,8 @@ jobs:
       run: |
         # Conver human-readable Geojson file into computer-friendly one
         bundle exec ruby compact_geojson.rb
-        bundle exec jekyll build
-        bundle exec jekyll doctor
+        JEKYLL_ENV=production bundle exec jekyll build
+        JEKYLL_ENV=production bundle exec jekyll doctor
         # SKIP_BUILD=true       bundle exec rake test
 
     # This is NOT for security reason but for others, especially who fork,
