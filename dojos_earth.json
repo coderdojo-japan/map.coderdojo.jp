@@ -21469,6 +21469,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "York @ Keeping Digital",
+    "geoPoint": {
+      "lat": 53.95371799999999,
+      "lon": -1.129296
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/york/york-keeping-digital",
+    "startTime": "18:00:00",
+    "endTime": "19:30:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "Bi-Monthly",
+    "day": 1,
+    "id": "39c35652-5717-432b-b2ab-7215fc337efe"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Coventry @ Coventry Central Library",
     "geoPoint": {
       "lat": 52.40876292337697,
@@ -46012,7 +46036,7 @@
     "endTime": "18:30:00",
     "private": 0,
     "frequency": "1/m",
-    "alternativeFrequency": "first",
+    "alternativeFrequency": "2nd",
     "day": 7,
     "id": "7c063345-e247-4a27-b5aa-17671e4b242a"
   },
@@ -88044,8 +88068,8 @@
     "entity$": "-/cd/dojos",
     "name": "Ignite Hubs",
     "geoPoint": {
-      "lat": 51.4744496,
-      "lon": -0.06907849999993232
+      "lat": 51.47570469999999,
+      "lon": -0.0920588
     },
     "country": {
       "countryName": "United Kingdom",
@@ -88056,8 +88080,8 @@
     },
     "stage": 2,
     "urlSlug": "gb/london/ignite-hubs",
-    "startTime": "18:00:00",
-    "endTime": "19:00:00",
+    "startTime": "18:15:00",
+    "endTime": "19:15:00",
     "private": 0,
     "frequency": "1/w",
     "alternativeFrequency": null,
