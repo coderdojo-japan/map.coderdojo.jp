@@ -7221,6 +7221,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.129296,
+          53.95371799999999
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>York @ Keeping Digital<br><a target='_blank' href='http://zen.coderdojo.com/dojos/gb/york/york-keeping-digital'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.5131350234150887,
           52.40876292337697
         ]
@@ -31116,8 +31131,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.06907849999993232,
-          51.4744496
+          -0.0920588,
+          51.47570469999999
         ]
       },
       "properties": {
