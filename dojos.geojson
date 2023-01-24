@@ -15666,6 +15666,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.633856,
+          35.431148
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Concord, North Carolina @ CodeNow<br><a target='_blank' href='http://zen.coderdojo.com/dojos/us/concord-nc/concord-north-carolina-codenow'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.2698602,
           53.3374633
         ]
@@ -23916,6 +23931,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          28.8033128,
+          41.0870885
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Istanbul @robotistan<br><a target='_blank' href='http://zen.coderdojo.com/dojos/tr/istanbul/istanbul-robotistan'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.61485289999996,
           51.9654429
         ]
@@ -31634,6 +31664,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Barquisimeto, Lara @ MarketingFino<br><a target='_blank' href='http://zen.coderdojo.com/dojos/ve/barquisimeto-lara/barquisimeto-lara-marketingfino'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.979842299999973,
+          50.7184794
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Poole@Poolelibrary<br><a target='_blank' href='http://zen.coderdojo.com/dojos/gb/poole/poole-poolelibrary'>連絡先を見る</a>"
       }
     },
     {
