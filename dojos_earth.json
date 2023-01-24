@@ -45733,6 +45733,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Concord, North Carolina @ CodeNow",
+    "geoPoint": {
+      "lat": 35.431148,
+      "lon": -80.633856
+    },
+    "country": {
+      "countryName": "United States",
+      "continent": "NA",
+      "alpha2": "US",
+      "alpha3": "USA",
+      "countryNumber": "840"
+    },
+    "stage": 1,
+    "urlSlug": "us/concord-nc/concord-north-carolina-codenow",
+    "startTime": "09:08:00",
+    "endTime": "10:10:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "7b59f883-1f57-40da-97c7-9d11f87a3c3c"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Dublin @ Iveagh Club Coders Kevin Street",
     "geoPoint": {
       "lat": 53.3374633,
@@ -68047,6 +68071,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Istanbul @robotistan",
+    "geoPoint": {
+      "lat": 41.0870885,
+      "lon": 28.8033128
+    },
+    "country": {
+      "countryName": "Turkey",
+      "continent": "AS",
+      "alpha2": "TR",
+      "alpha3": "TUR",
+      "countryNumber": "792"
+    },
+    "stage": 1,
+    "urlSlug": "tr/istanbul/istanbul-robotistan",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "b42d9347-451b-4c52-bf60-1d0145b9cba5"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Nieuwerkerk aan den IJssel @ Bibliotheek de Groene Venen",
     "geoPoint": {
       "lat": 51.9654429,
@@ -89521,6 +89569,30 @@
     "alternativeFrequency": null,
     "day": 2,
     "id": "ecf967c4-48a3-4bc7-a2c5-5e38053d250b"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Poole@Poolelibrary",
+    "geoPoint": {
+      "lat": 50.7184794,
+      "lon": -1.979842299999973
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/poole/poole-poolelibrary",
+    "startTime": "09:45:00",
+    "endTime": "10:45:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "last",
+    "day": 6,
+    "id": "ed134cce-765a-47fc-91d7-5318e0e65ae5"
   },
   {
     "entity$": "-/cd/dojos",
