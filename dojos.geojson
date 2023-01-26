@@ -126,6 +126,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          167.2266434,
+          -20.8089198
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>**This is a test club for dev and example purposes**<br><a target='_blank' href='http://zen.coderdojo.com/dojos/nc/nang/this-is-a-test-club-for-dev-and-example-purposes'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.667578400000025,
           53.21698629999999
         ]
