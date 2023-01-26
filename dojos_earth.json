@@ -598,7 +598,7 @@
       "alpha3": "NCL",
       "countryNumber": "540"
     },
-    "stage": 4,
+    "stage": 2,
     "urlSlug": "nc/nang/this-is-a-test-club-for-dev-and-example-purposes",
     "startTime": "13:00:00",
     "endTime": "15:00:00",
@@ -4801,7 +4801,7 @@
       "countryName": "United Kingdom",
       "alpha2": "GB"
     },
-    "stage": 2,
+    "stage": 1,
     "urlSlug": "gb/belfast/farset-dojo-belfast",
     "startTime": "17:00:00",
     "endTime": "19:00:00",
