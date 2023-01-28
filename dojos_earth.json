@@ -45996,8 +45996,8 @@
     "entity$": "-/cd/dojos",
     "name": "Bierbeek",
     "geoPoint": {
-      "lat": 50.8270431,
-      "lon": 4.754984499999978
+      "lat": 50.8273247,
+      "lon": 4.753993599999999
     },
     "country": {
       "countryName": "Belgium",
@@ -46006,13 +46006,13 @@
       "alpha3": "BEL",
       "countryNumber": "056"
     },
-    "stage": 1,
+    "stage": 2,
     "urlSlug": "be/bierbeek/bierbeek-1",
     "startTime": "10:00:00",
-    "endTime": "13:00:00",
+    "endTime": "12:30:00",
     "private": 0,
     "frequency": "1/m",
-    "alternativeFrequency": null,
+    "alternativeFrequency": "3rd",
     "day": 6,
     "id": "7bf72e24-6c3b-43dc-87c5-720599d31dda"
   },
@@ -50706,8 +50706,8 @@
     "entity$": "-/cd/dojos",
     "name": "Bierbeek@deBorre",
     "geoPoint": {
-      "lat": 50.8279,
-      "lon": 4.759810000000016
+      "lat": 50.8273247,
+      "lon": 4.753993599999999
     },
     "country": {
       "countryName": "Belgium",
@@ -50719,7 +50719,7 @@
     "stage": 1,
     "urlSlug": "be/bierbeek/bierbeek-deborre",
     "startTime": "10:00:00",
-    "endTime": "13:00:00",
+    "endTime": "12:30:00",
     "private": 0,
     "frequency": "1/m",
     "alternativeFrequency": "3rd",
