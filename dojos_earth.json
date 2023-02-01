@@ -35770,6 +35770,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "4-H @ Machyne Makerspace",
+    "geoPoint": {
+      "lat": 39.7850982,
+      "lon": -86.18482499999999
+    },
+    "country": {
+      "countryName": "United States",
+      "continent": "NA",
+      "alpha2": "US",
+      "alpha3": "USA",
+      "countryNumber": "840"
+    },
+    "stage": 1,
+    "urlSlug": "us/indianapolis-in/4-h-machyne-makerspace",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "2nd",
+    "day": 6,
+    "id": "5ef53383-ee89-4ac5-9ade-469f1a2258a3"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Obu",
     "geoPoint": {
       "lat": 35.00561,
@@ -52141,7 +52165,7 @@
       "alpha3": "USA",
       "countryNumber": "840"
     },
-    "stage": 3,
+    "stage": 4,
     "urlSlug": "us/greenfield-in/greenfield-ninestar-connect",
     "startTime": "13:00:00",
     "endTime": "15:00:00",
@@ -86296,6 +86320,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Suriname @ Lybra",
+    "geoPoint": {
+      "lat": 5.82878853808961,
+      "lon": -55.21262884140015
+    },
+    "country": {
+      "countryName": "Suriname",
+      "continent": "SA",
+      "alpha2": "SR",
+      "alpha3": "SUR",
+      "countryNumber": "740"
+    },
+    "stage": 1,
+    "urlSlug": "sr/paramaribo/suriname-lybra",
+    "startTime": "18:00:00",
+    "endTime": "19:00:00",
+    "private": 1,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 5,
+    "id": "e58228d9-626a-498a-94a4-2c460a34ed6c"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Kampala  @ Lazima Nipate",
     "geoPoint": {
       "lat": 0.2941634,
@@ -89584,7 +89632,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 2,
     "urlSlug": "gb/poole/poole-poolelibrary",
     "startTime": "09:45:00",
     "endTime": "10:45:00",

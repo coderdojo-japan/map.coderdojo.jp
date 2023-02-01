@@ -7401,6 +7401,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -86.18482499999999,
+          39.7850982
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>4-H @ Machyne Makerspace<br><a target='_blank' href='http://zen.coderdojo.com/dojos/us/indianapolis-in/4-h-machyne-makerspace'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           14.28822934627533,
           48.29068167870555
         ]
@@ -11294,21 +11309,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Niterói, RJ @ comuREDE<br><a target='_blank' href='http://zen.coderdojo.com/dojos/br/niteroi-state-of-rio-de-janeiro/niteroi-rj-comurede'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.7320376,
-          39.7858057
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Greenfield @ Ninestar Connect<br><a target='_blank' href='http://zen.coderdojo.com/dojos/us/greenfield-in/greenfield-ninestar-connect'>連絡先を見る</a>"
       }
     },
     {
@@ -18794,6 +18794,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Emmen @ \tBibliotheek Emmen<br><a target='_blank' href='http://zen.coderdojo.com/dojos/nl/emmen/emmen-bibliotheek-emmen'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.21262884140015,
+          5.82878853808961
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Suriname @ Lybra<br><a target='_blank' href='http://zen.coderdojo.com/dojos/sr/paramaribo/suriname-lybra'>連絡先を見る</a>"
       }
     },
     {
