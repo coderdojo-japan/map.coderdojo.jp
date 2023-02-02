@@ -16281,21 +16281,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.82506769999999,
-          47.3786098
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Orhei, Moldova @  Donici Library<br><a target='_blank' href='http://zen.coderdojo.com/dojos/md/orhei/orhei-moldova-donici-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.2811517999999751,
           51.5587644
         ]
@@ -19694,6 +19679,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Galway City @ NUIG<br><a target='_blank' href='http://zen.coderdojo.com/dojos/ie/galway/galway-city-nuig'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.91007379999999,
+          12.4346049
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>San Nicolas @ Biblioteca Nacional Aruba<br><a target='_blank' href='http://zen.coderdojo.com/dojos/aw/san-nicolas/san-nicolas-biblioteca-nacional-aruba'>連絡先を見る</a>"
       }
     },
     {
