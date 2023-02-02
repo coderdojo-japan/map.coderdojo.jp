@@ -42076,14 +42076,14 @@
       "alpha2": "IE",
       "alpha3": "IRL"
     },
-    "stage": 0,
+    "stage": 3,
     "urlSlug": "ie/cork/mtu-bishopstown-cork",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
     "alternativeFrequency": "Other",
-    "day": null,
+    "day": 5,
     "id": "70f37f66-557f-4b8e-b013-fe696a42a9be"
   },
   {
@@ -75277,7 +75277,7 @@
       "alpha3": "MDA",
       "countryNumber": "498"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "md/orhei/orhei-moldova-donici-library",
     "startTime": "10:00:00",
     "endTime": "11:00:00",
@@ -91123,7 +91123,7 @@
       "alpha3": "ABW",
       "countryNumber": "533"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "aw/san-nicolas/san-nicolas-biblioteca-nacional-aruba",
     "startTime": "14:30:00",
     "endTime": "16:30:00",
