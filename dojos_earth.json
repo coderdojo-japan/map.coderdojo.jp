@@ -16438,7 +16438,7 @@
       "alpha2": "UG",
       "alpha3": "UGA"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "ug/kampala-central-region/kampala-design-hub",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
@@ -42066,8 +42066,8 @@
     "entity$": "-/cd/dojos",
     "name": "MTU, Bishopstown, Cork",
     "geoPoint": {
-      "lat": 51.88481683160491,
-      "lon": -8.533129117721561
+      "lat": 51.886048,
+      "lon": -8.533569
     },
     "country": {
       "countryName": "Ireland",
@@ -94588,7 +94588,7 @@
     "endTime": "14:30:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "🔥 New term in OCT 2022 🔥 | 2-hr sessions on Saturdays",
+    "alternativeFrequency": "🔥 New term in Feb 2023 🔥 | 2-hr sessions on Saturdays",
     "day": 6,
     "id": "fa99d95b-651d-4fee-a7f2-ac2ed748ad82"
   },
