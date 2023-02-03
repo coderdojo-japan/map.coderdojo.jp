@@ -3411,6 +3411,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          32.612577699999974,
+          0.3165756000000001
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Kampala @ Design Hub<br><a target='_blank' href='http://zen.coderdojo.com/dojos/ug/kampala-central-region/kampala-design-hub'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1120778,
           52.3438627
         ]
@@ -9036,8 +9051,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.533129117721561,
-          51.88481683160491
+          -8.533569,
+          51.886048
         ]
       },
       "properties": {
