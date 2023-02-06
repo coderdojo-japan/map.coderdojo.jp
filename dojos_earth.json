@@ -19635,12 +19635,12 @@
     },
     "stage": 0,
     "urlSlug": "ie/dublin/dublin/dublin-docklands-chq",
-    "startTime": "18:00:00",
-    "endTime": "19:30:00",
+    "startTime": "16:30:00",
+    "endTime": "18:00:00",
     "private": 0,
-    "frequency": "2/m",
-    "alternativeFrequency": "***Currently taking a break for the summer - back in September 2018!***",
-    "day": 2,
+    "frequency": "1/m",
+    "alternativeFrequency": "2nd",
+    "day": 5,
     "id": "358784b6-79e2-4e43-80a4-792da79f5418"
   },
   {
