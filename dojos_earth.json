@@ -1774,7 +1774,7 @@
       "alpha3": "JPN",
       "countryNumber": "392"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "jp/yao-osaka/ba1-wei3-yotteco",
     "startTime": "11:00:00",
     "endTime": "17:00:00",
@@ -4825,7 +4825,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "gb/dungannon/dungannon-co-tyrone-dungannon-library",
     "startTime": "14:00:00",
     "endTime": "16:00:00",
@@ -7255,7 +7255,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "ie/dublin/a-real-cool-place-chq",
     "startTime": "17:00:00",
     "endTime": "18:00:00",
@@ -9097,7 +9097,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "gb/exmouth/exmouth-devon-exmouth-library",
     "startTime": "09:30:00",
     "endTime": "10:45:00",
@@ -9121,7 +9121,7 @@
       "alpha3": "USA",
       "countryNumber": "840"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "us/colorado-springs-co/colorado-springs-grace-first-church",
     "startTime": "10:00:00",
     "endTime": "12:00:00",
@@ -16063,7 +16063,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "gb/darlington/darlington-firthmoor",
     "startTime": "16:30:00",
     "endTime": "18:30:00",
@@ -16393,7 +16393,7 @@
       "alpha3": "USA",
       "countryNumber": "840"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "us/oakland-ca/bumps-higher-learning-east-bay-higher-ground-n-d-c",
     "startTime": "13:00:00",
     "endTime": "15:00:00",
@@ -17455,7 +17455,7 @@
       "alpha3": "DEU",
       "countryNumber": "276"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "de/wiesbaden/wiesbaden-cccwi",
     "startTime": "10:00:00",
     "endTime": "16:00:00",
@@ -17989,7 +17989,7 @@
       "alpha3": "HKG",
       "countryNumber": "344"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "hk/hong-kong/hong-kong-stanley-public-library",
     "startTime": "02:00:00",
     "endTime": "03:00:00",
@@ -19657,7 +19657,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "gb/knaphill-woking/j-and-j-woking-geek-retreat",
     "startTime": "13:00:00",
     "endTime": "15:00:00",
@@ -22153,7 +22153,7 @@
       "alpha3": "USA",
       "countryNumber": "840"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "us/mesa-az/east-valley-az-eastmark",
     "startTime": "17:00:00",
     "endTime": "19:00:00",
@@ -33523,7 +33523,7 @@
       "alpha3": "DEU",
       "countryNumber": "276"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "de/frankfurt-oder/frankfurt-oder",
     "startTime": "14:00:00",
     "endTime": "18:00:00",
@@ -34597,7 +34597,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "gb/stowmarket/stowmarket-stowmarket-library",
     "startTime": "10:00:00",
     "endTime": "11:15:00",
@@ -36064,7 +36064,7 @@
       "alpha3": "DEU",
       "countryNumber": "276"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "de/berlin/starcode-berlin-tu-berlin",
     "startTime": "10:00:00",
     "endTime": "17:00:00",
@@ -36937,7 +36937,7 @@
       "alpha3": "IRQ",
       "countryNumber": "368"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "iq/kut-wasit/wasit-scientific-care-forum",
     "startTime": "16:00:00",
     "endTime": "18:00:00",
@@ -37606,7 +37606,7 @@
       "alpha3": "ECU",
       "countryNumber": "218"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "ec/loja/loja-eugenio-espejo",
     "startTime": "10:00:00",
     "endTime": "12:00:00",
@@ -37798,7 +37798,7 @@
       "alpha3": "USA",
       "countryNumber": "840"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "us/oregon-city-or/oregon-city-or-alliance-charter-academy",
     "startTime": "14:30:00",
     "endTime": "15:45:00",
@@ -39334,7 +39334,7 @@
       "alpha3": "IND",
       "countryNumber": "356"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "in/mavelikkara-municipality-kerala/mavelikara-instills-in",
     "startTime": "15:00:00",
     "endTime": "16:00:00",
@@ -40000,7 +40000,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "gb/wallasey/wirral-community-soul",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
@@ -42475,7 +42475,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "gb/5a-millars-brook-business-park-molly-millars-ln-rg-4-1-2ad/wokingham-energy-kids-uk",
     "startTime": "16:00:00",
     "endTime": "17:00:00",
@@ -44917,7 +44917,7 @@
       "alpha3": "JPN",
       "countryNumber": "392"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "jp/japan/ping2-qun2",
     "startTime": "13:00:00",
     "endTime": "16:00:00",
@@ -46318,7 +46318,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "ie/clondalkin-county-dublin/rowlagh-dublin-north-clondalkin-library",
     "startTime": "17:45:00",
     "endTime": "19:30:00",
@@ -47683,7 +47683,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "gb/newcastle/newcastle-sage-foundation",
     "startTime": "18:00:00",
     "endTime": "19:30:00",
@@ -49573,7 +49573,7 @@
       "alpha3": "USA",
       "countryNumber": "840"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "us/cupertino-ca/cupertino-cupertinolibrary",
     "startTime": "06:00:00",
     "endTime": "07:00:00",
@@ -53071,7 +53071,7 @@
       "countryName": "United Kingdom",
       "alpha2": "GB"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "gb/elgin/moray-at-moray-college",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
@@ -56107,7 +56107,7 @@
       "alpha3": "ITA",
       "countryNumber": "380"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "it/pollica-sa/pollica-paideia-digital-academy",
     "startTime": "16:00:00",
     "endTime": "18:30:00",
@@ -56248,7 +56248,7 @@
       "alpha3": "NLD",
       "countryNumber": "528"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "nl/oude-pekela/pekela-bibliotheek",
     "startTime": "15:00:00",
     "endTime": "17:00:00",
@@ -56482,7 +56482,7 @@
       "alpha3": "IRQ",
       "countryNumber": "368"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "iq/baghdad/baghdad-kids-dar",
     "startTime": "16:00:00",
     "endTime": "18:00:00",
@@ -56551,7 +56551,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "gb/ashbourne/ashbourne-derbyshire-ashbourne-library",
     "startTime": "15:15:00",
     "endTime": "16:30:00",
@@ -58222,7 +58222,7 @@
       "alpha3": "USA",
       "countryNumber": "840"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "us/plano-tx/plano-texas-east-plano-islamic-center",
     "startTime": "02:15:00",
     "endTime": "14:00:00",
@@ -61375,7 +61375,7 @@
       "alpha3": "JPN",
       "countryNumber": "392"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "jp/osaka/zhu4-ji2",
     "startTime": "18:30:00",
     "endTime": "20:00:00",
@@ -61687,7 +61687,7 @@
       "alpha3": "AUS",
       "countryNumber": "036"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "au/yabberup-wa/yabberup-community-yabberup-hall",
     "startTime": "23:45:00",
     "endTime": "00:00:00",
@@ -64636,7 +64636,7 @@
       "alpha3": "JPN",
       "countryNumber": "392"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "jp/japan-tochigi/gao1-gen1-ze2-willow",
     "startTime": "14:00:00",
     "endTime": "16:00:00",
@@ -66790,7 +66790,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "gb/south-woodford/south-woodford-library",
     "startTime": "16:00:00",
     "endTime": "17:00:00",
@@ -67348,7 +67348,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "gb/woodford/woodford-woodford-green-library",
     "startTime": "18:00:00",
     "endTime": "19:00:00",
@@ -69952,7 +69952,7 @@
       "alpha3": "ARE",
       "countryNumber": "784"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "ae/abu-dhabi-united-arab-emirates/skills-4-life-aths-auhb-campus",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
@@ -70546,7 +70546,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "gb/bishop-auckland/bishop-auckland-town-hall",
     "startTime": "14:00:00",
     "endTime": "16:00:00",
@@ -74389,7 +74389,7 @@
       "alpha3": "KEN",
       "countryNumber": "404"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "ke/nanyuki/nanyuki-laikipia-airbase-secondary-school",
     "startTime": "10:00:00",
     "endTime": "16:00:00",
@@ -78055,7 +78055,7 @@
       "alpha3": "JPN",
       "countryNumber": "392"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "jp/nihonmatsu-fukushima/sent",
     "startTime": "09:00:00",
     "endTime": "12:00:00",
@@ -78898,7 +78898,7 @@
       "alpha3": "GRC",
       "countryNumber": "300"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "gr/volos/talos-volos",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
@@ -79861,7 +79861,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "ie/rossnowlagh-crossroads-county-donegal/creevy-national-school-2",
     "startTime": "19:00:00",
     "endTime": "20:30:00",
@@ -79981,7 +79981,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "gb/gillingham/gillingham-library",
     "startTime": "15:45:00",
     "endTime": "05:45:00",
@@ -83134,7 +83134,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "gb/hathersage-hope-valley/hope-valley-hathersage-memorial-hall",
     "startTime": "18:30:00",
     "endTime": "20:30:00",
@@ -83821,7 +83821,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "ie/bray-county-wicklow/ballywaltrim-bray-library",
     "startTime": "17:00:00",
     "endTime": "18:30:00",
@@ -92980,7 +92980,7 @@
       "alpha3": "USA",
       "countryNumber": "840"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "us/concord-ma/concord-mass-main-library",
     "startTime": "14:00:00",
     "endTime": "16:00:00",
@@ -93427,7 +93427,7 @@
       "alpha3": "JPN",
       "countryNumber": "392"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "jp/teshikaga-hokkaido/teshikaga-mashu-garden",
     "startTime": "13:30:00",
     "endTime": "16:30:00",
@@ -94537,7 +94537,7 @@
       "alpha3": "IRQ",
       "countryNumber": "368"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "iq/amarah/amarah-missan-engineers-union",
     "startTime": "14:00:00",
     "endTime": "19:00:00",
@@ -96442,7 +96442,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "gb/balham/balham-young-coders-balham-library",
     "startTime": "14:00:00",
     "endTime": "16:00:00",
