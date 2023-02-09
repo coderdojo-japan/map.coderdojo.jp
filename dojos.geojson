@@ -13926,21 +13926,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.9337034,
-          -31.9618905
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>BelmontWA@Ruth Faulkner Library in Belmont Hub<br><a target='_blank' href='http://zen.coderdojo.com/dojos/au/cloverdale-wa/belmontwa-ruth-faulkner-library-in-belmont-hub'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           135.36085709021302,
           34.7457687578179
         ]
