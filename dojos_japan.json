@@ -573,7 +573,7 @@
     "is_active": true,
     "prefecture": "兵庫",
     "created_at": "2016-03-22T00:00:00.000+09:00",
-    "description": "姫路市で第3土曜日に毎月開催"
+    "description": "姫路市で第3土曜に毎月開催"
   },
   {
     "id": 51,
@@ -1509,7 +1509,7 @@
     "is_active": true,
     "prefecture": "岡山",
     "created_at": "2018-02-28T00:00:00.000+09:00",
-    "description": "津山市で毎月第2土曜日開催"
+    "description": "津山市で毎月第2土曜開催"
   },
   {
     "id": 133,
@@ -2745,7 +2745,7 @@
     "is_active": true,
     "prefecture": "神奈川",
     "created_at": "2020-05-07T00:00:00.000+09:00",
-    "description": "オンラインで月4回程度開催"
+    "description": "中央林間/つきみ野近辺で月4回程度開催"
   },
   {
     "id": 248,
@@ -2961,7 +2961,7 @@
     "is_active": true,
     "prefecture": "青森",
     "created_at": "2021-02-28T00:00:00.000+09:00",
-    "description": "八戸市内で毎月第一日曜日に開催"
+    "description": "八戸市内で毎月第1日曜に開催"
   },
   {
     "id": 266,
