@@ -26,6 +26,7 @@ end
 
 # Japan's name to text/logo by Hash
 name2logo      = {} # => CoderDojo ロゴ
+name2desc      = {} # => CoderDojo 説明文
 name2site      = {} # => Webサイトを見る
 name2is_active = {} # => Active かどうかのフラグ
 dojos_japan.each do |dojo|
@@ -41,6 +42,7 @@ dojos_japan.each do |dojo|
   HTML
 
   name2site[dojo[:name]] = "<a href='#{dojo[:url]}' target='_blank' rel='noopener'>Webサイトを見る</a>"
+  name2desc[dojo[:name]] = dojo[:description]
   name2is_active[dojo[:name]] = dojo[:is_active]
 end
 
@@ -86,9 +88,9 @@ dojos_earth.each do |dojo|
       # for Dojos regeisted in coderdojo.jp
       description = <<~HTML
         #{name2logo[dojo[:name]]}<br>
-        #{dojo[:name]}<br>
-        #{name2site[dojo[:name]]}<br>
-        <a target='_blank' href='http://zen.coderdojo.com/dojos/#{dojo[:urlSlug]}'>連絡先を見る</a>
+        <b>#{dojo[:name]}</b><br>
+        #{name2desc[dojo[:name]]}<br>
+        #{name2site[dojo[:name]]}
       HTML
     end
 
