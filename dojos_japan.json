@@ -1641,7 +1641,7 @@
     "is_active": true,
     "prefecture": "福岡",
     "created_at": "2018-04-22T00:00:00.000+09:00",
-    "description": "北九州市で1〜2ヶ月に1回開催"
+    "description": "北九州市で不定期開催"
   },
   {
     "id": 145,
@@ -1881,7 +1881,7 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2018-10-05T00:00:00.000+09:00",
-    "description": "三鷹周辺で月に1回程度開催"
+    "description": "三鷹周辺で毎月開催"
   },
   {
     "id": 175,
@@ -2529,7 +2529,7 @@
     "is_active": true,
     "prefecture": "福岡",
     "created_at": "2019-10-26T00:00:00.000+09:00",
-    "description": "中間市で2ヶ月に1回程度開催"
+    "description": "中間市で隔月開催"
   },
   {
     "id": 230,
@@ -2841,7 +2841,7 @@
     "is_active": true,
     "prefecture": "三重",
     "created_at": "2020-11-02T00:00:00.000+09:00",
-    "description": "四日市市で月に１回開催"
+    "description": "四日市市で毎月開催"
   },
   {
     "id": 256,
@@ -2889,7 +2889,7 @@
     "is_active": false,
     "prefecture": "岩手",
     "created_at": "2020-12-15T00:00:00.000+09:00",
-    "description": "一関市で不定期に開催"
+    "description": "一関市で不定期開催"
   },
   {
     "id": 260,
@@ -2913,7 +2913,7 @@
     "is_active": true,
     "prefecture": "北海道",
     "created_at": "2021-01-09T00:00:00.000+09:00",
-    "description": "江別市で月に1回"
+    "description": "江別市で毎月開催"
   },
   {
     "id": 262,
@@ -2925,7 +2925,7 @@
     "is_active": true,
     "prefecture": "京都",
     "created_at": "2021-01-12T00:00:00.000+09:00",
-    "description": "宇治市で2〜3ヶ月に1回開催"
+    "description": "宇治市で不定期開催"
   },
   {
     "id": 263,
@@ -3081,7 +3081,7 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2021-09-22T00:00:00.000+09:00",
-    "description": "国立市で不定期に開催"
+    "description": "国立市で不定期開催"
   },
   {
     "id": 276,
@@ -3165,7 +3165,7 @@
     "is_active": true,
     "prefecture": "長野",
     "created_at": "2022-03-17T00:00:00.000+09:00",
-    "description": "南木曽町で不定期に開催"
+    "description": "南木曽町で不定期開催"
   },
   {
     "id": 283,
