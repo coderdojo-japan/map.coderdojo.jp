@@ -177,7 +177,7 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2016-09-09T00:00:00.000+09:00",
-    "description": "杉並区で月1回程度開催"
+    "description": "杉並区で毎月開催"
   },
   {
     "id": 17,
@@ -933,7 +933,7 @@
     "is_active": true,
     "prefecture": "千葉",
     "created_at": "2017-03-28T00:00:00.000+09:00",
-    "description": "JR市川駅近辺で月1～2回開催"
+    "description": "JR市川駅近辺で毎月1～2回開催"
   },
   {
     "id": 83,
@@ -1365,7 +1365,7 @@
     "is_active": false,
     "prefecture": "長崎",
     "created_at": "2017-11-14T00:00:00.000+09:00",
-    "description": "長崎市で毎月1回開催"
+    "description": "長崎市で毎月開催"
   },
   {
     "id": 121,
@@ -1557,7 +1557,7 @@
     "is_active": true,
     "prefecture": "福岡",
     "created_at": "2018-03-19T00:00:00.000+09:00",
-    "description": "福岡市東区で毎月1回不定期開催"
+    "description": "福岡市東区で毎月開催"
   },
   {
     "id": 137,
@@ -1845,7 +1845,7 @@
     "is_active": false,
     "prefecture": "奈良",
     "created_at": "2018-07-31T00:00:00.000+09:00",
-    "description": "明日香村で毎月1回開催"
+    "description": "明日香村で毎月開催"
   },
   {
     "id": 172,
@@ -1917,7 +1917,7 @@
     "is_active": false,
     "prefecture": "奈良",
     "created_at": "2018-07-31T00:00:00.000+09:00",
-    "description": "田原本町で毎月1回開催"
+    "description": "田原本町で毎月開催"
   },
   {
     "id": 178,
@@ -2553,7 +2553,7 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2019-10-30T00:00:00.000+09:00",
-    "description": "板橋区で月1回程度開催"
+    "description": "板橋区で毎月開催"
   },
   {
     "id": 232,
@@ -2685,7 +2685,7 @@
     "is_active": true,
     "prefecture": "栃木",
     "created_at": "2020-02-20T00:00:00.000+09:00",
-    "description": "大田原市で毎月1回程度開催"
+    "description": "大田原市で毎月開催"
   },
   {
     "id": 243,
@@ -2817,7 +2817,7 @@
     "is_active": true,
     "prefecture": "北海道",
     "created_at": "2020-09-10T00:00:00.000+09:00",
-    "description": "室蘭市で月1回開催"
+    "description": "室蘭市で毎月開催"
   },
   {
     "id": 254,
@@ -3009,7 +3009,7 @@
     "is_active": true,
     "prefecture": "佐賀",
     "created_at": "2021-05-03T00:00:00.000+09:00",
-    "description": "佐賀市で月1開催"
+    "description": "佐賀市で毎月開催"
   },
   {
     "id": 270,
@@ -3033,7 +3033,7 @@
     "is_active": false,
     "prefecture": "大阪",
     "created_at": "2021-06-20T00:00:00.000+09:00",
-    "description": "柏原市で毎月1回開催"
+    "description": "柏原市で毎月開催"
   },
   {
     "id": 272,
@@ -3141,7 +3141,7 @@
     "is_active": true,
     "prefecture": "栃木",
     "created_at": "2022-03-09T00:00:00.000+09:00",
-    "description": "那須塩原市で毎月1回開催"
+    "description": "那須塩原市で毎月開催"
   },
   {
     "id": 281,
@@ -3177,7 +3177,7 @@
     "is_active": true,
     "prefecture": "千葉",
     "created_at": "2022-04-21T00:00:00.000+09:00",
-    "description": "野田市で月1回程度開催"
+    "description": "野田市で毎月開催"
   },
   {
     "id": 284,

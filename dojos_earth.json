@@ -39370,6 +39370,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Derby @ UnityCafe",
+    "geoPoint": {
+      "lat": 52.8971949,
+      "lon": -1.4295781
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/derby/derby-unitycafe",
+    "startTime": "16:30:00",
+    "endTime": "18:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 3,
+    "id": "68d99e7e-fbbb-4127-8217-4e48ade50233"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Dhnabad, Jharkhand @ Kidi Robotics",
     "geoPoint": {
       "lat": 23.8149076,
@@ -83878,6 +83902,30 @@
     "alternativeFrequency": null,
     "day": 6,
     "id": "df6dfb15-48bb-4e6d-aa85-8992ed7b5346"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Oakdale @ Oakdale Library",
+    "geoPoint": {
+      "lat": 50.7331318,
+      "lon": -1.9775495
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/poole/oakdale-oakdale-library",
+    "startTime": "15:45:00",
+    "endTime": "16:45:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 3,
+    "id": "df722066-d097-4f56-9753-7593aa465b1b"
   },
   {
     "entity$": "-/cd/dojos",
