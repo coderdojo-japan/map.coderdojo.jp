@@ -43,7 +43,7 @@ dojos_japan.each do |dojo|
 
   name2site[dojo[:name]] = "<a href='#{dojo[:url]}' target='_blank' rel='noopener'>Webサイトを見る</a>"
   name2desc[dojo[:name]] = dojo[:description].size > 10 ?
-                           dojo[:description].insert(10, '<br>') :
+                           dojo[:description].insert(8, '<br>') :
                            dojo[:description]
   name2is_active[dojo[:name]] = dojo[:is_active]
 end
