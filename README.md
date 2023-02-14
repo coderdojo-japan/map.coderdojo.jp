@@ -31,12 +31,12 @@ https://map.coderdojo.jp/
    $ ruby --version
    ```   
 
-1. CoderDojo Zen から Dojo 情報一覧を取得する（[`dojos_earth.json`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/dojos_earth.json)にある位置情報が欲しい）
+1. [CoderDojo Zen](https://zen.coderdojo.com/) から Dojo 情報一覧を取得する（[`dojos_earth.json`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/dojos_earth.json)が更新されます）
    ```
    $ ./get_dojos_from_earth.rb
    ```
 
-1. CoderDojo Japan から Dojo 情報一覧を取得する（[`dojos_japan.json`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/dojos_japan.json)にある詳細情報が欲しい）
+1. [CoderDojo Japan](http://coderdojo.jp/) から Dojo 情報一覧を取得する（[`dojos_japan.json`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/dojos_japan.json)が更新されます）
    ```
    $ ./get_dojos_from_japan.rb
    ```
