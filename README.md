@@ -1,3 +1,5 @@
+[![Deploy to GitHub Pages](https://github.com/coderdojo-japan/map.coderdojo.jp/actions/workflows/deploy_to_pages.yml/badge.svg)](https://github.com/coderdojo-japan/map.coderdojo.jp/actions/workflows/deploy_to_pages.yml) [![pages-build-deployment](https://github.com/coderdojo-japan/map.coderdojo.jp/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/coderdojo-japan/map.coderdojo.jp/actions/workflows/pages/pages-build-deployment) [![Scheduler (Daily)](https://github.com/coderdojo-japan/map.coderdojo.jp/actions/workflows/scheduler_daily.yml/badge.svg)](https://github.com/coderdojo-japan/map.coderdojo.jp/actions/workflows/scheduler_daily.yml)
+
 # :japan: DojoMap - 地図で CoderDojo を探す
 
 CoderDojo の地図『**[DojoMap](https://map.coderdojo.jp/)**』で、
