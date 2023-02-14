@@ -741,21 +741,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          131.79519340000002,
-          34.5783592
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-tsuwano.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/tsuwano.webp' alt='津和野' loading='lazy' width='100px' /></a><br><b>津和野</b><br>鹿足郡津和野町で<br>隔月開催<br><a href='https://coderdojo-tsuwano.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           76.70435640000001,
           30.7018369
         ]
