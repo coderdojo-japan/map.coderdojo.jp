@@ -1,4 +1,4 @@
-name: Scheduler (Daily)
+name: Daily Update
 
 # NOTE: GitHub Action's scheduler is always set to UTC+0. So 9am should be set at 0am for JST (UTC+9)
 # https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events-schedule
