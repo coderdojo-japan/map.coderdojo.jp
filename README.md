@@ -97,7 +97,7 @@ The images, such as logos and photos of [each dojo](http://coderdojo.jp/#dojos),
 
 <h3>Codes & Others</h3>
 
-The source codes, such as HTML/CSS/JavaScript and Ruby codes not declared above, are published under **[The MIT License](https://opensource.org/licenses/MIT)** below. Feel free to refer, copy, or share them. And contact `info@coderdojo.jp` if you find something unclear.
+The source codes, such as HTML/CSS/JavaScript and Ruby codes not declared above, are published under **[The MIT License](https://opensource.org/licenses/MIT)** below. Feel free to refer, copy, or share them. And contact `info@coderdojo.jp` if you find anything unclear.
 
 Copyright &copy; [一般社団法人 CoderDojo Japan](https://coderdojo.jp/about-coderdojo-japan)
 
