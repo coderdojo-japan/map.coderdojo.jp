@@ -28264,6 +28264,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Sambava @ Antanifotsy",
+    "geoPoint": {
+      "lat": -14.2713338,
+      "lon": 50.1678121
+    },
+    "country": {
+      "countryName": "Madagascar",
+      "continent": "AF",
+      "alpha2": "MG",
+      "alpha3": "MDG",
+      "countryNumber": "450"
+    },
+    "stage": 1,
+    "urlSlug": "mg/sambava/sambava-antanifotsy",
+    "startTime": "08:00:00",
+    "endTime": "11:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "4d8bd537-3fcb-4b18-82ff-9180581a3fa1"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Sunshine Coast @ Maroochydore",
     "geoPoint": {
       "lat": -26.65,
@@ -39289,7 +39313,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 2,
+    "stage": 4,
     "urlSlug": "gb/worcester/worcester-the-hive",
     "startTime": "17:30:00",
     "endTime": "18:30:00",
@@ -51072,8 +51096,8 @@
     "entity$": "-/cd/dojos",
     "name": "Kitakata",
     "geoPoint": {
-      "lat": 37.65846255773169,
-      "lon": 139.8763622332176
+      "lat": 37.6473846,
+      "lon": 139.8779863
     },
     "country": {
       "countryName": "Japan",
@@ -51089,7 +51113,7 @@
     "private": 0,
     "frequency": "1/m",
     "alternativeFrequency": "3rd",
-    "day": 7,
+    "day": 6,
     "id": "87acaba4-6eb9-4700-b652-e62928593578"
   },
   {
@@ -73405,6 +73429,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Brescia @ DreamPuzzle",
+    "geoPoint": {
+      "lat": 45.5399982,
+      "lon": 10.2178843
+    },
+    "country": {
+      "countryName": "Italy",
+      "continent": "EU",
+      "alpha2": "IT",
+      "alpha3": "ITA",
+      "countryNumber": "380"
+    },
+    "stage": 1,
+    "urlSlug": "it/brescia-province-of-brescia/brescia-dreampuzzle",
+    "startTime": "15:00:00",
+    "endTime": "14:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": null,
+    "day": 7,
+    "id": "c2563335-87c1-4932-8db4-ffb3b33b0643"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "STEAM Family Coding @ Orlando Public Library",
     "geoPoint": {
       "lat": 28.5425623,
@@ -79585,6 +79633,30 @@
     "alternativeFrequency": "2nd",
     "day": 3,
     "id": "d218c75d-52bd-4f06-8615-b7cd298acc9d"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Exeter @ Exeter College Technology Centre",
+    "geoPoint": {
+      "lat": 50.7306284,
+      "lon": -3.469825
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/exeter/exeter-exeter-college-technology-centre",
+    "startTime": "16:00:00",
+    "endTime": "18:00:00",
+    "private": 1,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 4,
+    "id": "d222014a-a807-4f63-b92c-8c4b184008c7"
   },
   {
     "entity$": "-/cd/dojos",
