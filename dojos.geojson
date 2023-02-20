@@ -6111,6 +6111,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          50.1678121,
+          -14.2713338
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Sambava @ Antanifotsy<br><a target='_blank' href='http://zen.coderdojo.com/dojos/mg/sambava/sambava-antanifotsy'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.004130000000032,
           45.75874
         ]
@@ -8624,21 +8639,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Alvaro de Bazán<br><a target='_blank' href='http://zen.coderdojo.com/dojos/es/madrid/alvaro-de-bazan'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.2259096000000227,
-          52.1937439
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Worcester @ The Hive<br><a target='_blank' href='http://zen.coderdojo.com/dojos/gb/worcester/worcester-the-hive'>連絡先を見る</a>"
       }
     },
     {
@@ -11376,8 +11376,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.8763622332176,
-          37.65846255773169
+          139.8779863,
+          37.6473846
         ]
       },
       "properties": {
@@ -16371,6 +16371,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.2178843,
+          45.5399982
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Brescia @ DreamPuzzle<br><a target='_blank' href='http://zen.coderdojo.com/dojos/it/brescia-province-of-brescia/brescia-dreampuzzle'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           75.94315410000002,
           22.8212926
         ]
@@ -17804,6 +17819,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>San Jose @ Akamai<br><a target='_blank' href='http://zen.coderdojo.com/dojos/cr/san-jose-province-santa-ana/san-jose-akamai'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.469825,
+          50.7306284
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Exeter @ Exeter College Technology Centre<br><a target='_blank' href='http://zen.coderdojo.com/dojos/gb/exeter/exeter-exeter-college-technology-centre'>連絡先を見る</a>"
       }
     },
     {
