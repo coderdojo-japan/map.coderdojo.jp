@@ -1969,7 +1969,7 @@
   },
   {
     "id": 182,
-    "url": "https://coderdojo-seto.github.io/",
+    "url": "https://coderdojo-seto.jp/",
     "name": "瀬戸",
     "logo": "https://coderdojo.jp/img/dojos/seto.webp",
     "order": "232041",
@@ -3356,7 +3356,7 @@
     "counter": 1,
     "is_active": true,
     "prefecture": "富山",
-    "created_at": "2023-02-25T11:44:11.658+09:00",
+    "created_at": "2023-02-24T00:00:00.000+09:00",
     "description": "新川郡上市町で毎月2回開催"
   }
 ]

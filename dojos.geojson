@@ -14826,8 +14826,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.7163954,
-          47.2213721
+          39.716242919156066,
+          47.22134756287958
         ]
       },
       "properties": {
@@ -20998,7 +20998,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-seto.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/seto.webp' alt='瀬戸' loading='lazy' width='100px' /></a><br><b>瀬戸</b><br>瀬戸市で月2回開催<br><a href='https://coderdojo-seto.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-seto.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/seto.webp' alt='瀬戸' loading='lazy' width='100px' /></a><br><b>瀬戸</b><br>瀬戸市で月2回開催<br><a href='https://coderdojo-seto.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
