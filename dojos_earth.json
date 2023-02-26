@@ -66780,8 +66780,8 @@
     "entity$": "-/cd/dojos",
     "name": "Rostov-on-Don @ Russian Federation",
     "geoPoint": {
-      "lat": 47.2213721,
-      "lon": 39.7163954
+      "lat": 47.22134756287958,
+      "lon": 39.716242919156066
     },
     "country": {
       "countryName": "Russian Federation",
@@ -66790,10 +66790,10 @@
       "alpha3": "RUS",
       "countryNumber": "643"
     },
-    "stage": 2,
+    "stage": 1,
     "urlSlug": "ru/rostov-on-don-rostov-oblast/rostov-on-don-russian-federation",
     "startTime": "15:00:00",
-    "endTime": "16:30:00",
+    "endTime": "17:00:00",
     "private": 0,
     "frequency": "1/w",
     "alternativeFrequency": null,
