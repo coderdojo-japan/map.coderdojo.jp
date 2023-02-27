@@ -7255,7 +7255,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "ie/dublin/a-real-cool-place-chq",
     "startTime": "17:00:00",
     "endTime": "18:00:00",
@@ -44998,6 +44998,30 @@
     "alternativeFrequency": "2nd",
     "day": 6,
     "id": "79220d2c-35c2-4ca1-b4e8-719beda32693"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "MandurahNeurodivergent@MCCLibrary",
+    "geoPoint": {
+      "lat": -32.5475146,
+      "lon": 115.7396019
+    },
+    "country": {
+      "countryName": "Australia",
+      "continent": "OC",
+      "alpha2": "AU",
+      "alpha3": "AUS",
+      "countryNumber": "036"
+    },
+    "stage": 1,
+    "urlSlug": "au/coodanup-wa/mandurahneurodivergent-mcclibrary",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "7933214b-db02-4d33-bf9a-cbb93b3741de"
   },
   {
     "entity$": "-/cd/dojos",
