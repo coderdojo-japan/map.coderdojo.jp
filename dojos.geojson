@@ -1491,21 +1491,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.2505678,
-          53.3486949
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>A real cool place @ CHQ<br><a target='_blank' href='http://zen.coderdojo.com/dojos/ie/dublin/a-real-cool-place-chq'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           136.94735884666443,
           35.01916773872161
         ]
@@ -9989,6 +9974,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<a href='https://nara-coderdojo.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/heguri.webp' alt='平群' loading='lazy' width='100px' /></a><br><b>平群</b><br>平群町で毎月開催<br><a href='https://nara-coderdojo.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7396019,
+          -32.5475146
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>MandurahNeurodivergent@MCCLibrary<br><a target='_blank' href='http://zen.coderdojo.com/dojos/au/coodanup-wa/mandurahneurodivergent-mcclibrary'>連絡先を見る</a>"
       }
     },
     {
