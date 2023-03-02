@@ -55507,6 +55507,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "KingsGarden@Prikkle",
+    "geoPoint": {
+      "lat": 12.025383266914085,
+      "lon": 8.543357527042422
+    },
+    "country": {
+      "countryName": "Nigeria",
+      "continent": "AF",
+      "alpha2": "NG",
+      "alpha3": "NGA",
+      "countryNumber": "566"
+    },
+    "stage": 1,
+    "urlSlug": "ng/kano/kingsgarden-prikkle",
+    "startTime": "01:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "929014f8-499c-450f-a391-22d22054d023"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "WA @ Manea Senior College",
     "geoPoint": {
       "lat": -33.365884446765314,
@@ -67951,6 +67975,30 @@
     "alternativeFrequency": null,
     "day": 5,
     "id": "b3d14bbf-e631-4465-9536-14ac4a75124e"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Verona @ Dreampuzzle",
+    "geoPoint": {
+      "lat": 45.4408093,
+      "lon": 11.131764
+    },
+    "country": {
+      "countryName": "Italy",
+      "continent": "EU",
+      "alpha2": "IT",
+      "alpha3": "ITA",
+      "countryNumber": "380"
+    },
+    "stage": 1,
+    "urlSlug": "it/lavagno-vr/verona-dreampuzzle",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "b3daa921-d11f-49d3-9395-bc09ea1858d3"
   },
   {
     "entity$": "-/cd/dojos",
@@ -91063,6 +91111,30 @@
     "alternativeFrequency": "this event runs on a monthly basis please click on the website link to book a space and find out the",
     "day": null,
     "id": "f0b7e24f-74f1-44cb-bc4c-32979cc407bd"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Hantagawa,Naha@idobata",
+    "geoPoint": {
+      "lat": 26.2101194,
+      "lon": 127.7137583
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/chong1-sheng2-xian4-na4-ba4-shi4/hantagawa-naha-idobata",
+    "startTime": "15:30:00",
+    "endTime": "18:30:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 3,
+    "id": "f0ec3a92-a407-406e-95f5-7840124607ae"
   },
   {
     "entity$": "-/cd/dojos",
