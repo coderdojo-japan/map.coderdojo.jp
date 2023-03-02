@@ -12366,6 +12366,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.543357527042422,
+          12.025383266914085
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>KingsGarden@Prikkle<br><a target='_blank' href='http://zen.coderdojo.com/dojos/ng/kano/kingsgarden-prikkle'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.4974159,
           41.19008609999999
         ]
@@ -15104,6 +15119,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Den Bosch Bibliotheek<br><a target='_blank' href='http://zen.coderdojo.com/dojos/nl/s-hertogenbosch/den-bosch-bibliotheek'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.131764,
+          45.4408093
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Verona @ Dreampuzzle<br><a target='_blank' href='http://zen.coderdojo.com/dojos/it/lavagno-vr/verona-dreampuzzle'>連絡先を見る</a>"
       }
     },
     {
