@@ -66900,8 +66900,8 @@
     "entity$": "-/cd/dojos",
     "name": "Chofu",
     "geoPoint": {
-      "lat": 35.6505758,
-      "lon": 139.55734200000006
+      "lat": 35.6506212,
+      "lon": 139.5580759
     },
     "country": {
       "countryName": "Japan",
@@ -66912,12 +66912,12 @@
     },
     "stage": 1,
     "urlSlug": "jp/ri4-ben3-dong1-jing1-du1-diao4-bu4-shi4/chofu",
-    "startTime": null,
-    "endTime": null,
+    "startTime": "09:30:00",
+    "endTime": "12:30:00",
     "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "毎月",
-    "day": null,
+    "frequency": "1/m",
+    "alternativeFrequency": "last",
+    "day": 7,
     "id": "b0fd6944-6630-4440-ae2b-1c1423df6cd4"
   },
   {
