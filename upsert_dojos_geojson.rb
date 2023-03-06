@@ -1,9 +1,11 @@
 #!/usr/bin/env ruby
 require 'json'
+require 'time'
 
-dojos_earth = []
-dojos_japan = []
-zen2japan   = {}
+dojos_earth  = []
+dojos_japan  = []
+events_japan = []
+zen2japan    = {}
 
 File.open("dojos_earth.json") do |file|
   dojos_earth = JSON.load(file, nil, symbolize_names: true, create_additions: false)
@@ -11,6 +13,10 @@ end
 
 File.open("dojos_japan.json") do |file|
   dojos_japan = JSON.load(file, nil, symbolize_names: true, create_additions: false)
+end
+
+File.open("events_japan.json") do |file|
+  events_japan = JSON.load(file, nil, symbolize_names: true, create_additions: false)
 end
 
 # Sample format of dojo2dojo.csv:
@@ -25,11 +31,19 @@ end
 #pp zen2japan; p zen2japan.count; p zen2japan['Kunitachi'] ; exit
 
 # Japan's name to text/logo by Hash
+event          = {}
+name2event     = {} # => 近日開催イベント
 name2logo      = {} # => CoderDojo ロゴ
 name2desc      = {} # => CoderDojo 説明文
 name2site      = {} # => Webサイトを見る
 name2is_active = {} # => Active かどうかのフラグ
 dojos_japan.each do |dojo|
+  # もし近日開催イベントがあればマーカーに追加する
+  if (event = events_japan.find{|e| e[:id] == dojo[:id]})
+    date = Time.parse(event[:event_date])
+    name2event[dojo[:name]] = "&rarr; 次回: <a href='#{event[:event_url]}' target='_blank' rel='noopener'>#{date.mon}月#{date.day}日</a><br>"
+  end
+
   # TODO: Ideally want to change marker image into each CoderDojo logo.
   # Details: https://github.com/coderdojo-japan/map.coderdojo.jp/issues/1
 
@@ -92,6 +106,7 @@ dojos_earth.each do |dojo|
         #{name2logo[dojo[:name]]}<br>
         <b>#{dojo[:name]}</b><br>
         #{name2desc[dojo[:name]]}<br>
+        #{name2event[dojo[:name]]}
         #{name2site[dojo[:name]]}
       HTML
     end
