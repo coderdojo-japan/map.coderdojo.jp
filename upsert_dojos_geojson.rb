@@ -98,7 +98,8 @@ dojos_earth.each do |dojo|
       description = <<~HTML
         <img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>
         #{dojo[:name]}<br>
-        <a target='_blank' href='http://zen.coderdojo.com/dojos/#{dojo[:urlSlug]}'>連絡先を見る</a>
+        <a target='_blank' rel='noopener'
+           href='http://zen.coderdojo.com/dojos/#{dojo[:urlSlug]}'>連絡先を見る</a>
       HTML
     else
       # for Dojos regeisted in coderdojo.jp
