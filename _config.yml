@@ -11,8 +11,8 @@ exclude:
   - LICENSE.md
   - CODE_OF_CONDUCT.md
   - dojo2dojo.csv
-  - get_dojos_from_earth.rb
-  - get_dojos_from_japan.rb
+  - get_data_from_earth.rb
+  - get_data_from_japan.rb
   - upsert_dojos_geojson.rb
   - compact_geojson.rb
 

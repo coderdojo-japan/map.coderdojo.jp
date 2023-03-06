@@ -40,13 +40,13 @@ jobs:
 
     - name: 🌐 Fetch dojo data from farth
       run: |
-        bundle exec ruby get_dojos_from_earth.rb
+        bundle exec ruby get_data_from_earth.rb
 
-    - name: 🗾 Fetch dojo data from Japan
+    - name: 🗾 Fetch dojo/event data from Japan
       run: |
-        bundle exec ruby get_dojos_from_japan.rb
+        bundle exec ruby get_data_from_japan.rb
 
-    - name: ☯️ Cache Dojo logos in Japan
+    - name: ☯️ Cache dojo logos in Japan
       run: |
         bundle exec ruby caching_images.rb
 
