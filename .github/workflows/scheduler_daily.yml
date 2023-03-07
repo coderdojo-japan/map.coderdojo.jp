@@ -38,7 +38,7 @@ jobs:
       run: |
         bundle install --jobs 4 --retry 3
 
-    - name: 🌐 Fetch dojo data from farth
+    - name: 🌐 Fetch dojo data from Earth
       run: |
         bundle exec ruby get_data_from_earth.rb
 
