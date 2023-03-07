@@ -9381,21 +9381,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.0667142,
-          51.5192431
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Goirle @ Code013<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/goirle/goirle-code-01-3'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -70.6243283,
           41.5601242
         ]
@@ -21374,21 +21359,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Neffies<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/fr/languedoc-roussillon/neffies/neffies'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.174757899999999,
-          51.582761
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Oisterwijk @ Code013<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/oisterwijk/oisterwijk-code-01-3'>連絡先を見る</a>"
       }
     },
     {
