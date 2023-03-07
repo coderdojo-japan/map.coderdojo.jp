@@ -1317,8 +1317,8 @@
     "entity$": "-/cd/dojos",
     "name": "La Rinconada @ Sevilla",
     "geoPoint": {
-      "lat": 37.4840576,
-      "lon": -5.946207900000001
+      "lat": 37.49304381806951,
+      "lon": -5.941216108352405
     },
     "country": {
       "countryName": "Spain",
@@ -33537,8 +33537,8 @@
     "entity$": "-/cd/dojos",
     "name": "Frankfurt (Oder)",
     "geoPoint": {
-      "lat": 52.34689220000001,
-      "lon": 14.5510563
+      "lat": 52.3474509,
+      "lon": 14.5514132
     },
     "country": {
       "countryName": "Germany",
@@ -47659,7 +47659,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "gb/ilford/ilford-london-redbridge-central-library",
     "startTime": "10:15:00",
     "endTime": "11:15:00",
@@ -94303,6 +94303,30 @@
     "alternativeFrequency": "Saturdays, 3pm - 4:30pm",
     "day": null,
     "id": "f8d631e5-70f0-4de6-a56a-6ceb5aa73b3d"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Pontevedra @ Game Over IES A Basella",
+    "geoPoint": {
+      "lat": 42.5643938,
+      "lon": -8.8303315
+    },
+    "country": {
+      "countryName": "Spain",
+      "continent": "EU",
+      "alpha2": "ES",
+      "alpha3": "ESP",
+      "countryNumber": "724"
+    },
+    "stage": 1,
+    "urlSlug": "es/vilanova-de-arousa/pontevedra-game-over-ies-a-basella",
+    "startTime": "10:40:00",
+    "endTime": "11:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 4,
+    "id": "f92383ac-d26f-4ba8-a3a9-2257c2e7ddf6"
   },
   {
     "entity$": "-/cd/dojos",

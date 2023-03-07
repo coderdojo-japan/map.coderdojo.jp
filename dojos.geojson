@@ -261,8 +261,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.946207900000001,
-          37.4840576
+          -5.941216108352405,
+          37.49304381806951
         ]
       },
       "properties": {
@@ -6763,7 +6763,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>  <img src='/images/dojos/sennan.webp' alt='せんなん' loading='lazy' width='100px' /></a><br><b>せんなん</b><br>泉南市で毎月開催<br><a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>  <img src='/images/dojos/sennan.webp' alt='せんなん' loading='lazy' width='100px' /></a><br><b>せんなん</b><br>泉南市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-sennan.connpass.com/event/276589/' target='_blank' rel='noopener'>3月11日</a><br><a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -7116,8 +7116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.5510563,
-          52.34689220000001
+          14.5514132,
+          52.3474509
         ]
       },
       "properties": {
@@ -10574,6 +10574,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Kakinada @ Technical Hub<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/in/kakinada-andhra-pradesh/kakinada-technical-hub'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.07438,
+          51.558151
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Ilford, London@Redbridge Central Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/ilford/ilford-london-redbridge-central-library'>連絡先を見る</a>"
       }
     },
     {
@@ -20969,6 +20984,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>(YMCA Paisley) Paisley @ Glenburn Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/paisley/ymca-paisley-paisley-glenburn-library'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8303315,
+          42.5643938
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Pontevedra @ Game Over IES A Basella<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/es/vilanova-de-arousa/pontevedra-game-over-ies-a-basella'>連絡先を見る</a>"
       }
     },
     {
