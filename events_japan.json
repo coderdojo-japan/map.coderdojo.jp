@@ -11,9 +11,9 @@
     "id": 13,
     "name": "こだいら",
     "url": "https://coderdojo-kodaira.github.io/",
-    "event_title": "第273回【小中高生のコーディング道場・完全オンライン】",
-    "event_date": "2023-03-08T18:30:00.000+09:00",
-    "event_url": "https://coderdojo-jp-kodaira.connpass.com/event/273357/"
+    "event_title": "第274回【小中高生のコーディング道場・完全オンライン】",
+    "event_date": "2023-03-15T18:30:00.000+09:00",
+    "event_url": "https://coderdojo-jp-kodaira.connpass.com/event/273358/"
   },
   {
     "id": 30,
@@ -240,6 +240,14 @@
     "event_url": "https://coderdojo-inagi.doorkeeper.jp/events/147673"
   },
   {
+    "id": 148,
+    "name": "静岡",
+    "url": "https://coderdojo-shizuoka.org/",
+    "event_title": "第41回CoderDojo静岡",
+    "event_date": "2023-03-25T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-shizuoka.connpass.com/event/277457/"
+  },
+  {
     "id": 149,
     "name": "白河",
     "url": "https://coderdojoshirakawa.hateblo.jp/entry/top",
@@ -334,6 +342,14 @@
     "event_title": "【初心者大歓迎】子ども向けプログラミング道場！第51回 CoderDojo松原",
     "event_date": "2023-03-18T13:00:00.000+09:00",
     "event_url": "https://coderdojo-matsubara.doorkeeper.jp/events/152258"
+  },
+  {
+    "id": 206,
+    "name": "吹田",
+    "url": "https://coderdojo-suita.doorkeeper.jp/",
+    "event_title": "子ども向けプログラミング道場：CoderDojo吹田 #24",
+    "event_date": "2023-03-25T13:30:00.000+09:00",
+    "event_url": "https://coderdojo-suita.doorkeeper.jp/events/153289"
   },
   {
     "id": 218,
