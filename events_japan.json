@@ -16,6 +16,14 @@
     "event_url": "https://coderdojo-jp-kodaira.connpass.com/event/273358/"
   },
   {
+    "id": 27,
+    "name": "塩尻",
+    "url": "https://coderdojo.shiojiri.fun/",
+    "event_title": "CoderDojo塩尻 #179",
+    "event_date": "2023-03-15T17:30:00.000+09:00",
+    "event_url": "https://coderdojo-shiojiri.connpass.com/event/277629/"
+  },
+  {
     "id": 30,
     "name": "豊橋",
     "url": "https://www.facebook.com/coderdojo.toyohashi/",
@@ -134,6 +142,14 @@
     "event_title": "CoderDojo Konan (OKAYAMA) #44",
     "event_date": "2023-03-19T13:30:00.000+09:00",
     "event_url": "https://coderdojo-konan.doorkeeper.jp/events/152823"
+  },
+  {
+    "id": 86,
+    "name": "船橋",
+    "url": "https://funabashi.coderdojo.chiba.jp/",
+    "event_title": "第69回CoderDojo船橋",
+    "event_date": "2023-03-19T10:30:00.000+09:00",
+    "event_url": "https://coderdojofunabashi.connpass.com/event/277643/"
   },
   {
     "id": 97,
@@ -350,6 +366,14 @@
     "event_title": "子ども向けプログラミング道場：CoderDojo吹田 #24",
     "event_date": "2023-03-25T13:30:00.000+09:00",
     "event_url": "https://coderdojo-suita.doorkeeper.jp/events/153289"
+  },
+  {
+    "id": 217,
+    "name": "師勝",
+    "url": "https://twitter.com/CoderDojoSikatu",
+    "event_title": "CoderDojo師勝",
+    "event_date": "2023-03-21T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-shikatsu.connpass.com/event/277671/"
   },
   {
     "id": 218,
