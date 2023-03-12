@@ -35818,7 +35818,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Obu",
+    "name": "大府共和",
     "geoPoint": {
       "lat": 35.00561,
       "lon": 136.95019200000002
@@ -35831,7 +35831,7 @@
       "countryNumber": "392"
     },
     "stage": 0,
-    "urlSlug": "jp/obu-aichi/obu",
+    "urlSlug": "jp/obu-aichi/da4-fu3-gong4-he2",
     "startTime": "09:30:00",
     "endTime": "11:30:00",
     "private": 0,

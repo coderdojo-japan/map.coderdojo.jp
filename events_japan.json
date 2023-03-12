@@ -3,9 +3,9 @@
     "id": 2,
     "name": "瑞穂",
     "url": "https://coderdojo-mizuho.connpass.com/",
-    "event_title": "No.99 CoderDojo瑞穂 / Mizuho 現地",
-    "event_date": "2023-03-12T10:00:00.000+09:00",
-    "event_url": "https://coderdojo-mizuho.connpass.com/event/273670/"
+    "event_title": "No.100 CoderDojo瑞穂 / Mizuho 現地＆オンライン",
+    "event_date": "2023-03-26T10:00:00.000+09:00",
+    "event_url": "https://coderdojo-mizuho.connpass.com/event/273671/"
   },
   {
     "id": 13,
@@ -14,6 +14,14 @@
     "event_title": "第274回【小中高生のコーディング道場・完全オンライン】",
     "event_date": "2023-03-15T18:30:00.000+09:00",
     "event_url": "https://coderdojo-jp-kodaira.connpass.com/event/273358/"
+  },
+  {
+    "id": 18,
+    "name": "調布",
+    "url": "https://coderdojochofu.hatenablog.jp/",
+    "event_title": "第75回 CoderDojo 調布",
+    "event_date": "2023-03-26T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-chofu.doorkeeper.jp/events/153529"
   },
   {
     "id": 27,
@@ -86,14 +94,6 @@
     "event_title": "【会場開催】第78回CoderDojo久留米",
     "event_date": "2023-03-25T14:00:00.000+09:00",
     "event_url": "https://coderdojo-kurume.connpass.com/event/276380/"
-  },
-  {
-    "id": 64,
-    "name": "札幌",
-    "url": "https://coderdojo-sapporo.jp/",
-    "event_title": "第９０回 CoderDojo札幌",
-    "event_date": "2023-03-12T10:30:00.000+09:00",
-    "event_url": "https://coderdojo-sapporo.connpass.com/event/277202/"
   },
   {
     "id": 66,
@@ -182,14 +182,6 @@
     "event_title": "CoderDojo Nada(灘) プログラミング勉強会（オンライン参加）",
     "event_date": "2023-03-26T14:00:00.000+09:00",
     "event_url": "https://coderdojo-nada.doorkeeper.jp/events/152826"
-  },
-  {
-    "id": 129,
-    "name": "三島・沼津",
-    "url": "https://coderdojo-mn.com/",
-    "event_title": "第26回 CoderDojo 三島/沼津",
-    "event_date": "2023-03-12T14:00:00.000+09:00",
-    "event_url": "https://coderdojo-mn.connpass.com/event/275140/"
   },
   {
     "id": 130,
@@ -355,17 +347,9 @@
     "id": 243,
     "name": "大府",
     "url": "https://coderdojo-obu.connpass.com/",
-    "event_title": "CoderDojo大府(第54回) 子供向けプログラミング道場 2023/03/12",
-    "event_date": "2023-03-12T09:30:00.000+09:00",
-    "event_url": "https://coderdojo-obu.connpass.com/event/276509/"
-  },
-  {
-    "id": 249,
-    "name": "加西",
-    "url": "https://coderdojokasai.connpass.com/",
-    "event_title": "第33回 CoderDojo加西 in 図書館",
-    "event_date": "2023-03-12T10:15:00.000+09:00",
-    "event_url": "https://coderdojokasai.connpass.com/event/276539/"
+    "event_title": "CoderDojo大府(第55回) 子供向けプログラミング道場 2023/03/19",
+    "event_date": "2023-03-19T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-obu.connpass.com/event/276510/"
   },
   {
     "id": 252,
@@ -400,14 +384,6 @@
     "event_url": "https://coderdojo-fujiidera.doorkeeper.jp/events/152670"
   },
   {
-    "id": 265,
-    "name": "八戸@吹上",
-    "url": "https://coderdojo-hachinohe.aomori.jp/",
-    "event_title": "やってみよう！プログラミング ! 第19回 CoderDojo八戸@ばんらぼ",
-    "event_date": "2023-03-12T10:00:00.000+09:00",
-    "event_url": "https://coderdojo-hachinohe.doorkeeper.jp/events/152769"
-  },
-  {
     "id": 268,
     "name": "吉備",
     "url": "https://coderdojokibi.connpass.com/",
@@ -422,14 +398,6 @@
     "event_title": "第36回 CoderDojo富谷（オンライン）",
     "event_date": "2023-03-18T09:30:00.000+09:00",
     "event_url": "https://coderdojotomiya.doorkeeper.jp/events/151890"
-  },
-  {
-    "id": 278,
-    "name": "武蔵小杉",
-    "url": "https://coderdojo-musashikosugi.connpass.com/",
-    "event_title": "第19回 CoderDojo武蔵小杉【レギュラー回】※初めての方歓迎",
-    "event_date": "2023-03-12T13:15:00.000+09:00",
-    "event_url": "https://coderdojo-musashikosugi.connpass.com/event/275260/"
   },
   {
     "id": 280,
@@ -478,13 +446,5 @@
     "event_title": "第4回CoderDojoたまち",
     "event_date": "2023-03-21T14:00:00.000+09:00",
     "event_url": "https://coderdojo-tamachi.connpass.com/event/277212/"
-  },
-  {
-    "id": 292,
-    "name": "二本松",
-    "url": "https://coderdojo-nihonmatsu.com/",
-    "event_title": "子どものためのプログラミング道場「CoderDojo二本松」第4回",
-    "event_date": "2023-03-12T10:00:00.000+09:00",
-    "event_url": "https://dojonihonmatsu.doorkeeper.jp/events/151944"
   }
 ]
