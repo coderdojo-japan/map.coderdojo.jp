@@ -41947,7 +41947,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Helmond @Jan van Brabant College",
+    "name": "Helmond @ Bibliotheek Helmond Peel",
     "geoPoint": {
       "lat": 51.4785572,
       "lon": 5.6617544000000635
@@ -41960,9 +41960,9 @@
       "alpha3": "NLD"
     },
     "stage": 2,
-    "urlSlug": "nl/helmond/helmond-jan-van-brabant-college-1",
-    "startTime": null,
-    "endTime": null,
+    "urlSlug": "nl/helmond/helmond-bibliotheek-helmond-peel",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
     "alternativeFrequency": "Every second Saturday, 13.00 - 16.30pm",

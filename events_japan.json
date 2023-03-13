@@ -152,12 +152,36 @@
     "event_url": "https://coderdojofunabashi.connpass.com/event/277643/"
   },
   {
+    "id": 92,
+    "name": "光",
+    "url": "https://coderdojo-hikari.com/",
+    "event_title": "CoderDojo 光 72回目【会場＆オンライン 併催】 ～子どものためのプログラミング",
+    "event_date": "2023-03-19T14:00:00.000+09:00",
+    "event_url": "https://coderdojo-hikari.connpass.com/event/277842/"
+  },
+  {
     "id": 97,
     "name": "末広町",
     "url": "https://www.facebook.com/coderdojosuehirocho/",
     "event_title": "CoderDojo末広町　第49回",
     "event_date": "2023-03-25T10:00:00.000+09:00",
     "event_url": "https://coderdojosuehirocho.connpass.com/event/276436/"
+  },
+  {
+    "id": 105,
+    "name": "吉祥寺",
+    "url": "https://kichijojijp.wixsite.com/coderdojo",
+    "event_title": "【現地＋オンライン開催】子どものためのプログラミングクラブ CoderDojo吉祥寺 #60",
+    "event_date": "2023-03-19T10:00:00.000+09:00",
+    "event_url": "https://coderdojo-kichijoji.doorkeeper.jp/events/153555"
+  },
+  {
+    "id": 109,
+    "name": "滝沢",
+    "url": "https://www.facebook.com/CoderDojoTakizawa/",
+    "event_title": "4/8（土）第54回ＣoderＤojo滝沢",
+    "event_date": "2023-04-08T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-takizawa.doorkeeper.jp/events/153550"
   },
   {
     "id": 117,
@@ -182,6 +206,14 @@
     "event_title": "CoderDojo Nada(灘) プログラミング勉強会（オンライン参加）",
     "event_date": "2023-03-26T14:00:00.000+09:00",
     "event_url": "https://coderdojo-nada.doorkeeper.jp/events/152826"
+  },
+  {
+    "id": 126,
+    "name": "戸部",
+    "url": "https://coderdojo-tobe.connpass.com/",
+    "event_title": "第57回CoderDojo戸部",
+    "event_date": "2023-03-26T13:30:00.000+09:00",
+    "event_url": "https://coderdojo-tobe.connpass.com/event/277876/"
   },
   {
     "id": 130,
@@ -251,8 +283,8 @@
     "id": 182,
     "name": "瀬戸",
     "url": "https://coderdojo-seto.jp/",
-    "event_title": "【無料】【ますきち開催】10:30〜CoderDojo瀬戸(第99回) 子供向けプログラミング道場",
-    "event_date": "2023-03-26T10:30:00.000+09:00",
+    "event_title": "【無料】【ぐるっぺ道泉9:30開催】CoderDojo瀬戸(第99回) 子供向けプログラミング道場",
+    "event_date": "2023-03-26T09:30:00.000+09:00",
     "event_url": "https://coderdojo-seto.connpass.com/event/277190/"
   },
   {
@@ -352,6 +384,14 @@
     "event_url": "https://coderdojo-obu.connpass.com/event/276510/"
   },
   {
+    "id": 249,
+    "name": "加西",
+    "url": "https://coderdojokasai.connpass.com/",
+    "event_title": "第34回 CoderDojo加西 in 図書館",
+    "event_date": "2023-04-16T10:15:00.000+09:00",
+    "event_url": "https://coderdojokasai.connpass.com/event/277863/"
+  },
+  {
     "id": 252,
     "name": "岸和田",
     "url": "https://sites.google.com/coderdojo.com/kishiwada/",
@@ -398,6 +438,14 @@
     "event_title": "第36回 CoderDojo富谷（オンライン）",
     "event_date": "2023-03-18T09:30:00.000+09:00",
     "event_url": "https://coderdojotomiya.doorkeeper.jp/events/151890"
+  },
+  {
+    "id": 278,
+    "name": "武蔵小杉",
+    "url": "https://coderdojo-musashikosugi.connpass.com/",
+    "event_title": "第20回 CoderDojo武蔵小杉【ほぼ1周年特別回】※初めての方歓迎",
+    "event_date": "2023-04-16T13:15:00.000+09:00",
+    "event_url": "https://coderdojo-musashikosugi.connpass.com/event/277882/"
   },
   {
     "id": 280,
