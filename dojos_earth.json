@@ -600,12 +600,12 @@
     },
     "stage": 2,
     "urlSlug": "nc/nang/this-is-a-test-club-for-dev-and-example-purposes",
-    "startTime": "13:00:00",
+    "startTime": "12:00:00",
     "endTime": "15:00:00",
     "private": 0,
     "frequency": "2/m",
     "alternativeFrequency": null,
-    "day": 5,
+    "day": 6,
     "id": "022fbf70-c6a8-4b99-8834-b873db32b75a"
   },
   {
@@ -16407,20 +16407,20 @@
     "entity$": "-/cd/dojos",
     "name": "Carrick On Shannon, Co. Leitrim",
     "geoPoint": {
-      "lat": 53.94518830000001,
-      "lon": -8.085522099999935
+      "lat": 53.94573699999999,
+      "lon": -8.074945
     },
     "country": {
       "countryName": "Ireland",
       "alpha2": "IE"
     },
     "stage": 2,
-    "urlSlug": "ie/leitrim/carrick-on-shannon/carrick-on-shannon-co-leitrim",
-    "startTime": null,
-    "endTime": null,
+    "urlSlug": "ie/carrick-on-shannon/carrick-on-shannon-co-leitrim",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "15th December Thrusday 6:15 pm 7:45 pm",
+    "alternativeFrequency": "Tuesday 7pm - 8pm",
     "day": null,
     "id": "2d7b1344-af48-4751-83c5-a37761dd72e3"
   },
@@ -35337,20 +35337,20 @@
     "entity$": "-/cd/dojos",
     "name": "Nijmegen",
     "geoPoint": {
-      "lat": 51.8125626,
-      "lon": 5.837226399999963
+      "lat": 51.8448837,
+      "lon": 5.842828099999999
     },
     "country": {
       "countryName": "Netherlands",
       "alpha2": "NL"
     },
     "stage": 2,
-    "urlSlug": "nl/gelderland/nijmegen/nijmegen",
+    "urlSlug": "nl/nijmegen/nijmegen",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "12:00u. tot 14:30u. iedere eerste zaterdag van de maand",
+    "alternativeFrequency": "zie de aankondiging op onze site",
     "day": null,
     "id": "5dd7cb31-44b5-4863-a052-7ab2a1af9fca"
   },
@@ -91861,6 +91861,30 @@
     "alternativeFrequency": "every other Friday",
     "day": 2,
     "id": "f2c6ce35-1aad-4911-bc7e-217287dfb8a6"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "San Nicolas @ YMCA",
+    "geoPoint": {
+      "lat": 12.43781532848709,
+      "lon": -69.90968307690925
+    },
+    "country": {
+      "countryName": "Aruba",
+      "continent": "NA",
+      "alpha2": "AW",
+      "alpha3": "ABW",
+      "countryNumber": "533"
+    },
+    "stage": 1,
+    "urlSlug": "aw/san-nicolas/san-nicolas-ymca",
+    "startTime": "15:00:00",
+    "endTime": "17:00:00",
+    "private": 1,
+    "frequency": "1/m",
+    "alternativeFrequency": "4th",
+    "day": 5,
+    "id": "f2c7c069-0e8d-44c8-81f1-b2b71bac4a54"
   },
   {
     "entity$": "-/cd/dojos",

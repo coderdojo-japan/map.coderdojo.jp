@@ -1033,7 +1033,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nara-ikoma.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/nara.webp' alt='奈良' loading='lazy' width='100px' /></a><br><b>奈良</b><br>奈良市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-nara-ikoma.connpass.com/event/273921/' target='_blank' rel='noopener'>4月8日</a><br><a href='https://coderdojo-nara-ikoma.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nara-ikoma.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/nara.webp' alt='奈良' loading='lazy' width='100px' /></a><br><b>奈良</b><br>奈良市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-nara-ikoma.connpass.com/event/277955/' target='_blank' rel='noopener'>3月18日</a><br><a href='https://coderdojo-nara-ikoma.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -3471,14 +3471,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.085522099999935,
-          53.94518830000001
+          -8.074945,
+          53.94573699999999
         ]
       },
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Carrick On Shannon, Co. Leitrim<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/leitrim/carrick-on-shannon/carrick-on-shannon-co-leitrim'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Carrick On Shannon, Co. Leitrim<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/carrick-on-shannon/carrick-on-shannon-co-leitrim'>連絡先を見る</a>"
       }
     },
     {
@@ -7491,14 +7491,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.837226399999963,
-          51.8125626
+          5.842828099999999,
+          51.8448837
         ]
       },
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Nijmegen<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/gelderland/nijmegen/nijmegen'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Nijmegen<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/nijmegen/nijmegen'>連絡先を見る</a>"
       }
     },
     {
@@ -20444,6 +20444,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Cobh CoderDojo<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/cobh/cobh-coderdojo'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.90968307690925,
+          12.43781532848709
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>San Nicolas @ YMCA<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/aw/san-nicolas/san-nicolas-ymca'>連絡先を見る</a>"
       }
     },
     {
