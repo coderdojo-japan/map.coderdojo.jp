@@ -2742,7 +2742,7 @@
     "logo": "https://coderdojo.jp/img/dojos/chuo-rinkan.webp",
     "order": "142131",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "神奈川",
     "created_at": "2020-05-07T00:00:00.000+09:00",
     "description": "中央林間/つきみ野近辺で月4回程度開催"
