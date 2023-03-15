@@ -35345,7 +35345,7 @@
       "alpha2": "NL"
     },
     "stage": 2,
-    "urlSlug": "nl/nijmegen/nijmegen",
+    "urlSlug": "nl/gelderland/nijmegen/nijmegen",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
     "private": 0,
@@ -89374,7 +89374,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Sammamish Coding Club @ Beaver Lake Lodge",
+    "name": "Sammamish @ Beaver Lake Lodge",
     "geoPoint": {
       "lat": 47.5873326,
       "lon": -122.0042983
@@ -89387,7 +89387,7 @@
       "countryNumber": "840"
     },
     "stage": 1,
-    "urlSlug": "us/sammamish-wa/sammamish-coding-club-beaver-lake-lodge",
+    "urlSlug": "us/sammamish-wa/sammamish-beaver-lake-lodge",
     "startTime": "17:00:00",
     "endTime": "19:00:00",
     "private": 0,
