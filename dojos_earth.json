@@ -8146,7 +8146,7 @@
       "alpha3": "JPN",
       "countryNumber": "392"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "jp/japan-kanagawa/zhong1-yang1-lin2-jian1",
     "startTime": "13:30:00",
     "endTime": "15:30:00",
@@ -37654,13 +37654,13 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/wallingford/oxfordshire-wallingford-library",
     "startTime": "10:30:00",
     "endTime": "11:30:00",
     "private": 0,
-    "frequency": "2/m",
-    "alternativeFrequency": null,
+    "frequency": "other",
+    "alternativeFrequency": "Not currently running",
     "day": 6,
     "id": "63c3274a-0f90-4ab6-a596-adbde89caec6"
   },
@@ -48724,6 +48724,30 @@
     "alternativeFrequency": null,
     "day": 3,
     "id": "823782cb-de4b-4ea4-9319-3a0f845dea47"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "West Footscray @ WFNH",
+    "geoPoint": {
+      "lat": -37.797639,
+      "lon": 144.878139
+    },
+    "country": {
+      "countryName": "Australia",
+      "continent": "OC",
+      "alpha2": "AU",
+      "alpha3": "AUS",
+      "countryNumber": "036"
+    },
+    "stage": 1,
+    "urlSlug": "au/melbourne-vic/west-footscray-wfnh",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "8260fa38-fa98-48d7-8472-fc9421b27a71"
   },
   {
     "entity$": "-/cd/dojos",
@@ -86104,6 +86128,30 @@
     "alternativeFrequency": "daily across the classes",
     "day": 1,
     "id": "e4676808-225d-4906-9989-50361d063131"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Francistown@SpaghettiValley",
+    "geoPoint": {
+      "lat": -21.1798108,
+      "lon": 27.5263759
+    },
+    "country": {
+      "countryName": "Botswana",
+      "continent": "AF",
+      "alpha2": "BW",
+      "alpha3": "BWA",
+      "countryNumber": "072"
+    },
+    "stage": 1,
+    "urlSlug": "bw/francistown/francistown-spaghettivalley",
+    "startTime": "09:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "e4787a10-b71b-4907-b97c-540e9dd8140e"
   },
   {
     "entity$": "-/cd/dojos",
