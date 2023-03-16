@@ -8151,21 +8151,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1279500000000553,
-          51.60129999999999
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Oxfordshire @ Wallingford Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/wallingford/oxfordshire-wallingford-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           16.8815304,
           48.76097129999999
         ]
@@ -10754,6 +10739,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Cardiff @ Cardiff University<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/cardiff/cardiff-cardiff-university'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.878139,
+          -37.797639
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>West Footscray @ WFNH<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/au/melbourne-vic/west-footscray-wfnh'>連絡先を見る</a>"
       }
     },
     {
@@ -19319,6 +19319,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>The Idea Space<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/za/hillcrest/the-idea-space'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5263759,
+          -21.1798108
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Francistown@SpaghettiValley<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/bw/francistown/francistown-spaghettivalley'>連絡先を見る</a>"
       }
     },
     {
