@@ -80,6 +80,14 @@
     "event_url": "https://coderdojo-osakasayama.doorkeeper.jp/events/150112"
   },
   {
+    "id": 46,
+    "name": "堺",
+    "url": "https://coderdojo-sakai.github.io/",
+    "event_title": "子ども向けプログラミング道場：コーダー道場52回目@泉北和泉",
+    "event_date": "2023-03-19T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-sakai.connpass.com/event/278286/"
+  },
+  {
     "id": 54,
     "name": "久留米",
     "url": "https://www.facebook.com/CoderDojoKurume/",
