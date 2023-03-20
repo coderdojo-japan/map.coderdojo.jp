@@ -51,9 +51,9 @@
     "id": 35,
     "name": "奈良",
     "url": "https://coderdojo-nara-ikoma.github.io/",
-    "event_title": "【平群町開催】：子どもと大人のプログラミングクラブ（No.6）",
-    "event_date": "2023-04-08T09:00:00.000+09:00",
-    "event_url": "https://coderdojo-nara-ikoma.connpass.com/event/273921/"
+    "event_title": "【オンライン開催】：子どもと大人のプログラミングクラブ（No.70）",
+    "event_date": "2023-03-26T10:00:00.000+09:00",
+    "event_url": "https://coderdojo-nara-ikoma.connpass.com/event/278602/"
   },
   {
     "id": 40,
@@ -78,6 +78,14 @@
     "event_title": "【会場開催】第78回CoderDojo久留米",
     "event_date": "2023-03-25T14:00:00.000+09:00",
     "event_url": "https://coderdojo-kurume.connpass.com/event/276380/"
+  },
+  {
+    "id": 64,
+    "name": "札幌",
+    "url": "https://coderdojo-sapporo.jp/",
+    "event_title": "第９1回 CoderDojo札幌",
+    "event_date": "2023-03-26T10:30:00.000+09:00",
+    "event_url": "https://coderdojo-sapporo.connpass.com/event/278533/"
   },
   {
     "id": 65,
@@ -320,6 +328,14 @@
     "event_url": "https://coderdojo-shikatsu.connpass.com/event/277671/"
   },
   {
+    "id": 243,
+    "name": "大府",
+    "url": "https://coderdojo-obu.connpass.com/",
+    "event_title": "CoderDojo大府(第56回) 子供向けプログラミング道場 2023/04/23",
+    "event_date": "2023-04-23T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-obu.connpass.com/event/278541/"
+  },
+  {
     "id": 249,
     "name": "加西",
     "url": "https://coderdojokasai.connpass.com/",
@@ -352,12 +368,28 @@
     "event_url": "https://coderdojo-musashikosugi.connpass.com/event/277882/"
   },
   {
+    "id": 284,
+    "name": "八千代",
+    "url": "https://coderdojo-yachiyo.connpass.com/",
+    "event_title": "第07回 CoderDojo 八千代",
+    "event_date": "2023-04-16T10:00:00.000+09:00",
+    "event_url": "https://coderdojo-yachiyo.connpass.com/event/275349/"
+  },
+  {
     "id": 286,
     "name": "池田石橋",
     "url": "https://coderdojo-ikeda.connpass.com/",
     "event_title": "CoderDojo 池田石橋@正福寺 - 7",
     "event_date": "2023-04-08T09:30:00.000+09:00",
     "event_url": "https://coderdojo-ikeda.connpass.com/event/277152/"
+  },
+  {
+    "id": 288,
+    "name": "横浜師岡",
+    "url": "https://coderdojo-morooka.connpass.com",
+    "event_title": "CoderDojo横浜師岡（第7回）",
+    "event_date": "2023-04-16T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-morooka.connpass.com/event/278520/"
   },
   {
     "id": 289,
