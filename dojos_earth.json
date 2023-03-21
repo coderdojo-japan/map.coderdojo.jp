@@ -16063,7 +16063,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/darlington/darlington-firthmoor",
     "startTime": "16:30:00",
     "endTime": "18:30:00",
@@ -52330,7 +52330,7 @@
       "countryName": "Ireland",
       "alpha2": "IE"
     },
-    "stage": 3,
+    "stage": 4,
     "urlSlug": "ie/cork/carrigaline/carrigaline-scoil-mhuire-lourdes",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
@@ -72238,7 +72238,7 @@
       "alpha3": "IND",
       "countryNumber": "356"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "in/udaipur-rajasthan/dojo-udaipur",
     "startTime": "14:00:00",
     "endTime": "18:00:00",
