@@ -11,9 +11,9 @@
     "id": 13,
     "name": "こだいら",
     "url": "https://coderdojo-kodaira.github.io/",
-    "event_title": "第276回【小中高生のコーディング道場・完全オンライン】",
-    "event_date": "2023-03-22T18:30:00.000+09:00",
-    "event_url": "https://coderdojo-jp-kodaira.connpass.com/event/273359/"
+    "event_title": "第277回【小中高生のコーディング道場・完全オンライン】",
+    "event_date": "2023-03-29T18:30:00.000+09:00",
+    "event_url": "https://coderdojo-jp-kodaira.connpass.com/event/273360/"
   },
   {
     "id": 18,
@@ -406,6 +406,14 @@
     "event_title": "CoderDojo横浜師岡（第7回）",
     "event_date": "2023-04-16T09:30:00.000+09:00",
     "event_url": "https://coderdojo-morooka.connpass.com/event/278520/"
+  },
+  {
+    "id": 289,
+    "name": "たまち",
+    "url": "https://coderdojo-tamachi.connpass.com/",
+    "event_title": "第5回CoderDojoたまち",
+    "event_date": "2023-04-22T14:00:00.000+09:00",
+    "event_url": "https://coderdojo-tamachi.connpass.com/event/278742/"
   },
   {
     "id": 292,
