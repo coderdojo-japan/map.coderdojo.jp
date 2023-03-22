@@ -4803,8 +4803,8 @@
     },
     "stage": 1,
     "urlSlug": "gb/belfast/farset-dojo-belfast",
-    "startTime": "17:00:00",
-    "endTime": "19:00:00",
+    "startTime": "18:00:00",
+    "endTime": "20:00:00",
     "private": 0,
     "frequency": "1/m",
     "alternativeFrequency": "4th",
@@ -12019,6 +12019,30 @@
     "alternativeFrequency": "Every Saturday, 10:00 - 14:00",
     "day": null,
     "id": "20ccba99-9082-4072-9b1c-3211d4248428"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Ridgefield Park @ Public Library",
+    "geoPoint": {
+      "lat": 40.8543307,
+      "lon": -74.02211969999999
+    },
+    "country": {
+      "countryName": "United States",
+      "continent": "NA",
+      "alpha2": "US",
+      "alpha3": "USA",
+      "countryNumber": "840"
+    },
+    "stage": 1,
+    "urlSlug": "us/ridgefield-park-nj/ridgefield-park-public-library",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "20d35dec-4ef5-4149-a173-9502b454090b"
   },
   {
     "entity$": "-/cd/dojos",
@@ -68014,7 +68038,7 @@
       "alpha3": "ITA",
       "countryNumber": "380"
     },
-    "stage": 1,
+    "stage": 0,
     "urlSlug": "it/lavagno-vr/verona-dreampuzzle",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
