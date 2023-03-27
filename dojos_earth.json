@@ -727,7 +727,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Sallins & Naas",
+    "name": "Sallins &amp; Naas",
     "geoPoint": {
       "lat": 53.21698629999999,
       "lon": -6.667578400000025
@@ -736,10 +736,10 @@
       "countryName": "Ireland",
       "alpha2": "IE"
     },
-    "stage": 3,
-    "urlSlug": "ie/kildare/naas-co-kildare/sallins-and-naas",
-    "startTime": null,
-    "endTime": null,
+    "stage": 4,
+    "urlSlug": "ie/kildare/naas/sallins-and-amp-naas",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
     "alternativeFrequency": "Wednesday evenings",
@@ -25549,10 +25549,10 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Santiago de los Caballeros @ Corniel Academy",
+    "name": "Corniel Academy Dojo / @Santiago, Dominican Republic",
     "geoPoint": {
-      "lat": 19.3998084,
-      "lon": -70.62848580000002
+      "lat": 19.4924055,
+      "lon": -70.70171119999999
     },
     "country": {
       "countryName": "Dominican Republic",
@@ -25561,8 +25561,8 @@
       "alpha3": "DOM",
       "countryNumber": "214"
     },
-    "stage": 1,
-    "urlSlug": "do/santiago-de-los-caballeros/santiago-de-los-caballeros-corniel-academy",
+    "stage": 2,
+    "urlSlug": "do/santiago-de-los-caballeros/corniel-academy-dojo-santiago-dominican-republic",
     "startTime": "17:00:00",
     "endTime": "19:00:00",
     "private": 0,
