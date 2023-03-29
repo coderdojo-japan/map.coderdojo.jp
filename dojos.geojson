@@ -156,21 +156,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.728646300000037,
-          54.9532451
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Letterkenny @ DYS<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/letterkenny-county-donegal/letterkenny-dys'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           8.5877272,
           11.9900528
         ]
@@ -2136,21 +2121,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.3023560508785295,
-          54.60173051346523
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Omagh @ SouthWestCollege<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/omagh/omagh-southwestcollege'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           25.32978539999999,
           43.970476
         ]
@@ -2279,21 +2249,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>www.coderdojo-freiburg.de<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/de/freiburg/www-coderdojo-freiburg-de'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.784232100000054,
-          52.10011900000001
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Killorglin@ Fexco<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/killorglin-county-kerry/killorglin-fexco'>連絡先を見る</a>"
       }
     },
     {
@@ -2511,21 +2466,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.738854595770249,
-          54.94990581592781
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Letterkenny, Donegal<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/donegal/cara-house-main-street-letterkenny/letterkenny-donegal'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.02211969999999,
           40.8543307
         ]
@@ -2564,21 +2504,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Paignton@Paignton Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/paignton-library/paignton-paignton-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.180917300000033,
-          53.6001455
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dublin, Balbriggan @ Castleland Community Centre<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/balbriggan/dublin-balbriggan-castleland-community-centre'>連絡先を見る</a>"
       }
     },
     {
@@ -4116,21 +4041,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.934738100000004,
-          54.8950178
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Carlisle @ HackMakeCode Club<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/carlisle/carlisle-hackmakecode-club'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           141.021264,
           42.352745
         ]
@@ -4559,21 +4469,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Thun, Strattligen at Thuncoding<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ch/thun/thun-strattligen-at-thuncoding'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.17891069999996,
-          55.1445635
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Magheroarty Community Centre<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/magheroarty/magheroarty-community-centre'>連絡先を見る</a>"
       }
     },
     {
@@ -5196,21 +5091,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.08131789999993089,
-          51.4198606
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Crystal Palace, London@Digital Lounge, UNLH<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/london/crystal-palace-london-digital-lounge-unlh'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.14630650000003698,
           52.23372519999999
         ]
@@ -5383,7 +5263,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nada.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/nada.webp' alt='灘' loading='lazy' width='100px' /></a><br><b>灘</b><br>神戸市東灘区で毎<br>月開催<br><a href='https://coderdojo-nada.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nada.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/nada.webp' alt='灘' loading='lazy' width='100px' /></a><br><b>灘</b><br>神戸市東灘区で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojo-nada.doorkeeper.jp/events/154332' target='_blank' rel='noopener'>4月30日</a><br><a href='https://coderdojo-nada.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -5879,21 +5759,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Pitesti<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ro/bascov/pitesti'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.231101200000012,
-          52.93231230000001
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Ballinaclash, Rathdrum @ Ballinaclash<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/rathdrum/ballinaclash-rathdrum-ballinaclash'>連絡先を見る</a>"
       }
     },
     {
@@ -7416,21 +7281,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.58260037591856,
-          51.881748381708945
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Kenmare Coder Dojo<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/kenmare-ireland/kenmare-coder-dojo'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.08183289999999488,
           51.51178969999999
         ]
@@ -8751,21 +8601,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.0652297,
-          53.4235556
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Wirral @ Community Soul<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/wallasey/wirral-community-soul'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.1211802,
           50.9521372
         ]
@@ -9419,21 +9254,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<a href='https://www.facebook.com/CoderDojoDazaifu/' target='_blank' rel='noopener'>  <img src='/images/dojos/dazaifu.webp' alt='太宰府' loading='lazy' width='100px' /></a><br><b>太宰府</b><br>太宰府市で毎月開催<br><a href='https://www.facebook.com/CoderDojoDazaifu/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.8436467999999999,
-          51.40483589999999
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Wokingham @ Energy Kids UK<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/5a-millars-brook-business-park-molly-millars-ln-rg-4-1-2ad/wokingham-energy-kids-uk'>連絡先を見る</a>"
       }
     },
     {
@@ -10206,21 +10026,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.394870699999999,
-          53.3445434
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Rowlagh, Dublin @ North Clondalkin Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/clondalkin-county-dublin/rowlagh-dublin-north-clondalkin-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           77.5235432,
           28.4510429
         ]
@@ -10551,21 +10356,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.5020438309661843,
-          55.019310617032346
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Newcastle @ Sage Foundation<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/newcastle/newcastle-sage-foundation'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.6300526,
           55.4639542
         ]
@@ -10693,7 +10483,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo.shiojiri.fun/' target='_blank' rel='noopener'>  <img src='/images/dojos/shiojiri.webp' alt='塩尻' loading='lazy' width='100px' /></a><br><b>塩尻</b><br>塩尻市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-shiojiri.connpass.com/event/279296/' target='_blank' rel='noopener'>3月29日</a><br><a href='https://coderdojo.shiojiri.fun/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo.shiojiri.fun/' target='_blank' rel='noopener'>  <img src='/images/dojos/shiojiri.webp' alt='塩尻' loading='lazy' width='100px' /></a><br><b>塩尻</b><br>塩尻市で毎月開催<br><a href='https://coderdojo.shiojiri.fun/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -10709,21 +10499,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>InnovaireZone @ Lamontville<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/za/durban-south/innovairezone-lamontville'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.1696580000000267,
-          51.4835681
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Cardiff @ Cardiff University<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/cardiff/cardiff-cardiff-university'>連絡先を見る</a>"
       }
     },
     {
@@ -11174,21 +10949,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Volkswagen We Space Mitte<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/de/berlin/volkswagen-we-space-mitte'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.34353859999998804,
-          53.7467418
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Hull @ Code-a-Rama<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/hull/hull-code-a-rama'>連絡先を見る</a>"
       }
     },
     {
@@ -12711,21 +12471,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.3046792000000096,
-          51.39931
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Surbiton/SurbitonHighSchool<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/surbiton/surbiton-surbitonhighschool'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -9.4539938,
           51.680347
         ]
@@ -13506,21 +13251,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.687686699999972,
-          53.88941759999999
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Kilmovee Coders @ Cairdeas<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/kilmovee-county-mayo/kilmovee-coders-cairdeas'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           18.31198949999998,
           43.8193558
         ]
@@ -14181,21 +13911,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.653852462768555,
-          52.651148144089625
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Bunclody @ Bunclody National School<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/clohamon/bunclody-bunclody-national-school'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.390975199999957,
           50.4416202
         ]
@@ -14421,21 +14136,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.5792479000000412,
-          56.5593753
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Arbroath @ Arbroath Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/arbroath/arbroath-arbroath-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           137.05072440000004,
           34.8690223
         ]
@@ -14564,36 +14264,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Elsizone<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/za/alexandra-johannesburg/elsizone'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.22545690000004,
-          55.8041038
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Glasgow Castlemilk @ Netherholm Area Association,<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/glasgow/glasgow-castlemilk-netherholm-area-association'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.7600873999999749,
-          51.284534
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Farnborough Business Park @ RedHat<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/farnborough/farnborough-business-park-redhat'>連絡先を見る</a>"
       }
     },
     {
@@ -15546,21 +15216,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.21907,
-          53.336372
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Sandymount, Dublin 4 @ Star of the Sea<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/star-of-the-sea-leahys-avenue-sandymount-dublin-4/sandymount-dublin-4-star-of-the-sea'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           9.3029194,
           45.5904113
         ]
@@ -16116,21 +15771,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.08009049999998297,
-          51.4601503
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dulwich, London @ The Charter School East Dulwich<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/southwark/dulwich-london-the-charter-school-east-dulwich'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           14.2203228,
           40.8501237
         ]
@@ -16641,21 +16281,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.2668057,
-          51.5062917
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Acton Town Hall Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/london-borough-of-ealing-london/acton-town-hall-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.5543438,
           52.4138342
         ]
@@ -17084,21 +16709,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Kells, Meath @ Kells People's Resource Centre<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/kells-co-meath/kells-meath-kells-peoples-resource-centre'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.744718799999987,
-          53.7942811
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Bradford<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/bradford/bradford'>連絡先を見る</a>"
       }
     },
     {
@@ -17646,21 +17256,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.879970599999979,
-          52.7090615
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Shannon @ Sean Lemass Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/shannon-county-clare/shannon-sean-lemass-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           26.128602900000033,
           44.452511
         ]
@@ -17939,21 +17534,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Kortenberg<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/kortenberg/kortenberg'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.7438703999999916,
-          51.9984682
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Milton Keynes @ The National Museum of Computing<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/milton-keynes/milton-keynes-the-national-museum-of-computing'>連絡先を見る</a>"
       }
     },
     {
@@ -18516,21 +18096,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.2786770999999817,
-          50.7519384
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Ottery @ Ottery St Mary Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/ottery-st-mary-ottery-saint-mary/ottery-ottery-st-mary-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.1676655999999639,
           51.2410986
         ]
@@ -18658,7 +18223,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/kodaira.webp' alt='こだいら' loading='lazy' width='100px' /></a><br><b>こだいら</b><br>小平市で毎週およ<br>び不定期に開催<br>&rarr; 次回: <a href='https://coderdojo-jp-kodaira.connpass.com/event/273360/' target='_blank' rel='noopener'>3月29日</a><br><a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/kodaira.webp' alt='こだいら' loading='lazy' width='100px' /></a><br><b>こだいら</b><br>小平市で毎週およ<br>び不定期に開催<br>&rarr; 次回: <a href='https://coderdojo-jp-kodaira.connpass.com/event/273362/' target='_blank' rel='noopener'>4月12日</a><br><a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -20556,21 +20121,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.174573399999986,
-          54.3059893
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Manorhamilton@TheBeeParkResourceCentre<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/manorhamilton-county-leitrim/manorhamilton-thebeeparkresourcecentre'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.2077615000000606,
           53.2770772
         ]
@@ -20624,6 +20174,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>London @ Richmond upon Thames Libraries<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/london/london-richmond-upon-thames-libraries'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8486399,
+          10.9598424
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>BienHoa @ Papa's Lab<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/vn/bien-hoa-dong-nai/bienhoa-papas-lab'>連絡先を見る</a>"
       }
     },
     {
@@ -21179,21 +20744,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Chisinau @ Tekwill<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/md/chisinau/chisinau-tekwill'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.161245868322794,
-          53.26024473124144
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Cabinteely @ Grainstore<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin/dublin/cabinteely-grainstore'>連絡先を見る</a>"
       }
     },
     {

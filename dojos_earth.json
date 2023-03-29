@@ -832,7 +832,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "ie/letterkenny-county-donegal/letterkenny-dys",
     "startTime": "16:30:00",
     "endTime": "17:30:00",
@@ -10567,7 +10567,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/omagh/omagh-southwestcollege",
     "startTime": "15:45:00",
     "endTime": "17:15:00",
@@ -11065,7 +11065,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 2,
+    "stage": 4,
     "urlSlug": "ie/killorglin-county-kerry/killorglin-fexco",
     "startTime": "16:30:00",
     "endTime": "18:00:00",
@@ -12010,10 +12010,10 @@
       "countryName": "Ireland",
       "alpha2": "IE"
     },
-    "stage": 2,
-    "urlSlug": "ie/donegal/cara-house-main-street-letterkenny/letterkenny-donegal",
-    "startTime": null,
-    "endTime": null,
+    "stage": 4,
+    "urlSlug": "ie/donegal/letterkenny/letterkenny-donegal",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
     "alternativeFrequency": "Every Saturday, 10:00 - 14:00",
@@ -12154,7 +12154,7 @@
       "alpha2": "IE",
       "alpha3": "IRL"
     },
-    "stage": 2,
+    "stage": 4,
     "urlSlug": "ie/balbriggan/dublin-balbriggan-castleland-community-centre",
     "startTime": "14:30:00",
     "endTime": "16:30:00",
@@ -19378,7 +19378,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/carlisle/carlisle-hackmakecode-club",
     "startTime": "10:00:00",
     "endTime": "14:00:00",
@@ -21409,7 +21409,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "ie/magheroarty/magheroarty-community-centre",
     "startTime": "10:00:00",
     "endTime": "12:00:00",
@@ -24142,7 +24142,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 2,
+    "stage": 4,
     "urlSlug": "gb/london/crystal-palace-london-digital-lounge-unlh",
     "startTime": "13:00:00",
     "endTime": "14:00:00",
@@ -27550,7 +27550,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "ie/rathdrum/ballinaclash-rathdrum-ballinaclash",
     "startTime": "17:45:00",
     "endTime": "19:30:00",
@@ -35233,10 +35233,10 @@
       "countryName": "Ireland",
       "alpha2": "IE"
     },
-    "stage": 2,
-    "urlSlug": "ie/kenmare-ireland/kenmare-coder-dojo",
-    "startTime": null,
-    "endTime": null,
+    "stage": 4,
+    "urlSlug": "ie/kerry/kenmare-coder-dojo",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
     "alternativeFrequency": "See Eventbrite",
@@ -40072,7 +40072,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/wallasey/wirral-community-soul",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
@@ -42547,7 +42547,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/5a-millars-brook-business-park-molly-millars-ln-rg-4-1-2ad/wokingham-energy-kids-uk",
     "startTime": "16:00:00",
     "endTime": "17:00:00",
@@ -46414,7 +46414,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "ie/clondalkin-county-dublin/rowlagh-dublin-north-clondalkin-library",
     "startTime": "17:45:00",
     "endTime": "19:30:00",
@@ -47779,7 +47779,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/newcastle/newcastle-sage-foundation",
     "startTime": "18:00:00",
     "endTime": "19:30:00",
@@ -48739,7 +48739,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/cardiff/cardiff-cardiff-university",
     "startTime": "16:30:00",
     "endTime": "18:00:00",
@@ -50509,7 +50509,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/hull/hull-code-a-rama",
     "startTime": "09:00:00",
     "endTime": "10:00:00",
@@ -57208,7 +57208,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/surbiton/surbiton-surbitonhighschool",
     "startTime": "13:30:00",
     "endTime": "15:00:00",
@@ -60793,7 +60793,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "ie/kilmovee-county-mayo/kilmovee-coders-cairdeas",
     "startTime": "18:30:00",
     "endTime": "20:00:00",
@@ -62372,7 +62372,7 @@
     "private": 0,
     "frequency": "1/w",
     "alternativeFrequency": null,
-    "day": 4,
+    "day": 3,
     "id": "a3fd1af3-6be6-4951-b91a-8860981811b9"
   },
   {
@@ -64003,8 +64003,8 @@
       "alpha2": "IE",
       "alpha3": "IRL"
     },
-    "stage": 2,
-    "urlSlug": "ie/clohamon/bunclody-bunclody-national-school",
+    "stage": 4,
+    "urlSlug": "ie/bunclody/bunclody-bunclody-national-school",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
     "private": 0,
@@ -65215,7 +65215,7 @@
       "countryName": "United Kingdom",
       "alpha2": "GB"
     },
-    "stage": 2,
+    "stage": 4,
     "urlSlug": "gb/arbroath/arbroath-arbroath-library",
     "startTime": "17:00:00",
     "endTime": "19:00:00",
@@ -65941,7 +65941,7 @@
       "countryName": "United Kingdom",
       "alpha2": "GB"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/glasgow/glasgow-castlemilk-netherholm-area-association",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
@@ -66013,7 +66013,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/farnborough/farnborough-business-park-redhat",
     "startTime": "12:00:00",
     "endTime": "16:00:00",
@@ -69727,10 +69727,10 @@
       "countryName": "Ireland",
       "alpha2": "IE"
     },
-    "stage": 1,
-    "urlSlug": "ie/star-of-the-sea-leahys-avenue-sandymount-dublin-4/sandymount-dublin-4-star-of-the-sea",
-    "startTime": null,
-    "endTime": null,
+    "stage": 4,
+    "urlSlug": "ie/dublin/sandymount/sandymount-dublin-4-star-of-the-sea",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
     "alternativeFrequency": "Every Saturday 2pm to 4pm",
@@ -72523,7 +72523,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/southwark/dulwich-london-the-charter-school-east-dulwich",
     "startTime": "13:00:00",
     "endTime": "15:00:00",
@@ -74878,7 +74878,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/london-borough-of-ealing-london/acton-town-hall-library",
     "startTime": "11:00:00",
     "endTime": "12:00:00",
@@ -76660,7 +76660,7 @@
       "countryName": "United Kingdom",
       "alpha2": "GB"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/bradford/bradford",
     "startTime": "09:30:00",
     "endTime": "12:00:00",
@@ -79162,7 +79162,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "ie/shannon-county-clare/shannon-sean-lemass-library",
     "startTime": "10:30:00",
     "endTime": "13:00:00",
@@ -80407,7 +80407,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/milton-keynes/milton-keynes-the-national-museum-of-computing",
     "startTime": "10:30:00",
     "endTime": "12:30:00",
@@ -83137,7 +83137,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/ottery-st-mary-ottery-saint-mary/ottery-ottery-st-mary-library",
     "startTime": "15:00:00",
     "endTime": "16:30:00",
@@ -92800,7 +92800,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "ie/manorhamilton-county-leitrim/manorhamilton-thebeeparkresourcecentre",
     "startTime": "10:30:00",
     "endTime": "12:30:00",
@@ -93256,6 +93256,30 @@
     "alternativeFrequency": "1st Saturday of the month during term time.     2pm to 4pm.",
     "day": null,
     "id": "f5531255-ad35-44d1-9160-6fe3062b08c9"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "BienHoa @ Papa's Lab",
+    "geoPoint": {
+      "lat": 10.9598424,
+      "lon": 106.8486399
+    },
+    "country": {
+      "countryName": "Viet Nam",
+      "continent": "AS",
+      "alpha2": "VN",
+      "alpha3": "VNM",
+      "countryNumber": "704"
+    },
+    "stage": 1,
+    "urlSlug": "vn/bien-hoa-dong-nai/bienhoa-papas-lab",
+    "startTime": "09:00:00",
+    "endTime": "10:30:00",
+    "private": 1,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 7,
+    "id": "f575bd61-1d6a-4438-8cf3-e94259f94077"
   },
   {
     "entity$": "-/cd/dojos",
@@ -95077,7 +95101,7 @@
       "countryName": "Ireland",
       "alpha2": "IE"
     },
-    "stage": 2,
+    "stage": 4,
     "urlSlug": "ie/dublin/dublin/cabinteely-grainstore",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
