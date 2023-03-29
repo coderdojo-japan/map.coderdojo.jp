@@ -3,17 +3,9 @@
     "id": 13,
     "name": "こだいら",
     "url": "https://coderdojo-kodaira.github.io/",
-    "event_title": "第277回【小中高生のコーディング道場・完全オンライン】",
-    "event_date": "2023-03-29T18:30:00.000+09:00",
-    "event_url": "https://coderdojo-jp-kodaira.connpass.com/event/273360/"
-  },
-  {
-    "id": 27,
-    "name": "塩尻",
-    "url": "https://coderdojo.shiojiri.fun/",
-    "event_title": "CoderDojo塩尻 #180",
-    "event_date": "2023-03-29T17:30:00.000+09:00",
-    "event_url": "https://coderdojo-shiojiri.connpass.com/event/279296/"
+    "event_title": "第278回 オンライン（Zoom）",
+    "event_date": "2023-04-12T19:00:00.000+09:00",
+    "event_url": "https://coderdojo-jp-kodaira.connpass.com/event/273362/"
   },
   {
     "id": 30,
@@ -76,7 +68,7 @@
     "name": "大阪狭山",
     "url": "https://coderdojo-osakasayama.doorkeeper.jp/",
     "event_title": "子ども向けプログラミング道場：コーダー道場 65回目@大阪狭山",
-    "event_date": "2023-04-16T10:00:00.000+09:00",
+    "event_date": "2023-04-16T09:30:00.000+09:00",
     "event_url": "https://coderdojo-osakasayama.doorkeeper.jp/events/154232"
   },
   {
@@ -150,6 +142,14 @@
     "event_title": "第47回 CoderDojo池袋@ユニーク・アイネット",
     "event_date": "2023-04-23T14:00:00.000+09:00",
     "event_url": "https://coderdojo-ikebukuro.connpass.com/event/279099/"
+  },
+  {
+    "id": 124,
+    "name": "灘",
+    "url": "https://coderdojo-nada.github.io/",
+    "event_title": "CoderDojo Nada(灘) プログラミング勉強会（オンライン参加）",
+    "event_date": "2023-04-30T14:00:00.000+09:00",
+    "event_url": "https://coderdojo-nada.doorkeeper.jp/events/154332"
   },
   {
     "id": 130,
@@ -390,6 +390,14 @@
     "event_title": "第16回 CoderDojo麹町",
     "event_date": "2023-04-09T14:00:00.000+09:00",
     "event_url": "https://coderdojo-kojimachi.connpass.com/event/279292/"
+  },
+  {
+    "id": 277,
+    "name": "富谷",
+    "url": "https://coderdojotomiyajp.github.io/",
+    "event_title": "第37回 CoderDojo富谷（オンライン）",
+    "event_date": "2023-04-01T09:30:00.000+09:00",
+    "event_url": "https://coderdojotomiya.doorkeeper.jp/events/154278"
   },
   {
     "id": 278,
