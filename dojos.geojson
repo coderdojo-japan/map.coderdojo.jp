@@ -2406,8 +2406,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.11868803610684608,
-          50.84615032957257
+          -0.1703455,
+          50.8278085
         ]
       },
       "properties": {
@@ -11383,7 +11383,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>  <img src='/images/dojos/toyohashi.webp' alt='豊橋' loading='lazy' width='100px' /></a><br><b>豊橋</b><br>豊橋市で不定期開催<br>&rarr; 次回: <a href='https://coderdojo-toyohashi.doorkeeper.jp/events/152725' target='_blank' rel='noopener'>3月2日</a><br><a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>  <img src='/images/dojos/toyohashi.webp' alt='豊橋' loading='lazy' width='100px' /></a><br><b>豊橋</b><br>豊橋市で不定期開催<br>&rarr; 次回: <a href='https://coderdojo-toyohashi.doorkeeper.jp/events/154029' target='_blank' rel='noopener'>4月6日</a><br><a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -12884,6 +12884,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<a href='https://www.facebook.com/dojo.miyoshi' target='_blank' rel='noopener'>  <img src='/images/dojos/miyoshi-hiroshima.webp' alt='三次' loading='lazy' width='100px' /></a><br><b>三次</b><br>三次市で毎月開催<br><a href='https://www.facebook.com/dojo.miyoshi' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4801497,
+          51.8500653
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Cork Airport Business Park @ IBM Ireland<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/cork-airport-business-park-county-cork/cork-airport-business-park-ibm-ireland'>連絡先を見る</a>"
       }
     },
     {
@@ -17504,21 +17519,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>CoderDojo Helsingborg<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/se/helsingborg/coderdojo-helsingborg'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.2758038,
-          51.03568689999999
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Gillingham @ Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/gillingham/gillingham-library'>連絡先を見る</a>"
       }
     },
     {
