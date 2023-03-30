@@ -11793,8 +11793,8 @@
     "entity$": "-/cd/dojos",
     "name": "Brighton",
     "geoPoint": {
-      "lat": 50.84615032957257,
-      "lon": -0.11868803610684608
+      "lat": 50.8278085,
+      "lon": -0.1703455
     },
     "country": {
       "countryName": "United Kingdom",
@@ -11806,7 +11806,7 @@
     "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "Starting back on Sat September 13th and then every 2 weeks from 10-13.00",
+    "alternativeFrequency": "Every 2 weeks from 10.00a.m to 12.45",
     "day": null,
     "id": "2067cc57-351c-4534-9ee4-9d1452a4a09e"
   },
@@ -58990,6 +58990,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Cork Airport Business Park @ IBM Ireland",
+    "geoPoint": {
+      "lat": 51.8500653,
+      "lon": -8.4801497
+    },
+    "country": {
+      "countryName": "Ireland",
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "countryNumber": "372"
+    },
+    "stage": 1,
+    "urlSlug": "ie/cork-airport-business-park-county-cork/cork-airport-business-park-ibm-ireland",
+    "startTime": "14:00:00",
+    "endTime": "16:30:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "9b6b4670-b90f-4fe0-96c8-9b1fe3b7ec55"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Shenzhen, OCT @ Coding Monkey",
     "geoPoint": {
       "lat": 22.53543023049152,
@@ -80197,7 +80221,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/gillingham/gillingham-library",
     "startTime": "15:45:00",
     "endTime": "05:45:00",
