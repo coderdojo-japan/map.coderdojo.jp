@@ -14869,6 +14869,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Hongo@Bunkyo",
+    "geoPoint": {
+      "lat": 35.704598,
+      "lon": 139.759378
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/bunkyo-tokyo/hongo-bunkyo",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "2nd",
+    "day": 6,
+    "id": "288a173c-626f-4079-b5e3-3d09ef17764f"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Hommachi, Osaka",
     "geoPoint": {
       "lat": 34.6845443,
@@ -58042,6 +58066,30 @@
     "alternativeFrequency": null,
     "day": 2,
     "id": "98d9c08c-fcd4-40bc-b0fd-928ff952b585"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Juba @ KidsLab",
+    "geoPoint": {
+      "lat": 4.819281755471975,
+      "lon": 31.704014193621262
+    },
+    "country": {
+      "countryName": "South Sudan",
+      "continent": "AF",
+      "alpha2": "SS",
+      "alpha3": "SSD",
+      "countryNumber": "728"
+    },
+    "stage": 1,
+    "urlSlug": "ss/juba/juba-kidslab",
+    "startTime": "09:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "98dfb42c-318a-4db1-a5b7-923304c7a9ac"
   },
   {
     "entity$": "-/cd/dojos",
