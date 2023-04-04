@@ -3070,7 +3070,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 0,
+    "stage": 4,
     "urlSlug": "ie/carlingford-county-louth/carlingford-cac-boat-house",
     "startTime": "18:30:00",
     "endTime": "20:00:00",
@@ -23953,6 +23953,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Selby @ Olympia",
+    "geoPoint": {
+      "lat": 53.7870289,
+      "lon": -1.0630936
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/selby/selby-olympia-1",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": null,
+    "day": 7,
+    "id": "4058a676-31b2-4de0-86a5-bc9b4fad8c29"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Bangor, Co. Down @ Bangor Academy and Sixth Form College",
     "geoPoint": {
       "lat": 54.6568425,
@@ -42316,7 +42340,7 @@
       "alpha2": "NL",
       "alpha3": "NLD"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "nl/goirle/goirle-code-01-3",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
@@ -49249,7 +49273,7 @@
       "alpha2": "RO",
       "alpha3": "ROU"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "ro/timisoara-timis-county/timisoara-west-university-of-timisoara",
     "startTime": "10:00:00",
     "endTime": "12:00:00",
@@ -96244,7 +96268,7 @@
       "alpha2": "NL",
       "alpha3": "NLD"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "nl/oisterwijk/oisterwijk-code-01-3",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
