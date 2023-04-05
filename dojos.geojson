@@ -1641,6 +1641,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -5.6738756,
+          41.0192556
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Salamanca@MSP<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/es/aldeaseca-de-la-armuna-salamanca/salamanca-msp'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.471935499999972,
           45.631974
         ]
@@ -16941,6 +16956,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.2173684,
+          53.3960891
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>KWYP @ Kilmore Recreation Centre<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin/kwyp-kilmore-recreation-centre'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.73905955939938,
           51.875925659451575
         ]
@@ -19814,21 +19844,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<a href='https://sites.google.com/site/himejicoderdojo/' target='_blank' rel='noopener'>  <img src='/images/dojos/himeji.webp' alt='姫路' loading='lazy' width='100px' /></a><br><b>姫路</b><br>姫路市で第3土曜<br>に毎月開催<br><a href='https://sites.google.com/site/himejicoderdojo/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.386752000000001,
-          51.8177448
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Carrigaline CS<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/carrigaline/carrigaline-cs'>連絡先を見る</a>"
       }
     },
     {

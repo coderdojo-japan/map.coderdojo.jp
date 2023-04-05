@@ -8386,6 +8386,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Salamanca@MSP",
+    "geoPoint": {
+      "lat": 41.0192556,
+      "lon": -5.6738756
+    },
+    "country": {
+      "countryName": "Spain",
+      "continent": "EU",
+      "alpha2": "ES",
+      "alpha3": "ESP",
+      "countryNumber": "724"
+    },
+    "stage": 1,
+    "urlSlug": "es/aldeaseca-de-la-armuna-salamanca/salamanca-msp",
+    "startTime": "18:00:00",
+    "endTime": "20:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 5,
+    "id": "17b45a99-d27a-41de-b9f5-ab95f3ae6728"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Hagen@Mount Hagen Secondary School",
     "geoPoint": {
       "lat": -5.847661980346154,
@@ -11806,7 +11830,7 @@
     "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "Every 2 weeks from 10.00a.m to 12.45",
+    "alternativeFrequency": "Every 2 weeks from 10.00am to 12.45pm",
     "day": null,
     "id": "2067cc57-351c-4534-9ee4-9d1452a4a09e"
   },
@@ -77677,6 +77701,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "KWYP @ Kilmore Recreation Centre",
+    "geoPoint": {
+      "lat": 53.3960891,
+      "lon": -6.2173684
+    },
+    "country": {
+      "countryName": "Ireland",
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "countryNumber": "372"
+    },
+    "stage": 1,
+    "urlSlug": "ie/dublin/kwyp-kilmore-recreation-centre",
+    "startTime": "19:00:00",
+    "endTime": "20:00:00",
+    "private": 1,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 2,
+    "id": "cd164f7e-24c6-4afe-b17e-0c0afc4314c4"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Scoil Naomh Muire, Farran",
     "geoPoint": {
       "lat": 51.875925659451575,
@@ -91087,10 +91135,10 @@
       "alpha2": "IE",
       "alpha3": "IRL"
     },
-    "stage": 3,
+    "stage": 4,
     "urlSlug": "ie/carrigaline/carrigaline-cs",
-    "startTime": null,
-    "endTime": null,
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
     "private": 1,
     "frequency": "other",
     "alternativeFrequency": "Tuesday 15:20, Friday 14:00",
