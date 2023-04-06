@@ -65611,6 +65611,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "国頭村",
+    "geoPoint": {
+      "lat": 26.7456488,
+      "lon": 128.1779451
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/kunigami-okinawa/guo2-tou2-cun1",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "acbbe325-1c02-4aae-a7ee-76f41c5af9c5"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Perth @ Hampton Senior High School",
     "geoPoint": {
       "lat": -31.887,
