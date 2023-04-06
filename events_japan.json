@@ -280,6 +280,14 @@
     "event_url": "https://coderdojo-nago.connpass.com/event/278563/"
   },
   {
+    "id": 187,
+    "name": "鹿児島",
+    "url": "https://www.facebook.com/CoderDojoKagoshima/",
+    "event_title": "第30回 CoderDojo鹿児島",
+    "event_date": "2023-04-15T10:00:00.000+09:00",
+    "event_url": "https://coderdojo-kagoshima.connpass.com/event/280136/"
+  },
+  {
     "id": 189,
     "name": "まちだ",
     "url": "https://coderdojo-machida.connpass.com/",
@@ -326,6 +334,14 @@
     "event_title": "子ども向けプログラミング道場：CoderDojo吹田 #25",
     "event_date": "2023-04-22T13:30:00.000+09:00",
     "event_url": "https://coderdojo-suita.doorkeeper.jp/events/154188"
+  },
+  {
+    "id": 210,
+    "name": "久地",
+    "url": "https://www.facebook.com/coderdojokuji/",
+    "event_title": "【無料】第46回 CoderDojoKuji(コーダー道場久地)",
+    "event_date": "2023-04-23T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-kuji.connpass.com/event/280130/"
   },
   {
     "id": 218,
