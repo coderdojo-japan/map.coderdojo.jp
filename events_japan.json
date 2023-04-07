@@ -112,12 +112,28 @@
     "event_url": "https://coderdojo-aizu.doorkeeper.jp/events/154457"
   },
   {
+    "id": 81,
+    "name": "岡南",
+    "url": "https://www.coderdojo-konan.jp/",
+    "event_title": "CoderDojo Konan (OKAYAMA) #45",
+    "event_date": "2023-04-16T13:30:00.000+09:00",
+    "event_url": "https://coderdojo-konan.doorkeeper.jp/events/154876"
+  },
+  {
     "id": 86,
     "name": "船橋",
     "url": "https://funabashi.coderdojo.chiba.jp/",
     "event_title": "第70回CoderDojo船橋",
     "event_date": "2023-04-16T10:30:00.000+09:00",
     "event_url": "https://coderdojofunabashi.connpass.com/event/277644/"
+  },
+  {
+    "id": 92,
+    "name": "光",
+    "url": "https://coderdojo-hikari.com/",
+    "event_title": "CoderDojo 光 73回目【会場＆オンライン 併催】 ～子どものためのプログラミング",
+    "event_date": "2023-04-16T14:00:00.000+09:00",
+    "event_url": "https://coderdojo-hikari.connpass.com/event/278677/"
   },
   {
     "id": 97,
