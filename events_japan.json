@@ -16,6 +16,14 @@
     "event_url": "https://coderdojo-jp-kodaira.connpass.com/event/273362/"
   },
   {
+    "id": 18,
+    "name": "調布",
+    "url": "https://coderdojochofu.hatenablog.jp/",
+    "event_title": "第76回 CoderDojo 調布",
+    "event_date": "2023-04-30T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-chofu.doorkeeper.jp/events/154238"
+  },
+  {
     "id": 30,
     "name": "豊橋",
     "url": "https://www.facebook.com/coderdojo.toyohashi/",
@@ -43,9 +51,9 @@
     "id": 35,
     "name": "奈良",
     "url": "https://coderdojo-nara-ikoma.github.io/",
-    "event_title": "【平群町開催】：子どもと大人のプログラミングクラブ（No.6）",
-    "event_date": "2023-04-08T09:00:00.000+09:00",
-    "event_url": "https://coderdojo-nara-ikoma.connpass.com/event/273921/"
+    "event_title": "【オンライン開催】：CoderDojo奈良GitHub勉強会（No.71）",
+    "event_date": "2023-04-09T09:00:00.000+09:00",
+    "event_url": "https://coderdojo-nara-ikoma.connpass.com/event/279223/"
   },
   {
     "id": 40,
@@ -144,36 +152,20 @@
     "event_url": "https://coderdojosuehirocho.connpass.com/event/279080/"
   },
   {
-    "id": 102,
-    "name": "福岡",
-    "url": "https://www.facebook.com/CoderDojoFukuoka/",
-    "event_title": "第67回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）",
-    "event_date": "2023-04-08T14:00:00.000+09:00",
-    "event_url": "https://coderdojo-fukuoka.connpass.com/event/278033/"
-  },
-  {
     "id": 109,
     "name": "滝沢",
     "url": "https://www.facebook.com/CoderDojoTakizawa/",
-    "event_title": "注　延期となりました！　4/8（土）第54回ＣoderＤojo滝沢",
-    "event_date": "2023-04-08T09:30:00.000+09:00",
-    "event_url": "https://coderdojo-takizawa.doorkeeper.jp/events/153550"
-  },
-  {
-    "id": 110,
-    "name": "せんなん",
-    "url": "http://coderdojo-sennan.net/",
-    "event_title": "CoderDojoせんなん　第５７回道場",
-    "event_date": "2023-04-08T13:30:00.000+09:00",
-    "event_url": "https://coderdojo-sennan.connpass.com/event/278148/"
+    "event_title": "4/15（土）第54回ＣoderＤojo滝沢",
+    "event_date": "2023-04-15T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-takizawa.doorkeeper.jp/events/154756"
   },
   {
     "id": 117,
     "name": "立川",
     "url": "https://coderdojotachikawa.github.io/",
-    "event_title": "第43回 子どものためのプログラミング道場 - CoderDojo 立川",
-    "event_date": "2023-04-08T09:30:00.000+09:00",
-    "event_url": "https://coderdojo-tachikawa.connpass.com/event/268754/"
+    "event_title": "第0回 子どもと大人の英語とプログラミング勉強会：オンライン",
+    "event_date": "2023-04-22T09:00:00.000+09:00",
+    "event_url": "https://coderdojo-tachikawa.connpass.com/event/279006/"
   },
   {
     "id": 118,
@@ -219,9 +211,9 @@
     "id": 145,
     "name": "日進",
     "url": "https://coderdojo-nisshin.connpass.com/",
-    "event_title": "CoderDojo日進 子供向けプログラミング道場(会場&オンライン)2023/04/08",
-    "event_date": "2023-04-08T09:00:00.000+09:00",
-    "event_url": "https://coderdojo-nisshin.connpass.com/event/277937/"
+    "event_title": "CoderDojo日進 子供向けプログラミング道場(会場&オンライン)2023/04/15",
+    "event_date": "2023-04-15T09:00:00.000+09:00",
+    "event_url": "https://coderdojo-nisshin.connpass.com/event/279782/"
   },
   {
     "id": 147,
@@ -251,9 +243,9 @@
     "id": 156,
     "name": "古河",
     "url": "https://coderdojokoga.connpass.com/",
-    "event_title": "第64回CoderDojo Koga（コーダー道場 古河）",
-    "event_date": "2023-04-08T14:00:00.000+09:00",
-    "event_url": "https://coderdojokoga.connpass.com/event/277685/"
+    "event_title": "第65回CoderDojo Koga（コーダー道場 古河）",
+    "event_date": "2023-05-03T14:00:00.000+09:00",
+    "event_url": "https://coderdojokoga.connpass.com/event/278906/"
   },
   {
     "id": 165,
@@ -328,14 +320,6 @@
     "event_url": "https://coderdojo-toyonaka.connpass.com/event/274122/"
   },
   {
-    "id": 200,
-    "name": "岐阜",
-    "url": "https://coderdojo-gifu.org/",
-    "event_title": "第47回 CoderDojo岐阜",
-    "event_date": "2023-04-08T09:30:00.000+09:00",
-    "event_url": "https://coderdojo-gifu.connpass.com/event/278864/"
-  },
-  {
     "id": 202,
     "name": "松原",
     "url": "https://coderdojo-matsubara.doorkeeper.jp/",
@@ -366,14 +350,6 @@
     "event_title": "第46回 CoderDojo犬山　（午前）",
     "event_date": "2023-04-16T10:00:00.000+09:00",
     "event_url": "https://coderdojo-inuyama.doorkeeper.jp/events/153770"
-  },
-  {
-    "id": 241,
-    "name": "西尾",
-    "url": "https://www.coderdojo-nishio.com/",
-    "event_title": "4月度 CoderDojo Nishio(こーだーどうじょうにしお）",
-    "event_date": "2023-04-08T10:00:00.000+09:00",
-    "event_url": "https://coderdojo-nishio.doorkeeper.jp/events/154088"
   },
   {
     "id": 243,
@@ -411,17 +387,9 @@
     "id": 260,
     "name": "伊勢原",
     "url": "https://coderdojo-isehara.connpass.com",
-    "event_title": "第24回　CoderDojo伊勢原",
-    "event_date": "2023-04-08T14:00:00.000+09:00",
-    "event_url": "https://coderdojo-isehara.connpass.com/event/277450/"
-  },
-  {
-    "id": 261,
-    "name": "江別",
-    "url": "https://coderdojo-ebetsu.connpass.com/",
-    "event_title": "第１３回 CoderDojo江別",
-    "event_date": "2023-04-08T14:00:00.000+09:00",
-    "event_url": "https://coderdojo-ebetsu.connpass.com/event/278370/"
+    "event_title": "第25回　CoderDojo伊勢原",
+    "event_date": "2023-05-13T14:00:00.000+09:00",
+    "event_url": "https://coderdojo-isehara.connpass.com/event/279377/"
   },
   {
     "id": 265,
@@ -478,14 +446,6 @@
     "event_title": "第07回 CoderDojo 八千代",
     "event_date": "2023-04-16T10:00:00.000+09:00",
     "event_url": "https://coderdojo-yachiyo.connpass.com/event/275349/"
-  },
-  {
-    "id": 286,
-    "name": "池田石橋",
-    "url": "https://coderdojo-ikeda.connpass.com/",
-    "event_title": "CoderDojo 池田石橋@正福寺 - 7",
-    "event_date": "2023-04-08T09:30:00.000+09:00",
-    "event_url": "https://coderdojo-ikeda.connpass.com/event/277152/"
   },
   {
     "id": 288,
