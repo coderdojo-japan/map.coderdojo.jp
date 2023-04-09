@@ -51,9 +51,9 @@
     "id": 35,
     "name": "奈良",
     "url": "https://coderdojo-nara-ikoma.github.io/",
-    "event_title": "【オンライン開催】：CoderDojo奈良GitHub勉強会（No.71）",
-    "event_date": "2023-04-09T09:00:00.000+09:00",
-    "event_url": "https://coderdojo-nara-ikoma.connpass.com/event/279223/"
+    "event_title": "【平群町開催】：子どもと大人のプログラミングクラブ（No.7）",
+    "event_date": "2023-05-13T09:00:00.000+09:00",
+    "event_url": "https://coderdojo-nara-ikoma.connpass.com/event/273923/"
   },
   {
     "id": 40,
@@ -86,14 +86,6 @@
     "event_title": "【会場開催】第79回CoderDojo久留米",
     "event_date": "2023-04-29T14:00:00.000+09:00",
     "event_url": "https://coderdojo-kurume.connpass.com/event/279915/"
-  },
-  {
-    "id": 64,
-    "name": "札幌",
-    "url": "https://coderdojo-sapporo.jp/",
-    "event_title": "第９２回 CoderDojo札幌",
-    "event_date": "2023-04-09T10:30:00.000+09:00",
-    "event_url": "https://coderdojo-sapporo.connpass.com/event/279834/"
   },
   {
     "id": 66,
@@ -192,14 +184,6 @@
     "event_url": "https://coderdojo-nada.doorkeeper.jp/events/154332"
   },
   {
-    "id": 136,
-    "name": "香椎",
-    "url": "https://coderdojo-kashii.connpass.com/",
-    "event_title": "第46回CoderDojo香椎",
-    "event_date": "2023-04-09T09:30:00.000+09:00",
-    "event_url": "https://coderdojo-kashii.connpass.com/event/277887/"
-  },
-  {
     "id": 140,
     "name": "厚木",
     "url": "https://coderdojo-atsugi.connpass.com/",
@@ -283,9 +267,9 @@
     "id": 186,
     "name": "名護",
     "url": "https://coderdojo-nago.connpass.com/",
-    "event_title": "ドローン体験（会場：あけみおSKYドーム・会議室）",
-    "event_date": "2023-04-09T11:00:00.000+09:00",
-    "event_url": "https://coderdojo-nago.connpass.com/event/278563/"
+    "event_title": "CoderDojo Nago（名護博物館・屋内体験学習室１）",
+    "event_date": "2023-04-16T11:00:00.000+09:00",
+    "event_url": "https://coderdojo-nago.connpass.com/event/278569/"
   },
   {
     "id": 187,
@@ -408,14 +392,6 @@
     "event_url": "https://coderdojo-kashiwara.doorkeeper.jp/events/153920"
   },
   {
-    "id": 274,
-    "name": "麹町@アドバンスト・ソフト",
-    "url": "https://coderdojo-kojimachi.connpass.com/",
-    "event_title": "第16回 CoderDojo麹町",
-    "event_date": "2023-04-09T14:00:00.000+09:00",
-    "event_url": "https://coderdojo-kojimachi.connpass.com/event/279292/"
-  },
-  {
     "id": 277,
     "name": "富谷",
     "url": "https://coderdojotomiyajp.github.io/",
@@ -462,13 +438,5 @@
     "event_title": "第5回CoderDojoたまち",
     "event_date": "2023-04-22T14:00:00.000+09:00",
     "event_url": "https://coderdojo-tamachi.connpass.com/event/278742/"
-  },
-  {
-    "id": 292,
-    "name": "二本松",
-    "url": "https://coderdojo-nihonmatsu.com/",
-    "event_title": "子どものためのプログラミング道場「CoderDojo二本松」第5回",
-    "event_date": "2023-04-09T10:00:00.000+09:00",
-    "event_url": "https://dojonihonmatsu.doorkeeper.jp/events/153833"
   }
 ]
