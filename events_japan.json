@@ -51,9 +51,9 @@
     "id": 35,
     "name": "奈良",
     "url": "https://coderdojo-nara-ikoma.github.io/",
-    "event_title": "【平群町開催】：子どもと大人のプログラミングクラブ（No.7）",
-    "event_date": "2023-05-13T09:00:00.000+09:00",
-    "event_url": "https://coderdojo-nara-ikoma.connpass.com/event/273923/"
+    "event_title": "【奈良開催】：子どもと大人のプログラミングクラブ（No.71）",
+    "event_date": "2023-04-15T13:00:00.000+09:00",
+    "event_url": "https://coderdojo-nara-ikoma.connpass.com/event/280629/"
   },
   {
     "id": 40,
@@ -182,6 +182,22 @@
     "event_title": "CoderDojo Nada(灘) プログラミング勉強会（オンライン参加）",
     "event_date": "2023-04-30T14:00:00.000+09:00",
     "event_url": "https://coderdojo-nada.doorkeeper.jp/events/154332"
+  },
+  {
+    "id": 129,
+    "name": "三島・沼津",
+    "url": "https://coderdojo-mn.com/",
+    "event_title": "第27回 CoderDojo 三島/沼津",
+    "event_date": "2023-05-14T10:00:00.000+09:00",
+    "event_url": "https://coderdojo-mn.connpass.com/event/280570/"
+  },
+  {
+    "id": 130,
+    "name": "赤羽",
+    "url": "https://coderdojo-akabane.com/",
+    "event_title": "CoderDojo赤羽 #44",
+    "event_date": "2023-05-14T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-akabane.connpass.com/event/280612/"
   },
   {
     "id": 140,
@@ -422,6 +438,14 @@
     "event_title": "第07回 CoderDojo 八千代",
     "event_date": "2023-04-16T10:00:00.000+09:00",
     "event_url": "https://coderdojo-yachiyo.connpass.com/event/275349/"
+  },
+  {
+    "id": 287,
+    "name": "新所沢",
+    "url": "https://coderdojoshintokorozawa.github.io/",
+    "event_title": "第3回 CoderDojo 新所沢",
+    "event_date": "2023-04-16T13:30:00.000+09:00",
+    "event_url": "https://coderdojo-shintokorozawa.doorkeeper.jp/events/155017"
   },
   {
     "id": 288,
