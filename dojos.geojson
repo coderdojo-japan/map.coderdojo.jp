@@ -4063,7 +4063,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-iyo.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/iyo.webp' alt='伊予' loading='lazy' width='100px' /></a><br><b>伊予</b><br>伊予市で毎月開催<br><a href='https://coderdojo-iyo.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-iyo.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/iyo.webp' alt='伊予' loading='lazy' width='100px' /></a><br><b>伊予</b><br>伊予市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-iyo.connpass.com/event/280900/' target='_blank' rel='noopener'>4月29日</a><br><a href='https://coderdojo-iyo.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -6613,7 +6613,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>  <img src='/images/dojos/sennan.webp' alt='せんなん' loading='lazy' width='100px' /></a><br><b>せんなん</b><br>泉南市で毎月開催<br><a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>  <img src='/images/dojos/sennan.webp' alt='せんなん' loading='lazy' width='100px' /></a><br><b>せんなん</b><br>泉南市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-sennan.connpass.com/event/280926/' target='_blank' rel='noopener'>4月22日</a><br><a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -7858,7 +7858,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coder-dojo-akita.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/akita.webp' alt='秋田' loading='lazy' width='100px' /></a><br><b>秋田</b><br>秋田市で毎月1~<br>2回開催<br><a href='https://coder-dojo-akita.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coder-dojo-akita.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/akita.webp' alt='秋田' loading='lazy' width='100px' /></a><br><b>秋田</b><br>秋田市で毎月1~<br>2回開催<br>&rarr; 次回: <a href='https://coder-dojo-akita.doorkeeper.jp/events/155287' target='_blank' rel='noopener'>5月6日</a><br><a href='https://coder-dojo-akita.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -13536,6 +13536,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          16.062016227035706,
+          48.33186497211622
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Tulln<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/at/tulln-an-der-donau/tulln'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           24.03291050000007,
           49.8418925
         ]
@@ -14819,6 +14834,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Den Bosch Bibliotheek<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/s-hertogenbosch/den-bosch-bibliotheek'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0253184,
+          51.5757341
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Wanstead @ Wanstead Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/london-borough-of-redbridge/wanstead-wanstead-library'>連絡先を見る</a>"
       }
     },
     {
