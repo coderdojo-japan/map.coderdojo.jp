@@ -19705,7 +19705,7 @@
       "countryName": "Ireland",
       "alpha2": "IE"
     },
-    "stage": 0,
+    "stage": 2,
     "urlSlug": "ie/dublin/dublin/dublin-docklands-chq",
     "startTime": "16:30:00",
     "endTime": "18:00:00",
@@ -62095,6 +62095,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Tulln",
+    "geoPoint": {
+      "lat": 48.33186497211622,
+      "lon": 16.062016227035706
+    },
+    "country": {
+      "countryName": "Austria",
+      "continent": "EU",
+      "alpha2": "AT",
+      "alpha3": "AUT",
+      "countryNumber": "040"
+    },
+    "stage": 1,
+    "urlSlug": "at/tulln-an-der-donau/tulln",
+    "startTime": "16:00:00",
+    "endTime": "18:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": null,
+    "day": 5,
+    "id": "a3226e47-160b-4884-9e5e-8db4b2bd1f58"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Lviv @ Molodvizh",
     "geoPoint": {
       "lat": 49.8418925,
@@ -68047,6 +68071,30 @@
     "alternativeFrequency": "Third Saturday of the month for 1pm - 3pm",
     "day": null,
     "id": "b375a088-f100-4f52-afc3-46d40b2dc102"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Wanstead @ Wanstead Library",
+    "geoPoint": {
+      "lat": 51.5757341,
+      "lon": 0.0253184
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/london-borough-of-redbridge/wanstead-wanstead-library",
+    "startTime": "10:00:00",
+    "endTime": "11:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": "Term Time Only",
+    "day": 6,
+    "id": "b3889175-e99b-46ed-8356-ae6062496463"
   },
   {
     "entity$": "-/cd/dojos",
@@ -85561,6 +85609,30 @@
     "alternativeFrequency": "Saturdays - 9:00am - 12:00pm",
     "day": null,
     "id": "e20a7ba8-d08d-400e-81b6-dcd7ad24e3bc"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Imizu @ Hibari",
+    "geoPoint": {
+      "lat": 36.7306389,
+      "lon": 137.0755452
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/imizu-city-toyama/imizu-hibari",
+    "startTime": "13:15:00",
+    "endTime": "16:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "4th",
+    "day": 6,
+    "id": "e20d90e5-ba75-46f1-be75-ba0ecdd82b08"
   },
   {
     "entity$": "-/cd/dojos",
