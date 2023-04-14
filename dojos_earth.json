@@ -62112,8 +62112,8 @@
     "startTime": "16:00:00",
     "endTime": "18:00:00",
     "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": null,
+    "frequency": "other",
+    "alternativeFrequency": "Einmal monatlich am Freitagnachmittag von 16:00 bis 18:00",
     "day": 5,
     "id": "a3226e47-160b-4884-9e5e-8db4b2bd1f58"
   },
