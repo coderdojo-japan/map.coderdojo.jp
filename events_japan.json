@@ -32,12 +32,20 @@
     "event_url": "https://coderdojo-toyohashi.doorkeeper.jp/events/154029"
   },
   {
+    "id": 31,
+    "name": "名古屋",
+    "url": "https://coderdojo-nagoya.connpass.com/",
+    "event_title": "第182回CoderDojo名古屋",
+    "event_date": "2023-04-16T13:30:00.000+09:00",
+    "event_url": "https://coderdojo-nagoya.connpass.com/event/281163/"
+  },
+  {
     "id": 32,
     "name": "天白",
     "url": "https://coderdojo-tempaku.hatenablog.com/",
-    "event_title": "CoderDojo天白  N171",
-    "event_date": "2023-04-15T13:00:00.000+09:00",
-    "event_url": "https://tempaku.connpass.com/event/276794/"
+    "event_title": "CoderDojo天白  N172",
+    "event_date": "2023-04-29T13:00:00.000+09:00",
+    "event_url": "https://tempaku.connpass.com/event/276795/"
   },
   {
     "id": 34,
@@ -51,9 +59,9 @@
     "id": 35,
     "name": "奈良",
     "url": "https://coderdojo-nara-ikoma.github.io/",
-    "event_title": "【奈良開催】：子どもと大人のプログラミングクラブ（No.72）",
-    "event_date": "2023-04-15T13:00:00.000+09:00",
-    "event_url": "https://coderdojo-nara-ikoma.connpass.com/event/280629/"
+    "event_title": "【平群町開催】：子どもと大人のプログラミングクラブ（No.7）",
+    "event_date": "2023-05-13T09:00:00.000+09:00",
+    "event_url": "https://coderdojo-nara-ikoma.connpass.com/event/273923/"
   },
   {
     "id": 40,
@@ -112,14 +120,6 @@
     "event_url": "https://coder-dojo-akita.doorkeeper.jp/events/155287"
   },
   {
-    "id": 79,
-    "name": "会津",
-    "url": "https://coderdojoaizu.mystrikingly.com/",
-    "event_title": "第61回 CoderDojo Aizu",
-    "event_date": "2023-04-15T13:30:00.000+09:00",
-    "event_url": "https://coderdojo-aizu.doorkeeper.jp/events/154457"
-  },
-  {
     "id": 81,
     "name": "岡南",
     "url": "https://www.coderdojo-konan.jp/",
@@ -168,14 +168,6 @@
     "event_url": "https://coderdojo-fukuoka.connpass.com/event/280813/"
   },
   {
-    "id": 109,
-    "name": "滝沢",
-    "url": "https://www.facebook.com/CoderDojoTakizawa/",
-    "event_title": "4/15（土）第54回ＣoderＤojo滝沢",
-    "event_date": "2023-04-15T09:30:00.000+09:00",
-    "event_url": "https://coderdojo-takizawa.doorkeeper.jp/events/154756"
-  },
-  {
     "id": 110,
     "name": "せんなん",
     "url": "http://coderdojo-sennan.net/",
@@ -190,14 +182,6 @@
     "event_title": "第0回 子どもと大人の英語とプログラミング勉強会：オンライン",
     "event_date": "2023-04-22T09:00:00.000+09:00",
     "event_url": "https://coderdojo-tachikawa.connpass.com/event/279006/"
-  },
-  {
-    "id": 118,
-    "name": "安城",
-    "url": "https://sites.google.com/coderdojo.com/anjo/",
-    "event_title": "【第31回 プログラミング道場】はじめてのプログラミング CoderDojo Anjo",
-    "event_date": "2023-04-15T09:30:00.000+09:00",
-    "event_url": "https://coderdojo-anjo.doorkeeper.jp/events/153921"
   },
   {
     "id": 123,
@@ -251,9 +235,9 @@
     "id": 145,
     "name": "日進",
     "url": "https://coderdojo-nisshin.connpass.com/",
-    "event_title": "CoderDojo日進 子供向けプログラミング道場(会場&オンライン)2023/04/15",
-    "event_date": "2023-04-15T09:00:00.000+09:00",
-    "event_url": "https://coderdojo-nisshin.connpass.com/event/279782/"
+    "event_title": "CoderDojo日進 子供向けプログラミング道場(会場&オンライン)2023/04/22",
+    "event_date": "2023-04-22T09:00:00.000+09:00",
+    "event_url": "https://coderdojo-nisshin.connpass.com/event/279163/"
   },
   {
     "id": 147,
@@ -296,14 +280,6 @@
     "event_url": "https://coderdojo-kitakata.doorkeeper.jp/events/154099"
   },
   {
-    "id": 179,
-    "name": "港北NT",
-    "url": "https://coderdojo-kohokunt.connpass.com/",
-    "event_title": "（現地開催）2023/4/15 13:00 CoderDojo港北ニュータウン",
-    "event_date": "2023-04-15T13:00:00.000+09:00",
-    "event_url": "https://coderdojo-kohokunt.connpass.com/event/278102/"
-  },
-  {
     "id": 182,
     "name": "瀬戸",
     "url": "https://coderdojo-seto.jp/",
@@ -328,14 +304,6 @@
     "event_url": "https://coderdojo-nago.connpass.com/event/278569/"
   },
   {
-    "id": 187,
-    "name": "鹿児島",
-    "url": "https://www.facebook.com/CoderDojoKagoshima/",
-    "event_title": "第30回 CoderDojo鹿児島",
-    "event_date": "2023-04-15T10:00:00.000+09:00",
-    "event_url": "https://coderdojo-kagoshima.connpass.com/event/280136/"
-  },
-  {
     "id": 189,
     "name": "まちだ",
     "url": "https://coderdojo-machida.connpass.com/",
@@ -355,17 +323,17 @@
     "id": 193,
     "name": "とよなか",
     "url": "https://coderdojo-toyonaka.hatenablog.jp/",
-    "event_title": "第50回 CoderDojoとよなか（大阪）2023/04/15(Sat)",
-    "event_date": "2023-04-15T09:00:00.000+09:00",
-    "event_url": "https://coderdojo-toyonaka.connpass.com/event/274122/"
+    "event_title": "第51回 CoderDojoとよなか（大阪）2023/05/20(Sat)",
+    "event_date": "2023-05-20T09:00:00.000+09:00",
+    "event_url": "https://coderdojo-toyonaka.connpass.com/event/276174/"
   },
   {
     "id": 202,
     "name": "松原",
     "url": "https://coderdojo-matsubara.doorkeeper.jp/",
-    "event_title": "【初心者大歓迎】子ども向けプログラミング道場！第52回 CoderDojo松原",
-    "event_date": "2023-04-15T13:00:00.000+09:00",
-    "event_url": "https://coderdojo-matsubara.doorkeeper.jp/events/153716"
+    "event_title": "【初心者大歓迎】子ども向けプログラミング道場！第53回 CoderDojo松原",
+    "event_date": "2023-05-20T13:00:00.000+09:00",
+    "event_url": "https://coderdojo-matsubara.doorkeeper.jp/events/155384"
   },
   {
     "id": 206,
@@ -406,14 +374,6 @@
     "event_title": "CoderDojo大府(第56回) 子供向けプログラミング道場 2023/04/23",
     "event_date": "2023-04-23T09:30:00.000+09:00",
     "event_url": "https://coderdojo-obu.connpass.com/event/278541/"
-  },
-  {
-    "id": 248,
-    "name": "矢吹",
-    "url": "https://coderdojoyabuki.connpass.com/",
-    "event_title": "第31回CoderDojo Yabuki",
-    "event_date": "2023-04-15T10:00:00.000+09:00",
-    "event_url": "https://coderdojoyabuki.connpass.com/event/273304/"
   },
   {
     "id": 249,
@@ -462,14 +422,6 @@
     "event_title": "やってみよう！プログラミング ! 第15回 CoderDojo柏原",
     "event_date": "2023-04-23T09:30:00.000+09:00",
     "event_url": "https://coderdojo-kashiwara.doorkeeper.jp/events/153920"
-  },
-  {
-    "id": 277,
-    "name": "富谷",
-    "url": "https://coderdojotomiyajp.github.io/",
-    "event_title": "第38回 CoderDojo富谷（オンライン＆現地開催）",
-    "event_date": "2023-04-15T09:30:00.000+09:00",
-    "event_url": "https://coderdojotomiya.doorkeeper.jp/events/154279"
   },
   {
     "id": 278,
