@@ -408,6 +408,14 @@
     "event_url": "https://coderdojo-musashikosugi.connpass.com/event/280615/"
   },
   {
+    "id": 280,
+    "name": "西那須野",
+    "url": "https://coder-dojo-nishinasuno.connpass.com/",
+    "event_title": "第十五回 CoderDojo西那須野",
+    "event_date": "2023-05-21T14:00:00.000+09:00",
+    "event_url": "https://coder-dojo-nishinasuno.connpass.com/event/281401/"
+  },
+  {
     "id": 286,
     "name": "池田石橋",
     "url": "https://coderdojo-ikeda.connpass.com/",
@@ -430,5 +438,13 @@
     "event_title": "第5回CoderDojoたまち",
     "event_date": "2023-04-22T14:00:00.000+09:00",
     "event_url": "https://coderdojo-tamachi.connpass.com/event/278742/"
+  },
+  {
+    "id": 292,
+    "name": "二本松",
+    "url": "https://coderdojo-nihonmatsu.com/",
+    "event_title": "子どものためのプログラミング道場「CoderDojo二本松」第6回",
+    "event_date": "2023-05-21T10:00:00.000+09:00",
+    "event_url": "https://dojonihonmatsu.doorkeeper.jp/events/155535"
   }
 ]
