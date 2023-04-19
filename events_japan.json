@@ -88,6 +88,14 @@
     "event_url": "https://coderdojo-sapporo.connpass.com/event/281232/"
   },
   {
+    "id": 65,
+    "name": "水戸",
+    "url": "https://coderdojo-mito.com/",
+    "event_title": "第８２回 CoderDojo Mito",
+    "event_date": "2023-04-23T13:30:00.000+09:00",
+    "event_url": "https://coderdojo-mito.connpass.com/event/281445/"
+  },
+  {
     "id": 66,
     "name": "高槻",
     "url": "https://www.facebook.com/coderdojotakatsuki/",
@@ -142,6 +150,14 @@
     "event_title": "第68回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）",
     "event_date": "2023-05-13T14:00:00.000+09:00",
     "event_url": "https://coderdojo-fukuoka.connpass.com/event/280813/"
+  },
+  {
+    "id": 109,
+    "name": "滝沢",
+    "url": "https://www.facebook.com/CoderDojoTakizawa/",
+    "event_title": "5/14（日）第55回ＣoderＤojo滝沢",
+    "event_date": "2023-05-14T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-takizawa.doorkeeper.jp/events/155577"
   },
   {
     "id": 110,
@@ -256,6 +272,14 @@
     "event_url": "https://coderdojo-kitakata.doorkeeper.jp/events/154099"
   },
   {
+    "id": 181,
+    "name": "猪名川",
+    "url": "https://www.facebook.com/coderdojoinagawa/",
+    "event_title": "第49回 CoderDojo猪名川 2023/4/23 14:00～16:30",
+    "event_date": "2023-04-23T14:00:00.000+09:00",
+    "event_url": "https://coderdojo-inagawa.connpass.com/event/281489/"
+  },
+  {
     "id": 182,
     "name": "瀬戸",
     "url": "https://coderdojo-seto.jp/",
@@ -326,6 +350,14 @@
     "event_title": "【無料】第46回 CoderDojoKuji(コーダー道場久地)",
     "event_date": "2023-04-23T09:30:00.000+09:00",
     "event_url": "https://coderdojo-kuji.connpass.com/event/280130/"
+  },
+  {
+    "id": 218,
+    "name": "犬山",
+    "url": "https://coderdojo-inuyama.rgr.jp/",
+    "event_title": "第47回 CoderDojo犬山　（午前）",
+    "event_date": "2023-05-21T10:00:00.000+09:00",
+    "event_url": "https://coderdojo-inuyama.doorkeeper.jp/events/153772"
   },
   {
     "id": 226,
