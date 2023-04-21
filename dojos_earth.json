@@ -41851,7 +41851,7 @@
       "alpha3": "ZAF",
       "countryNumber": "710"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "za/cape-town/rondebosch-cape-town-rondebosch-library",
     "startTime": "15:00:00",
     "endTime": "16:30:00",
@@ -55263,12 +55263,12 @@
     },
     "stage": 1,
     "urlSlug": "za/western-cape/cape-town-western-cape/observatory-cape-town-ortsa-cape-science-centre",
-    "startTime": "15:00:00",
-    "endTime": "16:30:00",
+    "startTime": "14:00:00",
+    "endTime": "15:30:00",
     "private": 0,
     "frequency": "1/w",
     "alternativeFrequency": "Every Friday 15:00-17:00",
-    "day": 5,
+    "day": 6,
     "id": "91d0351c-bb8e-46df-9af0-0f136e85e49f"
   },
   {
