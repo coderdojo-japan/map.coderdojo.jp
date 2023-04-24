@@ -4723,7 +4723,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-tamacent.wixsite.com/main' target='_blank' rel='noopener'>  <img src='/images/dojos/tama-center.webp' alt='多摩センター' loading='lazy' width='100px' /></a><br><b>多摩センター</b><br>多摩市で毎月開催<br><a href='https://coderdojo-tamacent.wixsite.com/main' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-tamacent.wixsite.com/main' target='_blank' rel='noopener'>  <img src='/images/dojos/tama-center.webp' alt='多摩センター' loading='lazy' width='100px' /></a><br><b>多摩センター</b><br>多摩市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-tamacenter.doorkeeper.jp/events/155834' target='_blank' rel='noopener'>5月28日</a><br><a href='https://coderdojo-tamacent.wixsite.com/main' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -5023,7 +5023,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojokasai.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/kasai.webp' alt='加西' loading='lazy' width='100px' /></a><br><b>加西</b><br>加西市で毎月開催<br><a href='https://coderdojokasai.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojokasai.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/kasai.webp' alt='加西' loading='lazy' width='100px' /></a><br><b>加西</b><br>加西市で毎月開催<br>&rarr; 次回: <a href='https://coderdojokasai.connpass.com/event/281922/' target='_blank' rel='noopener'>5月28日</a><br><a href='https://coderdojokasai.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -7408,7 +7408,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-naha.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/naha.webp' alt='那覇' loading='lazy' width='100px' /></a><br><b>那覇</b><br>那覇市で毎月開催<br><a href='https://coderdojo-naha.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-naha.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/naha.webp' alt='那覇' loading='lazy' width='100px' /></a><br><b>那覇</b><br>那覇市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-naha.doorkeeper.jp/events/155842' target='_blank' rel='noopener'>5月6日</a><br><a href='https://coderdojo-naha.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -12126,14 +12126,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.062210083007812,
-          59.325133413122494
+          18.0685808,
+          59.32932349999999
         ]
       },
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Stockholm<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/se/stockholms-laen/stockholm/stockholm'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Stockholm<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/se/stockholm/stockholm'>連絡先を見る</a>"
       }
     },
     {
@@ -13588,7 +13588,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/coderdojotakatsuki/' target='_blank' rel='noopener'>  <img src='/images/dojos/takatsuki.webp' alt='高槻' loading='lazy' width='100px' /></a><br><b>高槻</b><br>高槻市で不定期開催<br><a href='https://www.facebook.com/coderdojotakatsuki/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/coderdojotakatsuki/' target='_blank' rel='noopener'>  <img src='/images/dojos/takatsuki.webp' alt='高槻' loading='lazy' width='100px' /></a><br><b>高槻</b><br>高槻市で不定期開催<br>&rarr; 次回: <a href='https://coderdojo-takatsuki.connpass.com/event/281949/' target='_blank' rel='noopener'>5月21日</a><br><a href='https://www.facebook.com/coderdojotakatsuki/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -16049,6 +16049,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Miskolc@CodeKandó<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/hu/miskolc/miskolc-codekando'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.975785,
+          -29.945042
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Durban, KCA @ Blue Roof<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/za/durban/durban-kca-blue-roof'>連絡先を見る</a>"
       }
     },
     {
@@ -20668,7 +20683,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nagaokakyo.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagaokakyo.webp' alt='長岡京' loading='lazy' width='100px' /></a><br><b>長岡京</b><br>長岡京市で毎月開催<br><a href='https://coderdojo-nagaokakyo.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nagaokakyo.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagaokakyo.webp' alt='長岡京' loading='lazy' width='100px' /></a><br><b>長岡京</b><br>長岡京市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-nagaokakyo.doorkeeper.jp/events/155841' target='_blank' rel='noopener'>5月28日</a><br><a href='https://coderdojo-nagaokakyo.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {

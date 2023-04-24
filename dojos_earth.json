@@ -55866,21 +55866,21 @@
     "entity$": "-/cd/dojos",
     "name": "Stockholm",
     "geoPoint": {
-      "lat": 59.325133413122494,
-      "lon": 18.062210083007812
+      "lat": 59.32932349999999,
+      "lon": 18.0685808
     },
     "country": {
       "countryName": "Sweden",
       "alpha2": "SE"
     },
-    "stage": 1,
-    "urlSlug": "se/stockholms-laen/stockholm/stockholm",
-    "startTime": "00:00:00",
-    "endTime": "00:00:00",
+    "stage": 2,
+    "urlSlug": "se/stockholm/stockholm",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
     "private": 0,
-    "frequency": "other",
+    "frequency": "2/m",
     "alternativeFrequency": "Every Saturday, 10:00 - 12:00",
-    "day": null,
+    "day": 6,
     "id": "93175022-55c9-468c-9e39-f81cec90ca36"
   },
   {
@@ -73738,6 +73738,30 @@
     "alternativeFrequency": null,
     "day": 4,
     "id": "c229fdfe-44a1-417e-917a-3e91751ad8db"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Durban, KCA @ Blue Roof",
+    "geoPoint": {
+      "lat": -29.945042,
+      "lon": 30.975785
+    },
+    "country": {
+      "countryName": "South Africa",
+      "continent": "AF",
+      "alpha2": "ZA",
+      "alpha3": "ZAF",
+      "countryNumber": "710"
+    },
+    "stage": 1,
+    "urlSlug": "za/durban/durban-kca-blue-roof",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "c23a5fdd-3746-4d42-8cf2-fa030fee8f3a"
   },
   {
     "entity$": "-/cd/dojos",
