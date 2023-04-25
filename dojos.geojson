@@ -2203,7 +2203,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>  <img src='/images/dojos/nishinomiya.webp' alt='西宮・梅田' loading='lazy' width='100px' /></a><br><b>西宮・梅田</b><br>西宮/梅田でそれ<br>ぞれ毎月開催<br><a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>  <img src='/images/dojos/nishinomiya.webp' alt='西宮・梅田' loading='lazy' width='100px' /></a><br><b>西宮・梅田</b><br>西宮/梅田でそれ<br>ぞれ毎月開催<br>&rarr; 次回: <a href='https://coderdojo-nishinomiya.doorkeeper.jp/events/155904' target='_blank' rel='noopener'>5月21日</a><br><a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -2309,6 +2309,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<a href='https://coderdojotondabayashi.github.io/main/' target='_blank' rel='noopener'>  <img src='/images/dojos/tondabayashi.webp' alt='富田林' loading='lazy' width='100px' /></a><br><b>富田林</b><br>富田林市で隔月開催<br><a href='https://coderdojotondabayashi.github.io/main/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6036939,
+          52.8195837
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Burton upon Trent @Bladon House School<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/burton-upon-trent-burton-on-trent/burton-upon-trent-bladon-house-school'>連絡先を見る</a>"
       }
     },
     {
@@ -13011,6 +13026,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          16.1017057,
+          48.3874266
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Techies@Hausleiten<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/at/hausleiten/techies-hausleiten'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           75.77751901815492,
           31.226366902893876
         ]
@@ -13693,7 +13723,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>  <img src='/images/dojos/nishinomiya.webp' alt='西宮・梅田' loading='lazy' width='100px' /></a><br><b>西宮・梅田</b><br>西宮/梅田でそれ<br>ぞれ毎月開催<br><a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>  <img src='/images/dojos/nishinomiya.webp' alt='西宮・梅田' loading='lazy' width='100px' /></a><br><b>西宮・梅田</b><br>西宮/梅田でそれ<br>ぞれ毎月開催<br>&rarr; 次回: <a href='https://coderdojo-nishinomiya.doorkeeper.jp/events/155904' target='_blank' rel='noopener'>5月21日</a><br><a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -16933,7 +16963,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojoyabuki.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/yabuki.webp' alt='矢吹' loading='lazy' width='100px' /></a><br><b>矢吹</b><br>矢吹町で毎月開催<br><a href='https://coderdojoyabuki.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojoyabuki.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/yabuki.webp' alt='矢吹' loading='lazy' width='100px' /></a><br><b>矢吹</b><br>矢吹町で毎月開催<br>&rarr; 次回: <a href='https://coderdojoyabuki.connpass.com/event/279117/' target='_blank' rel='noopener'>5月27日</a><br><a href='https://coderdojoyabuki.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -17976,21 +18006,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.618518829345703,
-          44.7274593183754
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Moldova Nouă @ Liceul Tehnologic Clisura Dunării<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ro/moldova-noua/moldova-noua-liceul-tehnologic-clisura-dunarii'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.189453100000037,
           53.3653983
         ]
@@ -18539,6 +18554,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<a href='https://coderdojoadachi.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/adachi.webp' alt='足立' loading='lazy' width='100px' /></a><br><b>足立</b><br>足立区で毎月開催<br><a href='https://coderdojoadachi.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7038101,
+          37.9760654
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Greek Incubator<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gr/athens/greek-incubator'>連絡先を見る</a>"
       }
     },
     {
