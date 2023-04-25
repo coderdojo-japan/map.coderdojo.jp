@@ -11311,6 +11311,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Burton upon Trent @Bladon House School",
+    "geoPoint": {
+      "lat": 52.8195837,
+      "lon": -1.6036939
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/burton-upon-trent-burton-on-trent/burton-upon-trent-bladon-house-school",
+    "startTime": "09:00:00",
+    "endTime": "10:00:00",
+    "private": 1,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 5,
+    "id": "1ee8084a-3406-4421-9c5e-22a79a69aa91"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Spanish Fort, AL @ Spanish Fort Library",
     "geoPoint": {
       "lat": 30.6711465,
@@ -59737,6 +59761,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Techies@Hausleiten",
+    "geoPoint": {
+      "lat": 48.3874266,
+      "lon": 16.1017057
+    },
+    "country": {
+      "countryName": "Austria",
+      "continent": "EU",
+      "alpha2": "AT",
+      "alpha3": "AUT",
+      "countryNumber": "040"
+    },
+    "stage": 1,
+    "urlSlug": "at/hausleiten/techies-hausleiten",
+    "startTime": "16:00:00",
+    "endTime": "18:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": null,
+    "day": 5,
+    "id": "9d611c39-a376-437c-8071-77bbd2c0090e"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Phagwara, Punjab",
     "geoPoint": {
       "lat": 31.226366902893876,
@@ -82273,7 +82321,7 @@
       "alpha3": "ROU",
       "countryNumber": "642"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "ro/moldova-noua/moldova-noua-liceul-tehnologic-clisura-dunarii",
     "startTime": "11:00:00",
     "endTime": "13:00:00",
@@ -84871,6 +84919,30 @@
     "alternativeFrequency": "tbd",
     "day": 6,
     "id": "e09bd05c-f047-4299-b87d-1b5ecc5e9dc8"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Greek Incubator",
+    "geoPoint": {
+      "lat": 37.9760654,
+      "lon": 23.7038101
+    },
+    "country": {
+      "countryName": "Greece",
+      "continent": "EU",
+      "alpha2": "GR",
+      "alpha3": "GRC",
+      "countryNumber": "300"
+    },
+    "stage": 1,
+    "urlSlug": "gr/athens/greek-incubator",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "e0a40e16-795a-43c1-a1ae-806bd0c1cab8"
   },
   {
     "entity$": "-/cd/dojos",
