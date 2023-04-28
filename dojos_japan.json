@@ -213,7 +213,7 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2020-01-30T00:00:00.000+09:00",
-    "description": "青山学院大学にて第2・第4土曜開催"
+    "description": "青山学院大学にて第2・第4土曜に開催"
   },
   {
     "id": 20,
@@ -573,7 +573,7 @@
     "is_active": true,
     "prefecture": "兵庫",
     "created_at": "2016-03-22T00:00:00.000+09:00",
-    "description": "姫路市で第3土曜に毎月開催"
+    "description": "姫路市で第3土曜に開催"
   },
   {
     "id": 51,
@@ -909,7 +909,7 @@
     "is_active": true,
     "prefecture": "福島",
     "created_at": "2017-03-29T00:00:00.000+09:00",
-    "description": "会津若松市内で毎月第3土曜に開催"
+    "description": "会津若松市内で第3土曜に開催"
   },
   {
     "id": 81,
@@ -921,7 +921,7 @@
     "is_active": true,
     "prefecture": "岡山",
     "created_at": "2017-03-20T00:00:00.000+09:00",
-    "description": "岡山市南区で毎月第3日曜開催"
+    "description": "岡山市南区で第3日曜に開催"
   },
   {
     "id": 82,
@@ -969,7 +969,7 @@
     "is_active": false,
     "prefecture": "宮城",
     "created_at": "2017-03-27T00:00:00.000+09:00",
-    "description": "名取市で毎月第4土曜開催"
+    "description": "名取市で第4土曜に開催"
   },
   {
     "id": 86,
@@ -1257,7 +1257,7 @@
     "is_active": true,
     "prefecture": "徳島",
     "created_at": "2017-09-26T00:00:00.000+09:00",
-    "description": "三好市で毎月第2週開催"
+    "description": "三好市で第2週に開催"
   },
   {
     "id": 112,
@@ -1269,7 +1269,7 @@
     "is_active": true,
     "prefecture": "千葉",
     "created_at": "2017-09-26T00:00:00.000+09:00",
-    "description": "柏市光ヶ丘で毎月第3土曜開催"
+    "description": "柏市光ヶ丘で第3土曜に開催"
   },
   {
     "id": 113,
@@ -1341,7 +1341,7 @@
     "is_active": true,
     "prefecture": "愛知",
     "created_at": "2017-11-13T00:00:00.000+09:00",
-    "description": "安城市で毎月第3土曜開催"
+    "description": "安城市で第3土曜に開催"
   },
   {
     "id": 119,
@@ -1425,7 +1425,7 @@
     "is_active": true,
     "prefecture": "千葉",
     "created_at": "2018-01-27T00:00:00.000+09:00",
-    "description": "柏市沼南で毎月第2土曜開催"
+    "description": "柏市沼南で第2土曜に開催"
   },
   {
     "id": 126,
@@ -1509,7 +1509,7 @@
     "is_active": true,
     "prefecture": "岡山",
     "created_at": "2018-02-28T00:00:00.000+09:00",
-    "description": "津山市で毎月第2土曜開催"
+    "description": "津山市で第2土曜に開催"
   },
   {
     "id": 133,
@@ -1545,7 +1545,7 @@
     "is_active": true,
     "prefecture": "大阪",
     "created_at": "2018-03-13T00:00:00.000+09:00",
-    "description": "大東市で毎月第1土曜開催"
+    "description": "大東市で第1土曜に開催"
   },
   {
     "id": 136,
@@ -1773,7 +1773,7 @@
     "is_active": true,
     "prefecture": "沖縄",
     "created_at": "2018-07-07T00:00:00.000+09:00",
-    "description": "うるま市で毎月第2・第4土曜開催"
+    "description": "うるま市で第2・第4土曜に開催"
   },
   {
     "id": 156,
@@ -2013,7 +2013,7 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2018-11-20T00:00:00.000+09:00",
-    "description": "品川区五反田で毎月第3土曜開催"
+    "description": "品川区五反田で第3土曜に開催"
   },
   {
     "id": 186,
@@ -2157,7 +2157,7 @@
     "is_active": false,
     "prefecture": "岐阜",
     "created_at": "2019-02-03T00:00:00.000+09:00",
-    "description": "多治見市まなびパークで毎月第1・第3土曜開催"
+    "description": "多治見市まなびパークで第1・第3土曜に開催"
   },
   {
     "id": 198,
@@ -2385,7 +2385,7 @@
     "is_active": true,
     "prefecture": "愛知",
     "created_at": "2019-06-20T00:00:00.000+09:00",
-    "description": "北名古屋市で毎月第2木曜開催"
+    "description": "北名古屋市で第2木曜に開催"
   },
   {
     "id": 218,
@@ -2625,7 +2625,7 @@
     "is_active": true,
     "prefecture": "長野",
     "created_at": "2020-01-19T00:00:00.000+09:00",
-    "description": "伊那市で毎月第1第3水曜開催"
+    "description": "伊那市で第1・第3水曜に開催"
   },
   {
     "id": 238,
@@ -2961,7 +2961,7 @@
     "is_active": true,
     "prefecture": "青森",
     "created_at": "2021-02-28T00:00:00.000+09:00",
-    "description": "八戸市内で毎月第1日曜に開催"
+    "description": "八戸市内で第1日曜に開催"
   },
   {
     "id": 266,
@@ -3021,7 +3021,7 @@
     "is_active": true,
     "prefecture": "山口",
     "created_at": "2021-05-13T00:00:00.000+09:00",
-    "description": "長門市しごとセンターで第4土曜開催"
+    "description": "長門市しごとセンターで第4土曜に開催"
   },
   {
     "id": 271,
@@ -3358,5 +3358,17 @@
     "prefecture": "富山",
     "created_at": "2023-02-24T00:00:00.000+09:00",
     "description": "新川郡上市町で毎月2回開催"
+  },
+  {
+    "id": 299,
+    "url": "https://coderdojo-takaoka.org/",
+    "name": "たかおか",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "162027",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "富山",
+    "created_at": "2023-04-28T00:00:00.000+09:00",
+    "description": "高岡市で第2・第4日曜に開催"
   }
 ]

@@ -17780,9 +17780,9 @@
       "alpha2": "US"
     },
     "stage": 1,
-    "urlSlug": "us/windsor-high-school-windsor-vt-and-lebanon-high-school-lebanon-nh/dartmouth",
-    "startTime": null,
-    "endTime": null,
+    "urlSlug": "us/new-hampshire/hanover-nh/dartmouth",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
     "alternativeFrequency": "Thursdays 2:40 - 3:40.",
@@ -33657,8 +33657,8 @@
     "entity$": "-/cd/dojos",
     "name": "Frankfurt (Oder)",
     "geoPoint": {
-      "lat": 52.3474509,
-      "lon": 14.5514132
+      "lat": 52.3459052,
+      "lon": 14.5502754
     },
     "country": {
       "countryName": "Germany",
@@ -33669,11 +33669,11 @@
     },
     "stage": 1,
     "urlSlug": "de/frankfurt-oder/frankfurt-oder",
-    "startTime": "14:00:00",
+    "startTime": "12:00:00",
     "endTime": "18:00:00",
     "private": 0,
     "frequency": "1/m",
-    "alternativeFrequency": "2nd",
+    "alternativeFrequency": "first",
     "day": 6,
     "id": "5934f607-eb67-42d9-8f9d-0786e1b7e37b"
   },
@@ -43786,10 +43786,10 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Karlshamn",
+    "name": "Blekinge",
     "geoPoint": {
-      "lat": 56.194621,
-      "lon": 14.851998600000002
+      "lat": 56.1648742,
+      "lon": 14.8657209
     },
     "country": {
       "countryName": "Sweden",
@@ -43798,8 +43798,8 @@
       "alpha2": "SE",
       "alpha3": "SWE"
     },
-    "stage": 1,
-    "urlSlug": "se/karlshamn/karlshamn",
+    "stage": 0,
+    "urlSlug": "se/karlshamn/blekinge",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
     "private": 0,
