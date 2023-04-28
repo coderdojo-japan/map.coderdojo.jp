@@ -328,6 +328,14 @@
     "event_url": "https://coderdojo-matsubara.doorkeeper.jp/events/155384"
   },
   {
+    "id": 206,
+    "name": "吹田",
+    "url": "https://coderdojo-suita.doorkeeper.jp/",
+    "event_title": "子ども向けプログラミング道場：CoderDojo吹田 #26",
+    "event_date": "2023-05-27T13:30:00.000+09:00",
+    "event_url": "https://coderdojo-suita.doorkeeper.jp/events/156013"
+  },
+  {
     "id": 216,
     "name": "那覇",
     "url": "https://coderdojo-naha.doorkeeper.jp/",
