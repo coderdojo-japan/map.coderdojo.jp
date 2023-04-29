@@ -35,9 +35,9 @@
     "id": 32,
     "name": "天白",
     "url": "https://coderdojo-tempaku.hatenablog.com/",
-    "event_title": "CoderDojo天白  N172",
-    "event_date": "2023-04-29T13:00:00.000+09:00",
-    "event_url": "https://tempaku.connpass.com/event/276795/"
+    "event_title": "CoderDojo天白  N173",
+    "event_date": "2023-05-13T13:00:00.000+09:00",
+    "event_url": "https://tempaku.connpass.com/event/279308/"
   },
   {
     "id": 34,
@@ -78,14 +78,6 @@
     "event_title": "【5/13(土) 会場：ポートインク】CoderDojo紙屋町 83回目",
     "event_date": "2023-05-13T13:45:00.000+09:00",
     "event_url": "https://coderdojo-hiroshima.doorkeeper.jp/events/155994"
-  },
-  {
-    "id": 54,
-    "name": "久留米",
-    "url": "https://www.facebook.com/CoderDojoKurume/",
-    "event_title": "【会場開催】第79回CoderDojo久留米",
-    "event_date": "2023-04-29T14:00:00.000+09:00",
-    "event_url": "https://coderdojo-kurume.connpass.com/event/279915/"
   },
   {
     "id": 65,
@@ -224,14 +216,6 @@
     "event_url": "https://coderdojo-inagi.doorkeeper.jp/events/149160"
   },
   {
-    "id": 148,
-    "name": "静岡",
-    "url": "https://coderdojo-shizuoka.org/",
-    "event_title": "第42回CoderDojo静岡",
-    "event_date": "2023-04-29T09:30:00.000+09:00",
-    "event_url": "https://coderdojo-shizuoka.connpass.com/event/279917/"
-  },
-  {
     "id": 149,
     "name": "白河",
     "url": "https://coderdojoshirakawa.hateblo.jp/entry/top",
@@ -350,14 +334,6 @@
     "event_title": "第47回 CoderDojo犬山　（午前）",
     "event_date": "2023-05-21T10:00:00.000+09:00",
     "event_url": "https://coderdojo-inuyama.doorkeeper.jp/events/153772"
-  },
-  {
-    "id": 226,
-    "name": "伊予",
-    "url": "https://coderdojo-iyo.com/",
-    "event_title": "第42回 CoderDojo伊予 子どものためのプログラミング道場",
-    "event_date": "2023-04-29T14:00:00.000+09:00",
-    "event_url": "https://coderdojo-iyo.connpass.com/event/280900/"
   },
   {
     "id": 241,
@@ -494,5 +470,13 @@
     "event_title": "子どものためのプログラミング道場「CoderDojo二本松」第6回",
     "event_date": "2023-05-21T10:00:00.000+09:00",
     "event_url": "https://dojonihonmatsu.doorkeeper.jp/events/155535"
+  },
+  {
+    "id": 299,
+    "name": "たかおか",
+    "url": "https://coderdojo-takaoka.org/",
+    "event_title": "CoderDojo＠たかおか 5月 第二日曜",
+    "event_date": "2023-05-14T09:00:00.000+09:00",
+    "event_url": "https://coderdojo-takaoka.connpass.com/event/282074/"
   }
 ]
