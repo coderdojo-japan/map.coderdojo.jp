@@ -17772,8 +17772,8 @@
     "entity$": "-/cd/dojos",
     "name": "Dartmouth",
     "geoPoint": {
-      "lat": 43.6422934,
-      "lon": -72.25175690000003
+      "lat": 43.7044406,
+      "lon": -72.2886934
     },
     "country": {
       "countryName": "United States",
@@ -17785,7 +17785,7 @@
     "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "Thursdays 2:40 - 3:40.",
+    "alternativeFrequency": "We visit several classes in the Upper Valley, and teach students how to code. If you're interested in having us in your class, please don't hesitate to send us an email!",
     "day": null,
     "id": "30c559da-c10e-45aa-9620-5f4d8d19a29f"
   },
