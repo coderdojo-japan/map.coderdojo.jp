@@ -128,6 +128,14 @@
     "event_url": "https://coderdojosuehirocho.connpass.com/event/281839/"
   },
   {
+    "id": 98,
+    "name": "浜松",
+    "url": "https://coderdojo-hamamatsu.connpass.com/",
+    "event_title": "第84回CoderDojo浜松（小中高プログラミング教育）",
+    "event_date": "2023-05-28T13:30:00.000+09:00",
+    "event_url": "https://coderdojo-hamamatsu.connpass.com/event/282850/"
+  },
+  {
     "id": 102,
     "name": "福岡",
     "url": "https://www.facebook.com/CoderDojoFukuoka/",
@@ -174,6 +182,22 @@
     "event_title": "CoderDojo赤羽 #44",
     "event_date": "2023-05-14T09:30:00.000+09:00",
     "event_url": "https://coderdojo-akabane.connpass.com/event/280612/"
+  },
+  {
+    "id": 136,
+    "name": "香椎",
+    "url": "https://coderdojo-kashii.connpass.com/",
+    "event_title": "第47回CoderDojo香椎",
+    "event_date": "2023-05-14T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-kashii.connpass.com/event/281276/"
+  },
+  {
+    "id": 140,
+    "name": "厚木",
+    "url": "https://coderdojo-atsugi.connpass.com/",
+    "event_title": "第35回 CoderDojo厚木",
+    "event_date": "2023-05-28T10:30:00.000+09:00",
+    "event_url": "https://coderdojo-atsugi.connpass.com/event/282655/"
   },
   {
     "id": 145,
