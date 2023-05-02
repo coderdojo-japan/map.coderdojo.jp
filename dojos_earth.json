@@ -42961,10 +42961,10 @@
       "alpha2": "IE",
       "alpha3": "IRL"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "ie/dublin-2/silicondocks-accenture-the-dock",
-    "startTime": null,
-    "endTime": null,
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
     "alternativeFrequency": "Every second Monday, 6:00 - 7:30p.m",
@@ -80149,7 +80149,7 @@
       "alpha3": "USA",
       "countryNumber": "840"
     },
-    "stage": 4,
+    "stage": 0,
     "urlSlug": "us/noblesville-in/noblesville",
     "startTime": "18:00:00",
     "endTime": "19:30:00",

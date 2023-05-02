@@ -2728,7 +2728,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-atsugi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/atsugi.webp' alt='厚木' loading='lazy' width='100px' /></a><br><b>厚木</b><br>厚木市で不定期開催<br><a href='https://coderdojo-atsugi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-atsugi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/atsugi.webp' alt='厚木' loading='lazy' width='100px' /></a><br><b>厚木</b><br>厚木市で不定期開催<br>&rarr; 次回: <a href='https://coderdojo-atsugi.connpass.com/event/282655/' target='_blank' rel='noopener'>5月28日</a><br><a href='https://coderdojo-atsugi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -9329,6 +9329,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Iasi @ The Grape<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ro/judetul-iasi/the-grape-business-hub-iasi-str-buna-vestire-nr-2/iasi-the-grape'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.232834000000025,
+          53.3438095
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>SiliconDocks @ Accenture The Dock<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin-2/silicondocks-accenture-the-dock'>連絡先を見る</a>"
       }
     },
     {
@@ -16573,7 +16588,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-kashii.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/kashii.webp' alt='香椎' loading='lazy' width='100px' /></a><br><b>香椎</b><br>福岡市東区で毎月開催<br><a href='https://coderdojo-kashii.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-kashii.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/kashii.webp' alt='香椎' loading='lazy' width='100px' /></a><br><b>香椎</b><br>福岡市東区で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-kashii.connpass.com/event/281276/' target='_blank' rel='noopener'>5月14日</a><br><a href='https://coderdojo-kashii.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -16753,7 +16768,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-hamamatsu.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/hamamatsu.webp' alt='浜松' loading='lazy' width='100px' /></a><br><b>浜松</b><br>浜松市で毎月開催<br><a href='https://coderdojo-hamamatsu.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-hamamatsu.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/hamamatsu.webp' alt='浜松' loading='lazy' width='100px' /></a><br><b>浜松</b><br>浜松市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-hamamatsu.connpass.com/event/282850/' target='_blank' rel='noopener'>5月28日</a><br><a href='https://coderdojo-hamamatsu.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -17564,6 +17579,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Polytech @ Montpellier<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/fr/montpellier/polytech-montpellier'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.99453510000001,
+          40.0471997
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Noblesville<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/noblesville-in/noblesville'>連絡先を見る</a>"
       }
     },
     {
