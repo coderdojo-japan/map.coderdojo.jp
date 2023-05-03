@@ -7291,6 +7291,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "GCM Computer Club",
+    "geoPoint": {
+      "lat": 51.91114161263148,
+      "lon": -8.480326459859285
+    },
+    "country": {
+      "countryName": "Ireland",
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "countryNumber": "372"
+    },
+    "stage": 1,
+    "urlSlug": "ie/cork-road-county-cork/gcm-computer-club",
+    "startTime": "12:15:00",
+    "endTime": "12:45:00",
+    "private": 1,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 1,
+    "id": "1468b9b4-b644-4757-8a0a-626ade84c2ee"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Tower Bridge, London",
     "geoPoint": {
       "lat": 51.5075138,
@@ -67741,6 +67765,30 @@
     "alternativeFrequency": "Book a session from the list below",
     "day": null,
     "id": "b24eced1-81aa-4c06-93b5-98f97da3c3a1"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Oxford@CSworks",
+    "geoPoint": {
+      "lat": 51.77346739999999,
+      "lon": -1.2590535
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/oxford/oxford-csworks",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "Every three weeks",
+    "day": 6,
+    "id": "b2680d0d-524c-4c98-ad98-422a0f082113"
   },
   {
     "entity$": "-/cd/dojos",
