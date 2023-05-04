@@ -24394,6 +24394,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "磐田",
+    "geoPoint": {
+      "lat": 34.7218892,
+      "lon": 137.8474405
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/iwata-shizuoka/pan2-tian2",
+    "startTime": "13:30:00",
+    "endTime": "16:30:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "2nd",
+    "day": 7,
+    "id": "4189b559-90c7-45ce-9f23-8df62e8b331a"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "ON EST ENSEMBLE",
     "geoPoint": {
       "lat": 40.378443,
