@@ -43,9 +43,9 @@
     "id": 35,
     "name": "奈良",
     "url": "https://coderdojo-nara-ikoma.github.io/",
-    "event_title": "【CoderDojo生駒】：子ども向けプログラミング道場（No.71）",
-    "event_date": "2023-05-06T13:00:00.000+09:00",
-    "event_url": "https://coderdojo-nara-ikoma.connpass.com/event/282726/"
+    "event_title": "【平群町開催】：子どもと大人のプログラミングクラブ（No.7）",
+    "event_date": "2023-05-13T09:00:00.000+09:00",
+    "event_url": "https://coderdojo-nara-ikoma.connpass.com/event/273923/"
   },
   {
     "id": 40,
@@ -110,14 +110,6 @@
     "event_title": "第62回 CoderDojo Hitachinaka",
     "event_date": "2023-05-21T13:30:00.000+09:00",
     "event_url": "https://coderdojo-hitachinaka.connpass.com/event/281230/"
-  },
-  {
-    "id": 75,
-    "name": "秋田",
-    "url": "https://coder-dojo-akita.doorkeeper.jp/",
-    "event_title": "CoderDojo秋田 37回目",
-    "event_date": "2023-05-06T14:00:00.000+09:00",
-    "event_url": "https://coder-dojo-akita.doorkeeper.jp/events/155287"
   },
   {
     "id": 79,
@@ -334,14 +326,6 @@
     "event_title": "【無料】第47回 CoderDojoKuji(コーダー道場久地)",
     "event_date": "2023-05-14T09:30:00.000+09:00",
     "event_url": "https://coderdojo-kuji.connpass.com/event/283013/"
-  },
-  {
-    "id": 216,
-    "name": "那覇",
-    "url": "https://coderdojo-naha.doorkeeper.jp/",
-    "event_title": "第33回 CoderDojo 那覇 (現地開催)",
-    "event_date": "2023-05-06T10:00:00.000+09:00",
-    "event_url": "https://coderdojo-naha.doorkeeper.jp/events/155842"
   },
   {
     "id": 218,
