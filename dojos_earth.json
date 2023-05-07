@@ -31548,8 +31548,8 @@
     "entity$": "-/cd/dojos",
     "name": "Ipoh, Perak @ PPANPK",
     "geoPoint": {
-      "lat": 4.592229,
-      "lon": 101.0934569
+      "lat": 4.6005126,
+      "lon": 101.0757837
     },
     "country": {
       "countryName": "Malaysia",
@@ -31558,11 +31558,11 @@
       "alpha3": "MYS",
       "countryNumber": "458"
     },
-    "stage": 1,
+    "stage": 3,
     "urlSlug": "my/ipoh-perak/ipoh-perak-ppanpk",
-    "startTime": "09:00:00",
-    "endTime": "10:00:00",
-    "private": 1,
+    "startTime": "07:30:00",
+    "endTime": "08:30:00",
+    "private": 0,
     "frequency": "1/w",
     "alternativeFrequency": null,
     "day": 6,
