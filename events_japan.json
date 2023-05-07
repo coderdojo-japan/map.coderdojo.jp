@@ -11,9 +11,9 @@
     "id": 13,
     "name": "こだいら",
     "url": "https://coderdojo-kodaira.github.io/",
-    "event_title": "第281回 あすぴあ会議室（現地）",
-    "event_date": "2023-05-07T14:00:00.000+09:00",
-    "event_url": "https://coderdojo-jp-kodaira.connpass.com/event/277045/"
+    "event_title": "第282回 オンライン（Zoom）",
+    "event_date": "2023-05-10T19:00:00.000+09:00",
+    "event_url": "https://coderdojo-jp-kodaira.connpass.com/event/274753/"
   },
   {
     "id": 30,
@@ -78,14 +78,6 @@
     "event_title": "【5/13(土) 会場：ポートインク】CoderDojo紙屋町 83回目",
     "event_date": "2023-05-13T13:45:00.000+09:00",
     "event_url": "https://coderdojo-hiroshima.doorkeeper.jp/events/155994"
-  },
-  {
-    "id": 65,
-    "name": "水戸",
-    "url": "https://coderdojo-mito.com/",
-    "event_title": "第８３回 CoderDojo Mito",
-    "event_date": "2023-05-07T13:30:00.000+09:00",
-    "event_url": "https://coderdojo-mito.connpass.com/event/282257/"
   },
   {
     "id": 66,
@@ -272,6 +264,14 @@
     "event_url": "https://coderdojo-kohokunt.connpass.com/event/281879/"
   },
   {
+    "id": 182,
+    "name": "瀬戸",
+    "url": "https://coderdojo-seto.jp/",
+    "event_title": "【無料】【ぐるっぺ道泉10:00開催】CoderDojo瀬戸(第102回) 子供向けプログラミング",
+    "event_date": "2023-05-14T10:00:00.000+09:00",
+    "event_url": "https://coderdojo-seto.connpass.com/event/283117/"
+  },
+  {
     "id": 184,
     "name": "あざみ野",
     "url": "https://coderdojo-azamino.connpass.com/",
@@ -334,6 +334,14 @@
     "event_title": "第47回 CoderDojo犬山　（午前）",
     "event_date": "2023-05-21T10:00:00.000+09:00",
     "event_url": "https://coderdojo-inuyama.doorkeeper.jp/events/153772"
+  },
+  {
+    "id": 227,
+    "name": "戸田公園",
+    "url": "https://coderdojo-todakoen.com/",
+    "event_title": "第34回 CoderDojo 戸田公園",
+    "event_date": "2023-05-13T10:00:00.000+09:00",
+    "event_url": "https://corderdojo-todakoen.connpass.com/event/283131/"
   },
   {
     "id": 241,
@@ -427,9 +435,9 @@
     "id": 278,
     "name": "武蔵小杉",
     "url": "https://coderdojo-musashikosugi.connpass.com/",
-    "event_title": "第22回 CoderDojo武蔵小杉【レギュラー回】※初めての方歓迎",
-    "event_date": "2023-05-07T13:15:00.000+09:00",
-    "event_url": "https://coderdojo-musashikosugi.connpass.com/event/281335/"
+    "event_title": "第23回 CoderDojo武蔵小杉【自習回・工作特別編】※過去1回以上参加した方向け",
+    "event_date": "2023-05-28T09:15:00.000+09:00",
+    "event_url": "https://coderdojo-musashikosugi.connpass.com/event/283158/"
   },
   {
     "id": 280,
