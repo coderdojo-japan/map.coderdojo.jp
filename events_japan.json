@@ -24,6 +24,14 @@
     "event_url": "https://coderdojo-toyohashi.doorkeeper.jp/events/155895"
   },
   {
+    "id": 31,
+    "name": "名古屋",
+    "url": "https://coderdojo-nagoya.connpass.com/",
+    "event_title": "第184回CoderDojo名古屋",
+    "event_date": "2023-05-28T13:30:00.000+09:00",
+    "event_url": "https://coderdojo-nagoya.connpass.com/event/283201/"
+  },
+  {
     "id": 32,
     "name": "天白",
     "url": "https://coderdojo-tempaku.hatenablog.com/",
@@ -80,6 +88,14 @@
     "event_url": "https://coderdojo-hiroshima.doorkeeper.jp/events/155994"
   },
   {
+    "id": 64,
+    "name": "札幌",
+    "url": "https://coderdojo-sapporo.jp/",
+    "event_title": "第９４回 CoderDojo札幌",
+    "event_date": "2023-05-14T10:30:00.000+09:00",
+    "event_url": "https://coderdojo-sapporo.connpass.com/event/282501/"
+  },
+  {
     "id": 66,
     "name": "高槻",
     "url": "https://www.facebook.com/coderdojotakatsuki/",
@@ -118,6 +134,14 @@
     "event_title": "CoderDojo Konan (OKAYAMA) #46",
     "event_date": "2023-05-21T13:30:00.000+09:00",
     "event_url": "https://coderdojo-konan.doorkeeper.jp/events/155980"
+  },
+  {
+    "id": 92,
+    "name": "光",
+    "url": "https://coderdojo-hikari.com/",
+    "event_title": "CoderDojo 光 75回目【もくもく会】 ～子どものためのプログラミング",
+    "event_date": "2023-05-13T14:00:00.000+09:00",
+    "event_url": "https://coderdojo-hikari.connpass.com/event/282678/"
   },
   {
     "id": 97,
@@ -166,6 +190,22 @@
     "event_title": "第44回 子どものためのプログラミング道場 - CoderDojo 立川",
     "event_date": "2023-05-13T09:30:00.000+09:00",
     "event_url": "https://coderdojo-tachikawa.connpass.com/event/268755/"
+  },
+  {
+    "id": 118,
+    "name": "安城",
+    "url": "https://sites.google.com/coderdojo.com/anjo/",
+    "event_title": "【第32回 プログラミング道場】 小中高生のためのプログラミング CoderDojo Anjo",
+    "event_date": "2023-05-27T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-anjo.doorkeeper.jp/events/156370"
+  },
+  {
+    "id": 123,
+    "name": "池袋",
+    "url": "https://coderdojo-ikebukuro.connpass.com/",
+    "event_title": "第48回 CoderDojo池袋@ユニーク・アイネット",
+    "event_date": "2023-06-18T14:00:00.000+09:00",
+    "event_url": "https://coderdojo-ikebukuro.connpass.com/event/283188/"
   },
   {
     "id": 124,
