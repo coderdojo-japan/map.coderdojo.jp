@@ -80355,8 +80355,8 @@
     "entity$": "-/cd/dojos",
     "name": "Olney, Buckinghamshire",
     "geoPoint": {
-      "lat": 52.1568076,
-      "lon": -0.7018590999999788
+      "lat": 52.15473799999999,
+      "lon": -0.7013779
     },
     "country": {
       "countryName": "United Kingdom",
@@ -80365,13 +80365,13 @@
       "alpha2": "GB",
       "alpha3": "GBR"
     },
-    "stage": 3,
+    "stage": 4,
     "urlSlug": "gb/olney/olney-buckinghamshire",
-    "startTime": null,
-    "endTime": null,
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "Every Tuesday from 7pm till 8.30pm",
+    "alternativeFrequency": "xxx",
     "day": null,
     "id": "d2b3deed-8a1f-4624-95ac-f57776717ffb"
   },
