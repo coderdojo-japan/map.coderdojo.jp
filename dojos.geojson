@@ -313,7 +313,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojokibi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.webp' alt='吉備' loading='lazy' width='100px' /></a><br><b>吉備</b><br>岡山市北区で毎月開催<br><a href='https://coderdojokibi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojokibi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.webp' alt='吉備' loading='lazy' width='100px' /></a><br><b>吉備</b><br>岡山市北区で毎月開催<br>&rarr; 次回: <a href='https://coderdojokibi.connpass.com/event/283290/' target='_blank' rel='noopener'>5月13日</a><br><a href='https://coderdojokibi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -4093,7 +4093,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-iyo.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/iyo.webp' alt='伊予' loading='lazy' width='100px' /></a><br><b>伊予</b><br>伊予市で毎月開催<br><a href='https://coderdojo-iyo.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-iyo.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/iyo.webp' alt='伊予' loading='lazy' width='100px' /></a><br><b>伊予</b><br>伊予市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-iyo.connpass.com/event/283236/' target='_blank' rel='noopener'>5月21日</a><br><a href='https://coderdojo-iyo.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -6643,7 +6643,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>  <img src='/images/dojos/sennan.webp' alt='せんなん' loading='lazy' width='100px' /></a><br><b>せんなん</b><br>泉南市で毎月開催<br><a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>  <img src='/images/dojos/sennan.webp' alt='せんなん' loading='lazy' width='100px' /></a><br><b>せんなん</b><br>泉南市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-sennan.connpass.com/event/282026/' target='_blank' rel='noopener'>5月13日</a><br><a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -6823,7 +6823,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/coderdojokuji/' target='_blank' rel='noopener'>  <img src='/images/dojos/kuji.webp' alt='久地' loading='lazy' width='100px' /></a><br><b>久地</b><br>川崎市高津区で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojo-kuji.connpass.com/event/283013/' target='_blank' rel='noopener'>5月14日</a><br><a href='https://www.facebook.com/coderdojokuji/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/coderdojokuji/' target='_blank' rel='noopener'>  <img src='/images/dojos/kuji.webp' alt='久地' loading='lazy' width='100px' /></a><br><b>久地</b><br>川崎市高津区で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojo-kuji.connpass.com/event/283013/' target='_blank' rel='noopener'>5月20日</a><br><a href='https://www.facebook.com/coderdojokuji/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -15816,21 +15816,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.657507099999975,
-          53.0333011
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Sneek @ Bibliotheken Mar en Fean<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/sneek/sneek-bibliotheken-mar-en-fean'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           115.9992782,
           -32.1593071
         ]
@@ -16304,21 +16289,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Kolhapur, Maharashtra @ KIT's CoE<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/in/kolhapur-maharashtra/kolhapur-maharashtra-kits-coe'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.577150299999971,
-          52.6744692
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Limerick @ Lero, UL<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/castletroy-county-limerick/limerick-lero-ul'>連絡先を見る</a>"
       }
     },
     {
