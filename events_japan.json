@@ -176,6 +176,14 @@
     "event_url": "https://coderdojo-takizawa.doorkeeper.jp/events/155577"
   },
   {
+    "id": 110,
+    "name": "せんなん",
+    "url": "http://coderdojo-sennan.net/",
+    "event_title": "CoderDojoせんなん　第５９回道場",
+    "event_date": "2023-05-13T13:30:00.000+09:00",
+    "event_url": "https://coderdojo-sennan.connpass.com/event/282026/"
+  },
+  {
     "id": 114,
     "name": "松戸",
     "url": "https://code4matsudo.org/category/coder-dojo-matsudo/",
@@ -364,7 +372,7 @@
     "name": "久地",
     "url": "https://www.facebook.com/coderdojokuji/",
     "event_title": "【無料】第47回 CoderDojoKuji(コーダー道場久地)",
-    "event_date": "2023-05-14T09:30:00.000+09:00",
+    "event_date": "2023-05-20T13:30:00.000+09:00",
     "event_url": "https://coderdojo-kuji.connpass.com/event/283013/"
   },
   {
@@ -374,6 +382,14 @@
     "event_title": "第47回 CoderDojo犬山　（午前）",
     "event_date": "2023-05-21T10:00:00.000+09:00",
     "event_url": "https://coderdojo-inuyama.doorkeeper.jp/events/153772"
+  },
+  {
+    "id": 226,
+    "name": "伊予",
+    "url": "https://coderdojo-iyo.com/",
+    "event_title": "第43回 CoderDojo伊予 子どものためのプログラミング道場",
+    "event_date": "2023-05-21T13:00:00.000+09:00",
+    "event_url": "https://coderdojo-iyo.connpass.com/event/283236/"
   },
   {
     "id": 227,
@@ -454,6 +470,14 @@
     "event_title": "やってみよう！プログラミング ! 第21回 CoderDojo八戸@鮫のゲストハウスDrop in",
     "event_date": "2023-05-21T10:00:00.000+09:00",
     "event_url": "https://coderdojo-hachinohe.doorkeeper.jp/events/155944"
+  },
+  {
+    "id": 268,
+    "name": "吉備",
+    "url": "https://coderdojokibi.connpass.com/",
+    "event_title": "CoderDojo吉備Okayama #025",
+    "event_date": "2023-05-13T14:00:00.000+09:00",
+    "event_url": "https://coderdojokibi.connpass.com/event/283290/"
   },
   {
     "id": 273,
