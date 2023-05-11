@@ -13021,6 +13021,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Touggourt @ Shames foundation",
+    "geoPoint": {
+      "lat": 33.10248,
+      "lon": 6.0550064
+    },
+    "country": {
+      "countryName": "Algeria",
+      "continent": "AF",
+      "alpha2": "DZ",
+      "alpha3": "DZA",
+      "countryNumber": "012"
+    },
+    "stage": 0,
+    "urlSlug": "dz/touggourt/touggourt-shames-foundation",
+    "startTime": "10:00:00",
+    "endTime": "13:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "first",
+    "day": 6,
+    "id": "23384621-e119-4c3e-a2e9-2bf11691a974"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Robotika-programmēšana @ Zaķumuiža",
     "geoPoint": {
       "lat": 56.96982511326279,
