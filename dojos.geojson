@@ -18951,6 +18951,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -100.3471425,
+          25.7127348
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Ciberistas@AxtaTeen.Csoftmty<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/mx/monterrey-nuevo-leon/ciberistas-axtateen-csoftmty'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -86.9028462,
           41.71896530000001
         ]
