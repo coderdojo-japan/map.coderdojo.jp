@@ -86467,6 +86467,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Ciberistas@AxtaTeen.Csoftmty",
+    "geoPoint": {
+      "lat": 25.7127348,
+      "lon": -100.3471425
+    },
+    "country": {
+      "countryName": "Mexico",
+      "continent": "NA",
+      "alpha2": "MX",
+      "alpha3": "MEX",
+      "countryNumber": "484"
+    },
+    "stage": 1,
+    "urlSlug": "mx/monterrey-nuevo-leon/ciberistas-axtateen-csoftmty",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "SUMMER",
+    "day": 6,
+    "id": "e422ad18-7fff-4028-b933-31c11c5321fe"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Ninja Camp @ MCPL",
     "geoPoint": {
       "lat": 41.71896530000001,
