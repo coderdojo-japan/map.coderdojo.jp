@@ -13546,6 +13546,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Rusthall Coding Club",
+    "geoPoint": {
+      "lat": 51.1354905,
+      "lon": 0.2283237
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/tunbridge-wells/rusthall-coding-club",
+    "startTime": "12:30:00",
+    "endTime": "13:30:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "24a0d1b0-6f55-4fa7-802d-4a54d6337c78"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Aalst",
     "geoPoint": {
       "lat": 50.93177896702902,
@@ -24964,6 +24988,30 @@
     "alternativeFrequency": null,
     "day": 6,
     "id": "4362018e-c117-477c-b2cb-9b15ed501fb7"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Dumbravita@SmartBees",
+    "geoPoint": {
+      "lat": 45.81447357869358,
+      "lon": 21.229019165039062
+    },
+    "country": {
+      "countryName": "Romania",
+      "continent": "EU",
+      "alpha2": "RO",
+      "alpha3": "ROU",
+      "countryNumber": "642"
+    },
+    "stage": 1,
+    "urlSlug": "ro/dumbravita/dumbravita-smartbees",
+    "startTime": "18:00:00",
+    "endTime": "20:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 1,
+    "id": "436ece03-7534-4f89-a87c-e8c348e66be7"
   },
   {
     "entity$": "-/cd/dojos",
@@ -54757,6 +54805,30 @@
     "alternativeFrequency": null,
     "day": 3,
     "id": "904bd29f-0d98-4356-9a49-56acb174f76d"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Bhubaneswar @ Unmukt Foundation",
+    "geoPoint": {
+      "lat": 20.259076970695133,
+      "lon": 85.77745199203491
+    },
+    "country": {
+      "countryName": "India",
+      "continent": "AS",
+      "alpha2": "IN",
+      "alpha3": "IND",
+      "countryNumber": "356"
+    },
+    "stage": 1,
+    "urlSlug": "in/bhubaneswar-odisha/bhubaneswar-unmukt-foundation",
+    "startTime": "17:00:00",
+    "endTime": "18:30:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 7,
+    "id": "9052fc04-2cd2-4fce-bdb9-12cd94fd56e0"
   },
   {
     "entity$": "-/cd/dojos",

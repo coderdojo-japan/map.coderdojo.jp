@@ -2856,6 +2856,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.2283237,
+          51.1354905
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Rusthall Coding Club<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/tunbridge-wells/rusthall-coding-club'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.021940202502492,
           50.93177896702902
         ]
@@ -5324,6 +5339,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<a href='https://coderdojo-nada.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/nada.webp' alt='灘' loading='lazy' width='100px' /></a><br><b>灘</b><br>神戸市東灘区で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojo-nada.doorkeeper.jp/events/156193' target='_blank' rel='noopener'>5月28日</a><br><a href='https://coderdojo-nada.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.229019165039062,
+          45.81447357869358
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dumbravita@SmartBees<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ro/dumbravita/dumbravita-smartbees'>連絡先を見る</a>"
       }
     },
     {
@@ -11924,6 +11954,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Sint-Niklaas<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/sint-niklaas/sint-niklaas'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.77745199203491,
+          20.259076970695133
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Bhubaneswar @ Unmukt Foundation<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/in/bhubaneswar-odisha/bhubaneswar-unmukt-foundation'>連絡先を見る</a>"
       }
     },
     {
