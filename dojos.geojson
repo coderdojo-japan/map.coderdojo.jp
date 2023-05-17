@@ -4056,21 +4056,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1019019999999955,
-          51.538728
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Upper Street, Islington @ Mary's Youth Club<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/london-borough-of-islington-london/upper-street-islington-marys-youth-club'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           36.6602527,
           -3.3620102
         ]
@@ -18561,21 +18546,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1320534999999836,
-          53.52052339999999
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Doncaster @ Central Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/doncaster/doncaster-central-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.693011399999932,
           50.7393868
         ]
@@ -19844,6 +19814,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>(YMCA Paisley) Paisley @ Foxbar Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/paisley/ymca-paisley-paisley-foxbar-library'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6451186,
+          49.024305
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>UhBrodCzech@CommunityCenter<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/cz/uhersky-brod/uhbrodczech-communitycenter'>連絡先を見る</a>"
       }
     },
     {
