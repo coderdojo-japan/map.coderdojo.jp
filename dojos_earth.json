@@ -19189,7 +19189,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/london-borough-of-islington-london/upper-street-islington-marys-youth-club",
     "startTime": "16:00:00",
     "endTime": "17:30:00",
@@ -46423,6 +46423,30 @@
     "alternativeFrequency": null,
     "day": 7,
     "id": "7c0ca939-b98e-4fa5-aa6c-dcdf2cffd280"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Kurobe @ Yoshida Science Museum",
+    "geoPoint": {
+      "lat": 36.901297,
+      "lon": 137.4256462
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/kurobe-toyama/kurobe-yoshida-science-museum",
+    "startTime": "09:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "7c0e84fa-9e60-4190-829d-44af85c313d6"
   },
   {
     "entity$": "-/cd/dojos",
@@ -84772,7 +84796,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/doncaster/doncaster-central-library",
     "startTime": "10:30:00",
     "endTime": "12:00:00",
@@ -90808,6 +90832,30 @@
     "alternativeFrequency": "Every Mondays 5.30-7:30pm",
     "day": 1,
     "id": "ee22da90-480d-4204-8819-196c7948ec35"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "UhBrodCzech@CommunityCenter",
+    "geoPoint": {
+      "lat": 49.024305,
+      "lon": 17.6451186
+    },
+    "country": {
+      "countryName": "Czech Republic",
+      "continent": "EU",
+      "alpha2": "CZ",
+      "alpha3": "CZE",
+      "countryNumber": "203"
+    },
+    "stage": 1,
+    "urlSlug": "cz/uhersky-brod/uhbrodczech-communitycenter",
+    "startTime": "17:00:00",
+    "endTime": "18:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 1,
+    "id": "ee31ad63-3f2a-48bc-b88f-79d492d4e4b5"
   },
   {
     "entity$": "-/cd/dojos",
