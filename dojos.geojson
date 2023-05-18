@@ -2316,6 +2316,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.3547351,
+          26.9737132
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Englewood, Florida@Envoi<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/englewood-fl/englewood-florida-envoi'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.56214669999997,
           34.49476
         ]

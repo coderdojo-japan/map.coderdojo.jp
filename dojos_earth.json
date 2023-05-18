@@ -11287,6 +11287,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Englewood, Florida@Envoi",
+    "geoPoint": {
+      "lat": 26.9737132,
+      "lon": -82.3547351
+    },
+    "country": {
+      "countryName": "United States",
+      "continent": "NA",
+      "alpha2": "US",
+      "alpha3": "USA",
+      "countryNumber": "840"
+    },
+    "stage": 1,
+    "urlSlug": "us/englewood-fl/englewood-florida-envoi",
+    "startTime": "04:00:00",
+    "endTime": "06:30:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 3,
+    "id": "1ed7a789-653d-4189-b6a8-32a26a21cbf3"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Tondabayashi, Osaka",
     "geoPoint": {
       "lat": 34.49476,
@@ -31374,8 +31398,8 @@
     },
     "stage": 1,
     "urlSlug": "jp/japan-kanagawa/musashikosugi",
-    "startTime": "09:30:00",
-    "endTime": "12:00:00",
+    "startTime": "13:30:00",
+    "endTime": "16:00:00",
     "private": 0,
     "frequency": "2/m",
     "alternativeFrequency": "不定期",
@@ -65752,6 +65776,30 @@
     "alternativeFrequency": "2nd",
     "day": 6,
     "id": "ac83699b-0983-4b33-9a14-912e7d616f2d"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Seki @ Kominka Aiseki",
+    "geoPoint": {
+      "lat": 35.4869284,
+      "lon": 136.913826
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/seki-gifu/seki-kominka-aiseki",
+    "startTime": "17:00:00",
+    "endTime": "19:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "3rd",
+    "day": 3,
+    "id": "ac8438e1-88a7-49f8-a50e-573a9622a745"
   },
   {
     "entity$": "-/cd/dojos",
