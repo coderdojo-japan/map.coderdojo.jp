@@ -35518,7 +35518,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/london/fenchurch-street-london-yoti",
     "startTime": "17:00:00",
     "endTime": "19:00:00",
@@ -46450,7 +46450,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Kurobe @ Yoshida Science Museum",
+    "name": "黒部",
     "geoPoint": {
       "lat": 36.901297,
       "lon": 137.4256462
@@ -46462,8 +46462,8 @@
       "alpha3": "JPN",
       "countryNumber": "392"
     },
-    "stage": 1,
-    "urlSlug": "jp/kurobe-toyama/kurobe-yoshida-science-museum",
+    "stage": 0,
+    "urlSlug": "jp/kurobe-toyama/hei1-bu4",
     "startTime": "09:00:00",
     "endTime": "12:00:00",
     "private": 0,
