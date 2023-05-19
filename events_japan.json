@@ -160,6 +160,22 @@
     "event_url": "https://coderdojo-hamamatsu.connpass.com/event/282850/"
   },
   {
+    "id": 102,
+    "name": "福岡",
+    "url": "https://www.facebook.com/CoderDojoFukuoka/",
+    "event_title": "第69回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）",
+    "event_date": "2023-06-10T14:00:00.000+09:00",
+    "event_url": "https://coderdojo-fukuoka.connpass.com/event/284420/"
+  },
+  {
+    "id": 105,
+    "name": "吉祥寺",
+    "url": "https://kichijojijp.wixsite.com/coderdojo",
+    "event_title": "【現地＋オンライン開催】子どものためのプログラミングクラブ CoderDojo吉祥寺 #62",
+    "event_date": "2023-05-28T10:00:00.000+09:00",
+    "event_url": "https://coderdojo-kichijoji.doorkeeper.jp/events/156958"
+  },
+  {
     "id": 117,
     "name": "立川",
     "url": "https://coderdojotachikawa.github.io/",
