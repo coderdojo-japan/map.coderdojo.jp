@@ -27838,7 +27838,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/hyde/hattersley-coders-ken-ward-centre",
     "startTime": "12:00:00",
     "endTime": "13:30:00",
@@ -34144,6 +34144,30 @@
     "alternativeFrequency": "Saturdays / Sundays",
     "day": null,
     "id": "59feadf5-718e-4e34-acbe-52c7d984e468"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "新宿(Shinjuku) @ Okubo Regional Center",
+    "geoPoint": {
+      "lat": 35.701564,
+      "lon": 139.706801
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/shinjuku-tokyo/xin1-su4-shinjuku-okubo-regional-center",
+    "startTime": "09:30:00",
+    "endTime": "11:30:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": null,
+    "day": 7,
+    "id": "5a299787-5fa0-42c3-a73d-63ea0e956c0f"
   },
   {
     "entity$": "-/cd/dojos",
@@ -60760,6 +60784,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Rhyl@High Street Hwb",
+    "geoPoint": {
+      "lat": 53.3221941,
+      "lon": -3.4914619
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/rhyl/rhyl-high-street-hwb",
+    "startTime": "17:30:00",
+    "endTime": "18:30:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 3,
+    "id": "9f91c06c-5020-4277-a49a-b7c8ebf7a6e3"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Patras",
     "geoPoint": {
       "lat": 38.2433181,
@@ -77011,7 +77059,7 @@
     "endTime": "13:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "Roughly once a month",
+    "alternativeFrequency": "Unfortunately, Ealing CoderDojo is not currently operating",
     "day": 6,
     "id": "ca36013d-c415-4c36-8cac-723bf7f11189"
   },
@@ -86233,6 +86281,30 @@
     "alternativeFrequency": "2nd",
     "day": 6,
     "id": "e2ff5eb2-3520-4ba2-8d2e-29b0388069ee"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "岩国",
+    "geoPoint": {
+      "lat": 34.093219520916435,
+      "lon": 132.05178022384644
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/iwakuni-yamaguchi/yan2-guo2",
+    "startTime": "13:30:00",
+    "endTime": "16:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "4th",
+    "day": 6,
+    "id": "e30947bb-ee5d-4960-973d-bb5d97d931d4"
   },
   {
     "entity$": "-/cd/dojos",
