@@ -2056,7 +2056,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 4,
+    "stage": 3,
     "urlSlug": "gb/sevenoaks-district/sevenoaks-the-granville-school",
     "startTime": "08:00:00",
     "endTime": "08:45:00",
@@ -43603,7 +43603,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 3,
+    "stage": 0,
     "urlSlug": "ie/wicklow/wicklow-east-glendalough-school",
     "startTime": "16:15:00",
     "endTime": "17:45:00",
@@ -61294,7 +61294,7 @@
       "alpha3": "FRA",
       "countryNumber": "250"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "fr/saint-gratien/saint-gratien-95-brickodeurs",
     "startTime": "10:00:00",
     "endTime": "12:00:00",
@@ -80842,7 +80842,7 @@
       "alpha3": "CAN",
       "countryNumber": "124"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "ca/cambridge-on/cambridge-on-stemotics",
     "startTime": "15:15:00",
     "endTime": "16:15:00",
@@ -82117,7 +82117,7 @@
       "alpha2": "AU",
       "alpha3": "AUS"
     },
-    "stage": 4,
+    "stage": 3,
     "urlSlug": "au/armadale-western-australia/perth-kingsley-primary-school",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
@@ -85642,11 +85642,11 @@
       "alpha2": "PT",
       "alpha3": "PRT"
     },
-    "stage": 4,
+    "stage": 3,
     "urlSlug": "pt/abrantes/abrantes-tagusvalley",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
-    "private": 0,
+    "private": 1,
     "frequency": "other",
     "alternativeFrequency": "sábados, mensalmente, 15:00 - 18:00",
     "day": null,
@@ -87730,11 +87730,11 @@
       "alpha2": "AU",
       "alpha3": "AUS"
     },
-    "stage": 4,
+    "stage": 3,
     "urlSlug": "au/lesmurdie-western-australia/perth-lesmurdie-senior-high-school",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
-    "private": 0,
+    "private": 1,
     "frequency": "other",
     "alternativeFrequency": "Weekly",
     "day": null,

@@ -381,6 +381,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.18243899999993118,
+          51.279028
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Sevenoaks @ The Granville School<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/sevenoaks-district/sevenoaks-the-granville-school'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.654722899999999,
           52.6210288
         ]
@@ -13386,6 +13401,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.2861762999999655,
+          48.9618763
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Saint Gratien 95 @ Brickodeurs<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/fr/saint-gratien/saint-gratien-95-brickodeurs'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.31198949999998,
           43.8193558
         ]
@@ -17691,6 +17721,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.325739,
+          43.3956162
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Cambridge, ON @ STEMOTICS<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ca/cambridge-on/cambridge-on-stemotics'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.539480499999968,
           50.8861019
         ]
@@ -17939,6 +17984,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>CLT@Accenture<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/charlotte-nc/clt-accenture'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.01499999999999,
+          -32.153
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Perth @ Kingsley Primary School<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/au/armadale-western-australia/perth-kingsley-primary-school'>連絡先を見る</a>"
       }
     },
     {
@@ -18726,6 +18786,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -8.188397884368896,
+          39.47499488015758
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Abrantes @ Tagusvalley<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/pt/abrantes/abrantes-tagusvalley'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           76.14428499999997,
           10.7619157
         ]
@@ -19229,6 +19304,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Ypsilanti, Michigan<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/ypsilanti-mi/ypsilanti-michigan'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.05230099999994,
+          -31.9994649
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Perth @ Lesmurdie Senior High School<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/au/lesmurdie-western-australia/perth-lesmurdie-senior-high-school'>連絡先を見る</a>"
       }
     },
     {
