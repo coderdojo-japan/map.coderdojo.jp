@@ -72,6 +72,30 @@
     "event_url": "https://coderdojo-hirakata.connpass.com/event/279170/"
   },
   {
+    "id": 42,
+    "name": "西宮・梅田",
+    "url": "https://coderdojo-nishinomiya.info/",
+    "event_title": "子ども向けプログラミング道場：コーダー道場141回目@梅田",
+    "event_date": "2023-06-25T14:00:00.000+09:00",
+    "event_url": "https://coderdojo-nishinomiya.doorkeeper.jp/events/157333"
+  },
+  {
+    "id": 44,
+    "name": "大阪狭山",
+    "url": "https://coderdojo-osakasayama.doorkeeper.jp/",
+    "event_title": "子ども向けプログラミング道場：コーダー道場 67回目@大阪狭山 with プログラミングでポケモンをうごかしてみよう",
+    "event_date": "2023-06-18T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-osakasayama.doorkeeper.jp/events/157335"
+  },
+  {
+    "id": 46,
+    "name": "堺",
+    "url": "https://coderdojo-sakai.github.io/",
+    "event_title": "子ども向けプログラミング道場：コーダー道場54回目@泉北和泉",
+    "event_date": "2023-05-28T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-sakai.connpass.com/event/285119/"
+  },
+  {
     "id": 54,
     "name": "久留米",
     "url": "https://www.facebook.com/CoderDojoKurume/",
