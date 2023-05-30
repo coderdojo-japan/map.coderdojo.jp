@@ -24166,6 +24166,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Miami Beach @ North Shore Branch Library",
+    "geoPoint": {
+      "lat": 25.8609707,
+      "lon": -80.1207245
+    },
+    "country": {
+      "countryName": "United States",
+      "continent": "NA",
+      "alpha2": "US",
+      "alpha3": "USA",
+      "countryNumber": "840"
+    },
+    "stage": 1,
+    "urlSlug": "us/miami-beach-fl/miami-beach-north-shore-branch-library",
+    "startTime": "17:00:00",
+    "endTime": "19:00:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 2,
+    "id": "40b0b09a-2a95-4199-8275-49a5b3ae5dce"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Dumbravita",
     "geoPoint": {
       "lat": 45.800994849160375,
@@ -45148,6 +45172,30 @@
     "alternativeFrequency": "bimonthly",
     "day": 6,
     "id": "789c408f-9153-4281-80b1-efd1cd825cb6"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Birmingham@EY",
+    "geoPoint": {
+      "lat": 52.4826148,
+      "lon": -1.8961804
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/birmingham/birmingham-ey",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "We plan to run our first event on 15th July 2023.",
+    "day": 6,
+    "id": "789d41d1-f8a9-411c-8ddf-0daf5c7b156c"
   },
   {
     "entity$": "-/cd/dojos",
