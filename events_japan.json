@@ -11,9 +11,17 @@
     "id": 30,
     "name": "豊橋",
     "url": "https://www.facebook.com/coderdojo.toyohashi/",
-    "event_title": "CoderDojo豊橋の開校について（2023年5月の開催予定）",
-    "event_date": "2023-05-02T16:30:00.000+09:00",
-    "event_url": "https://coderdojo-toyohashi.doorkeeper.jp/events/155895"
+    "event_title": "CoderDojo豊橋の開校について（2023年6月の開催予定）",
+    "event_date": "2023-06-01T16:30:00.000+09:00",
+    "event_url": "https://coderdojo-toyohashi.doorkeeper.jp/events/157225"
+  },
+  {
+    "id": 31,
+    "name": "名古屋",
+    "url": "https://coderdojo-nagoya.connpass.com/",
+    "event_title": "第185回CoderDojo名古屋",
+    "event_date": "2023-06-04T13:30:00.000+09:00",
+    "event_url": "https://coderdojo-nagoya.connpass.com/event/285670/"
   },
   {
     "id": 32,
@@ -310,6 +318,14 @@
     "event_title": "第33回CoderDojo Yabuki",
     "event_date": "2023-06-03T10:00:00.000+09:00",
     "event_url": "https://coderdojoyabuki.connpass.com/event/282034/"
+  },
+  {
+    "id": 249,
+    "name": "加西",
+    "url": "https://coderdojokasai.connpass.com/",
+    "event_title": "第36回 CoderDojo加西 in 図書館",
+    "event_date": "2023-06-11T10:15:00.000+09:00",
+    "event_url": "https://coderdojokasai.connpass.com/event/285555/"
   },
   {
     "id": 254,
