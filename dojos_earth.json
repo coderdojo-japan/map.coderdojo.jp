@@ -12879,8 +12879,8 @@
     "entity$": "-/cd/dojos",
     "name": "RTP (Raleigh)",
     "geoPoint": {
-      "lat": 35.7897335,
-      "lon": -78.6509201
+      "lat": 35.7897528,
+      "lon": -78.6509545
     },
     "country": {
       "countryName": "United States",
@@ -12889,13 +12889,13 @@
       "alpha2": "US",
       "alpha3": "USA"
     },
-    "stage": 2,
+    "stage": 4,
     "urlSlug": "us/raleigh-nc/rtp-raleigh",
     "startTime": "16:30:00",
     "endTime": "18:30:00",
     "private": 0,
-    "frequency": "2/m",
-    "alternativeFrequency": "Every other Sunday, 4:30-6pm",
+    "frequency": "other",
+    "alternativeFrequency": "Currently closed - looking for a new host site - please contact",
     "day": 7,
     "id": "22cbd50a-40db-44e5-88b3-04462772a8bb"
   },
@@ -20871,8 +20871,8 @@
     "entity$": "-/cd/dojos",
     "name": "CoderDojoMatsuyama",
     "geoPoint": {
-      "lat": 33.89886320345684,
-      "lon": 132.75838187571242
+      "lat": 33.8362162,
+      "lon": 132.7653075
     },
     "country": {
       "countryName": "Japan",
@@ -20882,13 +20882,13 @@
       "countryNumber": "392"
     },
     "stage": 1,
-    "urlSlug": "jp/song1-shan1-shi4-fu2-jiao3-ting3-jia3-62-6/coderdojomatsuyama",
-    "startTime": "15:00:00",
-    "endTime": "16:00:00",
+    "urlSlug": "jp/matsuyama-ehime/coderdojomatsuyama",
+    "startTime": "13:00:00",
+    "endTime": "17:00:00",
     "private": 0,
     "frequency": "2/m",
     "alternativeFrequency": null,
-    "day": 6,
+    "day": 7,
     "id": "3812509c-ead6-43b0-810f-e1ad4773bdeb"
   },
   {
