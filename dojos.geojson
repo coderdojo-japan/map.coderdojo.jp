@@ -688,7 +688,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-sapporo.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/sapporo.webp' alt='札幌' loading='lazy' width='100px' /></a><br><b>札幌</b><br>札幌市で月2回開催<br><a href='https://coderdojo-sapporo.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-sapporo.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/sapporo.webp' alt='札幌' loading='lazy' width='100px' /></a><br><b>札幌</b><br>札幌市で月2回開催<br>&rarr; 次回: <a href='https://coderdojo-sapporo.connpass.com/event/285738/' target='_blank' rel='noopener'>6月11日</a><br><a href='https://coderdojo-sapporo.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -2676,21 +2676,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.6509201,
-          35.7897335
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>RTP (Raleigh)<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/raleigh-nc/rtp-raleigh'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.7060983999999735,
           51.1085292
         ]
@@ -2788,7 +2773,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-atsugi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/atsugi.webp' alt='厚木' loading='lazy' width='100px' /></a><br><b>厚木</b><br>厚木市で不定期開催<br><a href='https://coderdojo-atsugi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-atsugi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/atsugi.webp' alt='厚木' loading='lazy' width='100px' /></a><br><b>厚木</b><br>厚木市で不定期開催<br>&rarr; 次回: <a href='https://coderdojo-atsugi.connpass.com/event/282655/' target='_blank' rel='noopener'>6月25日</a><br><a href='https://coderdojo-atsugi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -4431,8 +4416,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          132.75838187571242,
-          33.89886320345684
+          132.7653075,
+          33.8362162
         ]
       },
       "properties": {
@@ -15403,7 +15388,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojoshintokorozawa.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.webp' alt='新所沢' loading='lazy' width='100px' /></a><br><b>新所沢</b><br>埼玉県所沢市新所<br>沢で毎月開催<br><a href='https://coderdojoshintokorozawa.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojoshintokorozawa.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.webp' alt='新所沢' loading='lazy' width='100px' /></a><br><b>新所沢</b><br>埼玉県所沢市新所<br>沢で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-shintokorozawa.doorkeeper.jp/events/157851' target='_blank' rel='noopener'>6月11日</a><br><a href='https://coderdojoshintokorozawa.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
