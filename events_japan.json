@@ -144,6 +144,14 @@
     "event_url": "https://coderdojo-takizawa.doorkeeper.jp/events/157414"
   },
   {
+    "id": 110,
+    "name": "せんなん",
+    "url": "http://coderdojo-sennan.net/",
+    "event_title": "CoderDojoせんなん　第６１回道場",
+    "event_date": "2023-06-10T13:30:00.000+09:00",
+    "event_url": "https://coderdojo-sennan.connpass.com/event/285610/"
+  },
+  {
     "id": 117,
     "name": "立川",
     "url": "https://coderdojotachikawa.github.io/",
@@ -390,6 +398,14 @@
     "event_title": "やってみよう！プログラミング ! 第16回 CoderDojo柏原",
     "event_date": "2023-06-25T09:30:00.000+09:00",
     "event_url": "https://coderdojo-kashiwara.doorkeeper.jp/events/157773"
+  },
+  {
+    "id": 274,
+    "name": "麹町@アドバンスト・ソフト",
+    "url": "https://coderdojo-kojimachi.connpass.com/",
+    "event_title": "第18回 CoderDojo麹町",
+    "event_date": "2023-06-18T14:00:00.000+09:00",
+    "event_url": "https://coderdojo-kojimachi.connpass.com/event/286387/"
   },
   {
     "id": 277,
