@@ -6823,6 +6823,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Aghada@CommunityCenter",
+    "geoPoint": {
+      "lat": 51.836983,
+      "lon": -8.2089958
+    },
+    "country": {
+      "countryName": "Ireland",
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "countryNumber": "372"
+    },
+    "stage": 1,
+    "urlSlug": "ie/aghada-county-cork/aghada-communitycenter",
+    "startTime": "17:00:00",
+    "endTime": "19:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 2,
+    "id": "131ecda5-aed2-4a62-a58b-e3cd8ab74e4a"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Minneapolis@INNOVATE 2 ELEVATE",
     "geoPoint": {
       "lat": 44.9558475,
@@ -12802,6 +12826,30 @@
     "alternativeFrequency": null,
     "day": 6,
     "id": "229f4a7b-5772-4cee-a85a-4f506d503645"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Shiroishi",
+    "geoPoint": {
+      "lat": 38.001439,
+      "lon": 140.622502
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/gong1-cheng2-xian4-bai2-shi2-shi4-zi4-ben3-ting3/shiroishi",
+    "startTime": "13:00:00",
+    "endTime": "16:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "4th",
+    "day": 6,
+    "id": "22ac1e96-d10d-40b4-982b-4a9956d7d620"
   },
   {
     "entity$": "-/cd/dojos",
@@ -32155,6 +32203,30 @@
     "alternativeFrequency": "alle zwei Wochen Freitags, 17 Uhr bis 19 Uhr",
     "day": null,
     "id": "55a9b83e-9188-45f5-8a6a-72f0af31aad2"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Wiveliscombe @ Digi +",
+    "geoPoint": {
+      "lat": 51.0395204,
+      "lon": -3.3114052
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/wiveliscombe-taunton/wiveliscombe-digi",
+    "startTime": "18:00:00",
+    "endTime": "20:00:00",
+    "private": 1,
+    "frequency": "1/m",
+    "alternativeFrequency": "last",
+    "day": 4,
+    "id": "55b10634-5593-4c36-a16f-1b9fc2508cde"
   },
   {
     "entity$": "-/cd/dojos",
@@ -66567,12 +66639,12 @@
     },
     "stage": 1,
     "urlSlug": "gb/london-borough-of-southwark/southwark-london-brandon-library",
-    "startTime": "12:00:00",
-    "endTime": "13:30:00",
+    "startTime": "16:30:00",
+    "endTime": "17:30:00",
     "private": 0,
-    "frequency": "2/m",
+    "frequency": "1/w",
     "alternativeFrequency": null,
-    "day": 6,
+    "day": 2,
     "id": "ae3161bd-f54f-4fd2-909d-81a4b1209fcf"
   },
   {
@@ -76828,6 +76900,30 @@
     "alternativeFrequency": null,
     "day": 6,
     "id": "c953e561-f508-44da-836c-00bee90e6aab"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Tsuruoka",
+    "geoPoint": {
+      "lat": 38.7306002,
+      "lon": 139.8333741
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/tsuruoka-yamagata/tsuruoka",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "first",
+    "day": 6,
+    "id": "c9729663-2c23-48bd-ae45-071a5e54291a"
   },
   {
     "entity$": "-/cd/dojos",
