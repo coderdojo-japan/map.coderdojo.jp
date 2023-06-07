@@ -1453,7 +1453,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-mizuho.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/mizuho.webp' alt='瑞穂' loading='lazy' width='100px' /></a><br><b>瑞穂</b><br>名古屋市瑞穂区で<br>月2回開催<br><a href='https://coderdojo-mizuho.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-mizuho.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/mizuho.webp' alt='瑞穂' loading='lazy' width='100px' /></a><br><b>瑞穂</b><br>名古屋市瑞穂区で<br>月2回開催<br>&rarr; 次回: <a href='https://coderdojo-mizuho.connpass.com/event/286573/' target='_blank' rel='noopener'>6月18日</a><br><a href='https://coderdojo-mizuho.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -6913,7 +6913,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/coderdojokuji/' target='_blank' rel='noopener'>  <img src='/images/dojos/kuji.webp' alt='久地' loading='lazy' width='100px' /></a><br><b>久地</b><br>川崎市高津区で毎<br>月開催<br><a href='https://www.facebook.com/coderdojokuji/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/coderdojokuji/' target='_blank' rel='noopener'>  <img src='/images/dojos/kuji.webp' alt='久地' loading='lazy' width='100px' /></a><br><b>久地</b><br>川崎市高津区で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojo-kuji.connpass.com/event/286567/' target='_blank' rel='noopener'>6月17日</a><br><a href='https://www.facebook.com/coderdojokuji/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -11908,7 +11908,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-morooka.connpass.com' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.webp' alt='横浜師岡' loading='lazy' width='100px' /></a><br><b>横浜師岡</b><br>横浜市港北区の師<br>岡町で毎月開催<br><a href='https://coderdojo-morooka.connpass.com' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-morooka.connpass.com' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.webp' alt='横浜師岡' loading='lazy' width='100px' /></a><br><b>横浜師岡</b><br>横浜市港北区の師<br>岡町で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-morooka.connpass.com/event/286438/' target='_blank' rel='noopener'>7月2日</a><br><a href='https://coderdojo-morooka.connpass.com' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -15928,7 +15928,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.coderdojo-konan.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/okayama.webp' alt='岡南' loading='lazy' width='100px' /></a><br><b>岡南</b><br>岡山市南区で第3<br>日曜に開催<br><a href='https://www.coderdojo-konan.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.coderdojo-konan.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/okayama.webp' alt='岡南' loading='lazy' width='100px' /></a><br><b>岡南</b><br>岡山市南区で第3<br>日曜に開催<br>&rarr; 次回: <a href='https://coderdojo-konan.doorkeeper.jp/events/157904' target='_blank' rel='noopener'>6月18日</a><br><a href='https://www.coderdojo-konan.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -21104,21 +21104,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>  <img src='/images/dojos/hitachinaka.webp' alt='ひたちなか' loading='lazy' width='100px' /></a><br><b>ひたちなか</b><br>ひたちなか市で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojo-hitachinaka.connpass.com/event/286038/' target='_blank' rel='noopener'>7月2日</a><br><a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          78.56782342703603,
-          17.35607514521809
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Hyderabad @ Southend Park<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/in/hyderabad-telangana/hyderabad-southend-park'>連絡先を見る</a>"
       }
     },
     {
