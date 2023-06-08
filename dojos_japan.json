@@ -3394,5 +3394,17 @@
     "prefecture": "山口",
     "created_at": "2023-05-22T00:00:00.000+09:00",
     "description": "岩国市で毎月開催"
+  },
+  {
+    "id": 302,
+    "url": "https://twitter.com/coderdojo_hongo",
+    "name": "ほんごう",
+    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "order": "131059",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "東京",
+    "created_at": "2023-06-08T20:41:06.214+09:00",
+    "description": "文京区本郷で毎月開催"
   }
 ]
