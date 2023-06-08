@@ -15061,10 +15061,10 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Hongo@Bunkyo",
+    "name": "Hongo",
     "geoPoint": {
-      "lat": 35.704598,
-      "lon": 139.759378
+      "lat": 35.7081448,
+      "lon": 139.763215
     },
     "country": {
       "countryName": "Japan",
@@ -15074,13 +15074,13 @@
       "countryNumber": "392"
     },
     "stage": 1,
-    "urlSlug": "jp/bunkyo-tokyo/hongo-bunkyo",
+    "urlSlug": "jp/bunkyo-tokyo/hongo",
     "startTime": "10:00:00",
     "endTime": "12:00:00",
     "private": 0,
     "frequency": "1/m",
-    "alternativeFrequency": "2nd",
-    "day": 6,
+    "alternativeFrequency": "first",
+    "day": 7,
     "id": "288a173c-626f-4079-b5e3-3d09ef17764f"
   },
   {
