@@ -3387,7 +3387,7 @@
     "id": 301,
     "url": "https://coderdojo-iwakuni.connpass.com/",
     "name": "岩国",
-    "logo": "https://coderdojo.jp/img/dojos/japan.webp",
+    "logo": "https://coderdojo.jp/img/dojos/iwakuni.webp",
     "order": "352080",
     "counter": 1,
     "is_active": true,
@@ -3404,7 +3404,7 @@
     "counter": 1,
     "is_active": true,
     "prefecture": "東京",
-    "created_at": "2023-06-08T20:41:06.214+09:00",
+    "created_at": "2023-06-08T00:00:00.000+09:00",
     "description": "文京区本郷で毎月開催"
   }
 ]
