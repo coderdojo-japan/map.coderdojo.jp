@@ -46606,7 +46606,7 @@
       "alpha3": "JPN",
       "countryNumber": "392"
     },
-    "stage": 0,
+    "stage": 1,
     "urlSlug": "jp/kurobe-toyama/hei1-bu4",
     "startTime": "09:00:00",
     "endTime": "12:00:00",
@@ -97060,13 +97060,13 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 1,
+    "stage": 0,
     "urlSlug": "ie/leixlip-county-kildare/leixlip-lptc",
-    "startTime": "08:00:00",
-    "endTime": "13:00:00",
+    "startTime": "14:30:00",
+    "endTime": "16:00:00",
     "private": 0,
-    "frequency": "1/w",
-    "alternativeFrequency": null,
+    "frequency": "other",
+    "alternativeFrequency": "Trial sessions running at the moment, stay tuned",
     "day": 6,
     "id": "fe4fdd59-b02e-402b-83db-83ebecf06c3c"
   },
