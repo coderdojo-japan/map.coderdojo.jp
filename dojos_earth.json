@@ -19335,7 +19335,7 @@
     "startTime": "10:00:00",
     "endTime": "12:00:00",
     "private": 1,
-    "frequency": "1/m",
+    "frequency": "2/m",
     "alternativeFrequency": "2nd",
     "day": 6,
     "id": "3446b844-d674-4e36-97e9-e1fb3e8b17f3"
