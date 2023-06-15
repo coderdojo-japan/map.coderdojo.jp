@@ -4596,21 +4596,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.13907670000003236,
-          51.51496789999999
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>London, Soho @ The Photographers' Gallery<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/london/london-soho-the-photographers-gallery'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.8922364999999672,
           51.50491719999999
         ]
