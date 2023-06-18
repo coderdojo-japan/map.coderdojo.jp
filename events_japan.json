@@ -3,9 +3,9 @@
     "id": 2,
     "name": "瑞穂",
     "url": "https://coderdojo-mizuho.connpass.com/",
-    "event_title": "No.105 CoderDojo瑞穂 / Mizuho 現地",
-    "event_date": "2023-06-18T09:30:00.000+09:00",
-    "event_url": "https://coderdojo-mizuho.connpass.com/event/286573/"
+    "event_title": "No.106 CoderDojo瑞穂 / Mizuho 現地",
+    "event_date": "2023-06-25T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-mizuho.connpass.com/event/286576/"
   },
   {
     "id": 13,
@@ -32,14 +32,6 @@
     "event_url": "https://tempaku.connpass.com/event/286009/"
   },
   {
-    "id": 34,
-    "name": "長岡京",
-    "url": "https://coderdojo-nagaokakyo.doorkeeper.jp/",
-    "event_title": "CoderDojo長岡京〜学生のためのプログラミング道場〜 85回目",
-    "event_date": "2023-06-18T13:30:00.000+09:00",
-    "event_url": "https://coderdojo-nagaokakyo.doorkeeper.jp/events/157419"
-  },
-  {
     "id": 35,
     "name": "奈良",
     "url": "https://coderdojo-nara-ikoma.github.io/",
@@ -54,22 +46,6 @@
     "event_title": "子ども向けプログラミング道場：コーダー道場141回目@梅田",
     "event_date": "2023-06-25T14:00:00.000+09:00",
     "event_url": "https://coderdojo-nishinomiya.doorkeeper.jp/events/157333"
-  },
-  {
-    "id": 44,
-    "name": "大阪狭山",
-    "url": "https://coderdojo-osakasayama.doorkeeper.jp/",
-    "event_title": "子ども向けプログラミング道場：コーダー道場 67回目@大阪狭山 with プログラミングでポケモンをうごかしてみよう",
-    "event_date": "2023-06-18T09:30:00.000+09:00",
-    "event_url": "https://coderdojo-osakasayama.doorkeeper.jp/events/157335"
-  },
-  {
-    "id": 66,
-    "name": "高槻",
-    "url": "https://www.facebook.com/coderdojotakatsuki/",
-    "event_title": "CoderDojo高槻 第55回",
-    "event_date": "2023-06-18T13:15:00.000+09:00",
-    "event_url": "https://coderdojo-takatsuki.connpass.com/event/284733/"
   },
   {
     "id": 71,
@@ -96,44 +72,12 @@
     "event_url": "https://coderdojo-aizu.doorkeeper.jp/events/157792"
   },
   {
-    "id": 81,
-    "name": "岡南",
-    "url": "https://www.coderdojo-konan.jp/",
-    "event_title": "CoderDojo Konan (OKAYAMA) #47",
-    "event_date": "2023-06-18T13:30:00.000+09:00",
-    "event_url": "https://coderdojo-konan.doorkeeper.jp/events/157904"
-  },
-  {
     "id": 97,
     "name": "末広町",
     "url": "https://www.facebook.com/coderdojosuehirocho/",
     "event_title": "CoderDojo末広町　第52回",
     "event_date": "2023-06-24T10:00:00.000+09:00",
     "event_url": "https://coderdojosuehirocho.connpass.com/event/285397/"
-  },
-  {
-    "id": 98,
-    "name": "浜松",
-    "url": "https://coderdojo-hamamatsu.connpass.com/",
-    "event_title": "第85回CoderDojo浜松",
-    "event_date": "2023-06-18T13:30:00.000+09:00",
-    "event_url": "https://coderdojo-hamamatsu.connpass.com/event/285523/"
-  },
-  {
-    "id": 117,
-    "name": "立川",
-    "url": "https://coderdojotachikawa.github.io/",
-    "event_title": "特別回 マインクラフトでマルチプレイ建築会",
-    "event_date": "2023-06-18T09:30:00.000+09:00",
-    "event_url": "https://coderdojo-tachikawa.connpass.com/event/278699/"
-  },
-  {
-    "id": 123,
-    "name": "池袋",
-    "url": "https://coderdojo-ikebukuro.connpass.com/",
-    "event_title": "第48回 CoderDojo池袋@ユニーク・アイネット",
-    "event_date": "2023-06-18T14:00:00.000+09:00",
-    "event_url": "https://coderdojo-ikebukuro.connpass.com/event/283188/"
   },
   {
     "id": 140,
@@ -187,17 +131,17 @@
     "id": 184,
     "name": "あざみ野",
     "url": "https://coderdojo-azamino.connpass.com/",
-    "event_title": "第55回CoderDojoあざみ野(横浜青葉)",
-    "event_date": "2023-06-18T14:00:00.000+09:00",
-    "event_url": "https://coderdojo-azamino.connpass.com/event/283082/"
+    "event_title": "第56回CoderDojoあざみ野(横浜青葉)",
+    "event_date": "2023-07-22T14:00:00.000+09:00",
+    "event_url": "https://coderdojo-azamino.connpass.com/event/286290/"
   },
   {
     "id": 186,
     "name": "名護",
     "url": "https://coderdojo-nago.connpass.com/",
-    "event_title": "CoderDojo Nago（OIST 沖縄科学技術大学院大学・ミーティングルーム棟）",
-    "event_date": "2023-06-18T10:00:00.000+09:00",
-    "event_url": "https://coderdojo-nago.connpass.com/event/284486/"
+    "event_title": "CoderDojo名護（howlive名護宮里店・貸会議室）",
+    "event_date": "2023-06-25T10:30:00.000+09:00",
+    "event_url": "https://coderdojo-nago.connpass.com/event/286213/"
   },
   {
     "id": 189,
@@ -224,14 +168,6 @@
     "event_url": "https://coderdojo-suita.doorkeeper.jp/events/156014"
   },
   {
-    "id": 218,
-    "name": "犬山",
-    "url": "https://coderdojo-inuyama.rgr.jp/",
-    "event_title": "第48回 CoderDojo犬山　（午後）",
-    "event_date": "2023-06-18T13:30:00.000+09:00",
-    "event_url": "https://coderdojo-inuyama.doorkeeper.jp/events/153775"
-  },
-  {
     "id": 243,
     "name": "大府",
     "url": "https://coderdojo-obu.connpass.com/",
@@ -244,8 +180,8 @@
     "name": "青梅",
     "url": "https://coderdojoome.github.io/",
     "event_title": "子供たちのためのプログラミング初心者/未経験者向け【CoderDojo青梅】",
-    "event_date": "2023-06-18T09:45:00.000+09:00",
-    "event_url": "https://coderdojo-ome.connpass.com/event/278694/"
+    "event_date": "2023-07-16T09:45:00.000+09:00",
+    "event_url": "https://coderdojo-ome.connpass.com/event/286164/"
   },
   {
     "id": 256,
@@ -262,22 +198,6 @@
     "event_title": "やってみよう！プログラミング ! 第16回 CoderDojo柏原",
     "event_date": "2023-06-25T09:30:00.000+09:00",
     "event_url": "https://coderdojo-kashiwara.doorkeeper.jp/events/157773"
-  },
-  {
-    "id": 274,
-    "name": "麹町@アドバンスト・ソフト",
-    "url": "https://coderdojo-kojimachi.connpass.com/",
-    "event_title": "第18回 CoderDojo麹町",
-    "event_date": "2023-06-18T14:00:00.000+09:00",
-    "event_url": "https://coderdojo-kojimachi.connpass.com/event/286387/"
-  },
-  {
-    "id": 280,
-    "name": "西那須野",
-    "url": "https://coder-dojo-nishinasuno.connpass.com/",
-    "event_title": "第十六回 CoderDojo西那須野",
-    "event_date": "2023-06-18T14:00:00.000+09:00",
-    "event_url": "https://coder-dojo-nishinasuno.connpass.com/event/284773/"
   },
   {
     "id": 284,
