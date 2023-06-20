@@ -2571,21 +2571,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.5658862,
-          50.4337501
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Paignton@Paignton Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/paignton-library/paignton-paignton-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.230725199999999,
           53.3702073
         ]
@@ -6276,21 +6261,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.153137683868408,
-          53.279764310014826
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dun Laoghaire<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin/iadt-metns-dun-laoghaire/dun-laoghaire'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.111110210418701,
           52.114879790890136
         ]
@@ -9681,21 +9651,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.086603578507038,
-          53.26885526144571
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Rahoon Family Centre Whiz Kids<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/droim-chaoin-galway/rahoon-family-centre-whiz-kids'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           115.81375400000002,
           -32.3323566
         ]
@@ -11444,6 +11399,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Stirling, Municipal Buildings @ CodeBase<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/stirling/stirling-municipal-buildings-codebase'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.27808550000002,
+          31.4448646
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Lahore @ BitsNBytes Whereas<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/pk/lahore/lahore-bitsnbytes-whereas'>連絡先を見る</a>"
       }
     },
     {
@@ -13963,7 +13933,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Tegucigalpa @ Bitbio<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/hn/tegucigalpa/tegucigalpa-bitbio'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Powart to the people @ Bitbio<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/hn/tegucigalpa/powart-to-the-people-bitbio'>連絡先を見る</a>"
       }
     },
     {
