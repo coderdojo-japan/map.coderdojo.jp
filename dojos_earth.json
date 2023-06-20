@@ -11748,7 +11748,7 @@
     "startTime": "13:00:00",
     "endTime": "15:00:00",
     "private": 0,
-    "frequency": "1/m",
+    "frequency": "other",
     "alternativeFrequency": "Our sessions are currently on hold.  Please keep an eye out for updates.",
     "day": 6,
     "id": "1fe3714c-7b49-4158-8241-cb8a52e8db0d"
@@ -12250,7 +12250,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 0,
+    "stage": 4,
     "urlSlug": "gb/paignton-library/paignton-paignton-library",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
@@ -30163,8 +30163,8 @@
       "countryName": "Ireland",
       "alpha2": "IE"
     },
-    "stage": 3,
-    "urlSlug": "ie/dublin/iadt-metns-dun-laoghaire/dun-laoghaire",
+    "stage": 4,
+    "urlSlug": "ie/dublin/dublin/dun-laoghaire",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
     "private": 0,
@@ -44614,7 +44614,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 0,
+    "stage": 4,
     "urlSlug": "ie/droim-chaoin-galway/rahoon-family-centre-whiz-kids",
     "startTime": "14:30:00",
     "endTime": "16:30:00",
@@ -52201,6 +52201,30 @@
     "alternativeFrequency": "last",
     "day": 6,
     "id": "88b250df-f206-479b-9eb9-8423f91f2466"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Lahore @ BitsNBytes Whereas",
+    "geoPoint": {
+      "lat": 31.4448646,
+      "lon": 74.27808550000002
+    },
+    "country": {
+      "countryName": "Pakistan",
+      "continent": "AS",
+      "alpha2": "PK",
+      "alpha3": "PAK",
+      "countryNumber": "586"
+    },
+    "stage": 1,
+    "urlSlug": "pk/lahore/lahore-bitsnbytes-whereas",
+    "startTime": "14:00:00",
+    "endTime": "17:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 5,
+    "id": "88c02403-0d4c-4a58-8b6f-b8b22b590fc1"
   },
   {
     "entity$": "-/cd/dojos",
@@ -63538,7 +63562,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Tegucigalpa @ Bitbio",
+    "name": "Powart to the people @ Bitbio",
     "geoPoint": {
       "lat": 14.1093299,
       "lon": -87.1540382
@@ -63551,7 +63575,7 @@
       "countryNumber": "340"
     },
     "stage": 1,
-    "urlSlug": "hn/tegucigalpa/tegucigalpa-bitbio",
+    "urlSlug": "hn/tegucigalpa/powart-to-the-people-bitbio",
     "startTime": "08:00:00",
     "endTime": "12:00:00",
     "private": 0,
