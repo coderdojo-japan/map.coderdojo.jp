@@ -15291,6 +15291,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -9.7673232,
+          52.10917689999999
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Killorglin @ Ionadanbhainseach<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/killorglin-county-kerry/killorglin-ionadanbhainseach'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.203898400000071,
           53.1620053
         ]
