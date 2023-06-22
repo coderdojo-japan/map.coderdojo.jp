@@ -69919,6 +69919,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Killorglin @ Ionadanbhainseach",
+    "geoPoint": {
+      "lat": 52.10917689999999,
+      "lon": -9.7673232
+    },
+    "country": {
+      "countryName": "Ireland",
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "countryNumber": "372"
+    },
+    "stage": 1,
+    "urlSlug": "ie/killorglin-county-kerry/killorglin-ionadanbhainseach",
+    "startTime": "18:00:00",
+    "endTime": "20:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 4,
+    "id": "b69e21d8-62b6-4a06-9afe-7317dc562d09"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Quetice@SuperFriends",
     "geoPoint": {
       "lat": 6.4567074,
