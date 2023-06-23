@@ -7326,6 +7326,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.247750999999994,
+          53.349137
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>The Foundation @ HQ<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin/the-foundation-hq'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.451194900000019,
           48.5668632
         ]
