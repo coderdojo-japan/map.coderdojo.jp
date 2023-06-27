@@ -2104,14 +2104,14 @@
       "alpha3": "NLD",
       "countryNumber": "528"
     },
-    "stage": 1,
+    "stage": 2,
     "urlSlug": "nl/egmond-aan-den-hoef/huys-egmont",
     "startTime": "14:30:00",
     "endTime": "16:00:00",
     "private": 0,
-    "frequency": "2/m",
+    "frequency": "1/m",
     "alternativeFrequency": null,
-    "day": 4,
+    "day": 5,
     "id": "064c0d40-424b-4643-b3f4-671327aa6d30"
   },
   {
@@ -9709,13 +9709,13 @@
       "alpha2": "NL",
       "alpha3": "NLD"
     },
-    "stage": 0,
+    "stage": 2,
     "urlSlug": "nl/bergen/bergen-bibliotheek-kennemerwaard",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "CoderDojo Kennemerwaard organiseert bijna elke week een Dojjo",
+    "alternativeFrequency": "CoderDojo Kennemerwaard organiseert bijna elke week een dojo",
     "day": null,
     "id": "1aa28b5f-b2b3-4528-b124-b7e7e44abdc9"
   },
@@ -15496,13 +15496,13 @@
       "alpha2": "NL",
       "alpha3": "NLD"
     },
-    "stage": 0,
+    "stage": 2,
     "urlSlug": "nl/castricum/castricum-bibliotheek-kennemerwaard",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "CoderDojo Kennemerwaard organiseert bijna elke week een Dojo.",
+    "alternativeFrequency": "CoderDojo Kennemerwaard organiseert bijna elke week een dojo.",
     "day": null,
     "id": "29847b83-02c9-444c-95b5-83c49c45979d"
   },
@@ -21217,7 +21217,7 @@
     "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "CoderDojo Kennemerwaard organiseert bijna elke week een Dojo",
+    "alternativeFrequency": "CoderDojo Kennemerwaard organiseert bijna elke week een dojo",
     "day": null,
     "id": "38978761-19d5-41ef-830e-2014d7c22748"
   },
@@ -27934,13 +27934,13 @@
       "alpha2": "NL",
       "alpha3": "NLD"
     },
-    "stage": 1,
+    "stage": 2,
     "urlSlug": "nl/zuid-scharwoude/langedijk",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "Om de maand op zaterdag 10:00 - 12:00 uur of in schoolvakanties",
+    "alternativeFrequency": "CoderDojo Kennemerwaard organiseert bijna elke week een dojo",
     "day": null,
     "id": "4b658709-e35b-4888-bf88-70d46e3b0e0b"
   },
@@ -35149,13 +35149,13 @@
       "alpha2": "NL",
       "alpha3": "NLD"
     },
-    "stage": 0,
+    "stage": 2,
     "urlSlug": "nl/limmen/limmen-bibliotheek-kennemerwaard",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "CoderDojo Kennemerwaard organiseert bijna elke week een Dojo",
+    "alternativeFrequency": "CoderDojo Kennemerwaard organiseert bijna elke week een dojo",
     "day": null,
     "id": "5c5e54a5-2dc1-46fd-939e-11b718824805"
   },
@@ -35245,7 +35245,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 2,
+    "stage": 4,
     "urlSlug": "ie/dublin/the-foundation-hq",
     "startTime": "17:00:00",
     "endTime": "04:30:00",
@@ -42652,7 +42652,7 @@
       "alpha2": "NL",
       "alpha3": "NLD"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "nl/goirle/goirle-code-01-3",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
@@ -48736,6 +48736,30 @@
     "alternativeFrequency": "Starting again in February 2022",
     "day": 6,
     "id": "80e3edbc-3097-4f0e-ba90-5ea0d62b8e8d"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Nea Smyrni@Athens Makerspace",
+    "geoPoint": {
+      "lat": 37.9507386,
+      "lon": 23.710006
+    },
+    "country": {
+      "countryName": "Greece",
+      "continent": "EU",
+      "alpha2": "GR",
+      "alpha3": "GRC",
+      "countryNumber": "300"
+    },
+    "stage": 1,
+    "urlSlug": "gr/nea-smyrni/nea-smyrni-athens-makerspace",
+    "startTime": "19:30:00",
+    "endTime": "21:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "last",
+    "day": 2,
+    "id": "80e84f00-2d7e-4922-bdff-c6d167ec731d"
   },
   {
     "entity$": "-/cd/dojos",
@@ -84099,9 +84123,9 @@
     "startTime": "00:00:00",
     "endTime": "00:00:00",
     "private": 0,
-    "frequency": "other",
+    "frequency": "1/w",
     "alternativeFrequency": "CoderDojo Kennemerwaard organiseert bijna elke week een Dojo",
-    "day": null,
+    "day": 6,
     "id": "dcf48285-2621-43ac-9cde-32cfc904b876"
   },
   {
@@ -85651,7 +85675,7 @@
     "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "CoderDojo Kennemerwaard organiseert bijna elke week een Dojo",
+    "alternativeFrequency": "CoderDojo Kennemerwaard organiseert bijna elke week een dojo",
     "day": null,
     "id": "e0e40319-14dd-4277-92aa-a5c31e83b8ae"
   },
@@ -90370,7 +90394,7 @@
       "alpha3": "NLD",
       "countryNumber": "528"
     },
-    "stage": 1,
+    "stage": 2,
     "urlSlug": "nl/egmond-aan-zee/egmond",
     "startTime": "14:00:00",
     "endTime": "16:00:00",
@@ -93247,6 +93271,30 @@
     "alternativeFrequency": "Please see the Arapahoe Library District Website for session times",
     "day": 2,
     "id": "f36b224e-4f04-4b03-afa1-ebc9c014535d"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Confluence @ Creative Arts Center",
+    "geoPoint": {
+      "lat": 39.8111137,
+      "lon": -79.356375
+    },
+    "country": {
+      "countryName": "United States",
+      "continent": "NA",
+      "alpha2": "US",
+      "alpha3": "USA",
+      "countryNumber": "840"
+    },
+    "stage": 1,
+    "urlSlug": "us/confluence-pa/confluence-creative-arts-center",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "Sessions days and times will be announced.  Sessions will run monthly April - Oct.",
+    "day": null,
+    "id": "f36c6315-2831-4b2d-aca2-3afaecfd4ac4"
   },
   {
     "entity$": "-/cd/dojos",
@@ -97060,7 +97108,7 @@
       "alpha2": "NL",
       "alpha3": "NLD"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "nl/oisterwijk/oisterwijk-code-01-3",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
