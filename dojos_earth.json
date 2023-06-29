@@ -31480,6 +31480,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Lucan @ Lucan Library",
+    "geoPoint": {
+      "lat": 53.3487016,
+      "lon": -6.452722199999999
+    },
+    "country": {
+      "countryName": "Ireland",
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "countryNumber": "372"
+    },
+    "stage": 1,
+    "urlSlug": "ie/lucan-county-dublin/lucan-lucan-library",
+    "startTime": "15:30:00",
+    "endTime": "16:30:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "3rd",
+    "day": 3,
+    "id": "540b2edb-0785-4b89-8182-374098e36f45"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Rio Rancho@Loma Colorado",
     "geoPoint": {
       "lat": 35.270534639485724,
@@ -55975,14 +55999,14 @@
       "countryName": "Ireland",
       "alpha2": "IE"
     },
-    "stage": 0,
+    "stage": 3,
     "urlSlug": "ie/kilkenny/kilkenny/kilkenny",
-    "startTime": "00:00:00",
-    "endTime": "00:00:00",
+    "startTime": "18:00:00",
+    "endTime": "19:30:00",
     "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "Every Saturday 3pm - 5pm ( term time)",
-    "day": 1,
+    "frequency": "1/w",
+    "alternativeFrequency": "Every Friday 6pm - 7:30pm ( term time)",
+    "day": 5,
     "id": "9278c354-9c00-434a-b4cc-1694c6a55f2a"
   },
   {
