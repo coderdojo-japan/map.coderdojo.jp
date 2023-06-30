@@ -1543,7 +1543,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/coderdojo.kamiyacho/' target='_blank' rel='noopener'>  <img src='/images/dojos/hiroshima.webp' alt='紙屋町' loading='lazy' width='100px' /></a><br><b>紙屋町</b><br>広島市で毎月開催<br><a href='https://www.facebook.com/coderdojo.kamiyacho/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/coderdojo.kamiyacho/' target='_blank' rel='noopener'>  <img src='/images/dojos/hiroshima.webp' alt='紙屋町' loading='lazy' width='100px' /></a><br><b>紙屋町</b><br>広島市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-hiroshima.doorkeeper.jp/events/159202' target='_blank' rel='noopener'>7月15日</a><br><a href='https://www.facebook.com/coderdojo.kamiyacho/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -18823,7 +18823,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://twitter.com/CoderDojoSikatu' target='_blank' rel='noopener'>  <img src='/images/dojos/shikatsu.webp' alt='師勝' loading='lazy' width='100px' /></a><br><b>師勝</b><br>北名古屋市で第2<br>木曜に開催<br><a href='https://twitter.com/CoderDojoSikatu' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://twitter.com/CoderDojoSikatu' target='_blank' rel='noopener'>  <img src='/images/dojos/shikatsu.webp' alt='師勝' loading='lazy' width='100px' /></a><br><b>師勝</b><br>北名古屋市で第2<br>木曜に開催<br>&rarr; 次回: <a href='https://coderdojo-shikatsu.connpass.com/event/288856/' target='_blank' rel='noopener'>7月22日</a><br><a href='https://twitter.com/CoderDojoSikatu' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
