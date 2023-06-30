@@ -72,6 +72,14 @@
     "event_url": "https://coderdojo-nishinomiya.doorkeeper.jp/events/159037"
   },
   {
+    "id": 52,
+    "name": "紙屋町",
+    "url": "https://www.facebook.com/coderdojo.kamiyacho/",
+    "event_title": "【7/15(土) 会場：ポートインク】CoderDojo紙屋町 85回目",
+    "event_date": "2023-07-15T13:45:00.000+09:00",
+    "event_url": "https://coderdojo-hiroshima.doorkeeper.jp/events/159202"
+  },
+  {
     "id": 66,
     "name": "高槻",
     "url": "https://www.facebook.com/coderdojotakatsuki/",
@@ -318,6 +326,14 @@
     "event_title": "第35回 CoderDojo 那覇 (現地開催)",
     "event_date": "2023-07-01T10:00:00.000+09:00",
     "event_url": "https://coderdojo-naha.doorkeeper.jp/events/158804"
+  },
+  {
+    "id": 217,
+    "name": "師勝",
+    "url": "https://twitter.com/CoderDojoSikatu",
+    "event_title": "CoderDojo師勝",
+    "event_date": "2023-07-22T13:00:00.000+09:00",
+    "event_url": "https://coderdojo-shikatsu.connpass.com/event/288856/"
   },
   {
     "id": 218,
