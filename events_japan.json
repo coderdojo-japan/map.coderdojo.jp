@@ -24,14 +24,6 @@
     "event_url": "https://coderdojo-jp-kodaira.connpass.com/event/284570/"
   },
   {
-    "id": 18,
-    "name": "調布",
-    "url": "https://coderdojochofu.hatenablog.jp/",
-    "event_title": "第78回 CoderDojo 調布",
-    "event_date": "2023-07-02T09:30:00.000+09:00",
-    "event_url": "https://coderdojo-chofu.doorkeeper.jp/events/157894"
-  },
-  {
     "id": 30,
     "name": "豊橋",
     "url": "https://www.facebook.com/coderdojo.toyohashi/",
@@ -102,14 +94,6 @@
     "event_title": "CoderDojo富田林 第33回：子ども向けプログラミングクラブ",
     "event_date": "2023-07-16T14:00:00.000+09:00",
     "event_url": "https://coderdojotondabayashi.connpass.com/event/288445/"
-  },
-  {
-    "id": 73,
-    "name": "ひたちなか",
-    "url": "https://www.facebook.com/coderdojo.hitachinaka/",
-    "event_title": "第64回 CoderDojo Hitachinaka",
-    "event_date": "2023-07-02T13:30:00.000+09:00",
-    "event_url": "https://coderdojo-hitachinaka.connpass.com/event/286038/"
   },
   {
     "id": 79,
@@ -299,9 +283,9 @@
     "id": 189,
     "name": "まちだ",
     "url": "https://coderdojo-machida.connpass.com/",
-    "event_title": "CoderDojoまちだ　第４８回",
-    "event_date": "2023-07-02T13:30:00.000+09:00",
-    "event_url": "https://coderdojo-machida.connpass.com/event/285411/"
+    "event_title": "CoderDojoまちだ　第４９回",
+    "event_date": "2023-08-06T13:30:00.000+09:00",
+    "event_url": "https://coderdojo-machida.connpass.com/event/287813/"
   },
   {
     "id": 193,
@@ -430,14 +414,6 @@
     "event_title": "CoderDojo 池田石橋@正福寺 - 11",
     "event_date": "2023-08-05T09:30:00.000+09:00",
     "event_url": "https://coderdojo-ikeda.connpass.com/event/287000/"
-  },
-  {
-    "id": 288,
-    "name": "横浜師岡",
-    "url": "https://coderdojo-morooka.connpass.com",
-    "event_title": "CoderDojo横浜師岡（第10回）",
-    "event_date": "2023-07-02T09:30:00.000+09:00",
-    "event_url": "https://coderdojo-morooka.connpass.com/event/286438/"
   },
   {
     "id": 289,
