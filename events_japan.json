@@ -72,6 +72,14 @@
     "event_url": "https://coderdojo-hiroshima.doorkeeper.jp/events/159202"
   },
   {
+    "id": 64,
+    "name": "札幌",
+    "url": "https://coderdojo-sapporo.jp/",
+    "event_title": "第９８回 CoderDojo札幌",
+    "event_date": "2023-07-09T10:30:00.000+09:00",
+    "event_url": "https://coderdojo-sapporo.connpass.com/event/288957/"
+  },
+  {
     "id": 66,
     "name": "高槻",
     "url": "https://www.facebook.com/coderdojotakatsuki/",
@@ -240,6 +248,14 @@
     "event_url": "https://coderdojo-tamacenter.doorkeeper.jp/events/158993"
   },
   {
+    "id": 156,
+    "name": "古河",
+    "url": "https://coderdojokoga.connpass.com/",
+    "event_title": "第69回CoderDojo Koga（コーダー道場 古河）",
+    "event_date": "2023-08-06T10:00:00.000+09:00",
+    "event_url": "https://coderdojokoga.connpass.com/event/289118/"
+  },
+  {
     "id": 165,
     "name": "喜多方",
     "url": "https://www.coderdojo-kitakata.com/",
@@ -376,6 +392,14 @@
     "event_url": "https://coderdojo-isehara.connpass.com/event/286161/"
   },
   {
+    "id": 264,
+    "name": "藤井寺",
+    "url": "https://www.coderdojo-fujiidera-kashiwara.com",
+    "event_title": "やってみよう！プログラミング ! 第20回 CoderDojo藤井寺",
+    "event_date": "2023-07-23T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-fujiidera.doorkeeper.jp/events/159413"
+  },
+  {
     "id": 274,
     "name": "麹町@アドバンスト・ソフト",
     "url": "https://coderdojo-kojimachi.connpass.com/",
@@ -414,6 +438,14 @@
     "event_title": "CoderDojo 池田石橋@正福寺 - 11",
     "event_date": "2023-08-05T09:30:00.000+09:00",
     "event_url": "https://coderdojo-ikeda.connpass.com/event/287000/"
+  },
+  {
+    "id": 288,
+    "name": "横浜師岡",
+    "url": "https://coderdojo-morooka.connpass.com",
+    "event_title": "CoderDojo横浜師岡（第11回）",
+    "event_date": "2023-08-13T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-morooka.connpass.com/event/289074/"
   },
   {
     "id": 289,
