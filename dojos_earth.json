@@ -66673,6 +66673,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "足利＠マチノテ",
+    "geoPoint": {
+      "lat": 36.33372047530019,
+      "lon": 139.4546315073967
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/ashikaga-tochigi/machinote",
+    "startTime": "13:00:00",
+    "endTime": "15:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "first",
+    "day": 7,
+    "id": "adf6ea8c-9a1b-4d91-9263-23f70155577e"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Farnborough Business Park @ RedHat",
     "geoPoint": {
       "lat": 51.284534,
@@ -95908,7 +95932,7 @@
     "endTime": "14:30:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "🔥 New term in Apr - May 2023 🔥 | 2-hr sessions on Saturdays",
+    "alternativeFrequency": "🔥 New term in Jul - Sep 2023 🔥 | 2-hr sessions on Saturdays",
     "day": 6,
     "id": "fa99d95b-651d-4fee-a7f2-ac2ed748ad82"
   },
