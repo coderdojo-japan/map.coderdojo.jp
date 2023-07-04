@@ -32,6 +32,14 @@
     "event_url": "https://coderdojo-toyohashi.doorkeeper.jp/events/159091"
   },
   {
+    "id": 31,
+    "name": "名古屋",
+    "url": "https://coderdojo-nagoya.connpass.com/",
+    "event_title": "第187回CoderDojo名古屋",
+    "event_date": "2023-07-09T13:30:00.000+09:00",
+    "event_url": "https://coderdojo-nagoya.connpass.com/event/289256/"
+  },
+  {
     "id": 32,
     "name": "天白",
     "url": "https://coderdojo-tempaku.hatenablog.com/",
@@ -110,6 +118,14 @@
     "event_title": "第1回 まなびときばんだいプログラミング道場",
     "event_date": "2023-07-08T13:30:00.000+09:00",
     "event_url": "https://coderdojo-aizu.doorkeeper.jp/events/157792"
+  },
+  {
+    "id": 86,
+    "name": "船橋",
+    "url": "https://funabashi.coderdojo.chiba.jp/",
+    "event_title": "第73回CoderDojo船橋",
+    "event_date": "2023-07-16T10:30:00.000+09:00",
+    "event_url": "https://coderdojofunabashi.connpass.com/event/289199/"
   },
   {
     "id": 97,
@@ -398,6 +414,14 @@
     "event_title": "やってみよう！プログラミング ! 第20回 CoderDojo藤井寺",
     "event_date": "2023-07-23T09:30:00.000+09:00",
     "event_url": "https://coderdojo-fujiidera.doorkeeper.jp/events/159413"
+  },
+  {
+    "id": 270,
+    "name": "長門",
+    "url": "https://sites.google.com/view/coderdojonagato",
+    "event_title": "子どもたちのためのプログラミング初心者/未経験者向け【CoderDojo長門】27回",
+    "event_date": "2023-07-22T14:00:00.000+09:00",
+    "event_url": "https://coderdojonagato.connpass.com/event/282964/"
   },
   {
     "id": 274,
