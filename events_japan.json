@@ -80,6 +80,14 @@
     "event_url": "https://coderdojo-hiroshima.doorkeeper.jp/events/159202"
   },
   {
+    "id": 54,
+    "name": "久留米",
+    "url": "https://www.facebook.com/CoderDojoKurume/",
+    "event_title": "【会場開催】第82回CoderDojo久留米",
+    "event_date": "2023-07-15T14:00:00.000+09:00",
+    "event_url": "https://coderdojo-kurume.connpass.com/event/289320/"
+  },
+  {
     "id": 64,
     "name": "札幌",
     "url": "https://coderdojo-sapporo.jp/",
