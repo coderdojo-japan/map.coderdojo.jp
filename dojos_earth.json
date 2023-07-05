@@ -62412,7 +62412,7 @@
     "startTime": "11:00:00",
     "endTime": "13:00:00",
     "private": 0,
-    "frequency": "1/w",
+    "frequency": "2/m",
     "alternativeFrequency": "Zweimal im Monat, an wechselnden Tagen",
     "day": 6,
     "id": "a2bd89f3-61c7-4860-b2a5-8637ce009ac9"
@@ -75586,6 +75586,30 @@
     "alternativeFrequency": "Scheduled Saturdays from 10am - 12pm",
     "day": null,
     "id": "c53ece49-6c48-490f-b597-8be9fdcdf860"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Sarajevo @ Elektrotehnički fakultet",
+    "geoPoint": {
+      "lat": 43.8563105,
+      "lon": 18.395895
+    },
+    "country": {
+      "countryName": "Bosnia and Herzegovina",
+      "continent": "EU",
+      "alpha2": "BA",
+      "alpha3": "BIH",
+      "countryNumber": "070"
+    },
+    "stage": 1,
+    "urlSlug": "ba/novo-sarajevo/sarajevo-elektrotehnicki-fakultet",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "Four times a week during the month of July",
+    "day": 1,
+    "id": "c54e795b-8852-40be-ae60-d9d4edd0730a"
   },
   {
     "entity$": "-/cd/dojos",
