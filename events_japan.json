@@ -24,6 +24,14 @@
     "event_url": "https://coderdojo-jp-kodaira.connpass.com/event/284570/"
   },
   {
+    "id": 18,
+    "name": "調布",
+    "url": "https://coderdojochofu.hatenablog.jp/",
+    "event_title": "第79回 CoderDojo 調布",
+    "event_date": "2023-07-30T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-chofu.doorkeeper.jp/events/159416"
+  },
+  {
     "id": 30,
     "name": "豊橋",
     "url": "https://www.facebook.com/coderdojo.toyohashi/",
@@ -467,9 +475,9 @@
     "id": 286,
     "name": "池田石橋",
     "url": "https://coderdojo-ikeda.connpass.com/",
-    "event_title": "CoderDojo 池田石橋@正福寺 - 11",
-    "event_date": "2023-08-05T09:30:00.000+09:00",
-    "event_url": "https://coderdojo-ikeda.connpass.com/event/287000/"
+    "event_title": "CoderDojo 池田石橋@正福寺 - 10.5",
+    "event_date": "2023-07-16T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-ikeda.connpass.com/event/289381/"
   },
   {
     "id": 288,
@@ -502,5 +510,21 @@
     "event_title": "CoderDojo＠たかおか 7月 第二週",
     "event_date": "2023-07-09T09:00:00.000+09:00",
     "event_url": "https://coderdojo-takaoka.connpass.com/event/288571/"
+  },
+  {
+    "id": 300,
+    "name": "磐田",
+    "url": "https://coderdojo-iwata.connpass.com",
+    "event_title": "第2回 CoderDojo磐田",
+    "event_date": "2023-07-16T13:30:00.000+09:00",
+    "event_url": "https://coderdojo-iwata.connpass.com/event/287734/"
+  },
+  {
+    "id": 301,
+    "name": "岩国",
+    "url": "https://coderdojo-iwakuni.connpass.com/",
+    "event_title": "CodeDojo 岩国 2回目",
+    "event_date": "2023-07-22T14:00:00.000+09:00",
+    "event_url": "https://coderdojo-iwakuni.connpass.com/event/288371/"
   }
 ]
