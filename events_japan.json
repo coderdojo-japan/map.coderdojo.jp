@@ -136,6 +136,14 @@
     "event_url": "https://coderdojo-aizu.doorkeeper.jp/events/157792"
   },
   {
+    "id": 81,
+    "name": "岡南",
+    "url": "https://www.coderdojo-konan.jp/",
+    "event_title": "CoderDojo Konan (OKAYAMA) #48",
+    "event_date": "2023-07-16T13:30:00.000+09:00",
+    "event_url": "https://coderdojo-konan.doorkeeper.jp/events/159726"
+  },
+  {
     "id": 86,
     "name": "船橋",
     "url": "https://funabashi.coderdojo.chiba.jp/",
@@ -264,6 +272,14 @@
     "event_url": "https://coderdojo-inagi.doorkeeper.jp/events/153203"
   },
   {
+    "id": 148,
+    "name": "静岡",
+    "url": "https://coderdojo-shizuoka.org/",
+    "event_title": "第45回CoderDojo静岡",
+    "event_date": "2023-07-29T09:30:00.000+09:00",
+    "event_url": "https://coderdojo-shizuoka.connpass.com/event/289529/"
+  },
+  {
     "id": 149,
     "name": "白河",
     "url": "https://coderdojoshirakawa.hateblo.jp/entry/top",
@@ -382,6 +398,14 @@
     "event_title": "第36回 CoderDojo 戸田公園",
     "event_date": "2023-07-08T10:00:00.000+09:00",
     "event_url": "https://corderdojo-todakoen.connpass.com/event/287650/"
+  },
+  {
+    "id": 241,
+    "name": "西尾",
+    "url": "https://www.coderdojo-nishio.com/",
+    "event_title": "7月度 CoderDojo Nishio(こーだーどうじょうにしお）",
+    "event_date": "2023-07-08T10:00:00.000+09:00",
+    "event_url": "https://coderdojo-nishio.doorkeeper.jp/events/159757"
   },
   {
     "id": 243,
