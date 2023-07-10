@@ -328,6 +328,14 @@
     "event_url": "https://coderdojo-inuyama.doorkeeper.jp/events/155591"
   },
   {
+    "id": 226,
+    "name": "伊予",
+    "url": "https://coderdojo-iyo.com/",
+    "event_title": "第45回 CoderDojo伊予 子どものためのプログラミング道場",
+    "event_date": "2023-07-23T13:00:00.000+09:00",
+    "event_url": "https://coderdojo-iyo.connpass.com/event/289843/"
+  },
+  {
     "id": 243,
     "name": "大府",
     "url": "https://coderdojo-obu.connpass.com/",
@@ -374,6 +382,14 @@
     "event_title": "やってみよう！プログラミング ! 第20回 CoderDojo藤井寺",
     "event_date": "2023-07-23T09:30:00.000+09:00",
     "event_url": "https://coderdojo-fujiidera.doorkeeper.jp/events/159413"
+  },
+  {
+    "id": 265,
+    "name": "八戸@吹上",
+    "url": "https://coderdojo-hachinohe.aomori.jp/",
+    "event_title": "やってみよう！プログラミング ! 第23回 CoderDojo八戸@鮫のゲストハウスDrop in",
+    "event_date": "2023-08-06T10:00:00.000+09:00",
+    "event_url": "https://coderdojo-hachinohe.doorkeeper.jp/events/159878"
   },
   {
     "id": 270,
