@@ -112,6 +112,14 @@
     "event_url": "https://coderdojotondabayashi.connpass.com/event/288445/"
   },
   {
+    "id": 73,
+    "name": "ひたちなか",
+    "url": "https://www.facebook.com/coderdojo.hitachinaka/",
+    "event_title": "第65回 CoderDojo Hitachinaka",
+    "event_date": "2023-08-11T13:30:00.000+09:00",
+    "event_url": "https://coderdojo-hitachinaka.connpass.com/event/289847/"
+  },
+  {
     "id": 79,
     "name": "会津",
     "url": "https://coderdojoaizu.mystrikingly.com/",
@@ -174,6 +182,14 @@
     "event_title": "第49回 CoderDojo池袋@ユニーク・アイネット",
     "event_date": "2023-07-16T14:00:00.000+09:00",
     "event_url": "https://coderdojo-ikebukuro.connpass.com/event/288429/"
+  },
+  {
+    "id": 124,
+    "name": "灘",
+    "url": "https://coderdojo-nada.github.io/",
+    "event_title": "CoderDojo Nada(灘) プログラミング勉強会（オンライン参加）",
+    "event_date": "2023-08-27T14:00:00.000+09:00",
+    "event_url": "https://coderdojo-nada.doorkeeper.jp/events/159989"
   },
   {
     "id": 140,
@@ -419,9 +435,9 @@
     "id": 278,
     "name": "武蔵小杉",
     "url": "https://coderdojo-musashikosugi.connpass.com/",
-    "event_title": "第27回 CoderDojo武蔵小杉【自習回】※過去1回以上参加した方向け",
-    "event_date": "2023-07-29T13:15:00.000+09:00",
-    "event_url": "https://coderdojo-musashikosugi.connpass.com/event/288411/"
+    "event_title": "第27回 CoderDojo武蔵小杉【自習＆ロボコン練習回】※過去1回以上参加した方向け",
+    "event_date": "2023-07-17T09:15:00.000+09:00",
+    "event_url": "https://coderdojo-musashikosugi.connpass.com/event/289884/"
   },
   {
     "id": 280,
