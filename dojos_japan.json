@@ -3406,5 +3406,17 @@
     "prefecture": "東京",
     "created_at": "2023-06-08T00:00:00.000+09:00",
     "description": "文京区本郷で毎月開催"
+  },
+  {
+    "id": 303,
+    "url": "https://coderdojo-tsuruoka.connpass.com/",
+    "name": "鶴岡",
+    "logo": "https://coderdojo.jp/img/dojos/tsuruoka.webp",
+    "order": "062031",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "山形",
+    "created_at": "2023-07-12T00:00:00.000+09:00",
+    "description": "鶴岡市で毎月開催"
   }
 ]

@@ -77064,8 +77064,8 @@
     "startTime": "10:00:00",
     "endTime": "12:00:00",
     "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "first",
+    "frequency": "other",
+    "alternativeFrequency": "Once a month",
     "day": 6,
     "id": "c9729663-2c23-48bd-ae45-071a5e54291a"
   },
