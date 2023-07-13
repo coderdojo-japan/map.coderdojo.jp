@@ -26635,6 +26635,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Kalymnos@2ndgelKalymnos",
+    "geoPoint": {
+      "lat": 36.95465882221016,
+      "lon": 26.97718620300293
+    },
+    "country": {
+      "countryName": "Greece",
+      "continent": "EU",
+      "alpha2": "GR",
+      "alpha3": "GRC",
+      "countryNumber": "300"
+    },
+    "stage": 1,
+    "urlSlug": "gr/pothia/kalymnos-2-ndgelkalymnos",
+    "startTime": "08:30:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 7,
+    "id": "477efba9-adb2-4bfb-ae96-7e4cfb148c39"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Mont St Guibert",
     "geoPoint": {
       "lat": 50.63668209999999,
@@ -48856,7 +48880,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "",
+    "name": "Groenlo @ Cultureel Centrum De Bron",
     "geoPoint": {
       "lat": 52.04151,
       "lon": 6.6185321000000386
@@ -58498,6 +58522,30 @@
     "alternativeFrequency": null,
     "day": 1,
     "id": "98afc5f4-4a02-4541-ab69-68cbf16d88ae"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Duhok @WEDO stem",
+    "geoPoint": {
+      "lat": 36.86599979416779,
+      "lon": 42.96683192253113
+    },
+    "country": {
+      "countryName": "Iraq",
+      "continent": "AS",
+      "alpha2": "IQ",
+      "alpha3": "IRQ",
+      "countryNumber": "368"
+    },
+    "stage": 1,
+    "urlSlug": "iq/duhok/duhok-wedo-stem",
+    "startTime": "17:00:00",
+    "endTime": "19:00:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 4,
+    "id": "98baa761-ee4f-4f53-abd5-82b34c43283e"
   },
   {
     "entity$": "-/cd/dojos",
@@ -74845,6 +74893,30 @@
     "alternativeFrequency": null,
     "day": 1,
     "id": "c397d818-1984-4965-8e04-38e0d89928c4"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Craigavon @ CIDO",
+    "geoPoint": {
+      "lat": 54.4554239,
+      "lon": -6.4166468
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/craigavon/craigavon-cido",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "c39b6e22-79d7-4415-b853-bfba40fd7a3d"
   },
   {
     "entity$": "-/cd/dojos",
