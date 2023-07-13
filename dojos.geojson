@@ -5556,6 +5556,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          26.97718620300293,
+          36.95465882221016
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Kalymnos@2ndgelKalymnos<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gr/pothia/kalymnos-2-ndgelkalymnos'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.612379400000009,
           50.63668209999999
         ]
@@ -12786,6 +12801,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          42.96683192253113,
+          36.86599979416779
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Duhok @WEDO stem<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/iq/duhok/duhok-wedo-stem'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.704014193621262,
           4.819281755471975
         ]
@@ -16334,6 +16364,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Arasampalayam, Coimbatore @ SVS Educational Institutions<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/in/coimbatore-south-tamil-nadu/arasampalayam-coimbatore-svs-educational-institutions'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4166468,
+          54.4554239
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Craigavon @ CIDO<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/craigavon/craigavon-cido'>連絡先を見る</a>"
       }
     },
     {
