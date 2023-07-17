@@ -13783,6 +13783,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Dunoon@Boost Africa Foundation",
+    "geoPoint": {
+      "lat": -33.8155067,
+      "lon": 18.5351702
+    },
+    "country": {
+      "countryName": "South Africa",
+      "continent": "AF",
+      "alpha2": "ZA",
+      "alpha3": "ZAF",
+      "countryNumber": "710"
+    },
+    "stage": 1,
+    "urlSlug": "za/cape-town/dunoon-boost-africa-foundation",
+    "startTime": "15:45:00",
+    "endTime": "16:45:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 5,
+    "id": "253cd243-63fe-4066-bba8-effad08e6364"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Albuquerque @ Quelab",
     "geoPoint": {
       "lat": 35.10323312961423,
@@ -22059,8 +22083,8 @@
     "entity$": "-/cd/dojos",
     "name": "Goes @ Bibliotheek Oosterschelde",
     "geoPoint": {
-      "lat": 51.50491719999999,
-      "lon": 3.8922364999999672
+      "lat": 51.5033208,
+      "lon": 3.887446599999999
     },
     "country": {
       "countryName": "Netherlands",
@@ -22072,7 +22096,7 @@
     "stage": 1,
     "urlSlug": "nl/goes/goes-bibliotheek-oosterschelde",
     "startTime": "13:00:00",
-    "endTime": "15:30:00",
+    "endTime": "15:00:00",
     "private": 0,
     "frequency": "1/m",
     "alternativeFrequency": "2nd",
@@ -34753,6 +34777,30 @@
     "alternativeFrequency": "Every Saturday 10.30am - 1.30pm",
     "day": null,
     "id": "5b3babe7-198b-4b9d-83b9-b0701c8d39ef"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "平和島@ユニークアイネット",
+    "geoPoint": {
+      "lat": 35.5793886,
+      "lon": 139.7352356
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/tokyo/yunkuainetto",
+    "startTime": "14:00:00",
+    "endTime": "16:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": null,
+    "day": 7,
+    "id": "5b475bc8-cc83-4824-a0da-cd5000325eee"
   },
   {
     "entity$": "-/cd/dojos",
@@ -56719,6 +56767,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Orange Country, CA (Irvine) @ Amazon",
+    "geoPoint": {
+      "lat": 33.6491466,
+      "lon": -117.7649014
+    },
+    "country": {
+      "countryName": "United States",
+      "continent": "NA",
+      "alpha2": "US",
+      "alpha3": "USA",
+      "countryNumber": "840"
+    },
+    "stage": 1,
+    "urlSlug": "us/irvine-ca/orange-country-ca-irvine-amazon",
+    "startTime": "04:00:00",
+    "endTime": "06:00:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "1st and 2nd Thursday of the month, from 4:00 pm to 6:00 pm",
+    "day": 4,
+    "id": "94bf8880-f780-47b4-9137-72f445a2a6bc"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "California, Salinas @ Hartnell College",
     "geoPoint": {
       "lat": 36.6716195,
@@ -65131,6 +65203,30 @@
     "alternativeFrequency": null,
     "day": 3,
     "id": "a9985b62-6b2f-46ac-adb4-94c7ebabe1b0"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "山形",
+    "geoPoint": {
+      "lat": 38.2231636,
+      "lon": 140.3247627
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/japan-yamagata/shan1-xing2",
+    "startTime": "09:00:00",
+    "endTime": "15:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "2nd",
+    "day": 7,
+    "id": "a99f7d3a-203d-4858-9f39-b0ebb720d2f5"
   },
   {
     "entity$": "-/cd/dojos",

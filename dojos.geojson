@@ -688,7 +688,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-sapporo.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/sapporo.webp' alt='札幌' loading='lazy' width='100px' /></a><br><b>札幌</b><br>札幌市で月2回開催<br><a href='https://coderdojo-sapporo.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-sapporo.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/sapporo.webp' alt='札幌' loading='lazy' width='100px' /></a><br><b>札幌</b><br>札幌市で月2回開催<br>&rarr; 次回: <a href='https://coderdojo-sapporo.connpass.com/event/290524/' target='_blank' rel='noopener'>7月23日</a><br><a href='https://coderdojo-sapporo.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -2931,6 +2931,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          18.5351702,
+          -33.8155067
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dunoon@Boost Africa Foundation<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/za/cape-town/dunoon-boost-africa-foundation'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           24.849298900000008,
           44.8475684
         ]
@@ -4581,8 +4596,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.8922364999999672,
-          51.50491719999999
+          3.887446599999999,
+          51.5033208
         ]
       },
       "properties": {
@@ -6013,7 +6028,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-ikeda.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.webp' alt='池田石橋' loading='lazy' width='100px' /></a><br><b>池田石橋</b><br>池田市石橋で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-ikeda.connpass.com/event/287000/' target='_blank' rel='noopener'>8月5日</a><br><a href='https://coderdojo-ikeda.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-ikeda.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.webp' alt='池田石橋' loading='lazy' width='100px' /></a><br><b>池田石橋</b><br>池田市石橋で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-ikeda.connpass.com/event/287000/' target='_blank' rel='noopener'>8月6日</a><br><a href='https://coderdojo-ikeda.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -6508,7 +6523,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-musashikosugi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/musashi-kosugi.webp' alt='武蔵小杉' loading='lazy' width='100px' /></a><br><b>武蔵小杉</b><br>武蔵小杉、向河原<br>周辺で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-musashikosugi.connpass.com/event/289884/' target='_blank' rel='noopener'>7月17日</a><br><a href='https://coderdojo-musashikosugi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-musashikosugi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/musashi-kosugi.webp' alt='武蔵小杉' loading='lazy' width='100px' /></a><br><b>武蔵小杉</b><br>武蔵小杉、向河原<br>周辺で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-musashikosugi.connpass.com/event/288411/' target='_blank' rel='noopener'>7月29日</a><br><a href='https://coderdojo-musashikosugi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -7243,7 +7258,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-sakai.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/sakai.webp' alt='堺' loading='lazy' width='100px' /></a><br><b>堺</b><br>堺市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-sakai.connpass.com/event/290143/' target='_blank' rel='noopener'>7月17日</a><br><a href='https://coderdojo-sakai.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-sakai.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/sakai.webp' alt='堺' loading='lazy' width='100px' /></a><br><b>堺</b><br>堺市で毎月開催<br><a href='https://coderdojo-sakai.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -12314,6 +12329,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<a href='https://coderdojo-hiyoshi.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.webp' alt='日吉' loading='lazy' width='100px' /></a><br><b>日吉</b><br>久留米市日吉校区<br>で隔月開催<br><a href='https://coderdojo-hiyoshi.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7649014,
+          33.6491466
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Orange Country, CA (Irvine) @ Amazon<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/irvine-ca/orange-country-ca-irvine-amazon'>連絡先を見る</a>"
       }
     },
     {
