@@ -7267,7 +7267,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "A real cool place @ CHQ",
+    "name": "Test Dojo HV",
     "geoPoint": {
       "lat": 53.3486949,
       "lon": -6.2505678
@@ -7279,8 +7279,8 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 4,
-    "urlSlug": "ie/dublin/a-real-cool-place-chq",
+    "stage": 0,
+    "urlSlug": "ie/dublin/test-dojo-hv",
     "startTime": "17:00:00",
     "endTime": "18:00:00",
     "private": 0,

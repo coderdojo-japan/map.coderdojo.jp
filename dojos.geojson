@@ -1476,6 +1476,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.2505678,
+          53.3486949
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Test Dojo HV<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin/test-dojo-hv'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.480326459859285,
           51.91114161263148
         ]
@@ -6073,7 +6088,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-ikebukuro.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/ikebukuro.webp' alt='池袋' loading='lazy' width='100px' /></a><br><b>池袋</b><br>豊島区で毎月開催<br><a href='https://coderdojo-ikebukuro.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-ikebukuro.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/ikebukuro.webp' alt='池袋' loading='lazy' width='100px' /></a><br><b>池袋</b><br>豊島区で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-ikebukuro.connpass.com/event/288430/' target='_blank' rel='noopener'>8月13日</a><br><a href='https://coderdojo-ikebukuro.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -17353,7 +17368,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nihonmatsu.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nihonmatsu.webp' alt='二本松' loading='lazy' width='100px' /></a><br><b>二本松</b><br>二本松市で毎月開催<br><a href='https://coderdojo-nihonmatsu.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nihonmatsu.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nihonmatsu.webp' alt='二本松' loading='lazy' width='100px' /></a><br><b>二本松</b><br>二本松市で毎月開催<br>&rarr; 次回: <a href='https://dojonihonmatsu.doorkeeper.jp/events/160264' target='_blank' rel='noopener'>8月11日</a><br><a href='https://coderdojo-nihonmatsu.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -21028,7 +21043,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-hikari.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/hikari.webp' alt='光' loading='lazy' width='100px' /></a><br><b>光</b><br>光市で毎月開催<br><a href='https://coderdojo-hikari.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-hikari.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/hikari.webp' alt='光' loading='lazy' width='100px' /></a><br><b>光</b><br>光市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-hikari.connpass.com/event/290591/' target='_blank' rel='noopener'>7月23日</a><br><a href='https://coderdojo-hikari.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
