@@ -62323,6 +62323,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Seishin",
+    "geoPoint": {
+      "lat": 34.719613125863475,
+      "lon": 135.01569628715515
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/kobe-hyogo/seishin",
+    "startTime": "17:00:00",
+    "endTime": "21:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "first",
+    "day": 3,
+    "id": "a273ea5c-2998-448e-8d61-b48de632d9af"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Miyakojima",
     "geoPoint": {
       "lat": 24.7923027,
