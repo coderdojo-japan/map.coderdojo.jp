@@ -80828,7 +80828,7 @@
     "urlSlug": "gb/exeter/exeter-exeter-college-technology-centre",
     "startTime": "16:00:00",
     "endTime": "18:00:00",
-    "private": 1,
+    "private": 0,
     "frequency": "1/w",
     "alternativeFrequency": null,
     "day": 4,
@@ -89578,7 +89578,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Ignite Hubs",
+    "name": "Ignite Hubs Camberwell",
     "geoPoint": {
       "lat": 51.47570469999999,
       "lon": -0.0920588
@@ -89591,7 +89591,7 @@
       "countryNumber": "826"
     },
     "stage": 2,
-    "urlSlug": "gb/london/ignite-hubs",
+    "urlSlug": "gb/london/ignite-hubs-camberwell",
     "startTime": "18:15:00",
     "endTime": "19:15:00",
     "private": 0,
