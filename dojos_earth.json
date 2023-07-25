@@ -41899,6 +41899,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Pukekohe@PDKB      (PasifikaDigitalKnowledgeBank)",
+    "geoPoint": {
+      "lat": -37.19988379999999,
+      "lon": 174.9057773
+    },
+    "country": {
+      "countryName": "New Zealand",
+      "continent": "OC",
+      "alpha2": "NZ",
+      "alpha3": "NZL",
+      "countryNumber": "554"
+    },
+    "stage": 1,
+    "urlSlug": "nz/auckland/pukekohe-pdkb-pasifikadigitalknowledgebank",
+    "startTime": "09:00:00",
+    "endTime": "15:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 5,
+    "id": "6f404331-fb96-45e0-8990-70e6aecf4487"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "New Delhi, Dwarka @ Stem Center Ace",
     "geoPoint": {
       "lat": 28.596072,
@@ -65833,6 +65857,30 @@
     "alternativeFrequency": null,
     "day": null,
     "id": "ab574ca6-7bd5-438a-8195-397cbb41df02"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Petroupoli-Ilion @ Smileform",
+    "geoPoint": {
+      "lat": 38.0415979,
+      "lon": 23.6936839
+    },
+    "country": {
+      "countryName": "Greece",
+      "continent": "EU",
+      "alpha2": "GR",
+      "alpha3": "GRC",
+      "countryNumber": "300"
+    },
+    "stage": 1,
+    "urlSlug": "gr/petroupoli/petroupoli-ilion-smileform",
+    "startTime": "17:30:00",
+    "endTime": "18:30:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "ab605299-d4a9-481c-9e37-67a65775b7fd"
   },
   {
     "entity$": "-/cd/dojos",
