@@ -36300,8 +36300,8 @@
     "entity$": "-/cd/dojos",
     "name": "大府共和",
     "geoPoint": {
-      "lat": 35.00561,
-      "lon": 136.95019200000002
+      "lat": 35.0117733,
+      "lon": 136.950887
     },
     "country": {
       "countryName": "Japan",
@@ -36310,10 +36310,10 @@
       "alpha3": "JPN",
       "countryNumber": "392"
     },
-    "stage": 0,
-    "urlSlug": "jp/obu-aichi/da4-fu3-gong4-he2",
-    "startTime": "09:30:00",
-    "endTime": "11:30:00",
+    "stage": 1,
+    "urlSlug": "jp/da4-fu3-gong4-he2",
+    "startTime": "09:15:00",
+    "endTime": "11:15:00",
     "private": 0,
     "frequency": "1/m",
     "alternativeFrequency": "last",
