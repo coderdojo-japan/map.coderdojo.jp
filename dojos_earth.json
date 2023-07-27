@@ -43198,6 +43198,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Camarillo, California @ Camarillo Library",
+    "geoPoint": {
+      "lat": 34.243166,
+      "lon": -119.0138953
+    },
+    "country": {
+      "countryName": "United States",
+      "continent": "NA",
+      "alpha2": "US",
+      "alpha3": "USA",
+      "countryNumber": "840"
+    },
+    "stage": 1,
+    "urlSlug": "us/camarillo-ca/camarillo-california-camarillo-library",
+    "startTime": "13:00:00",
+    "endTime": "15:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "first",
+    "day": 7,
+    "id": "72b7a240-a4d4-472f-836e-c12c67faa9eb"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Bellevue @ Bellevue Library  Makerspace",
     "geoPoint": {
       "lat": 47.6201601,
@@ -95065,6 +95089,30 @@
     "alternativeFrequency": null,
     "day": 6,
     "id": "f749d7fb-389e-4235-9f4a-436ab46b81ef"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Thomastown @ Thomastown Library",
+    "geoPoint": {
+      "lat": 52.5250364,
+      "lon": -7.1401875
+    },
+    "country": {
+      "countryName": "Ireland",
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "countryNumber": "372"
+    },
+    "stage": 1,
+    "urlSlug": "ie/thomastown-county-kilkenny/thomastown-thomastown-library",
+    "startTime": "18:00:00",
+    "endTime": "19:30:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 3,
+    "id": "f74f4280-8b8c-40ea-b973-bab5f675b2a7"
   },
   {
     "entity$": "-/cd/dojos",
