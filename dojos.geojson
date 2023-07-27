@@ -2293,7 +2293,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://sites.google.com/coderdojo.com/kishiwada/' target='_blank' rel='noopener'>  <img src='/images/dojos/kishiwada.webp' alt='岸和田' loading='lazy' width='100px' /></a><br><b>岸和田</b><br>岸和田市で毎月開催<br><a href='https://sites.google.com/coderdojo.com/kishiwada/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://sites.google.com/coderdojo.com/kishiwada/' target='_blank' rel='noopener'>  <img src='/images/dojos/kishiwada.webp' alt='岸和田' loading='lazy' width='100px' /></a><br><b>岸和田</b><br>岸和田市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-kishiwada.connpass.com/event/291451/' target='_blank' rel='noopener'>7月29日</a><br><a href='https://sites.google.com/coderdojo.com/kishiwada/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -9411,6 +9411,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -119.0138953,
+          34.243166
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Camarillo, California @ Camarillo Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/camarillo-ca/camarillo-california-camarillo-library'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.750189299999988,
           53.3043378
         ]
@@ -11563,7 +11578,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>  <img src='/images/dojos/toyohashi.webp' alt='豊橋' loading='lazy' width='100px' /></a><br><b>豊橋</b><br>豊橋市で不定期開催<br>&rarr; 次回: <a href='https://coderdojo-toyohashi.doorkeeper.jp/events/159091' target='_blank' rel='noopener'>7月4日</a><br><a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>  <img src='/images/dojos/toyohashi.webp' alt='豊橋' loading='lazy' width='100px' /></a><br><b>豊橋</b><br>豊橋市で不定期開催<br>&rarr; 次回: <a href='https://coderdojo-toyohashi.doorkeeper.jp/events/160448' target='_blank' rel='noopener'>8月1日</a><br><a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -12463,7 +12478,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://sites.google.com/view/coderdojonagato' target='_blank' rel='noopener'>  <img src='/images/dojos/coderdojo.webp' alt='長門' loading='lazy' width='100px' /></a><br><b>長門</b><br>長門市しごとセン<br>ターで第4土曜に開催<br>&rarr; 次回: <a href='https://coderdojonagato.connpass.com/event/282965/' target='_blank' rel='noopener'>8月26日</a><br><a href='https://sites.google.com/view/coderdojonagato' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://sites.google.com/view/coderdojonagato' target='_blank' rel='noopener'>  <img src='/images/dojos/coderdojo.webp' alt='長門' loading='lazy' width='100px' /></a><br><b>長門</b><br>長門市しごとセン<br>ターで第4土曜に開催<br>&rarr; 次回: <a href='https://coderdojonagato.connpass.com/event/291452/' target='_blank' rel='noopener'>8月9日</a><br><a href='https://sites.google.com/view/coderdojonagato' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -20849,6 +20864,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Navan<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/meath/unity-centre-windtown-navan-co-meath/navan'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1401875,
+          52.5250364
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Thomastown @ Thomastown Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/thomastown-county-kilkenny/thomastown-thomastown-library'>連絡先を見る</a>"
       }
     },
     {
