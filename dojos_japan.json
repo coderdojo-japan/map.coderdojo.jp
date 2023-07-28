@@ -3418,5 +3418,17 @@
     "prefecture": "山形",
     "created_at": "2023-07-12T00:00:00.000+09:00",
     "description": "鶴岡市で毎月開催"
+  },
+  {
+    "id": 304,
+    "url": "https://coderdojo-obu-t.connpass.com/",
+    "name": "大府共和",
+    "logo": "https://coderdojo.jp/img/dojos/obu-kyowa.webp",
+    "order": "232238",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "愛知",
+    "created_at": "2023-07-28T11:08:10.004+09:00",
+    "description": "大府市で毎月1～2回開催"
   }
 ]
