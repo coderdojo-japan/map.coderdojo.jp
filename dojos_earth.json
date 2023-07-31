@@ -14670,15 +14670,15 @@
     "entity$": "-/cd/dojos",
     "name": "Braga",
     "geoPoint": {
-      "lat": 41.551815,
-      "lon": -8.424283899999978
+      "lat": 41.5614336,
+      "lon": -8.3972397
     },
     "country": {
       "countryName": "Portugal",
       "alpha2": "PT"
     },
     "stage": 2,
-    "urlSlug": "pt/braga/braga/braga",
+    "urlSlug": "pt/braga/braga",
     "startTime": "10:00:00",
     "endTime": "12:00:00",
     "private": 0,
