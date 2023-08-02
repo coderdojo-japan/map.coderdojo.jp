@@ -63586,6 +63586,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "MaroaIL@MaroaLibrary",
+    "geoPoint": {
+      "lat": 40.0342026,
+      "lon": -88.9528701
+    },
+    "country": {
+      "countryName": "United States",
+      "continent": "NA",
+      "alpha2": "US",
+      "alpha3": "USA",
+      "countryNumber": "840"
+    },
+    "stage": 1,
+    "urlSlug": "us/maroa-il/maroail-maroalibrary",
+    "startTime": "14:00:00",
+    "endTime": "15:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 4,
+    "id": "a527258c-4eef-4418-8305-5752d329f980"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Gabes, Tunisia @ Association Wassam",
     "geoPoint": {
       "lat": 33.888077,
@@ -66927,11 +66951,11 @@
     },
     "stage": 1,
     "urlSlug": "jp/ashikaga-tochigi/machinote",
-    "startTime": "13:00:00",
-    "endTime": "15:00:00",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
     "private": 0,
     "frequency": "1/m",
-    "alternativeFrequency": "first",
+    "alternativeFrequency": "3rd",
     "day": 7,
     "id": "adf6ea8c-9a1b-4d91-9263-23f70155577e"
   },
