@@ -313,7 +313,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojokibi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.webp' alt='吉備' loading='lazy' width='100px' /></a><br><b>吉備</b><br>岡山市北区で毎月開催<br><a href='https://coderdojokibi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojokibi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.webp' alt='吉備' loading='lazy' width='100px' /></a><br><b>吉備</b><br>岡山市北区で毎月開催<br>&rarr; 次回: <a href='https://coderdojokibi.connpass.com/event/291905/' target='_blank' rel='noopener'>8月19日</a><br><a href='https://coderdojokibi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -688,7 +688,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-sapporo.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/sapporo.webp' alt='札幌' loading='lazy' width='100px' /></a><br><b>札幌</b><br>札幌市で月2回開催<br><a href='https://coderdojo-sapporo.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-sapporo.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/sapporo.webp' alt='札幌' loading='lazy' width='100px' /></a><br><b>札幌</b><br>札幌市で月2回開催<br>&rarr; 次回: <a href='https://coderdojo-sapporo.connpass.com/event/291607/' target='_blank' rel='noopener'>8月27日</a><br><a href='https://coderdojo-sapporo.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -11023,7 +11023,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://sites.google.com/coderdojo.com/anjo/' target='_blank' rel='noopener'>  <img src='/images/dojos/anjo.webp' alt='安城' loading='lazy' width='100px' /></a><br><b>安城</b><br>安城市で第3土曜<br>に開催<br><a href='https://sites.google.com/coderdojo.com/anjo/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://sites.google.com/coderdojo.com/anjo/' target='_blank' rel='noopener'>  <img src='/images/dojos/anjo.webp' alt='安城' loading='lazy' width='100px' /></a><br><b>安城</b><br>安城市で第3土曜<br>に開催<br>&rarr; 次回: <a href='https://coderdojo-anjo.doorkeeper.jp/events/161081' target='_blank' rel='noopener'>8月12日</a><br><a href='https://sites.google.com/coderdojo.com/anjo/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -13994,6 +13994,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Holualoa<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/hawaii/h-lualoa/holualoa'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9528701,
+          40.0342026
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>MaroaIL@MaroaLibrary<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/maroa-il/maroail-maroalibrary'>連絡先を見る</a>"
       }
     },
     {
