@@ -35235,8 +35235,8 @@
     "entity$": "-/cd/dojos",
     "name": "Limmen @ Bibliotheek Kennemerwaard",
     "geoPoint": {
-      "lat": 52.5691658,
-      "lon": 4.687756400000012
+      "lat": 52.5726401,
+      "lon": 4.7011216
     },
     "country": {
       "countryName": "Netherlands",
@@ -35247,12 +35247,12 @@
     },
     "stage": 2,
     "urlSlug": "nl/limmen/limmen-bibliotheek-kennemerwaard",
-    "startTime": "00:00:00",
-    "endTime": "00:00:00",
+    "startTime": "15:00:00",
+    "endTime": "18:30:00",
     "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "CoderDojo Kennemerwaard organiseert bijna elke week een dojo",
-    "day": null,
+    "frequency": "1/m",
+    "alternativeFrequency": "4th",
+    "day": 2,
     "id": "5c5e54a5-2dc1-46fd-939e-11b718824805"
   },
   {
@@ -66772,6 +66772,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Kasoa @ Daystar",
+    "geoPoint": {
+      "lat": 5.492254451808629,
+      "lon": -0.44962406158447266
+    },
+    "country": {
+      "countryName": "Ghana",
+      "continent": "AF",
+      "alpha2": "GH",
+      "alpha3": "GHA",
+      "countryNumber": "288"
+    },
+    "stage": 1,
+    "urlSlug": "gh/kasoa/kasoa-daystar",
+    "startTime": "09:00:00",
+    "endTime": "11:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "ad5c6832-a1d8-46e4-98f8-27ab818685fe"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Bramley Road @ Oakwood Library",
     "geoPoint": {
       "lat": 51.64843843482686,
@@ -85549,6 +85573,30 @@
     "alternativeFrequency": null,
     "day": 6,
     "id": "e00d3a01-0620-4ac7-a9c6-508e9ef361ad"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Limerick @ JNJ Vision",
+    "geoPoint": {
+      "lat": 52.67039700864762,
+      "lon": -8.537664413452148
+    },
+    "country": {
+      "countryName": "Ireland",
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "countryNumber": "372"
+    },
+    "stage": 1,
+    "urlSlug": "ie/limerick/limerick-jnj-vision",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 1,
+    "frequency": "other",
+    "alternativeFrequency": "twice a year",
+    "day": null,
+    "id": "e020697c-75c6-4f78-89f4-94bd99ac9592"
   },
   {
     "entity$": "-/cd/dojos",
