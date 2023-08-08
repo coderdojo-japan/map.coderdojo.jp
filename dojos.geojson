@@ -2788,7 +2788,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-atsugi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/atsugi.webp' alt='厚木' loading='lazy' width='100px' /></a><br><b>厚木</b><br>厚木市で不定期開催<br><a href='https://coderdojo-atsugi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-atsugi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/atsugi.webp' alt='厚木' loading='lazy' width='100px' /></a><br><b>厚木</b><br>厚木市で不定期開催<br>&rarr; 次回: <a href='https://coderdojo-atsugi.connpass.com/event/292638/' target='_blank' rel='noopener'>8月26日</a><br><a href='https://coderdojo-atsugi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -3809,21 +3809,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>BSD City @ Eduxtech<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/id/kecamatan-serpong-south-tangerang-city-banten/bsd-city-eduxtech'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.567074999999932,
-          44.063301
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Rimini<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/rimini-province-of-rimini/rimini'>連絡先を見る</a>"
       }
     },
     {
@@ -6043,7 +6028,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-ikeda.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.webp' alt='池田石橋' loading='lazy' width='100px' /></a><br><b>池田石橋</b><br>池田市石橋で毎月開催<br><a href='https://coderdojo-ikeda.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-ikeda.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.webp' alt='池田石橋' loading='lazy' width='100px' /></a><br><b>池田石橋</b><br>池田市石橋で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-ikeda.connpass.com/event/292645/' target='_blank' rel='noopener'>9月3日</a><br><a href='https://coderdojo-ikeda.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -13386,6 +13371,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.732292,
+          52.563542
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Akersloot<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/akersloot/akersloot'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.13052010000001246,
           52.196571
         ]
@@ -14878,7 +14878,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojochofu.hatenablog.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/chofu.webp' alt='調布' loading='lazy' width='100px' /></a><br><b>調布</b><br>調布市で毎月開催<br><a href='https://coderdojochofu.hatenablog.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojochofu.hatenablog.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/chofu.webp' alt='調布' loading='lazy' width='100px' /></a><br><b>調布</b><br>調布市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-chofu.doorkeeper.jp/events/161481' target='_blank' rel='noopener'>8月26日</a><br><a href='https://coderdojochofu.hatenablog.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
