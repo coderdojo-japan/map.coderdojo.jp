@@ -18181,8 +18181,8 @@
       "countryName": "Italy",
       "alpha2": "IT"
     },
-    "stage": 2,
-    "urlSlug": "it/rimini-province-of-rimini/rimini",
+    "stage": 4,
+    "urlSlug": "it/emilia-romagna/rimini-province-of-rimini/rimini",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
     "private": 0,
@@ -43210,7 +43210,7 @@
       "alpha3": "USA",
       "countryNumber": "840"
     },
-    "stage": 1,
+    "stage": 0,
     "urlSlug": "us/camarillo-ca/camarillo-california-camarillo-library",
     "startTime": "13:00:00",
     "endTime": "15:00:00",
@@ -48235,10 +48235,10 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 2,
     "urlSlug": "gb/ilford/ilford-london-redbridge-central-library",
-    "startTime": "10:15:00",
-    "endTime": "11:15:00",
+    "startTime": "10:30:00",
+    "endTime": "11:30:00",
     "private": 0,
     "frequency": "1/w",
     "alternativeFrequency": null,
@@ -60949,6 +60949,30 @@
     "alternativeFrequency": null,
     "day": 7,
     "id": "9f203579-014c-41cb-9d1a-49ab44c08913"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Akersloot",
+    "geoPoint": {
+      "lat": 52.563542,
+      "lon": 4.732292
+    },
+    "country": {
+      "countryName": "Netherlands",
+      "continent": "EU",
+      "alpha2": "NL",
+      "alpha3": "NLD",
+      "countryNumber": "528"
+    },
+    "stage": 2,
+    "urlSlug": "nl/akersloot/akersloot",
+    "startTime": "15:00:00",
+    "endTime": "16:30:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": null,
+    "day": 2,
+    "id": "9f2eab22-2ecf-40dc-9698-ce31b57f2288"
   },
   {
     "entity$": "-/cd/dojos",
