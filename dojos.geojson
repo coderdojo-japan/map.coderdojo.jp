@@ -1611,21 +1611,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.049230899999997746,
-          51.4976457
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>London @ Canada Water Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/london/london-canada-water-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.2382431,
           53.4720858
         ]
