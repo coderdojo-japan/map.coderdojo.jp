@@ -1858,7 +1858,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-gifu.org/' target='_blank' rel='noopener'>  <img src='/images/dojos/gifu.webp' alt='岐阜' loading='lazy' width='100px' /></a><br><b>岐阜</b><br>ぎふメディアコス<br>モスで毎月開催<br><a href='https://coderdojo-gifu.org/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-gifu.org/' target='_blank' rel='noopener'>  <img src='/images/dojos/gifu.webp' alt='岐阜' loading='lazy' width='100px' /></a><br><b>岐阜</b><br>ぎふメディアコス<br>モスで毎月開催<br>&rarr; 次回: <a href='https://coderdojo-gifu.connpass.com/event/293452/' target='_blank' rel='noopener'>9月16日</a><br><a href='https://coderdojo-gifu.org/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -1904,6 +1904,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Clitheroe @ Clitheroe library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/clitheroe/clitheroe-clitheroe-library'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2483697,
+          53.2743232
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Woodpark, Dublin @ TheGreen<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/ballinteer-county-dublin/woodpark-dublin-thegreen'>連絡先を見る</a>"
       }
     },
     {
