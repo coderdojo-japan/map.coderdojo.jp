@@ -6232,6 +6232,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Murayama",
+    "geoPoint": {
+      "lat": 38.47663,
+      "lon": 140.3917735
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/murayama-yamagata/murayama",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "3rd",
+    "day": 7,
+    "id": "116f95d3-ba16-4c89-bb3c-3ef37994d39f"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Copenhagen @ITU - Copendojo",
     "geoPoint": {
       "lat": 55.65960459999999,
@@ -9250,6 +9274,30 @@
     "alternativeFrequency": null,
     "day": 5,
     "id": "1983a185-dc2e-4542-89aa-25944267df17"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Woodpark, Dublin @ TheGreen",
+    "geoPoint": {
+      "lat": 53.2743232,
+      "lon": -6.2483697
+    },
+    "country": {
+      "countryName": "Ireland",
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "countryNumber": "372"
+    },
+    "stage": 1,
+    "urlSlug": "ie/ballinteer-county-dublin/woodpark-dublin-thegreen",
+    "startTime": "14:00:00",
+    "endTime": "16:00:00",
+    "private": 1,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 3,
+    "id": "198decd6-65ba-42db-9108-e03622331ddc"
   },
   {
     "entity$": "-/cd/dojos",
