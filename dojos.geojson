@@ -786,21 +786,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.0599054,
-          -31.9711289
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Kalamunda WA<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/au/kalamunda-wa/kalamunda-wa'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.87864368911255,
           44.286811107406145
         ]
@@ -10213,7 +10198,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagoya.webp' alt='名古屋' loading='lazy' width='100px' /></a><br><b>名古屋</b><br>名古屋市中区で月<br>2回開催<br><a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagoya.webp' alt='名古屋' loading='lazy' width='100px' /></a><br><b>名古屋</b><br>名古屋市中区で月<br>2回開催<br>&rarr; 次回: <a href='https://coderdojo-nagoya.connpass.com/event/293538/' target='_blank' rel='noopener'>8月20日</a><br><a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -16259,6 +16244,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Oradea @ Cantemir<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ro/stefan-zweig-str-no-10a/oradea-cantemir'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9057141,
+          31.6815896
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Amritsar @ Red Tree Coders<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/in/amritsar-punjab/amritsar-red-tree-coders'>連絡先を見る</a>"
       }
     },
     {
