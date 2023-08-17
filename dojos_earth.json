@@ -3940,7 +3940,7 @@
       "alpha3": "AUS",
       "countryNumber": "036"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "au/kalamunda-wa/kalamunda-wa",
     "startTime": "15:20:00",
     "endTime": "16:40:00",
@@ -65374,7 +65374,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "山形",
+    "name": "Yamagata",
     "geoPoint": {
       "lat": 38.2231636,
       "lon": 140.3247627
@@ -65387,7 +65387,7 @@
       "countryNumber": "392"
     },
     "stage": 1,
-    "urlSlug": "jp/japan-yamagata/shan1-xing2",
+    "urlSlug": "jp/japan-yamagata/yamagata",
     "startTime": "09:00:00",
     "endTime": "15:00:00",
     "private": 0,
@@ -74254,6 +74254,30 @@
     "alternativeFrequency": null,
     "day": 7,
     "id": "c0d25310-79e8-448f-b1f1-7a1cbe4dec0c"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Amritsar @ Red Tree Coders",
+    "geoPoint": {
+      "lat": 31.6815896,
+      "lon": 74.9057141
+    },
+    "country": {
+      "countryName": "India",
+      "continent": "AS",
+      "alpha2": "IN",
+      "alpha3": "IND",
+      "countryNumber": "356"
+    },
+    "stage": 1,
+    "urlSlug": "in/amritsar-punjab/amritsar-red-tree-coders",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 1,
+    "frequency": "other",
+    "alternativeFrequency": "Four Days a Week",
+    "day": 1,
+    "id": "c0dcff32-d326-4466-b40c-bfa84d75cc1f"
   },
   {
     "entity$": "-/cd/dojos",
