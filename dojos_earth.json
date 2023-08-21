@@ -2439,8 +2439,8 @@
     "entity$": "-/cd/dojos",
     "name": "Midland Library",
     "geoPoint": {
-      "lat": -31.8893393001496,
-      "lon": 116.00268501788378
+      "lat": -31.8891852,
+      "lon": 116.002666
     },
     "country": {
       "countryName": "Australia",
@@ -50629,6 +50629,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Greenville, SC @ Five Forks Library",
+    "geoPoint": {
+      "lat": 34.808087,
+      "lon": -82.2222907
+    },
+    "country": {
+      "countryName": "United States",
+      "continent": "NA",
+      "alpha2": "US",
+      "alpha3": "USA",
+      "countryNumber": "840"
+    },
+    "stage": 1,
+    "urlSlug": "us/greenville-sc/greenville-sc-five-forks-library",
+    "startTime": "13:00:00",
+    "endTime": "15:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 7,
+    "id": "85501e89-283c-466b-8788-cb632e1059bc"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Hässleholm @ Magneten",
     "geoPoint": {
       "lat": 56.1671236,
@@ -79624,6 +79648,30 @@
     "alternativeFrequency": "Sábados das 10 ás 12",
     "day": null,
     "id": "cedc5b1f-11a5-436e-b6f5-b082ccc73462"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Dublin@ICCI",
+    "geoPoint": {
+      "lat": 53.304569786044546,
+      "lon": -6.233839988708496
+    },
+    "country": {
+      "countryName": "Ireland",
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "countryNumber": "372"
+    },
+    "stage": 1,
+    "urlSlug": "ie/dublin/dublin-icci",
+    "startTime": "17:00:00",
+    "endTime": "20:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 2,
+    "id": "cf050ae9-dfd0-4d73-9da4-ce4259c483e8"
   },
   {
     "entity$": "-/cd/dojos",
