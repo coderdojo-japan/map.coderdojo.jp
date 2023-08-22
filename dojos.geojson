@@ -2248,7 +2248,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>  <img src='/images/dojos/nishinomiya.webp' alt='西宮・梅田' loading='lazy' width='100px' /></a><br><b>西宮・梅田</b><br>西宮/梅田でそれ<br>ぞれ毎月開催<br><a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>  <img src='/images/dojos/nishinomiya.webp' alt='西宮・梅田' loading='lazy' width='100px' /></a><br><b>西宮・梅田</b><br>西宮/梅田でそれ<br>ぞれ毎月開催<br>&rarr; 次回: <a href='https://coderdojo-nishinomiya.doorkeeper.jp/events/162136' target='_blank' rel='noopener'>10月15日</a><br><a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -4228,7 +4228,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-kojimachi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.webp' alt='麹町@アドバンスト・ソフト' loading='lazy' width='100px' /></a><br><b>麹町@アドバンスト・ソフト</b><br>千代田区で毎月開催<br><a href='https://coderdojo-kojimachi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-kojimachi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.webp' alt='麹町@アドバンスト・ソフト' loading='lazy' width='100px' /></a><br><b>麹町@アドバンスト・ソフト</b><br>千代田区で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-kojimachi.connpass.com/event/294034/' target='_blank' rel='noopener'>9月17日</a><br><a href='https://coderdojo-kojimachi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -12066,8 +12066,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.37731367738495,
-          33.87372653330038
+          -118.3766334,
+          33.8725388
         ]
       },
       "properties": {
@@ -13948,7 +13948,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>  <img src='/images/dojos/nishinomiya.webp' alt='西宮・梅田' loading='lazy' width='100px' /></a><br><b>西宮・梅田</b><br>西宮/梅田でそれ<br>ぞれ毎月開催<br><a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>  <img src='/images/dojos/nishinomiya.webp' alt='西宮・梅田' loading='lazy' width='100px' /></a><br><b>西宮・梅田</b><br>西宮/梅田でそれ<br>ぞれ毎月開催<br>&rarr; 次回: <a href='https://coderdojo-nishinomiya.doorkeeper.jp/events/162136' target='_blank' rel='noopener'>10月15日</a><br><a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -20226,6 +20226,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -99.13329279999999,
+          19.435489
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>CDMX @ Coding en Hacedores Makerspace<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/mx/ciudad-de-mexico-cdmx/cdmx-coding-en-hacedores-makerspace'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           134.36910009999997,
           33.9738737
         ]
@@ -21148,7 +21163,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-seto.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/seto.webp' alt='瀬戸' loading='lazy' width='100px' /></a><br><b>瀬戸</b><br>瀬戸市で月2回開催<br>&rarr; 次回: <a href='https://coderdojo-seto.connpass.com/event/292917/' target='_blank' rel='noopener'>8月22日</a><br><a href='https://coderdojo-seto.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-seto.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/seto.webp' alt='瀬戸' loading='lazy' width='100px' /></a><br><b>瀬戸</b><br>瀬戸市で月2回開催<br>&rarr; 次回: <a href='https://coderdojo-seto.connpass.com/event/291892/' target='_blank' rel='noopener'>8月27日</a><br><a href='https://coderdojo-seto.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
