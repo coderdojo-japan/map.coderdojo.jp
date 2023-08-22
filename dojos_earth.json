@@ -55476,8 +55476,8 @@
     "entity$": "-/cd/dojos",
     "name": "Redondo Beach North Branch",
     "geoPoint": {
-      "lat": 33.87372653330038,
-      "lon": -118.37731367738495
+      "lat": 33.8725388,
+      "lon": -118.3766334
     },
     "country": {
       "countryName": "United States",
@@ -55492,7 +55492,7 @@
     "endTime": "16:00:00",
     "private": 0,
     "frequency": "1/m",
-    "alternativeFrequency": "first",
+    "alternativeFrequency": "last",
     "day": 6,
     "id": "90bb9395-c3f3-4509-b172-721420be6dd1"
   },
@@ -69784,6 +69784,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Suehirocho@AMULET",
+    "geoPoint": {
+      "lat": 35.7018867,
+      "lon": 139.7704225
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/chiyoda-tokyo/suehirocho-amulet",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "4th",
+    "day": 6,
+    "id": "b4fefae6-214f-4afd-b404-20a6062e83ba"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Hechtel-Eksel",
     "geoPoint": {
       "lat": 51.12533055237951,
@@ -79663,7 +79687,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 1,
+    "stage": 0,
     "urlSlug": "ie/dublin/dublin-icci",
     "startTime": "17:00:00",
     "endTime": "20:00:00",
@@ -91864,6 +91888,30 @@
     "alternativeFrequency": "School day Thursdays 2:10pm - 4:30pm",
     "day": null,
     "id": "ee9ed201-bffe-4c05-b6ab-dc6df6224b8f"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "CDMX @ Coding en Hacedores Makerspace",
+    "geoPoint": {
+      "lat": 19.435489,
+      "lon": -99.13329279999999
+    },
+    "country": {
+      "countryName": "Mexico",
+      "continent": "NA",
+      "alpha2": "MX",
+      "alpha3": "MEX",
+      "countryNumber": "484"
+    },
+    "stage": 1,
+    "urlSlug": "mx/ciudad-de-mexico-cdmx/cdmx-coding-en-hacedores-makerspace",
+    "startTime": "16:45:00",
+    "endTime": "17:45:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "first",
+    "day": 4,
+    "id": "eea86a32-eabb-430a-b216-8526900c1b4c"
   },
   {
     "entity$": "-/cd/dojos",
