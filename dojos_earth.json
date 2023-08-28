@@ -19771,6 +19771,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Cork @ Qualcomm",
+    "geoPoint": {
+      "lat": 51.89775066562675,
+      "lon": -8.457287987367181
+    },
+    "country": {
+      "countryName": "Ireland",
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "countryNumber": "372"
+    },
+    "stage": 1,
+    "urlSlug": "ie/cork/cork-qualcomm-1",
+    "startTime": "15:30:00",
+    "endTime": "16:30:00",
+    "private": 1,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 1,
+    "id": "353099e3-9ebf-4471-821a-aecde37975a8"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Iyo, Ehime",
     "geoPoint": {
       "lat": 33.7589144,
@@ -92164,7 +92188,7 @@
       "countryName": "United Kingdom",
       "alpha2": "GB"
     },
-    "stage": 2,
+    "stage": 4,
     "urlSlug": "gb/newcastle-upon-tyne/newcastle-center-for-life",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
