@@ -103,7 +103,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-akabane.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/akabane.webp' alt='赤羽' loading='lazy' width='100px' /></a><br><b>赤羽</b><br>北区で毎月開催<br><a href='https://coderdojo-akabane.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-akabane.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/akabane.webp' alt='赤羽' loading='lazy' width='100px' /></a><br><b>赤羽</b><br>北区で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-akabane.connpass.com/event/294662/' target='_blank' rel='noopener'>9月24日</a><br><a href='https://coderdojo-akabane.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -4116,6 +4116,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -8.457287987367181,
+          51.89775066562675
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Cork @ Qualcomm<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/cork/cork-qualcomm-1'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           132.70543399999997,
           33.7589144
         ]
@@ -5338,7 +5353,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nada.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/nada.webp' alt='灘' loading='lazy' width='100px' /></a><br><b>灘</b><br>神戸市東灘区で毎<br>月開催<br><a href='https://coderdojo-nada.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nada.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/nada.webp' alt='灘' loading='lazy' width='100px' /></a><br><b>灘</b><br>神戸市東灘区で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojo-nada.doorkeeper.jp/events/162513' target='_blank' rel='noopener'>9月24日</a><br><a href='https://coderdojo-nada.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -7498,7 +7513,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-naha.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/naha.webp' alt='那覇' loading='lazy' width='100px' /></a><br><b>那覇</b><br>那覇市で毎月開催<br><a href='https://coderdojo-naha.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-naha.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/naha.webp' alt='那覇' loading='lazy' width='100px' /></a><br><b>那覇</b><br>那覇市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-naha.doorkeeper.jp/events/162503' target='_blank' rel='noopener'>9月2日</a><br><a href='https://coderdojo-naha.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -17263,7 +17278,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojoyabuki.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/yabuki.webp' alt='矢吹' loading='lazy' width='100px' /></a><br><b>矢吹</b><br>矢吹町で毎月開催<br><a href='https://coderdojoyabuki.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojoyabuki.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/yabuki.webp' alt='矢吹' loading='lazy' width='100px' /></a><br><b>矢吹</b><br>矢吹町で毎月開催<br>&rarr; 次回: <a href='https://coderdojoyabuki.connpass.com/event/293725/' target='_blank' rel='noopener'>9月9日</a><br><a href='https://coderdojoyabuki.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -20256,21 +20271,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6211926999999378,
-          54.9675588
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Newcastle, @ Center For Life<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/newcastle-upon-tyne/newcastle-center-for-life'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.640875899999969,
           45.03179
         ]
@@ -20473,7 +20473,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-inagi.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/inagi.webp' alt='稲城' loading='lazy' width='100px' /></a><br><b>稲城</b><br>稲城市若葉台で毎<br>月開催<br><a href='https://coderdojo-inagi.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-inagi.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/inagi.webp' alt='稲城' loading='lazy' width='100px' /></a><br><b>稲城</b><br>稲城市若葉台で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojo-inagi.doorkeeper.jp/events/158987' target='_blank' rel='noopener'>9月24日</a><br><a href='https://coderdojo-inagi.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
