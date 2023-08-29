@@ -28066,6 +28066,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Dublin 18 @ Mastercard",
+    "geoPoint": {
+      "lat": 53.2720172,
+      "lon": -6.1993426
+    },
+    "country": {
+      "countryName": "Ireland",
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "countryNumber": "372"
+    },
+    "stage": 1,
+    "urlSlug": "ie/dublin/dublin-18-mastercard",
+    "startTime": "17:00:00",
+    "endTime": "18:30:00",
+    "private": 1,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 2,
+    "id": "4b671e77-88ca-4b13-8366-174e96d0c879"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Camper@Otomasyon",
     "geoPoint": {
       "lat": 41.03332899999999,
@@ -43756,7 +43780,7 @@
     "stage": 2,
     "urlSlug": "gb/stalybridge/stalybridge",
     "startTime": "10:00:00",
-    "endTime": "13:00:00",
+    "endTime": "12:30:00",
     "private": 0,
     "frequency": "1/m",
     "alternativeFrequency": "first",
