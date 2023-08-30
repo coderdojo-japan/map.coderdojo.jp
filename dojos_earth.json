@@ -20776,6 +20776,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Dublin, Ireland @ Workhuman",
+    "geoPoint": {
+      "lat": 53.3296546,
+      "lon": -6.371703399999999
+    },
+    "country": {
+      "countryName": "Ireland",
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "countryNumber": "372"
+    },
+    "stage": 1,
+    "urlSlug": "ie/dublin/dublin-ireland-workhuman",
+    "startTime": "16:00:00",
+    "endTime": "17:00:00",
+    "private": 1,
+    "frequency": "1/m",
+    "alternativeFrequency": "first",
+    "day": 5,
+    "id": "376e69eb-d92d-49ac-9653-71985d865e73"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Manama, Bahrain @Tenmou",
     "geoPoint": {
       "lat": 26.236181044717007,
@@ -28720,6 +28744,30 @@
     "alternativeFrequency": null,
     "day": 7,
     "id": "4d794d26-ceb2-499c-82dc-4eae5d2bf5ae"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Shindaita",
+    "geoPoint": {
+      "lat": 35.6628211,
+      "lon": 139.6606342
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/setagaya-tokyo/shindaita",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "other",
+    "alternativeFrequency": "once every 4 months",
+    "day": 6,
+    "id": "4d7fe211-4b93-4e9a-98a6-9e4ac9ccf944"
   },
   {
     "entity$": "-/cd/dojos",
@@ -66789,7 +66837,7 @@
     },
     "stage": 2,
     "urlSlug": "ie/cork/kinsale/coderdojo-kinsale",
-    "startTime": "19:00:00",
+    "startTime": "19:15:00",
     "endTime": "20:30:00",
     "private": 0,
     "frequency": "1/w",

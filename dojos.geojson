@@ -4386,6 +4386,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.371703399999999,
+          53.3296546
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dublin, Ireland @ Workhuman<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin/dublin-ireland-workhuman'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           115.78250080347061,
           -31.985870168908992
         ]
@@ -6478,7 +6493,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/CoderDojoKurume/' target='_blank' rel='noopener'>  <img src='/images/dojos/kurume.webp' alt='久留米' loading='lazy' width='100px' /></a><br><b>久留米</b><br>久留米市で毎月開催<br><a href='https://www.facebook.com/CoderDojoKurume/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/CoderDojoKurume/' target='_blank' rel='noopener'>  <img src='/images/dojos/kurume.webp' alt='久留米' loading='lazy' width='100px' /></a><br><b>久留米</b><br>久留米市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-kurume.connpass.com/event/294785/' target='_blank' rel='noopener'>9月23日</a><br><a href='https://www.facebook.com/CoderDojoKurume/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -6538,7 +6553,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-musashikosugi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/musashi-kosugi.webp' alt='武蔵小杉' loading='lazy' width='100px' /></a><br><b>武蔵小杉</b><br>武蔵小杉、向河原<br>周辺で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-musashikosugi.connpass.com/event/294180/' target='_blank' rel='noopener'>9月10日</a><br><a href='https://coderdojo-musashikosugi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-musashikosugi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/musashi-kosugi.webp' alt='武蔵小杉' loading='lazy' width='100px' /></a><br><b>武蔵小杉</b><br>武蔵小杉、向河原<br>周辺で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-musashikosugi.connpass.com/event/294835/' target='_blank' rel='noopener'>9月2日</a><br><a href='https://coderdojo-musashikosugi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -6748,7 +6763,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>  <img src='/images/dojos/sennan.webp' alt='せんなん' loading='lazy' width='100px' /></a><br><b>せんなん</b><br>泉南市で毎月開催<br><a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>  <img src='/images/dojos/sennan.webp' alt='せんなん' loading='lazy' width='100px' /></a><br><b>せんなん</b><br>泉南市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-sennan.connpass.com/event/293747/' target='_blank' rel='noopener'>9月9日</a><br><a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -19753,7 +19768,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://code4matsudo.org/category/coder-dojo-matsudo/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='松戸' loading='lazy' width='100px' /></a><br><b>松戸</b><br>松戸市で隔月開催<br><a href='https://code4matsudo.org/category/coder-dojo-matsudo/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://code4matsudo.org/category/coder-dojo-matsudo/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='松戸' loading='lazy' width='100px' /></a><br><b>松戸</b><br>松戸市で隔月開催<br>&rarr; 次回: <a href='https://coderdojomatsudo.connpass.com/event/294783/' target='_blank' rel='noopener'>9月16日</a><br><a href='https://code4matsudo.org/category/coder-dojo-matsudo/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
