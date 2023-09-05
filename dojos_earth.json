@@ -31176,8 +31176,8 @@
     "entity$": "-/cd/dojos",
     "name": "Charlemont Place, Dublin 2 @ Viasat",
     "geoPoint": {
-      "lat": 53.33110364109563,
-      "lon": -6.258685290813446
+      "lat": 53.331227978073166,
+      "lon": -6.259316172491465
     },
     "country": {
       "countryName": "Ireland",
@@ -31186,7 +31186,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "ie/dublin/charlemont-place-dublin-2-viasat",
     "startTime": "18:30:00",
     "endTime": "20:30:00",
