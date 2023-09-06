@@ -39808,6 +39808,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Prague @ Accenture",
+    "geoPoint": {
+      "lat": 50.1077009,
+      "lon": 14.4429052
+    },
+    "country": {
+      "countryName": "Czech Republic",
+      "continent": "EU",
+      "alpha2": "CZ",
+      "alpha3": "CZE",
+      "countryNumber": "203"
+    },
+    "stage": 1,
+    "urlSlug": "cz/prague/prague-accenture",
+    "startTime": "17:30:00",
+    "endTime": "18:30:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 1,
+    "id": "6852bff8-abfa-47db-ae56-b773b1a90a41"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Olievenhoutbosch Christian School@Computerwhizzkid",
     "geoPoint": {
       "lat": -25.8748047,
@@ -55687,6 +55711,30 @@
     "alternativeFrequency": "2nd",
     "day": 2,
     "id": "90ce0139-4262-4706-b17a-0627e8e0dfe6"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "West Bengal @ CodeX",
+    "geoPoint": {
+      "lat": 22.7636563,
+      "lon": 88.53598699999999
+    },
+    "country": {
+      "countryName": "India",
+      "continent": "AS",
+      "alpha2": "IN",
+      "alpha3": "IND",
+      "countryNumber": "356"
+    },
+    "stage": 1,
+    "urlSlug": "in/nebadhai-duttapukur-west-bengal/west-bengal-codex",
+    "startTime": "14:00:00",
+    "endTime": "16:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "90d28ba1-6dfb-4139-b4ea-9a5e544dbdf3"
   },
   {
     "entity$": "-/cd/dojos",
