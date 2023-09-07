@@ -1461,21 +1461,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.2505678,
-          53.3486949
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Test Dojo HV<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin/test-dojo-hv'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.480326459859285,
           51.91114161263148
         ]
@@ -5466,8 +5451,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.2286395,
-          53.35340919999999
+          -6.2505356,
+          53.34305269999999
         ]
       },
       "properties": {
@@ -10273,7 +10258,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagoya.webp' alt='名古屋' loading='lazy' width='100px' /></a><br><b>名古屋</b><br>名古屋市中区で月<br>2回開催<br><a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagoya.webp' alt='名古屋' loading='lazy' width='100px' /></a><br><b>名古屋</b><br>名古屋市中区で月<br>2回開催<br>&rarr; 次回: <a href='https://coderdojo-nagoya.connpass.com/event/295655/' target='_blank' rel='noopener'>9月23日</a><br><a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
