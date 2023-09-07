@@ -7303,7 +7303,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 0,
+    "stage": 4,
     "urlSlug": "ie/dublin/test-dojo-hv",
     "startTime": "17:00:00",
     "endTime": "18:00:00",
@@ -25959,8 +25959,8 @@
     "entity$": "-/cd/dojos",
     "name": "Dublin 2 @ Trinity College Dublin",
     "geoPoint": {
-      "lat": 53.35340919999999,
-      "lon": -6.2286395
+      "lat": 53.34305269999999,
+      "lon": -6.2505356
     },
     "country": {
       "countryName": "Ireland",
@@ -25969,12 +25969,12 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 2,
+    "stage": 0,
     "urlSlug": "ie/dublin/dublin-2-trinity-college-dublin",
     "startTime": "10:00:00",
     "endTime": "12:00:00",
     "private": 0,
-    "frequency": "other",
+    "frequency": "2/m",
     "alternativeFrequency": "We plan to run 2 Saturday events between October 2020 and the new year",
     "day": 6,
     "id": "45f22ccc-f1c7-4015-be5a-2757a8670007"
