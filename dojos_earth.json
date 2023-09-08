@@ -39827,7 +39827,7 @@
     "private": 0,
     "frequency": "2/m",
     "alternativeFrequency": null,
-    "day": 1,
+    "day": 4,
     "id": "6852bff8-abfa-47db-ae56-b773b1a90a41"
   },
   {
@@ -95961,12 +95961,12 @@
     },
     "stage": 1,
     "urlSlug": "nl/den-haag/den-haag-ish",
-    "startTime": "14:30:00",
-    "endTime": "16:30:00",
+    "startTime": "11:50:00",
+    "endTime": "12:35:00",
     "private": 1,
-    "frequency": "1/m",
+    "frequency": "1/w",
     "alternativeFrequency": "3rd",
-    "day": 3,
+    "day": 5,
     "id": "f8a6e73d-1da2-4f77-af55-57b09d963cc8"
   },
   {
