@@ -4372,7 +4372,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Timisoara @ACI",
+    "name": "Timisoara @ACI INACTIVE",
     "geoPoint": {
       "lat": 45.7546247,
       "lon": 21.247329700000023
@@ -4382,7 +4382,7 @@
       "alpha2": "RO"
     },
     "stage": 4,
-    "urlSlug": "ro/judetul-timis/timisoara/timisoara-aci",
+    "urlSlug": "ro/judetul-timis/timisoara/timisoara-aci-inactive",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
     "private": 0,
@@ -4555,7 +4555,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Timisoara @British International School",
+    "name": "Timisoara @British International School INACTIVE",
     "geoPoint": {
       "lat": 45.7862596,
       "lon": 21.225272099999984
@@ -4568,7 +4568,7 @@
       "countryNumber": "642"
     },
     "stage": 1,
-    "urlSlug": "ro/timisoara/timisoara-british-international-school",
+    "urlSlug": "ro/timisoara/timisoara-british-international-school-inactive",
     "startTime": "16:00:00",
     "endTime": "18:00:00",
     "private": 1,
@@ -24358,7 +24358,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Dumbravita",
+    "name": "Dumbravita INACTIVE",
     "geoPoint": {
       "lat": 45.800994849160375,
       "lon": 21.249060822337924
@@ -24368,7 +24368,7 @@
       "alpha2": "RO"
     },
     "stage": 4,
-    "urlSlug": "ro/judetul-timis/dumbravita-timis-county/dumbravita",
+    "urlSlug": "ro/judetul-timis/dumbravita-timis-county/dumbravita-inactive",
     "startTime": "10:00:00",
     "endTime": "12:00:00",
     "private": 0,
@@ -24660,8 +24660,8 @@
     "entity$": "-/cd/dojos",
     "name": "磐田",
     "geoPoint": {
-      "lat": 34.7218892,
-      "lon": 137.8474405
+      "lat": 34.729207692846785,
+      "lon": 137.8216923146218
     },
     "country": {
       "countryName": "Japan",
@@ -24676,7 +24676,7 @@
     "endTime": "16:30:00",
     "private": 0,
     "frequency": "1/m",
-    "alternativeFrequency": "2nd",
+    "alternativeFrequency": "3rd",
     "day": 7,
     "id": "4189b559-90c7-45ce-9f23-8df62e8b331a"
   },
@@ -33385,10 +33385,10 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Philly CoderDojo Safer@Home",
+    "name": "Philly CoderDojo .Code@Home",
     "geoPoint": {
-      "lat": 39.9971422,
-      "lon": -75.18399509999999
+      "lat": 39.9525839,
+      "lon": -75.1652215
     },
     "country": {
       "countryName": "United States",
@@ -33397,10 +33397,10 @@
       "alpha2": "US",
       "alpha3": "USA"
     },
-    "stage": 1,
-    "urlSlug": "us/philadelphia-pa/philly-coderdojo-safer-home",
+    "stage": 2,
+    "urlSlug": "us/philadelphia-pa/philly-coderdojo-code-home",
     "startTime": "11:00:00",
-    "endTime": "11:45:00",
+    "endTime": "12:00:00",
     "private": 0,
     "frequency": "2/m",
     "alternativeFrequency": "first",
@@ -36214,7 +36214,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Timisoara @Moisil",
+    "name": "Timisoara @Moisil INACTIVE",
     "geoPoint": {
       "lat": 45.741490832832405,
       "lon": 21.22736155986786
@@ -36224,7 +36224,7 @@
       "alpha2": "RO"
     },
     "stage": 4,
-    "urlSlug": "ro/judetul-timis/timisoara-timis-county/timisoara-moisil",
+    "urlSlug": "ro/judetul-timis/timisoara-timis-county/timisoara-moisil-inactive",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
     "private": 0,
@@ -59527,7 +59527,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Timisoara @ISHO",
+    "name": "Timisoara @ISHO INACTIVE",
     "geoPoint": {
       "lat": 45.7606566,
       "lon": 21.24356130000001
@@ -59536,8 +59536,8 @@
       "countryName": "Romania",
       "alpha2": "RO"
     },
-    "stage": 2,
-    "urlSlug": "ro/timisoara/timisoara-isho",
+    "stage": 4,
+    "urlSlug": "ro/judetul-timis/timisoara/timisoara-isho-inactive",
     "startTime": "09:00:00",
     "endTime": "13:00:00",
     "private": 0,
@@ -67268,7 +67268,7 @@
     "private": 0,
     "frequency": "1/w",
     "alternativeFrequency": null,
-    "day": 2,
+    "day": 4,
     "id": "ae3161bd-f54f-4fd2-909d-81a4b1209fcf"
   },
   {
@@ -70069,6 +70069,30 @@
     "alternativeFrequency": "2nd and 4th Thursday of the month @ 7 - 8pm.",
     "day": null,
     "id": "b55efc6c-7079-48ae-bca8-27d226fd4978"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "豊中南",
+    "geoPoint": {
+      "lat": 34.7401963,
+      "lon": 135.470246
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/da4-ban3-fu3-li3-zhong1-shi4-da4-hei1-ting3/li3-zhong1-nan2",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "4th",
+    "day": 7,
+    "id": "b5614bc7-6348-4fed-be22-4831bdefae5a"
   },
   {
     "entity$": "-/cd/dojos",
