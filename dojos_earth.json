@@ -8230,6 +8230,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Nashville @ WNCP",
+    "geoPoint": {
+      "lat": 36.1312843,
+      "lon": -86.895448
+    },
+    "country": {
+      "countryName": "United States",
+      "continent": "NA",
+      "alpha2": "US",
+      "alpha3": "USA",
+      "countryNumber": "840"
+    },
+    "stage": 2,
+    "urlSlug": "us/nashville-tn/nashville-wncp",
+    "startTime": "16:00:00",
+    "endTime": "18:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 3,
+    "id": "1706d107-5071-4318-b065-92d0344a10cc"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Salerno",
     "geoPoint": {
       "lat": 40.67649247042507,
@@ -70084,7 +70108,7 @@
       "alpha3": "JPN",
       "countryNumber": "392"
     },
-    "stage": 1,
+    "stage": 2,
     "urlSlug": "jp/da4-ban3-fu3-li3-zhong1-shi4-da4-hei1-ting3/li3-zhong1-nan2",
     "startTime": "10:00:00",
     "endTime": "12:00:00",
@@ -74929,7 +74953,7 @@
       "alpha3": "ZAF",
       "countryNumber": "710"
     },
-    "stage": 1,
+    "stage": 3,
     "urlSlug": "za/durban/durban-kca-blue-roof",
     "startTime": "10:00:00",
     "endTime": "12:00:00",
@@ -81712,7 +81736,7 @@
     "stage": 4,
     "urlSlug": "gb/gillingham/gillingham-library",
     "startTime": "15:45:00",
-    "endTime": "05:45:00",
+    "endTime": "16:45:00",
     "private": 0,
     "frequency": "1/w",
     "alternativeFrequency": null,
