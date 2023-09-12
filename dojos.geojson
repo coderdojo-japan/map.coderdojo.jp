@@ -1581,6 +1581,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -86.895448,
+          36.1312843
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Nashville @ WNCP<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/nashville-tn/nashville-wncp'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.2382431,
           53.4720858
         ]
@@ -9006,21 +9021,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.44995100000006,
-          35.711722
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://twitter.com/CDNirasaki' target='_blank' rel='noopener'>  <img src='/images/dojos/nirasaki.webp' alt='韮崎' loading='lazy' width='100px' /></a><br><b>韮崎</b><br>韮崎市で毎月開催<br><a href='https://twitter.com/CDNirasaki' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           8.1947692,
           53.2424996
         ]
@@ -10933,7 +10933,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-tobe.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/tobe.webp' alt='戸部' loading='lazy' width='100px' /></a><br><b>戸部</b><br>横浜市西区で毎月開催<br><a href='https://coderdojo-tobe.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-tobe.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/tobe.webp' alt='戸部' loading='lazy' width='100px' /></a><br><b>戸部</b><br>横浜市西区で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-tobe.connpass.com/event/296265/' target='_blank' rel='noopener'>9月24日</a><br><a href='https://coderdojo-tobe.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -18299,21 +18299,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Perth @ Kingsley Primary School<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/au/armadale-western-australia/perth-kingsley-primary-school'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.38595499999997,
-          43.0561971
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-sapporo-east.blogspot.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='札幌東' loading='lazy' width='100px' /></a><br><b>札幌東</b><br>札幌市で月2回開催<br><a href='https://coderdojo-sapporo-east.blogspot.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
