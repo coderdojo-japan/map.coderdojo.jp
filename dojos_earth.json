@@ -1776,12 +1776,12 @@
     },
     "stage": 1,
     "urlSlug": "jp/yao-osaka/ba1-wei3-yotteco",
-    "startTime": "11:00:00",
-    "endTime": "17:00:00",
+    "startTime": "17:00:00",
+    "endTime": "19:00:00",
     "private": 0,
     "frequency": "1/m",
-    "alternativeFrequency": "3rd",
-    "day": 6,
+    "alternativeFrequency": "4th",
+    "day": 5,
     "id": "054e135a-c8f1-4f57-ba2e-1be96a5ae49c"
   },
   {
@@ -28795,6 +28795,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Ignite Hubs Canada Water",
+    "geoPoint": {
+      "lat": 51.49783189999999,
+      "lon": -0.0491632
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/london/ignite-hubs-canada-water",
+    "startTime": "18:15:00",
+    "endTime": "19:15:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 1,
+    "id": "4d881f9c-1b23-456d-8b1b-df98f71312a9"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Mt. Lawley, WA, @ECU Mt Lawley",
     "geoPoint": {
       "lat": -31.9195068,
@@ -44701,7 +44725,7 @@
       "countryName": "United Kingdom",
       "alpha2": "GB"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/aylesbury/aylesbury",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
@@ -77989,7 +78013,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/london/ealing-university-of-west-london",
     "startTime": "11:00:00",
     "endTime": "13:00:00",
