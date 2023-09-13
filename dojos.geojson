@@ -748,7 +748,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nago.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nago.webp' alt='名護' loading='lazy' width='100px' /></a><br><b>名護</b><br>名護市で月2回開催<br>&rarr; 次回: <a href='https://coderdojo-nago.connpass.com/event/296150/' target='_blank' rel='noopener'>10月1日</a><br><a href='https://coderdojo-nago.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nago.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nago.webp' alt='名護' loading='lazy' width='100px' /></a><br><b>名護</b><br>名護市で月2回開催<br>&rarr; 次回: <a href='https://coderdojo-nago.connpass.com/event/296245/' target='_blank' rel='noopener'>9月30日</a><br><a href='https://coderdojo-nago.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -6066,6 +6066,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.0491632,
+          51.49783189999999
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Ignite Hubs Canada Water<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/london/ignite-hubs-canada-water'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           50.1678121,
           -14.2713338
         ]
@@ -9711,21 +9726,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.8237821999999824,
-          51.8194931
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Aylesbury<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/aylesbury/aylesbury'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           44.3643942,
           33.3120087
         ]
@@ -10693,7 +10693,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo.shiojiri.fun/' target='_blank' rel='noopener'>  <img src='/images/dojos/shiojiri.webp' alt='塩尻' loading='lazy' width='100px' /></a><br><b>塩尻</b><br>塩尻市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-shiojiri.connpass.com/event/294168/' target='_blank' rel='noopener'>9月13日</a><br><a href='https://coderdojo.shiojiri.fun/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo.shiojiri.fun/' target='_blank' rel='noopener'>  <img src='/images/dojos/shiojiri.webp' alt='塩尻' loading='lazy' width='100px' /></a><br><b>塩尻</b><br>塩尻市で毎月開催<br><a href='https://coderdojo.shiojiri.fun/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -12538,7 +12538,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://sites.google.com/view/coderdojonagato' target='_blank' rel='noopener'>  <img src='/images/dojos/coderdojo.webp' alt='長門' loading='lazy' width='100px' /></a><br><b>長門</b><br>長門市しごとセン<br>ターで第4土曜に開催<br>&rarr; 次回: <a href='https://coderdojonagato.connpass.com/event/294323/' target='_blank' rel='noopener'>9月13日</a><br><a href='https://sites.google.com/view/coderdojonagato' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://sites.google.com/view/coderdojonagato' target='_blank' rel='noopener'>  <img src='/images/dojos/coderdojo.webp' alt='長門' loading='lazy' width='100px' /></a><br><b>長門</b><br>長門市しごとセン<br>ターで第4土曜に開催<br>&rarr; 次回: <a href='https://coderdojonagato.connpass.com/event/288489/' target='_blank' rel='noopener'>9月23日</a><br><a href='https://sites.google.com/view/coderdojonagato' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -17136,21 +17136,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.3033576999999923,
-          51.50688040000001
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Ealing @ University of West London<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/london/ealing-university-of-west-london'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -61.430303200000026,
           10.644107
         ]
@@ -18538,7 +18523,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://zen.coderdojo.com/dojos/jp/minato-tokyo/tamachi-vmware' target='_blank' rel='noopener'>  <img src='/images/dojos/tamachi-vmware.webp' alt='田町@VMware' loading='lazy' width='100px' /></a><br><b>田町@VMware</b><br>港区田町駅周辺で<br>隔月開催<br><a href='https://zen.coderdojo.com/dojos/jp/minato-tokyo/tamachi-vmware' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://zen.coderdojo.com/dojos/jp/minato-tokyo/tamachi-vmware' target='_blank' rel='noopener'>  <img src='/images/dojos/tamachi-vmware.webp' alt='田町@VMware' loading='lazy' width='100px' /></a><br><b>田町@VMware</b><br>港区田町駅周辺で<br>隔月開催<br>&rarr; 次回: <a href='https://coderdojo-tamachi-vmware.connpass.com/event/296465/' target='_blank' rel='noopener'>9月30日</a><br><a href='https://zen.coderdojo.com/dojos/jp/minato-tokyo/tamachi-vmware' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -18733,7 +18718,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/kodaira.webp' alt='こだいら' loading='lazy' width='100px' /></a><br><b>こだいら</b><br>小平市で隔週水曜<br>および週末に不定期で開催<br>&rarr; 次回: <a href='https://coderdojo-jp-kodaira.connpass.com/event/292537/' target='_blank' rel='noopener'>9月13日</a><br><a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/kodaira.webp' alt='こだいら' loading='lazy' width='100px' /></a><br><b>こだいら</b><br>小平市で隔週水曜<br>および週末に不定期で開催<br>&rarr; 次回: <a href='https://coderdojo-jp-kodaira.connpass.com/event/292538/' target='_blank' rel='noopener'>9月24日</a><br><a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
