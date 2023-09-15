@@ -2658,7 +2658,7 @@
     "logo": "https://coderdojo.jp/img/dojos/default.webp",
     "order": "261009",
     "counter": 1,
-    "is_active": false,
+    "is_active": true,
     "prefecture": "京都",
     "created_at": "2020-02-09T00:00:00.000+09:00",
     "description": "京都市下京区で毎月開催"
