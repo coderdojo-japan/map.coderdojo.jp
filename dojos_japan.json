@@ -2101,7 +2101,7 @@
   },
   {
     "id": 193,
-    "url": "https://coderdojo-toyonaka.hatenablog.jp/",
+    "url": "https://coderdojo-toyonaka.connpass.com/",
     "name": "とよなか",
     "logo": "https://coderdojo.jp/img/dojos/toyonaka.webp",
     "order": "272035",
@@ -3490,5 +3490,17 @@
     "prefecture": "富山",
     "created_at": "2023-09-07T00:00:00.000+09:00",
     "description": "黒部市で隔週開催"
+  },
+  {
+    "id": 310,
+    "url": "https://toyonaka-minami.connpass.com/",
+    "name": "豊中南",
+    "logo": "https://coderdojo.jp/img/dojos/toyonaka-minami.webp",
+    "order": "272035",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "大阪",
+    "created_at": "2023-09-17T00:00:00.000+09:00",
+    "description": "豊中市大黒町で毎月開催"
   }
 ]
