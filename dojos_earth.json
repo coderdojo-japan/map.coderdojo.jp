@@ -24304,7 +24304,7 @@
     "stage": 1,
     "urlSlug": "gb/selby/selby-olympia-1",
     "startTime": "10:00:00",
-    "endTime": "12:00:00",
+    "endTime": "11:30:00",
     "private": 0,
     "frequency": "1/m",
     "alternativeFrequency": null,
@@ -40296,8 +40296,8 @@
     "startTime": "10:00:00",
     "endTime": "13:00:00",
     "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "first",
+    "frequency": "other",
+    "alternativeFrequency": "First and Third Sundays every month",
     "day": 7,
     "id": "6999db56-03eb-4d39-acd4-6e38d4d1b0bc"
   },
@@ -60409,7 +60409,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/harrogate/harrogate-harrogate-library",
     "startTime": "17:00:00",
     "endTime": "19:00:00",
@@ -73905,8 +73905,8 @@
     "entity$": "-/cd/dojos",
     "name": "Dulwich, London @ The Charter School East Dulwich",
     "geoPoint": {
-      "lat": 51.4601503,
-      "lon": -0.08009049999998297
+      "lat": 51.502781,
+      "lon": -0.087738
     },
     "country": {
       "countryName": "United Kingdom",
@@ -73919,9 +73919,9 @@
     "urlSlug": "gb/southwark/dulwich-london-the-charter-school-east-dulwich",
     "startTime": "13:00:00",
     "endTime": "15:00:00",
-    "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": "3rd",
+    "private": 1,
+    "frequency": "other",
+    "alternativeFrequency": "Closed",
     "day": 6,
     "id": "bf54f2a3-6e20-4087-bc86-a31c73237c2d"
   },
