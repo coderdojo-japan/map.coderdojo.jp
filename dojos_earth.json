@@ -48250,7 +48250,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Bucharest @ Deloitte Digital",
+    "name": "CoderDojo Deloitte @ Bucharest",
     "geoPoint": {
       "lat": 44.483318,
       "lon": 26.108828
@@ -48262,11 +48262,11 @@
       "alpha3": "ROU",
       "countryNumber": "642"
     },
-    "stage": 1,
-    "urlSlug": "ro/bucharest/bucharest-deloitte-digital",
+    "stage": 0,
+    "urlSlug": "ro/bucharest/coderdojo-deloitte-bucharest",
     "startTime": "10:00:00",
     "endTime": "12:00:00",
-    "private": 0,
+    "private": 1,
     "frequency": "other",
     "alternativeFrequency": "Every 3 weeks",
     "day": 7,
@@ -50749,10 +50749,10 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Iasi @ Deloitte Digital",
+    "name": "CoderDojo Deloitte @ Iasi",
     "geoPoint": {
-      "lat": 47.1562792,
-      "lon": 27.6007368
+      "lat": 47.1507408,
+      "lon": 27.5835123
     },
     "country": {
       "countryName": "Romania",
@@ -50762,10 +50762,10 @@
       "countryNumber": "642"
     },
     "stage": 0,
-    "urlSlug": "ro/iasi/iasi-deloitte-digital",
+    "urlSlug": "ro/iasi/coderdojo-deloitte-iasi",
     "startTime": "10:00:00",
     "endTime": "13:00:00",
-    "private": 0,
+    "private": 1,
     "frequency": "other",
     "alternativeFrequency": "Every 3 weeks",
     "day": 6,

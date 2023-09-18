@@ -1261,7 +1261,7 @@
   },
   {
     "id": 112,
-    "url": "https://www.coderdojo-kashiwa.com/dojoInfo.php?dojo=minamikashiwa",
+    "url": "https://www.coderdojo-kashiwa.com/",
     "name": "南柏",
     "logo": "https://coderdojo.jp/img/dojos/minami-kashiwa.webp",
     "order": "122173",
@@ -1417,12 +1417,12 @@
   },
   {
     "id": 125,
-    "url": "https://www.coderdojo-kashiwa.com/dojoInfo.php?dojo=kashiwashounan",
+    "url": "https://www.coderdojo-kashiwa.com/",
     "name": "柏沼南",
     "logo": "https://coderdojo.jp/img/dojos/kashiwa-shounan.webp",
     "order": "122173",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "千葉",
     "created_at": "2018-01-27T00:00:00.000+09:00",
     "description": "柏市沼南で第2土曜に開催"
@@ -2226,7 +2226,7 @@
     "logo": "https://coderdojo.jp/img/dojos/mutsuno.webp",
     "order": "082210",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "茨城",
     "created_at": "2019-02-23T00:00:00.000+09:00",
     "description": "ひたちなか市で毎月開催"
@@ -3502,5 +3502,17 @@
     "prefecture": "大阪",
     "created_at": "2023-09-17T00:00:00.000+09:00",
     "description": "豊中市大黒町で毎月開催"
+  },
+  {
+    "id": 311,
+    "url": "https://coderdojo-kashiwa.com/",
+    "name": "柏の葉",
+    "logo": "https://coderdojo.jp/img/dojos/kashiwa-no-ha.webp",
+    "order": "122173",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "千葉",
+    "created_at": "2023-09-18T14:24:50.062+09:00",
+    "description": "柏市で毎月開催"
   }
 ]
