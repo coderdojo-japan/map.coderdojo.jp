@@ -10191,8 +10191,8 @@
     "entity$": "-/cd/dojos",
     "name": "Belfast @ Shockwaves Makerspace",
     "geoPoint": {
-      "lat": 54.540435,
-      "lon": -5.902880999999979
+      "lat": 54.5409964,
+      "lon": -5.9038739
     },
     "country": {
       "countryName": "United Kingdom",
@@ -10203,8 +10203,8 @@
     },
     "stage": 2,
     "urlSlug": "gb/belfast/belfast-shockwaves-makerspace",
-    "startTime": "10:30:00",
-    "endTime": "12:00:00",
+    "startTime": "10:00:00",
+    "endTime": "11:30:00",
     "private": 0,
     "frequency": "1/m",
     "alternativeFrequency": "4th",
@@ -69310,7 +69310,7 @@
       "alpha3": "CZE",
       "countryNumber": "203"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "cz/hodonin/mek-hodonin",
     "startTime": "16:00:00",
     "endTime": "17:30:00",
