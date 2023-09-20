@@ -1858,7 +1858,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-gifu.org/' target='_blank' rel='noopener'>  <img src='/images/dojos/gifu.webp' alt='岐阜' loading='lazy' width='100px' /></a><br><b>岐阜</b><br>ぎふメディアコス<br>モスで毎月開催<br><a href='https://coderdojo-gifu.org/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-gifu.org/' target='_blank' rel='noopener'>  <img src='/images/dojos/gifu.webp' alt='岐阜' loading='lazy' width='100px' /></a><br><b>岐阜</b><br>ぎふメディアコス<br>モスで毎月開催<br>&rarr; 次回: <a href='https://coderdojo-gifu.connpass.com/event/296960/' target='_blank' rel='noopener'>10月7日</a><br><a href='https://coderdojo-gifu.org/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -2293,7 +2293,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://sites.google.com/coderdojo.com/kishiwada/' target='_blank' rel='noopener'>  <img src='/images/dojos/kishiwada.webp' alt='岸和田' loading='lazy' width='100px' /></a><br><b>岸和田</b><br>岸和田市で毎月開催<br><a href='https://sites.google.com/coderdojo.com/kishiwada/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://sites.google.com/coderdojo.com/kishiwada/' target='_blank' rel='noopener'>  <img src='/images/dojos/kishiwada.webp' alt='岸和田' loading='lazy' width='100px' /></a><br><b>岸和田</b><br>岸和田市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-kishiwada.connpass.com/event/296906/' target='_blank' rel='noopener'>9月24日</a><br><a href='https://sites.google.com/coderdojo.com/kishiwada/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -12463,7 +12463,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-inuyama.rgr.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/inuyama.webp' alt='犬山' loading='lazy' width='100px' /></a><br><b>犬山</b><br>犬山市で毎月開催<br><a href='https://coderdojo-inuyama.rgr.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-inuyama.rgr.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/inuyama.webp' alt='犬山' loading='lazy' width='100px' /></a><br><b>犬山</b><br>犬山市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-inuyama.doorkeeper.jp/events/163708' target='_blank' rel='noopener'>10月15日</a><br><a href='https://coderdojo-inuyama.rgr.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -21434,6 +21434,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Neffies<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/fr/languedoc-roussillon/neffies/neffies'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.778233,
+          50.038276
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Pardubice@krajska knihovna<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/cz/pardubice/pardubice-krajska-knihovna'>連絡先を見る</a>"
       }
     },
     {

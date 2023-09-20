@@ -97891,6 +97891,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Pardubice@krajska knihovna",
+    "geoPoint": {
+      "lat": 50.038276,
+      "lon": 15.778233
+    },
+    "country": {
+      "countryName": "Czech Republic",
+      "continent": "EU",
+      "alpha2": "CZ",
+      "alpha3": "CZE",
+      "countryNumber": "203"
+    },
+    "stage": 1,
+    "urlSlug": "cz/pardubice/pardubice-krajska-knihovna",
+    "startTime": "16:00:00",
+    "endTime": "17:00:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 1,
+    "id": "fe059ecd-da5c-48e5-b37a-943959644efb"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Midlothian Coding Collective@Rosewell Development Trust",
     "geoPoint": {
       "lat": 55.851468946612066,
