@@ -8781,21 +8781,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.2359045,
-          45.7457214
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Timisoara, CyberSec<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ro/timisoara/timisoara-cybersec'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.1211802,
           50.9521372
         ]
@@ -9613,7 +9598,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-tamachi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/coderdojo.webp' alt='たまち' loading='lazy' width='100px' /></a><br><b>たまち</b><br>港区JR田町駅周<br>辺で毎月開催<br><a href='https://coderdojo-tamachi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-tamachi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/coderdojo.webp' alt='たまち' loading='lazy' width='100px' /></a><br><b>たまち</b><br>港区JR田町駅周<br>辺で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-tamachi.connpass.com/event/296959/' target='_blank' rel='noopener'>10月21日</a><br><a href='https://coderdojo-tamachi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -17609,6 +17594,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Perth@Roseworth PS Girrawheen<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/au/perth-western-australia/perth-roseworth-ps-girrawheen'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2414493,
+          53.4574744
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Moss Side, Manchester @ Powerhouse Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/manchester/moss-side-manchester-powerhouse-library'>連絡先を見る</a>"
       }
     },
     {

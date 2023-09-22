@@ -40672,7 +40672,7 @@
       "alpha3": "ROU",
       "countryNumber": "642"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "ro/timisoara/timisoara-cybersec",
     "startTime": "10:00:00",
     "endTime": "13:00:00",
@@ -79903,14 +79903,14 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 0,
+    "stage": 2,
     "urlSlug": "ie/dublin/dublin-icci",
-    "startTime": "17:00:00",
-    "endTime": "20:00:00",
+    "startTime": "18:00:00",
+    "endTime": "21:00:00",
     "private": 0,
     "frequency": "1/w",
     "alternativeFrequency": null,
-    "day": 2,
+    "day": 1,
     "id": "cf050ae9-dfd0-4d73-9da4-ce4259c483e8"
   },
   {
@@ -80197,6 +80197,30 @@
     "alternativeFrequency": null,
     "day": 2,
     "id": "cf88944d-90d6-45b5-ad78-710e4973dac4"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Moss Side, Manchester @ Powerhouse Library",
+    "geoPoint": {
+      "lat": 53.4574744,
+      "lon": -2.2414493
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/manchester/moss-side-manchester-powerhouse-library",
+    "startTime": "16:30:00",
+    "endTime": "18:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 2,
+    "id": "cf9daaaa-b1e5-4feb-9ba3-db92f57851d2"
   },
   {
     "entity$": "-/cd/dojos",
