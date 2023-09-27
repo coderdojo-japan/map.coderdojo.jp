@@ -7291,30 +7291,6 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Test Dojo HV",
-    "geoPoint": {
-      "lat": 53.3486949,
-      "lon": -6.2505678
-    },
-    "country": {
-      "countryName": "Ireland",
-      "continent": "EU",
-      "alpha2": "IE",
-      "alpha3": "IRL",
-      "countryNumber": "372"
-    },
-    "stage": 4,
-    "urlSlug": "ie/dublin/test-dojo-hv",
-    "startTime": "17:00:00",
-    "endTime": "18:00:00",
-    "private": 0,
-    "frequency": "1/w",
-    "alternativeFrequency": null,
-    "day": 1,
-    "id": "145c4987-7d5b-454d-88c6-b78d807132c5"
-  },
-  {
-    "entity$": "-/cd/dojos",
     "name": "Smart Tech IT Training Centre",
     "geoPoint": {
       "lat": 7.759491199999998,
@@ -92572,6 +92548,30 @@
     "alternativeFrequency": "Sabados, 10 AM a 12 PM",
     "day": 6,
     "id": "efdc5185-d5a4-4f7d-a38b-153749d1af47"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Saratoga @ Saratoga Library",
+    "geoPoint": {
+      "lat": 37.2701161,
+      "lon": -122.015105
+    },
+    "country": {
+      "countryName": "United States",
+      "continent": "NA",
+      "alpha2": "US",
+      "alpha3": "USA",
+      "countryNumber": "840"
+    },
+    "stage": 1,
+    "urlSlug": "us/saratoga-ca/saratoga-saratoga-library",
+    "startTime": "13:00:00",
+    "endTime": "16:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "eff3737e-6b34-4e0b-86d5-2793fbd30d1a"
   },
   {
     "entity$": "-/cd/dojos",
