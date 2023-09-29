@@ -14737,6 +14737,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Longridge @ Longridge library",
+    "geoPoint": {
+      "lat": 53.8306801,
+      "lon": -2.6012132
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/longridge-preston/longridge-longridge-library",
+    "startTime": "15:30:00",
+    "endTime": "16:30:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 1,
+    "id": "276fcd1a-3b27-4049-ad20-1b5b948a8ec2"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Aycliffe @ Aycliffe Young Peoples Centre",
     "geoPoint": {
       "lat": 54.61598799999999,
