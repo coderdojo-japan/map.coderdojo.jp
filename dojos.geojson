@@ -3111,6 +3111,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.6012132,
+          53.8306801
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Longridge @ Longridge library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/longridge-preston/longridge-longridge-library'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.575577,
           54.61598799999999
         ]
@@ -11608,7 +11623,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>  <img src='/images/dojos/toyohashi.webp' alt='豊橋' loading='lazy' width='100px' /></a><br><b>豊橋</b><br>豊橋市で不定期開催<br><a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>  <img src='/images/dojos/toyohashi.webp' alt='豊橋' loading='lazy' width='100px' /></a><br><b>豊橋</b><br>豊橋市で不定期開催<br>&rarr; 次回: <a href='https://coderdojo-toyohashi.doorkeeper.jp/events/164236' target='_blank' rel='noopener'>10月3日</a><br><a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -17278,7 +17293,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojoyabuki.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/yabuki.webp' alt='矢吹' loading='lazy' width='100px' /></a><br><b>矢吹</b><br>矢吹町で毎月開催<br><a href='https://coderdojoyabuki.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojoyabuki.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/yabuki.webp' alt='矢吹' loading='lazy' width='100px' /></a><br><b>矢吹</b><br>矢吹町で毎月開催<br>&rarr; 次回: <a href='https://coderdojoyabuki.connpass.com/event/294705/' target='_blank' rel='noopener'>10月14日</a><br><a href='https://coderdojoyabuki.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
