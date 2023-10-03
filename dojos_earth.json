@@ -4720,6 +4720,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Åstorp@Arena Åstorp",
+    "geoPoint": {
+      "lat": 56.13619199999999,
+      "lon": 12.9345779
+    },
+    "country": {
+      "countryName": "Sweden",
+      "continent": "EU",
+      "alpha2": "SE",
+      "alpha3": "SWE",
+      "countryNumber": "752"
+    },
+    "stage": 1,
+    "urlSlug": "se/astorp/astorp-arena-astorp",
+    "startTime": "16:30:00",
+    "endTime": "18:30:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 1,
+    "id": "0d512d82-6de3-450a-a023-854a25c4e97a"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Genius Zone @ Villahermosa",
     "geoPoint": {
       "lat": 17.9742641,
@@ -46527,8 +46551,8 @@
     "entity$": "-/cd/dojos",
     "name": "Hazerswoude-Rijndijk",
     "geoPoint": {
-      "lat": 52.128361,
-      "lon": 4.5930902
+      "lat": 52.1279542,
+      "lon": 4.5932489
     },
     "country": {
       "countryName": "Netherlands",
@@ -46540,10 +46564,10 @@
     "stage": 1,
     "urlSlug": "nl/hazerswoude-rijndijk/hazerswoude-rijndijk",
     "startTime": "13:00:00",
-    "endTime": "15:00:00",
+    "endTime": "14:30:00",
     "private": 0,
     "frequency": "1/m",
-    "alternativeFrequency": "first",
+    "alternativeFrequency": "3rd",
     "day": 7,
     "id": "7b00859a-d4c5-4ed0-bfbf-2cb8a36ad535"
   },
@@ -50632,6 +50656,30 @@
     "alternativeFrequency": null,
     "day": 1,
     "id": "84890cce-de45-4ee5-9438-a4613a7d830b"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "BlueRoof @ Austerville",
+    "geoPoint": {
+      "lat": -29.9387928,
+      "lon": 30.9833603
+    },
+    "country": {
+      "countryName": "South Africa",
+      "continent": "AF",
+      "alpha2": "ZA",
+      "alpha3": "ZAF",
+      "countryNumber": "710"
+    },
+    "stage": 1,
+    "urlSlug": "za/austerville/blueroof-austerville",
+    "startTime": "15:00:00",
+    "endTime": "16:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 2,
+    "id": "848c221b-cf92-42de-9fb6-5461f1648af1"
   },
   {
     "entity$": "-/cd/dojos",
@@ -61386,8 +61434,8 @@
     "entity$": "-/cd/dojos",
     "name": "Benthuizen",
     "geoPoint": {
-      "lat": 52.0765086,
-      "lon": 4.542113899999999
+      "lat": 52.0743185,
+      "lon": 4.5425491
     },
     "country": {
       "countryName": "Netherlands",
@@ -61396,13 +61444,13 @@
       "alpha3": "NLD",
       "countryNumber": "528"
     },
-    "stage": 1,
+    "stage": 0,
     "urlSlug": "nl/benthuizen/benthuizen",
     "startTime": "13:00:00",
-    "endTime": "15:00:00",
+    "endTime": "14:30:00",
     "private": 0,
     "frequency": "1/m",
-    "alternativeFrequency": null,
+    "alternativeFrequency": "3rd",
     "day": 7,
     "id": "9f688c13-4b80-4b9c-a563-d21548e300ba"
   },
@@ -81880,6 +81928,30 @@
     "alternativeFrequency": "Saturday 2pm - 4pm (on biweekly basis)",
     "day": null,
     "id": "d35f1b56-d1aa-4632-bb1d-87166900b067"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Hayfields, Pietermaritzburg @ SleepyHollowNinjaZone",
+    "geoPoint": {
+      "lat": -29.6302319,
+      "lon": 30.4125158
+    },
+    "country": {
+      "countryName": "South Africa",
+      "continent": "AF",
+      "alpha2": "ZA",
+      "alpha3": "ZAF",
+      "countryNumber": "710"
+    },
+    "stage": 1,
+    "urlSlug": "za/pietermaritzburg/hayfields-pietermaritzburg-sleepyhollowninjazone",
+    "startTime": "08:00:00",
+    "endTime": "14:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "2nd",
+    "day": 6,
+    "id": "d36c67f1-cb09-448f-9d2f-ea6509d50d6e"
   },
   {
     "entity$": "-/cd/dojos",

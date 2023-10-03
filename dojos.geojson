@@ -951,6 +951,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.9345779,
+          56.13619199999999
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Åstorp@Arena Åstorp<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/se/astorp/astorp-arena-astorp'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.940665999999965,
           54.592826
         ]
@@ -10101,8 +10116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.5930902,
-          52.128361
+          4.5932489,
+          52.1279542
         ]
       },
       "properties": {
@@ -11001,6 +11016,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          30.9833603,
+          -29.9387928
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>BlueRoof @ Austerville<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/za/austerville/blueroof-austerville'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.6235765,
           34.7104229
         ]
@@ -11068,7 +11098,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://sites.google.com/coderdojo.com/anjo/' target='_blank' rel='noopener'>  <img src='/images/dojos/anjo.webp' alt='安城' loading='lazy' width='100px' /></a><br><b>安城</b><br>安城市で第3土曜<br>に開催<br><a href='https://sites.google.com/coderdojo.com/anjo/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://sites.google.com/coderdojo.com/anjo/' target='_blank' rel='noopener'>  <img src='/images/dojos/anjo.webp' alt='安城' loading='lazy' width='100px' /></a><br><b>安城</b><br>安城市で第3土曜<br>に開催<br>&rarr; 次回: <a href='https://coderdojo-anjo.doorkeeper.jp/events/164382' target='_blank' rel='noopener'>10月21日</a><br><a href='https://sites.google.com/coderdojo.com/anjo/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -13446,8 +13476,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.542113899999999,
-          52.0765086
+          4.5425491,
+          52.0743185
         ]
       },
       "properties": {
@@ -18014,6 +18044,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Cambridge, ON @ STEMOTICS<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ca/cambridge-on/cambridge-on-stemotics'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4125158,
+          -29.6302319
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Hayfields, Pietermaritzburg @ SleepyHollowNinjaZone<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/za/pietermaritzburg/hayfields-pietermaritzburg-sleepyhollowninjazone'>連絡先を見る</a>"
       }
     },
     {
