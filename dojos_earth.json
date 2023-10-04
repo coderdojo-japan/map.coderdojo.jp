@@ -4720,7 +4720,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Åstorp@Arena Åstorp",
+    "name": "CoderDojo Åstorp",
     "geoPoint": {
       "lat": 56.13619199999999,
       "lon": 12.9345779
@@ -4733,7 +4733,7 @@
       "countryNumber": "752"
     },
     "stage": 1,
-    "urlSlug": "se/astorp/astorp-arena-astorp",
+    "urlSlug": "se/astorp/coderdojo-astorp",
     "startTime": "16:30:00",
     "endTime": "18:30:00",
     "private": 0,
