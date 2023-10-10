@@ -11300,9 +11300,9 @@
       "alpha2": "IE"
     },
     "stage": 2,
-    "urlSlug": "ie/dundalk-county-louth/dundalk",
+    "urlSlug": "ie/louth/dundalk-county-louth/dundalk",
     "startTime": "12:00:00",
-    "endTime": "14:45:00",
+    "endTime": "14:30:00",
     "private": 0,
     "frequency": "1/m",
     "alternativeFrequency": "Saturday 14th June, 12pm-3pm",
@@ -26262,8 +26262,8 @@
     "entity$": "-/cd/dojos",
     "name": "Belluno@Segato",
     "geoPoint": {
-      "lat": 46.1405964,
-      "lon": 12.2158263
+      "lat": 46.14050719999999,
+      "lon": 12.213707
     },
     "country": {
       "countryName": "Italy",
@@ -86194,6 +86194,30 @@
     "alternativeFrequency": "First and third Saturday of every month 10:30 - 12:00.",
     "day": null,
     "id": "e04f4bde-d6df-49be-95db-d18e528c1f70"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Widnes @ Widnes Library via Mako Create",
+    "geoPoint": {
+      "lat": 53.3620518,
+      "lon": -2.733289
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/widnes/widnes-widnes-library-via-mako-create",
+    "startTime": "16:00:00",
+    "endTime": "18:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": null,
+    "day": 4,
+    "id": "e0506c10-b67d-4881-bdc9-884120764c49"
   },
   {
     "entity$": "-/cd/dojos",
