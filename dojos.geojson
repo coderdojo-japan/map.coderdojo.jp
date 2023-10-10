@@ -2368,7 +2368,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dundalk<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dundalk-county-louth/dundalk'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dundalk<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/louth/dundalk-county-louth/dundalk'>連絡先を見る</a>"
       }
     },
     {
@@ -5541,8 +5541,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.2158263,
-          46.1405964
+          12.213707,
+          46.14050719999999
         ]
       },
       "properties": {
@@ -18974,6 +18974,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<a href='https://coderdojokumamoto.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/kumamoto.webp' alt='熊本' loading='lazy' width='100px' /></a><br><b>熊本</b><br>熊本市で毎月開催<br><a href='https://coderdojokumamoto.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.733289,
+          53.3620518
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Widnes @ Widnes Library via Mako Create<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/widnes/widnes-widnes-library-via-mako-create'>連絡先を見る</a>"
       }
     },
     {
