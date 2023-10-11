@@ -69262,7 +69262,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 2,
     "urlSlug": "gb/london-borough-of-redbridge/wanstead-wanstead-library",
     "startTime": "10:00:00",
     "endTime": "11:00:00",
@@ -81943,13 +81943,13 @@
       "alpha3": "ZAF",
       "countryNumber": "710"
     },
-    "stage": 1,
+    "stage": 0,
     "urlSlug": "za/pietermaritzburg/hayfields-pietermaritzburg-sleepyhollowninjazone",
-    "startTime": "08:00:00",
-    "endTime": "14:00:00",
+    "startTime": "14:00:00",
+    "endTime": "16:00:00",
     "private": 0,
     "frequency": "1/m",
-    "alternativeFrequency": "2nd",
+    "alternativeFrequency": "first",
     "day": 6,
     "id": "d36c67f1-cb09-448f-9d2f-ea6509d50d6e"
   },
@@ -86197,7 +86197,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Widnes @ Widnes Library via Mako Create",
+    "name": "Widnes @ Widnes Library via Mako Create Coding Club",
     "geoPoint": {
       "lat": 53.3620518,
       "lon": -2.733289
@@ -86209,8 +86209,8 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
-    "urlSlug": "gb/widnes/widnes-widnes-library-via-mako-create",
+    "stage": 2,
+    "urlSlug": "gb/widnes/widnes-widnes-library-via-mako-create-coding-club",
     "startTime": "16:00:00",
     "endTime": "18:00:00",
     "private": 0,
