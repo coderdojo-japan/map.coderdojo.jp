@@ -1558,7 +1558,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/coderdojo.kamiyacho/' target='_blank' rel='noopener'>  <img src='/images/dojos/hiroshima.webp' alt='紙屋町' loading='lazy' width='100px' /></a><br><b>紙屋町</b><br>広島市で毎月開催<br><a href='https://www.facebook.com/coderdojo.kamiyacho/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/coderdojo.kamiyacho/' target='_blank' rel='noopener'>  <img src='/images/dojos/hiroshima.webp' alt='紙屋町' loading='lazy' width='100px' /></a><br><b>紙屋町</b><br>広島市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-hiroshima.doorkeeper.jp/events/164734' target='_blank' rel='noopener'>10月28日</a><br><a href='https://www.facebook.com/coderdojo.kamiyacho/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -10581,21 +10581,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.1205313,
-          52.2045684
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Cambridge@CentralLibrary<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/cambridge/cambridge-centrallibrary'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.96966123580933,
           36.85512371715175
         ]
@@ -16213,7 +16198,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojoome.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/ome.webp' alt='青梅' loading='lazy' width='100px' /></a><br><b>青梅</b><br>青梅市で毎月開催<br><a href='https://coderdojoome.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojoome.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/ome.webp' alt='青梅' loading='lazy' width='100px' /></a><br><b>青梅</b><br>青梅市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-ome.connpass.com/event/298777/' target='_blank' rel='noopener'>11月26日</a><br><a href='https://coderdojoome.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {

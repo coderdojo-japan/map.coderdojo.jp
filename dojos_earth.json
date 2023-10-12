@@ -42559,6 +42559,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "BANDAI@BandaiCommunityCenter",
+    "geoPoint": {
+      "lat": 37.5592589,
+      "lon": 139.9980443
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/bandai-fukushima/bandai-bandaicommunitycenter",
+    "startTime": "13:30:00",
+    "endTime": "16:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "first",
+    "day": 6,
+    "id": "700c3760-6d11-44d8-8d36-c501e03c028f"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Dungarvan",
     "geoPoint": {
       "lat": 52.084989821941306,
@@ -42868,12 +42892,12 @@
       "alpha2": "IE",
       "alpha3": "IRL"
     },
-    "stage": 3,
+    "stage": 2,
     "urlSlug": "ie/cork/mtu-bishopstown-cork",
-    "startTime": "00:00:00",
-    "endTime": "00:00:00",
+    "startTime": "16:00:00",
+    "endTime": "17:30:00",
     "private": 0,
-    "frequency": "other",
+    "frequency": "1/w",
     "alternativeFrequency": "Other",
     "day": 5,
     "id": "70f37f66-557f-4b8e-b013-fe696a42a9be"
@@ -48643,7 +48667,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 2,
+    "stage": 4,
     "urlSlug": "gb/cambridge/cambridge-centrallibrary",
     "startTime": "10:30:00",
     "endTime": "12:30:00",
