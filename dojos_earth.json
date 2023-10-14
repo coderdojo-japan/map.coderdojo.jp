@@ -26260,7 +26260,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Belluno@Segato",
+    "name": "BellunoCentro",
     "geoPoint": {
       "lat": 46.14050719999999,
       "lon": 12.213707
@@ -26273,13 +26273,13 @@
       "countryNumber": "380"
     },
     "stage": 1,
-    "urlSlug": "it/belluno-province-of-belluno/belluno-segato",
+    "urlSlug": "it/belluno-province-of-belluno/bellunocentro",
     "startTime": "15:00:00",
-    "endTime": "16:00:00",
+    "endTime": "17:00:00",
     "private": 0,
-    "frequency": "1/m",
+    "frequency": "1/w",
     "alternativeFrequency": "first",
-    "day": 4,
+    "day": 6,
     "id": "468c2c34-883b-4b80-898e-1b8f859d39ab"
   },
   {
@@ -71005,7 +71005,7 @@
     "stage": 2,
     "urlSlug": "gb/cambridge/cambridge-central-library",
     "startTime": "10:30:00",
-    "endTime": "12:30:00",
+    "endTime": "12:45:00",
     "private": 0,
     "frequency": "2/m",
     "alternativeFrequency": null,
@@ -83839,7 +83839,7 @@
     "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "Gli incontri sono programmati, di solito, il sabato mattina (10:00-12:30) ogni quattro settimane circa",
+    "alternativeFrequency": "Gli incontri sono programmati, di solito, il sabato mattina (10:00-12:30) ogni quattro settimane circa. Nella descrizione c'è un link al nostro calendario.",
     "day": null,
     "id": "d8d23b76-f335-429d-80d5-cf351f27c0cb"
   },
