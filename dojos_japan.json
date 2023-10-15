@@ -1350,7 +1350,7 @@
     "logo": "https://coderdojo.jp/img/dojos/nishi-kobe.webp",
     "order": "281069",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "兵庫",
     "created_at": "2017-11-08T00:00:00.000+09:00",
     "description": "神戸市長田区で毎月開催"
@@ -1525,7 +1525,7 @@
   },
   {
     "id": 134,
-    "url": "https://coderdojotsukuba.web.fc2.com/",
+    "url": "https://coderdojo-tsukuba.com/",
     "name": "つくば",
     "logo": "https://coderdojo.jp/img/dojos/tsukuba.webp",
     "order": "082201",
@@ -1542,7 +1542,7 @@
     "logo": "https://coderdojo.jp/img/dojos/daito.webp",
     "order": "272183",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "大阪",
     "created_at": "2018-03-13T00:00:00.000+09:00",
     "description": "大東市で第1土曜に開催"
@@ -1621,7 +1621,7 @@
   },
   {
     "id": 143,
-    "url": "https://www.facebook.com/CoderDojo%E9%99%B8%E5%89%8D%E9%AB%98%E7%94%B0-1983701135226932/",
+    "url": "https://www.facebook.com/CoderDojoRikuzentakata",
     "name": "陸前高田",
     "logo": "https://coderdojo.jp/img/dojos/rikuzentakata.webp",
     "order": "032107",
@@ -1806,7 +1806,7 @@
     "logo": "https://coderdojo.jp/img/dojos/narita.webp",
     "order": "122303",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "千葉",
     "created_at": "2018-11-17T00:00:00.000+09:00",
     "description": "成田市で毎月開催"
@@ -1885,7 +1885,7 @@
   },
   {
     "id": 175,
-    "url": "https://pro.form-mailer.jp/lp/2a6ae9f9153606",
+    "url": "https://sites.google.com/view/coderdojomatsumoto/",
     "name": "松本",
     "logo": "https://coderdojo.jp/img/dojos/matsumoto.webp",
     "order": "202029",
@@ -2010,7 +2010,7 @@
     "logo": "https://coderdojo.jp/img/dojos/default.webp",
     "order": "131091",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "東京",
     "created_at": "2018-11-20T00:00:00.000+09:00",
     "description": "品川区五反田で第3土曜に開催"
