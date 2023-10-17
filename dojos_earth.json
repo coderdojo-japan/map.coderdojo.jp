@@ -11937,8 +11937,8 @@
     "entity$": "-/cd/dojos",
     "name": "Timisoara @ NTT DATA",
     "geoPoint": {
-      "lat": 45.76557870000001,
-      "lon": 21.228616800000054
+      "lat": 45.7653708,
+      "lon": 21.2299821
     },
     "country": {
       "countryName": "Romania",
@@ -11947,14 +11947,14 @@
       "alpha2": "RO",
       "alpha3": "ROU"
     },
-    "stage": 3,
+    "stage": 1,
     "urlSlug": "ro/timisoara-timis-county/timisoara-ntt-data",
-    "startTime": "00:00:00",
-    "endTime": "00:00:00",
+    "startTime": "17:30:00",
+    "endTime": "19:00:00",
     "private": 0,
-    "frequency": "other",
-    "alternativeFrequency": "Temporarily online due to the pandemic each Wednesday and each Friday from 17 to 18 (in the past, Fridays, every week (except school vacation), 17-19)",
-    "day": null,
+    "frequency": "1/w",
+    "alternativeFrequency": "Vineri 17:30-19",
+    "day": 5,
     "id": "203a3ea0-fec2-4b96-a9b0-2d7454372d79"
   },
   {
@@ -22939,7 +22939,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "ie/rathcoole-county-dublin/codingclub-hfcs-rathcoole",
     "startTime": "12:30:00",
     "endTime": "13:00:00",
@@ -87433,6 +87433,30 @@
     "alternativeFrequency": "2nd",
     "day": 6,
     "id": "e2ff5eb2-3520-4ba2-8d2e-29b0388069ee"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Vianen @ Vrije Lekpoort",
+    "geoPoint": {
+      "lat": 51.9960148,
+      "lon": 5.0917257
+    },
+    "country": {
+      "countryName": "Netherlands",
+      "continent": "EU",
+      "alpha2": "NL",
+      "alpha3": "NLD",
+      "countryNumber": "528"
+    },
+    "stage": 1,
+    "urlSlug": "nl/vianen/vianen-vrije-lekpoort",
+    "startTime": "15:00:00",
+    "endTime": "17:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "2nd",
+    "day": 6,
+    "id": "e300fca5-2629-459b-a385-3b667ae21bcd"
   },
   {
     "entity$": "-/cd/dojos",
