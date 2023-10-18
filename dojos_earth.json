@@ -82724,7 +82724,7 @@
     "urlSlug": "gb/glasgow/pollok-glasgow-pollok-library",
     "startTime": "18:00:00",
     "endTime": "19:00:00",
-    "private": 0,
+    "private": 1,
     "frequency": "2/m",
     "alternativeFrequency": null,
     "day": 4,
