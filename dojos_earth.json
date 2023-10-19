@@ -44112,7 +44112,7 @@
     "startTime": "16:15:00",
     "endTime": "17:45:00",
     "private": 1,
-    "frequency": "1/w",
+    "frequency": "other",
     "alternativeFrequency": "TBC",
     "day": 4,
     "id": "743df4bb-063e-47c3-931e-3fc8f0335ccf"
@@ -86848,6 +86848,30 @@
     "alternativeFrequency": "Weekdays 3:30pm - 5:30pm ; Weekends Saturday,12am - 4pm (Check schedule for details.)",
     "day": null,
     "id": "e19d8ee1-5043-4e37-b918-28834e3c9bee"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Hazerswoude-Dorp",
+    "geoPoint": {
+      "lat": 52.0960708,
+      "lon": 4.5829525
+    },
+    "country": {
+      "countryName": "Netherlands",
+      "continent": "EU",
+      "alpha2": "NL",
+      "alpha3": "NLD",
+      "countryNumber": "528"
+    },
+    "stage": 1,
+    "urlSlug": "nl/hazerswoude-dorp/hazerswoude-dorp",
+    "startTime": "13:00:00",
+    "endTime": "14:30:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "3rd",
+    "day": 6,
+    "id": "e1a5caa2-c6a3-45d4-a47a-0ac56d1ca172"
   },
   {
     "entity$": "-/cd/dojos",

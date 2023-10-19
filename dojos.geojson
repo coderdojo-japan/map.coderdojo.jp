@@ -19071,6 +19071,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.5829525,
+          52.0960708
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Hazerswoude-Dorp<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/hazerswoude-dorp/hazerswoude-dorp'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           76.14428499999997,
           10.7619157
         ]
@@ -20488,7 +20503,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-inagi.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/inagi.webp' alt='稲城' loading='lazy' width='100px' /></a><br><b>稲城</b><br>稲城市若葉台で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojo-inagi.doorkeeper.jp/events/158988' target='_blank' rel='noopener'>10月22日</a><br><a href='https://coderdojo-inagi.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-inagi.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/inagi.webp' alt='稲城' loading='lazy' width='100px' /></a><br><b>稲城</b><br>稲城市若葉台で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojo-inagi.doorkeeper.jp/events/158988' target='_blank' rel='noopener'>10月28日</a><br><a href='https://coderdojo-inagi.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
