@@ -22461,20 +22461,20 @@
     "entity$": "-/cd/dojos",
     "name": "CoderDojo Pavia",
     "geoPoint": {
-      "lat": 45.20675,
-      "lon": 9.219920000000002
+      "lat": 45.1886024,
+      "lon": 9.140101099999999
     },
     "country": {
       "countryName": "Italy",
       "alpha2": "IT"
     },
     "stage": 1,
-    "urlSlug": "it/lombardia/cura-carpignano-province-of-pavia/coderdojo-pavia",
+    "urlSlug": "it/pavia-province-of-pavia/coderdojo-pavia",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "Sabato mattina, quindicinalmente http//coderdojo.compvter.it",
+    "alternativeFrequency": "Sabato mattina, mensilmente http//coderdojo.compvter.it",
     "day": null,
     "id": "3ac71f6c-14e8-46f0-a258-2d8ecdf6daed"
   },
@@ -87460,7 +87460,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Vianen @ Vrije Lekpoort",
+    "name": "CoderDojo-Vianen",
     "geoPoint": {
       "lat": 51.9960148,
       "lon": 5.0917257
@@ -87473,12 +87473,12 @@
       "countryNumber": "528"
     },
     "stage": 1,
-    "urlSlug": "nl/vianen/vianen-vrije-lekpoort",
+    "urlSlug": "nl/vianen/coderdojo-vianen",
     "startTime": "15:00:00",
     "endTime": "17:00:00",
     "private": 0,
     "frequency": "1/m",
-    "alternativeFrequency": "2nd",
+    "alternativeFrequency": "3rd",
     "day": 6,
     "id": "e300fca5-2629-459b-a385-3b667ae21bcd"
   },
