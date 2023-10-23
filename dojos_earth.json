@@ -69154,6 +69154,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "GTA @ Online",
+    "geoPoint": {
+      "lat": 43.559817,
+      "lon": -79.7163246
+    },
+    "country": {
+      "countryName": "Canada",
+      "continent": "NA",
+      "alpha2": "CA",
+      "alpha3": "CAN",
+      "countryNumber": "124"
+    },
+    "stage": 1,
+    "urlSlug": "ca/mississauga-on/gta-online",
+    "startTime": "18:00:00",
+    "endTime": "19:00:00",
+    "private": 1,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 3,
+    "id": "b32170a5-5a1c-4408-bfc6-f8a32a3ed05c"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Perth @ Westfield Park Primary School",
     "geoPoint": {
       "lat": -32.1099537,
