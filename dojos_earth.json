@@ -41134,6 +41134,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "inagekaigan",
+    "geoPoint": {
+      "lat": 35.6269843,
+      "lon": 140.0710458
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/chiba-chiba/inagekaigan",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "3rd",
+    "day": 6,
+    "id": "6bf2fa03-261c-4326-bfe2-da91b6824399"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Schio @ AVi",
     "geoPoint": {
       "lat": 45.71308699999999,
@@ -65236,6 +65260,30 @@
     "alternativeFrequency": null,
     "day": 6,
     "id": "a8b6e393-4b81-4b2d-a6ae-0198ea3cc5c4"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Makerlab@Agrinio",
+    "geoPoint": {
+      "lat": 38.6244897,
+      "lon": 21.4096034
+    },
+    "country": {
+      "countryName": "Greece",
+      "continent": "EU",
+      "alpha2": "GR",
+      "alpha3": "GRC",
+      "countryNumber": "300"
+    },
+    "stage": 1,
+    "urlSlug": "gr/agrinio/makerlab-agrinio",
+    "startTime": "10:00:00",
+    "endTime": "11:30:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "first",
+    "day": 7,
+    "id": "a8b764a6-36ca-468e-9c2b-2b754679252a"
   },
   {
     "entity$": "-/cd/dojos",
