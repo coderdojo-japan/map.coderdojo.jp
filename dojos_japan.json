@@ -30,7 +30,7 @@
     "logo": "https://coderdojo.jp/img/dojos/default.webp",
     "order": "042129",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "宮城",
     "created_at": "2016-04-25T00:00:00.000+09:00",
     "description": "登米市で毎月開催"
@@ -114,7 +114,7 @@
     "logo": "https://coderdojo.jp/img/dojos/hanno.webp",
     "order": "112097",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "埼玉",
     "created_at": "2015-05-13T00:00:00.000+09:00",
     "description": "飯能市で毎月開催"
@@ -150,7 +150,7 @@
     "logo": "https://coderdojo.jp/img/dojos/hachioji.webp",
     "order": "132012",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "東京",
     "created_at": "2015-06-22T00:00:00.000+09:00",
     "description": "八王子市で毎月開催"
@@ -162,7 +162,7 @@
     "logo": "https://coderdojo.jp/img/dojos/nakano.webp",
     "order": "131148",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "東京",
     "created_at": "2016-07-20T00:00:00.000+09:00",
     "description": "中野区で毎月開催"
@@ -385,7 +385,7 @@
   },
   {
     "id": 35,
-    "url": "https://coderdojo-nara-ikoma.github.io/",
+    "url": "https://coderdojo-nara.github.io/",
     "name": "奈良",
     "logo": "https://coderdojo.jp/img/dojos/nara.webp",
     "order": "292010",
@@ -397,7 +397,7 @@
   },
   {
     "id": 36,
-    "url": "https://coderdojo-nara-ikoma.github.io/",
+    "url": "https://nara-coderdojo.github.io/",
     "name": "生駒",
     "logo": "https://coderdojo.jp/img/dojos/ikoma.webp",
     "order": "292095",
@@ -558,19 +558,19 @@
     "logo": "https://coderdojo.jp/img/dojos/akashi.webp",
     "order": "282031",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "兵庫",
     "created_at": "2016-04-04T00:00:00.000+09:00",
     "description": "明石市で毎月開催"
   },
   {
     "id": 50,
-    "url": "https://sites.google.com/site/himejicoderdojo/",
+    "url": "https://www.facebook.com/groups/himeji.coderdojo/",
     "name": "姫路",
     "logo": "https://coderdojo.jp/img/dojos/himeji.webp",
     "order": "282014",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "兵庫",
     "created_at": "2016-03-22T00:00:00.000+09:00",
     "description": "姫路市で第3土曜に開催"
@@ -714,7 +714,7 @@
     "logo": "https://coderdojo.jp/img/dojos/ise.webp",
     "order": "242039",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "三重",
     "created_at": "2016-12-22T00:00:00.000+09:00",
     "description": "伊勢市で不定期開催"
@@ -870,7 +870,7 @@
     "logo": "https://coderdojo.jp/img/dojos/nagatsuta.webp",
     "order": "141135",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "神奈川",
     "created_at": "2017-04-03T00:00:00.000+09:00",
     "description": "横浜市緑区で毎月開催"
@@ -990,7 +990,7 @@
     "logo": "https://coderdojo.jp/img/dojos/azumino.webp",
     "order": "202207",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "長野",
     "created_at": "2017-05-11T00:00:00.000+09:00",
     "description": "安曇野市で毎月開催"
@@ -1218,7 +1218,7 @@
     "logo": "https://coderdojo.jp/img/dojos/minoh.webp",
     "order": "272205",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "大阪",
     "created_at": "2017-09-06T00:00:00.000+09:00",
     "description": "箕面市で毎月開催"
@@ -1986,7 +1986,7 @@
     "logo": "https://coderdojo.jp/img/dojos/default.webp",
     "order": "401323",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "福岡",
     "created_at": "2018-11-03T00:00:00.000+09:00",
     "description": "博多区で毎月開催"
@@ -2082,7 +2082,7 @@
     "logo": "https://coderdojo.jp/img/dojos/dazaifu.webp",
     "order": "402214",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "福岡",
     "created_at": "2019-01-04T00:00:00.000+09:00",
     "description": "太宰府市で毎月開催"
@@ -2238,7 +2238,7 @@
     "logo": "https://coderdojo.jp/img/dojos/musamura.webp",
     "order": "132233",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "東京",
     "created_at": "2019-02-26T00:00:00.000+09:00",
     "description": "武蔵村山市立第八小学校で毎月開催"
@@ -2274,7 +2274,7 @@
     "logo": "https://coderdojo.jp/img/dojos/default.webp",
     "order": "402036",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "福岡",
     "created_at": "2019-03-05T00:00:00.000+09:00",
     "description": "久留米市日吉校区で隔月開催"
@@ -2286,7 +2286,7 @@
     "logo": "https://coderdojo.jp/img/dojos/kozukue.webp",
     "order": "141097",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "神奈川",
     "created_at": "2019-03-08T00:00:00.000+09:00",
     "description": "横浜市港北区の小机町で毎月開催"
@@ -2406,7 +2406,7 @@
     "logo": "https://coderdojo.jp/img/dojos/default.webp",
     "order": "122319",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "千葉",
     "created_at": "2019-06-26T00:00:00.000+09:00",
     "description": "印西市で毎月開催"
@@ -2430,19 +2430,19 @@
     "logo": "https://coderdojo.jp/img/dojos/default.webp",
     "order": "132021",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "東京",
     "created_at": "2019-07-08T00:00:00.000+09:00",
     "description": "立川市たまがわ・みらいパークで毎月開催"
   },
   {
     "id": 222,
-    "url": "https://www.facebook.com/CoderDojo%E4%B8%89%E3%81%AE%E4%B8%B8-2325334674450862/",
+    "url": "https://www.facebook.com/CoderDojo3nomaru",
     "name": "三の丸",
     "logo": "https://coderdojo.jp/img/dojos/sannomaru.webp",
     "order": "082015",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "茨城",
     "created_at": "2019-07-23T00:00:00.000+09:00",
     "description": "水戸市で毎月開催"
@@ -2514,7 +2514,7 @@
     "logo": "https://coderdojo.jp/img/dojos/akishima.webp",
     "order": "132071",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "東京",
     "created_at": "2019-10-11T00:00:00.000+09:00",
     "description": "昭島市で毎月開催"
@@ -2526,7 +2526,7 @@
     "logo": "https://coderdojo.jp/img/dojos/nakama.webp",
     "order": "402150",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "福岡",
     "created_at": "2019-10-26T00:00:00.000+09:00",
     "description": "中間市で隔月開催"
@@ -2550,7 +2550,7 @@
     "logo": "https://coderdojo.jp/img/dojos/itabashi.webp",
     "order": "131199",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "東京",
     "created_at": "2019-10-30T00:00:00.000+09:00",
     "description": "板橋区で毎月開催"
@@ -2562,7 +2562,7 @@
     "logo": "https://coderdojo.jp/img/dojos/ueda.webp",
     "order": "202037",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "長野",
     "created_at": "2019-11-10T00:00:00.000+09:00",
     "description": "上田市で毎月開催"
@@ -2586,7 +2586,7 @@
     "logo": "https://coderdojo.jp/img/dojos/motoyama.webp",
     "order": "372081",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "香川",
     "created_at": "2019-11-26T00:00:00.000+09:00",
     "description": "三豊市豊中町本山周辺で毎月開催"
@@ -2634,7 +2634,7 @@
     "logo": "https://coderdojo.jp/img/dojos/default.webp",
     "order": "112305",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "埼玉",
     "created_at": "2020-02-03T00:00:00.000+09:00",
     "description": "新座市で毎月開催"
@@ -2682,7 +2682,7 @@
     "logo": "https://coderdojo.jp/img/dojos/otawara.webp",
     "order": "092100",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "栃木",
     "created_at": "2020-02-20T00:00:00.000+09:00",
     "description": "大田原市で毎月開催"
@@ -2730,7 +2730,7 @@
     "logo": "https://coderdojo.jp/img/dojos/default.webp",
     "order": "092011",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "栃木",
     "created_at": "2020-03-11T00:00:00.000+09:00",
     "description": "宇都宮市で毎月開催"
@@ -2778,7 +2778,7 @@
     "logo": "https://coderdojo.jp/img/dojos/default.webp",
     "order": "262129",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "京都",
     "created_at": "2020-06-27T00:00:00.000+09:00",
     "description": "京丹後市で不定期開催"
@@ -2838,7 +2838,7 @@
     "logo": "https://coderdojo.jp/img/dojos/yokkaichi.webp",
     "order": "242021",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "三重",
     "created_at": "2020-11-02T00:00:00.000+09:00",
     "description": "四日市市で毎月開催"
@@ -2970,7 +2970,7 @@
     "logo": "https://coderdojo.jp/img/dojos/higashi-sumiyoshi.webp",
     "order": "271217",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "大阪",
     "created_at": "2021-04-25T00:00:00.000+09:00",
     "description": "大阪市東住吉区で不定期開催"
@@ -3174,7 +3174,7 @@
     "logo": "https://coderdojo.jp/img/dojos/default.webp",
     "order": "122084",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "千葉",
     "created_at": "2022-04-21T00:00:00.000+09:00",
     "description": "野田市で毎月開催"
