@@ -49881,12 +49881,12 @@
     },
     "stage": 2,
     "urlSlug": "ar/cordoba/cordoba-cordoba/cordoba",
-    "startTime": "00:00:00",
-    "endTime": "00:00:00",
+    "startTime": "15:00:00",
+    "endTime": "17:30:00",
     "private": 0,
-    "frequency": "other",
+    "frequency": "1/w",
     "alternativeFrequency": "Sabados, 3 a 5:30 PM",
-    "day": null,
+    "day": 6,
     "id": "8308d14d-dda8-49a4-b217-6d07e9f88e2d"
   },
   {
