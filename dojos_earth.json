@@ -28912,6 +28912,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Runcorn @ Grangeway Community Centre  via Mako Create Coding Club",
+    "geoPoint": {
+      "lat": 53.3280701,
+      "lon": -2.7191446
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/runcorn/runcorn-grangeway-community-centre-via-mako-create-coding-club",
+    "startTime": "16:30:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": null,
+    "day": 4,
+    "id": "4dadc91d-7d76-42e5-886c-0ddc8f2d2832"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Ala e 4 Vicariati @ MindsHub",
     "geoPoint": {
       "lat": 45.75874,
@@ -80358,7 +80382,7 @@
     },
     "stage": 1,
     "urlSlug": "gb/manchester/moss-side-manchester-powerhouse-library",
-    "startTime": "16:30:00",
+    "startTime": "17:00:00",
     "endTime": "18:00:00",
     "private": 0,
     "frequency": "1/w",
