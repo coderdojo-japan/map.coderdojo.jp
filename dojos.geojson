@@ -3981,14 +3981,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.036889,
-          -8.123089
+          -79.0257381,
+          -8.1157846
         ]
       },
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Trujillo @ Estación Coworking<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/pe/trujillo/trujillo-estacion-coworking'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Trujillo<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/pe/trujillo/trujillo'>連絡先を見る</a>"
       }
     },
     {
@@ -4423,7 +4423,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-matsuyama.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/matsuyama.webp' alt='松山' loading='lazy' width='100px' /></a><br><b>松山</b><br>松山市で月2回開催<br>&rarr; 次回: <a href='https://coderdojo-matsuyama.doorkeeper.jp/events/165302' target='_blank' rel='noopener'>11月3日</a><br><a href='https://coderdojo-matsuyama.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-matsuyama.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/matsuyama.webp' alt='松山' loading='lazy' width='100px' /></a><br><b>松山</b><br>松山市で月2回開催<br>&rarr; 次回: <a href='https://coderdojo-matsuyama.doorkeeper.jp/events/165303' target='_blank' rel='noopener'>11月3日</a><br><a href='https://coderdojo-matsuyama.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {

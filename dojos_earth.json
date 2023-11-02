@@ -19087,10 +19087,10 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Trujillo @ Estación Coworking",
+    "name": "Trujillo",
     "geoPoint": {
-      "lat": -8.123089,
-      "lon": -79.036889
+      "lat": -8.1157846,
+      "lon": -79.0257381
     },
     "country": {
       "countryName": "Peru",
@@ -19099,8 +19099,8 @@
       "alpha3": "PER",
       "countryNumber": "604"
     },
-    "stage": 1,
-    "urlSlug": "pe/trujillo/trujillo-estacion-coworking",
+    "stage": 0,
+    "urlSlug": "pe/trujillo/trujillo",
     "startTime": "09:30:00",
     "endTime": "10:30:00",
     "private": 0,
@@ -41083,7 +41083,7 @@
     "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "1x per 2 weken op zaterdag van 9:30 - 11:30 uur.",
+    "alternativeFrequency": "Elk 1e en 3e weekend van de maand, op zaterdag van 9:30 - 11:30 uu",
     "day": null,
     "id": "6b8e63bd-9546-4d1f-baf1-d3fb29aba75a"
   },
@@ -70455,8 +70455,8 @@
     "entity$": "-/cd/dojos",
     "name": "Tremenico",
     "geoPoint": {
-      "lat": 46.07569568604207,
-      "lon": 9.365969370680546
+      "lat": 45.8232371,
+      "lon": 9.419408899999999
     },
     "country": {
       "countryName": "Italy",
