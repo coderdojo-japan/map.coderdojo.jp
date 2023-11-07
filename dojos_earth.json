@@ -11949,7 +11949,7 @@
     },
     "stage": 1,
     "urlSlug": "ro/timisoara-timis-county/timisoara-ntt-data",
-    "startTime": "17:30:00",
+    "startTime": "17:00:00",
     "endTime": "19:00:00",
     "private": 0,
     "frequency": "1/w",
@@ -41098,10 +41098,10 @@
       "countryName": "Ireland",
       "alpha2": "IE"
     },
-    "stage": 2,
-    "urlSlug": "ie/donabateportrane-community-centre/donabate-dublin",
-    "startTime": null,
-    "endTime": null,
+    "stage": 4,
+    "urlSlug": "ie/dublin/donabate/donabate-dublin",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
     "alternativeFrequency": "Every second Saturday 2pm-4pm",
@@ -93508,6 +93508,30 @@
     "alternativeFrequency": "4th",
     "day": 7,
     "id": "f18cb267-047a-4885-bb6d-2cf154d54300"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Mossel Bay,Western Cape @ Garden Route Innovation and Technology Hub",
+    "geoPoint": {
+      "lat": -34.1591873,
+      "lon": 22.1095349
+    },
+    "country": {
+      "countryName": "South Africa",
+      "continent": "AF",
+      "alpha2": "ZA",
+      "alpha3": "ZAF",
+      "countryNumber": "710"
+    },
+    "stage": 1,
+    "urlSlug": "za/mossel-bay/mossel-bay-western-cape-garden-route-innovation-and-technology-hub",
+    "startTime": "15:00:00",
+    "endTime": "16:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 2,
+    "id": "f19f09f3-af48-4437-a1a5-f8bbcb0e17eb"
   },
   {
     "entity$": "-/cd/dojos",
