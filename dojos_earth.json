@@ -4849,7 +4849,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/dungannon/dungannon-co-tyrone-dungannon-library",
     "startTime": "14:00:00",
     "endTime": "16:00:00",
@@ -16827,7 +16827,7 @@
     "startTime": "18:30:00",
     "endTime": "20:00:00",
     "private": 0,
-    "frequency": "1/w",
+    "frequency": "2/m",
     "alternativeFrequency": null,
     "day": 2,
     "id": "2d9a567f-44b4-4a70-9c1d-9c50745fbdb1"
@@ -30418,10 +30418,10 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "諏訪野＠ギャランドゥ",
+    "name": "Kurume.Fukuoka＠gallant-d.ooo",
     "geoPoint": {
-      "lat": 33.3111623,
-      "lon": 130.5274131
+      "lat": 33.3179005,
+      "lon": 130.5181385
     },
     "country": {
       "countryName": "Japan",
@@ -30431,13 +30431,13 @@
       "countryNumber": "392"
     },
     "stage": 0,
-    "urlSlug": "jp/japan-fukuoka-prefecture/gyarando",
-    "startTime": "13:00:00",
-    "endTime": "16:30:00",
+    "urlSlug": "jp/japan-fukuoka-prefecture/kurume-fukuoka-gallant-d-ooo",
+    "startTime": "11:00:00",
+    "endTime": "15:00:00",
     "private": 0,
     "frequency": "1/w",
     "alternativeFrequency": null,
-    "day": 7,
+    "day": 6,
     "id": "510a67a1-775e-49b2-b124-702144bbdcf2"
   },
   {
@@ -36526,11 +36526,11 @@
       "alpha3": "USA",
       "countryNumber": "840"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "us/indianapolis-in/4-h-machyne-makerspace",
     "startTime": "10:00:00",
     "endTime": "12:00:00",
-    "private": 0,
+    "private": 1,
     "frequency": "1/m",
     "alternativeFrequency": "2nd",
     "day": 6,
@@ -63151,6 +63151,30 @@
     "alternativeFrequency": "2nd",
     "day": 2,
     "id": "a2fd44ab-3d51-415d-9c9c-b5b4c107ef49"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Dunblane@BurghChambers",
+    "geoPoint": {
+      "lat": 56.10228789837358,
+      "lon": -3.9408670552494707
+    },
+    "country": {
+      "countryName": "United Kingdom",
+      "continent": "EU",
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "countryNumber": "826"
+    },
+    "stage": 1,
+    "urlSlug": "gb/dunblane/dunblane-burghchambers",
+    "startTime": "10:00:00",
+    "endTime": "12:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "a300465b-c698-4b1f-8bde-9dd31c87e8c8"
   },
   {
     "entity$": "-/cd/dojos",
