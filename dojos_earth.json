@@ -59854,6 +59854,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "藤江",
+    "geoPoint": {
+      "lat": 34.6637129,
+      "lon": 134.9473639
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/akashi-hyogo/teng2-jiang1",
+    "startTime": "16:45:00",
+    "endTime": "16:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "9ac4d7e9-db9d-4914-8841-24f61c2cc5c1"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Craiova @ Palatul Copiilor",
     "geoPoint": {
       "lat": 44.3121197,
