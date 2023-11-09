@@ -3928,7 +3928,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='http://coderdojo-saitama.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/coderdojo.webp' alt='さいたま' loading='lazy' width='100px' /></a><br><b>さいたま</b><br>さいたま市で毎月開催<br><a href='http://coderdojo-saitama.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='http://coderdojo-saitama.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/coderdojo.webp' alt='さいたま' loading='lazy' width='100px' /></a><br><b>さいたま</b><br>さいたま市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-saitama.connpass.com/event/299140/' target='_blank' rel='noopener'>11月25日</a><br><a href='http://coderdojo-saitama.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -6403,7 +6403,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/CoderDojoKurume/' target='_blank' rel='noopener'>  <img src='/images/dojos/kurume.webp' alt='久留米' loading='lazy' width='100px' /></a><br><b>久留米</b><br>久留米市で毎月開催<br><a href='https://www.facebook.com/CoderDojoKurume/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/CoderDojoKurume/' target='_blank' rel='noopener'>  <img src='/images/dojos/kurume.webp' alt='久留米' loading='lazy' width='100px' /></a><br><b>久留米</b><br>久留米市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-kurume.connpass.com/event/301734/' target='_blank' rel='noopener'>11月25日</a><br><a href='https://www.facebook.com/CoderDojoKurume/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
