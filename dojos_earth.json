@@ -59871,8 +59871,8 @@
     "startTime": "16:45:00",
     "endTime": "16:00:00",
     "private": 0,
-    "frequency": "1/m",
-    "alternativeFrequency": null,
+    "frequency": "other",
+    "alternativeFrequency": "不定期",
     "day": 6,
     "id": "9ac4d7e9-db9d-4914-8841-24f61c2cc5c1"
   },
