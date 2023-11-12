@@ -54831,8 +54831,8 @@
     "entity$": "-/cd/dojos",
     "name": "Toowoomba",
     "geoPoint": {
-      "lat": -27.5680526,
-      "lon": 151.9519898
+      "lat": -27.5641745,
+      "lon": 151.9510261
     },
     "country": {
       "countryName": "Australia",
@@ -54841,13 +54841,13 @@
       "alpha2": "AU",
       "alpha3": "AUS"
     },
-    "stage": 1,
-    "urlSlug": "au/toowoomba-queensland/toowoomba",
+    "stage": 0,
+    "urlSlug": "au/toowoomba-qld/toowoomba",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "Saturdays during School Term. Morning Session 10am-12pm & Afternoon Session 1pm-3pm",
+    "alternativeFrequency": "Saturdays during School Term - 10am-12pm",
     "day": null,
     "id": "8e6051ed-027f-4516-848a-9ac6350f2d36"
   },
