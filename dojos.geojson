@@ -2203,7 +2203,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>  <img src='/images/dojos/nishinomiya.webp' alt='西宮・梅田' loading='lazy' width='100px' /></a><br><b>西宮・梅田</b><br>西宮/梅田でそれ<br>ぞれ毎月開催<br><a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>  <img src='/images/dojos/nishinomiya.webp' alt='西宮・梅田' loading='lazy' width='100px' /></a><br><b>西宮・梅田</b><br>西宮/梅田でそれ<br>ぞれ毎月開催<br>&rarr; 次回: <a href='https://coderdojo-nishinomiya.doorkeeper.jp/events/166140' target='_blank' rel='noopener'>12月17日</a><br><a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -5841,6 +5841,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -9.669582799999999,
+          52.2867239
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Tralee@TomCreanCentre<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/tralee-county-kerry/tralee-tomcreancentre'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           78.08562206773412,
           11.869666007102982
         ]
@@ -5924,6 +5939,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>ExcellKids<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/bg/sofia/excellkids'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7714815,
+          37.8612539
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Makerlab@Glyfada<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gr/glyfada/makerlab-glyfada'>連絡先を見る</a>"
       }
     },
     {
@@ -7183,7 +7213,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-sakai.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/sakai.webp' alt='堺' loading='lazy' width='100px' /></a><br><b>堺</b><br>堺市で毎月開催<br><a href='https://coderdojo-sakai.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-sakai.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/sakai.webp' alt='堺' loading='lazy' width='100px' /></a><br><b>堺</b><br>堺市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-sakai.connpass.com/event/302300/' target='_blank' rel='noopener'>11月26日</a><br><a href='https://coderdojo-sakai.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -13648,7 +13678,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>  <img src='/images/dojos/nishinomiya.webp' alt='西宮・梅田' loading='lazy' width='100px' /></a><br><b>西宮・梅田</b><br>西宮/梅田でそれ<br>ぞれ毎月開催<br><a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>  <img src='/images/dojos/nishinomiya.webp' alt='西宮・梅田' loading='lazy' width='100px' /></a><br><b>西宮・梅田</b><br>西宮/梅田でそれ<br>ぞれ毎月開催<br>&rarr; 次回: <a href='https://coderdojo-nishinomiya.doorkeeper.jp/events/166140' target='_blank' rel='noopener'>12月17日</a><br><a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -14789,6 +14819,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Namur<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/namur/namur'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.89779,
+          48.3705449
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Augsburg@KidsLab<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/de/augsburg/augsburg-kidslab'>連絡先を見る</a>"
       }
     },
     {
@@ -18524,6 +18569,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<a href='https://coderdojo-kiso.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/kiso.webp' alt='木曽' loading='lazy' width='100px' /></a><br><b>木曽</b><br>南木曽町で不定期開催<br><a href='https://coderdojo-kiso.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4823888,
+          9.0730228
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Gzgit coding club @ Ecwa Wuse 2<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ng/abuja-f-c-t/gzgit-coding-club-ecwa-wuse-2'>連絡先を見る</a>"
       }
     },
     {
