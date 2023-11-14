@@ -21192,11 +21192,11 @@
     },
     "stage": 2,
     "urlSlug": "ie/dublin/malahide/malahide",
-    "startTime": null,
-    "endTime": null,
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "Every weekend but alternating between 10am - 12am Saturday  and 4pm - 6pm Sunday",
+    "alternativeFrequency": "Every weekend but alternating between 10am - 12am Saturday  and 3pm - 5pm Sunday",
     "day": null,
     "id": "3828c1ef-721f-4400-8c40-93da5d53b16b"
   },
@@ -28186,6 +28186,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Tralee@TomCreanCentre",
+    "geoPoint": {
+      "lat": 52.2867239,
+      "lon": -9.669582799999999
+    },
+    "country": {
+      "countryName": "Ireland",
+      "continent": "EU",
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "countryNumber": "372"
+    },
+    "stage": 1,
+    "urlSlug": "ie/tralee-county-kerry/tralee-tomcreancentre",
+    "startTime": "13:30:00",
+    "endTime": "15:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 5,
+    "id": "4b87084f-739b-40c1-a045-08c9914f3ea6"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Salem, Tamil Nadu @ Deevattipatti",
     "geoPoint": {
       "lat": 11.869666007102982,
@@ -28699,6 +28723,30 @@
     "alternativeFrequency": "Coding lessons from 1-7 December, 09.00-10.00 p.m and 14-20 December 2015 09.00 -10.00 p.m",
     "day": null,
     "id": "4cfcdc62-5adc-4622-bde0-352091cc10cf"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Makerlab@Glyfada",
+    "geoPoint": {
+      "lat": 37.8612539,
+      "lon": 23.7714815
+    },
+    "country": {
+      "countryName": "Greece",
+      "continent": "EU",
+      "alpha2": "GR",
+      "alpha3": "GRC",
+      "countryNumber": "300"
+    },
+    "stage": 1,
+    "urlSlug": "gr/glyfada/makerlab-glyfada",
+    "startTime": "00:00:00",
+    "endTime": "00:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "first",
+    "day": 7,
+    "id": "4d0d02ea-f14b-4378-9b83-99545192fe61"
   },
   {
     "entity$": "-/cd/dojos",
@@ -69088,6 +69136,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Augsburg@KidsLab",
+    "geoPoint": {
+      "lat": 48.3705449,
+      "lon": 10.89779
+    },
+    "country": {
+      "countryName": "Germany",
+      "continent": "EU",
+      "alpha2": "DE",
+      "alpha3": "DEU",
+      "countryNumber": "276"
+    },
+    "stage": 1,
+    "urlSlug": "de/augsburg/augsburg-kidslab",
+    "startTime": "15:00:00",
+    "endTime": "17:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": null,
+    "day": 5,
+    "id": "b28e0c7e-fc4f-45df-af09-b38a1dc09e6c"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Sartell, MN @ Sartell Community Center",
     "geoPoint": {
       "lat": 45.5950487,
@@ -86221,6 +86293,30 @@
     "alternativeFrequency": null,
     "day": 6,
     "id": "e00d3a01-0620-4ac7-a9c6-508e9ef361ad"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "Gzgit coding club @ Ecwa Wuse 2",
+    "geoPoint": {
+      "lat": 9.0730228,
+      "lon": 7.4823888
+    },
+    "country": {
+      "countryName": "Nigeria",
+      "continent": "AF",
+      "alpha2": "NG",
+      "alpha3": "NGA",
+      "countryNumber": "566"
+    },
+    "stage": 1,
+    "urlSlug": "ng/abuja-f-c-t/gzgit-coding-club-ecwa-wuse-2",
+    "startTime": "14:00:00",
+    "endTime": "18:00:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 6,
+    "id": "e0113374-22c7-4f43-893e-c0b9186dc677"
   },
   {
     "entity$": "-/cd/dojos",
