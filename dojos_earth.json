@@ -22459,6 +22459,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "KEMPY_Kypseli@Social_Innov",
+    "geoPoint": {
+      "lat": 38.0021718,
+      "lon": 23.7302314
+    },
+    "country": {
+      "countryName": "Greece",
+      "continent": "EU",
+      "alpha2": "GR",
+      "alpha3": "GRC",
+      "countryNumber": "300"
+    },
+    "stage": 1,
+    "urlSlug": "gr/athens/kempy_kypseli-social_innov",
+    "startTime": "14:45:00",
+    "endTime": "18:00:00",
+    "private": 1,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 4,
+    "id": "3ac24ffa-64d3-4f2a-b2d5-a12a78751e05"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "CoderDojo Pavia",
     "geoPoint": {
       "lat": 45.1886024,
@@ -94868,7 +94892,7 @@
     "urlSlug": "ie/dublin/dublin-2-charlemont-zendesk",
     "startTime": "16:30:00",
     "endTime": "18:00:00",
-    "private": 0,
+    "private": 1,
     "frequency": "2/m",
     "alternativeFrequency": "Bi-Weekly From September 12th 2017",
     "day": 4,

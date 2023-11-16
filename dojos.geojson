@@ -4611,6 +4611,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          23.7302314,
+          38.0021718
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>KEMPY_Kypseli@Social_Innov<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gr/athens/kempy_kypseli-social_innov'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.140101099999999,
           45.1886024
         ]
@@ -5473,7 +5488,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='http://www.code-for-nagareyama.org/?cat=11' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='流山' loading='lazy' width='100px' /></a><br><b>流山</b><br>流山市で毎月開催<br><a href='http://www.code-for-nagareyama.org/?cat=11' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='http://www.code-for-nagareyama.org/?cat=11' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='流山' loading='lazy' width='100px' /></a><br><b>流山</b><br>流山市で毎月開催<br>&rarr; 次回: <a href='https://codefornagareyama.connpass.com/event/302478/' target='_blank' rel='noopener'>12月9日</a><br><a href='http://www.code-for-nagareyama.org/?cat=11' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -10033,7 +10048,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='http://www.code-for-nagareyama.org/?cat=11' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='流山' loading='lazy' width='100px' /></a><br><b>流山</b><br>流山市で毎月開催<br><a href='http://www.code-for-nagareyama.org/?cat=11' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='http://www.code-for-nagareyama.org/?cat=11' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='流山' loading='lazy' width='100px' /></a><br><b>流山</b><br>流山市で毎月開催<br>&rarr; 次回: <a href='https://codefornagareyama.connpass.com/event/302478/' target='_blank' rel='noopener'>12月9日</a><br><a href='http://www.code-for-nagareyama.org/?cat=11' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -15748,7 +15763,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/CoderDojoFukuoka/' target='_blank' rel='noopener'>  <img src='/images/dojos/fukuoka.webp' alt='福岡' loading='lazy' width='100px' /></a><br><b>福岡</b><br>福岡市中央区天神<br>で毎月開催<br><a href='https://www.facebook.com/CoderDojoFukuoka/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/CoderDojoFukuoka/' target='_blank' rel='noopener'>  <img src='/images/dojos/fukuoka.webp' alt='福岡' loading='lazy' width='100px' /></a><br><b>福岡</b><br>福岡市中央区天神<br>で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-fukuoka.connpass.com/event/302457/' target='_blank' rel='noopener'>12月9日</a><br><a href='https://www.facebook.com/CoderDojoFukuoka/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -21028,7 +21043,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>  <img src='/images/dojos/hitachinaka.webp' alt='ひたちなか' loading='lazy' width='100px' /></a><br><b>ひたちなか</b><br>ひたちなか市で毎<br>月開催<br><a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>  <img src='/images/dojos/hitachinaka.webp' alt='ひたちなか' loading='lazy' width='100px' /></a><br><b>ひたちなか</b><br>ひたちなか市で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojo-hitachinaka.connpass.com/event/302520/' target='_blank' rel='noopener'>12月3日</a><br><a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
