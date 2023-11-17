@@ -22,7 +22,7 @@ jobs:
 
     - name: 🧪 Install gems
       run: |
-        bundle install --jobs 4 --retry 3
+        bundle install
 
     - name: 🔧 Build & Test
       run: |
