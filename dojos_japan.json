@@ -3548,7 +3548,19 @@
     "counter": 1,
     "is_active": true,
     "prefecture": "兵庫",
-    "created_at": "2023-11-14T23:55:36.543+09:00",
+    "created_at": "2023-11-12T00:00:00.000+09:00",
     "description": "明石市で不定期開催"
+  },
+  {
+    "id": 315,
+    "url": "https://connpass.com/user/coderdojo_okubo/open/",
+    "name": "新宿",
+    "logo": "https://coderdojo.jp/img/dojos/default.webp",
+    "order": "131041",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "東京",
+    "created_at": "2023-11-16T00:00:00.000+09:00",
+    "description": "新宿区で毎月開催"
   }
 ]
