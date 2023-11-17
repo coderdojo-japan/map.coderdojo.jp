@@ -73,7 +73,7 @@ jobs:
 
     - name: 🔧 Build & Test
       run: |
-        # Conver human-readable Geojson file into computer-friendly one
+        # Convert human-readable Geojson file into computer-friendly one
         bundle exec ruby compact_geojson.rb
         JEKYLL_ENV=production bundle exec jekyll build
         JEKYLL_ENV=production bundle exec jekyll doctor
