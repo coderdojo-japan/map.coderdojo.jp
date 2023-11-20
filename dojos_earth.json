@@ -8290,7 +8290,7 @@
     "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "Second Sunday of the month, 11am-2pm",
+    "alternativeFrequency": "Generally Second Sunday of the month, 11am-2pm",
     "day": null,
     "id": "170fe2d6-2535-4b9e-bf90-3c219206cb91"
   },
@@ -28224,12 +28224,12 @@
     },
     "stage": 1,
     "urlSlug": "ie/tralee-county-kerry/tralee-tomcreancentre",
-    "startTime": "13:30:00",
-    "endTime": "15:00:00",
+    "startTime": "15:00:00",
+    "endTime": "16:30:00",
     "private": 0,
     "frequency": "1/w",
     "alternativeFrequency": null,
-    "day": 5,
+    "day": 6,
     "id": "4b87084f-739b-40c1-a045-08c9914f3ea6"
   },
   {
@@ -63252,8 +63252,8 @@
     "entity$": "-/cd/dojos",
     "name": "Dunblane@BurghChambers",
     "geoPoint": {
-      "lat": 56.10228789837358,
-      "lon": -3.9408670552494707
+      "lat": 56.1887836,
+      "lon": -3.9643805
     },
     "country": {
       "countryName": "United Kingdom",
