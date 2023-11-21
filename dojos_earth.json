@@ -28222,7 +28222,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 1,
+    "stage": 2,
     "urlSlug": "ie/tralee-county-kerry/tralee-tomcreancentre",
     "startTime": "15:00:00",
     "endTime": "16:30:00",
@@ -92368,6 +92368,30 @@
     "alternativeFrequency": "Sundays,monthly",
     "day": null,
     "id": "edd11941-09b4-4d7c-a3a4-0ae1965f77be"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "VicPark@library",
+    "geoPoint": {
+      "lat": -31.9747152,
+      "lon": 115.8975916
+    },
+    "country": {
+      "countryName": "Australia",
+      "continent": "OC",
+      "alpha2": "AU",
+      "alpha3": "AUS",
+      "countryNumber": "036"
+    },
+    "stage": 1,
+    "urlSlug": "au/victoria-park-wa/vicpark-library",
+    "startTime": "15:30:00",
+    "endTime": "16:30:00",
+    "private": 0,
+    "frequency": "1/w",
+    "alternativeFrequency": null,
+    "day": 2,
+    "id": "edf052b3-0bda-4e5b-87c8-2c79f5576a2e"
   },
   {
     "entity$": "-/cd/dojos",
