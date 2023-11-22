@@ -21829,6 +21829,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Dieren @ de Bundel",
+    "geoPoint": {
+      "lat": 53.01169669747925,
+      "lon": 12.038095077204316
+    },
+    "country": {
+      "countryName": "Netherlands",
+      "continent": "EU",
+      "alpha2": "NL",
+      "alpha3": "NLD",
+      "countryNumber": "528"
+    },
+    "stage": 1,
+    "urlSlug": "nl/dieren/dieren-de-bundel",
+    "startTime": "13:30:00",
+    "endTime": "16:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": "2nd",
+    "day": 6,
+    "id": "3997d055-8d5c-4104-abce-01b3635e52a8"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Mansfield @ IT Cadets",
     "geoPoint": {
       "lat": 53.1405434,
@@ -29308,6 +29332,30 @@
     "alternativeFrequency": "Next Dojo in Feb",
     "day": 4,
     "id": "4e7bf79a-ee8d-4919-b916-2c17159fdd9c"
+  },
+  {
+    "entity$": "-/cd/dojos",
+    "name": "nea-ionia@skroutz",
+    "geoPoint": {
+      "lat": 38.0437364,
+      "lon": 23.7601693
+    },
+    "country": {
+      "countryName": "Greece",
+      "continent": "EU",
+      "alpha2": "GR",
+      "alpha3": "GRC",
+      "countryNumber": "300"
+    },
+    "stage": 1,
+    "urlSlug": "gr/nea-ionia/nea-ionia-skroutz",
+    "startTime": "17:30:00",
+    "endTime": "19:00:00",
+    "private": 0,
+    "frequency": "2/m",
+    "alternativeFrequency": null,
+    "day": 5,
+    "id": "4e7c36c7-3cbb-4c42-a78f-6247c8c74a15"
   },
   {
     "entity$": "-/cd/dojos",
@@ -63252,8 +63300,8 @@
     "entity$": "-/cd/dojos",
     "name": "Dunblane@BurghChambers",
     "geoPoint": {
-      "lat": 56.1887836,
-      "lon": -3.9643805
+      "lat": 54.69937115202784,
+      "lon": -11.752771862189753
     },
     "country": {
       "countryName": "United Kingdom",
@@ -63262,7 +63310,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 0,
     "urlSlug": "gb/dunblane/dunblane-burghchambers",
     "startTime": "10:00:00",
     "endTime": "12:00:00",
