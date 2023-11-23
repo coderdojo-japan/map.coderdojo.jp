@@ -21831,8 +21831,8 @@
     "entity$": "-/cd/dojos",
     "name": "Dieren @ de Bundel",
     "geoPoint": {
-      "lat": 53.01169669747925,
-      "lon": 12.038095077204316
+      "lat": 52.0519762,
+      "lon": 6.101993299999999
     },
     "country": {
       "countryName": "Netherlands",
@@ -68518,7 +68518,7 @@
       "alpha3": "GBR",
       "countryNumber": "826"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/south-woodford/south-woodford-library",
     "startTime": "16:00:00",
     "endTime": "17:00:00",
