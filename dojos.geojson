@@ -14931,21 +14931,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.131764,
-          45.4408093
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Verona @ Dreampuzzle<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/lavagno-vr/verona-dreampuzzle'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           25.96696339999994,
           43.831171
         ]
@@ -16169,21 +16154,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Durban, KCA @ Blue Roof<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/za/durban/durban-kca-blue-roof'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.2178843,
-          45.5399982
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Brescia @ DreamPuzzle<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/brescia-province-of-brescia/brescia-dreampuzzle'>連絡先を見る</a>"
       }
     },
     {
