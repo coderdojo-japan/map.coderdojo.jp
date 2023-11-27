@@ -1746,14 +1746,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.49423944950104,
-          29.446310626364816
+          -98.49350899999999,
+          29.426275
         ]
       },
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>CoderDojoCollaborative<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/san-antonio-tx/coderdojocollaborative'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Coding Collaborative<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/san-antonio-tx/coding-collaborative'>連絡先を見る</a>"
       }
     },
     {
@@ -4101,8 +4101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          132.70543399999997,
-          33.7589144
+          132.7014622,
+          33.7576781
         ]
       },
       "properties": {
@@ -4783,7 +4783,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-tamacent.wixsite.com/main' target='_blank' rel='noopener'>  <img src='/images/dojos/tama-center.webp' alt='多摩センター' loading='lazy' width='100px' /></a><br><b>多摩センター</b><br>多摩市で毎月開催<br><a href='https://coderdojo-tamacent.wixsite.com/main' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-tamacent.wixsite.com/main' target='_blank' rel='noopener'>  <img src='/images/dojos/tama-center.webp' alt='多摩センター' loading='lazy' width='100px' /></a><br><b>多摩センター</b><br>多摩市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-tamacenter.doorkeeper.jp/events/166612' target='_blank' rel='noopener'>12月17日</a><br><a href='https://coderdojo-tamacent.wixsite.com/main' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -5279,6 +5279,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Castelletto @ Comune di Castelletto Sopra Ticino<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/castelletto-sopra-ticino-province-of-novara/castelletto-comune-di-castelletto-sopra-ticino'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1208752,
+          46.0697938
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Trento<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/trentino-alto-adige/trento-province-of-trento/trento'>連絡先を見る</a>"
       }
     },
     {
@@ -6658,7 +6673,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-hirakata.org' target='_blank' rel='noopener'>  <img src='/images/dojos/hirakata.webp' alt='枚方' loading='lazy' width='100px' /></a><br><b>枚方</b><br>枚方市で毎月開催<br><a href='https://coderdojo-hirakata.org' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-hirakata.org' target='_blank' rel='noopener'>  <img src='/images/dojos/hirakata.webp' alt='枚方' loading='lazy' width='100px' /></a><br><b>枚方</b><br>枚方市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-hirakata.connpass.com/event/303646/' target='_blank' rel='noopener'>12月17日</a><br><a href='https://coderdojo-hirakata.org' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -9299,21 +9314,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Athenry<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/galway/athenry-county-galway/athenry'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.601441799999975,
-          47.1584549
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Iasi @ The Grape<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ro/judetul-iasi/the-grape-business-hub-iasi-str-buna-vestire-nr-2/iasi-the-grape'>連絡先を見る</a>"
       }
     },
     {
@@ -15028,7 +15028,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Padova<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/padova-province-of-padua/padova'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Padova<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/veneto/padova-province-of-padua/padova'>連絡先を見る</a>"
       }
     },
     {
@@ -20413,22 +20413,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojokoga.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/koga.webp' alt='古河' loading='lazy' width='100px' /></a><br><b>古河</b><br>古河市で毎月開催<br>&rarr; 次回: <a href='https://coderdojokoga.connpass.com/event/298843/' target='_blank' rel='noopener'>12月2日</a><br><a href='https://coderdojokoga.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.2077615000000606,
-          53.2770772
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dublin @ Verizon Connect<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/sandyford-dublin/dublin-verizon-connect'>連絡先を見る</a>"
+        "description": "<a href='https://coderdojokoga.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/koga.webp' alt='古河' loading='lazy' width='100px' /></a><br><b>古河</b><br>古河市で毎月開催<br>&rarr; 次回: <a href='https://coderdojokoga.connpass.com/event/298843/' target='_blank' rel='noopener'>12月9日</a><br><a href='https://coderdojokoga.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -20893,7 +20878,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nagaokakyo.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagaokakyo.webp' alt='長岡京' loading='lazy' width='100px' /></a><br><b>長岡京</b><br>長岡京市で毎月開催<br><a href='https://coderdojo-nagaokakyo.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nagaokakyo.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagaokakyo.webp' alt='長岡京' loading='lazy' width='100px' /></a><br><b>長岡京</b><br>長岡京市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-nagaokakyo.doorkeeper.jp/events/166613' target='_blank' rel='noopener'>12月10日</a><br><a href='https://coderdojo-nagaokakyo.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {

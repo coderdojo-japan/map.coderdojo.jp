@@ -8743,10 +8743,10 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "CoderDojoCollaborative",
+    "name": "Coding Collaborative",
     "geoPoint": {
-      "lat": 29.446310626364816,
-      "lon": -98.49423944950104
+      "lat": 29.426275,
+      "lon": -98.49350899999999
     },
     "country": {
       "countryName": "United States",
@@ -8756,12 +8756,12 @@
       "alpha3": "USA"
     },
     "stage": 3,
-    "urlSlug": "us/san-antonio-tx/coderdojocollaborative",
+    "urlSlug": "us/san-antonio-tx/coding-collaborative",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "Bi-weekly on Saturday from 10:30-12:30pm",
+    "alternativeFrequency": "Bi-weekly on Sunday from 3pm-5pm",
     "day": null,
     "id": "184e12c9-0e86-4f57-8102-c5fdcad524c8"
   },
@@ -19845,8 +19845,8 @@
     "entity$": "-/cd/dojos",
     "name": "Iyo, Ehime",
     "geoPoint": {
-      "lat": 33.7589144,
-      "lon": 132.70543399999997
+      "lat": 33.7576781,
+      "lon": 132.7014622
     },
     "country": {
       "countryName": "Japan",
@@ -19862,7 +19862,7 @@
     "private": 0,
     "frequency": "1/m",
     "alternativeFrequency": null,
-    "day": 6,
+    "day": 7,
     "id": "35341a53-ce39-450e-a56d-27a5607e24dd"
   },
   {
@@ -25123,7 +25123,7 @@
       "countryName": "Italy",
       "alpha2": "IT"
     },
-    "stage": 4,
+    "stage": 3,
     "urlSlug": "it/trentino-alto-adige/trento-province-of-trento/trento",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
@@ -43777,8 +43777,8 @@
       "countryName": "Romania",
       "alpha2": "RO"
     },
-    "stage": 1,
-    "urlSlug": "ro/judetul-iasi/the-grape-business-hub-iasi-str-buna-vestire-nr-2/iasi-the-grape",
+    "stage": 4,
+    "urlSlug": "ro/judetul-iasi/iasi/iasi-the-grape",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
     "private": 0,
@@ -70139,7 +70139,7 @@
       "alpha2": "IT"
     },
     "stage": 2,
-    "urlSlug": "it/padova-province-of-padua/padova",
+    "urlSlug": "it/veneto/padova-province-of-padua/padova",
     "startTime": "15:00:00",
     "endTime": "20:00:00",
     "private": 0,
@@ -95152,7 +95152,7 @@
       "alpha3": "IRL",
       "countryNumber": "372"
     },
-    "stage": 0,
+    "stage": 4,
     "urlSlug": "ie/sandyford-dublin/dublin-verizon-connect",
     "startTime": "16:30:00",
     "endTime": "17:30:00",
