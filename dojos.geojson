@@ -18996,6 +18996,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.71141599999999,
+          36.175635
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://coderdojokoga.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/koga.webp' alt='古河' loading='lazy' width='100px' /></a><br><b>古河</b><br>古河市で毎月開催<br>&rarr; 次回: <a href='https://coderdojokoga.connpass.com/event/298843/' target='_blank' rel='noopener'>12月9日</a><br><a href='https://coderdojokoga.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.0178553000000647,
           51.09375259999999
         ]
@@ -20406,8 +20421,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.70928730000003,
-          36.1928797
+          139.7106998,
+          36.1768537
         ]
       },
       "properties": {

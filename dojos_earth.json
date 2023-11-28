@@ -83557,7 +83557,7 @@
       "alpha3": "JPN",
       "countryNumber": "392"
     },
-    "stage": 2,
+    "stage": 4,
     "urlSlug": "jp/ri4-ben3-zuo3-he4-xian4-san1-yang3-ji1-jun4-ji1-shan1-ting3/kiyama-saga",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
@@ -86008,7 +86008,7 @@
     "stage": 1,
     "urlSlug": "ie/bray-county-wicklow/ballywaltrim-bray-library",
     "startTime": "17:00:00",
-    "endTime": "18:00:00",
+    "endTime": "19:30:00",
     "private": 0,
     "frequency": "1/w",
     "alternativeFrequency": null,
@@ -87976,7 +87976,7 @@
       "alpha3": "JPN",
       "countryNumber": "392"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "jp/koga-ibaraki/koga-ibaraki",
     "startTime": "10:00:00",
     "endTime": "10:45:00",
@@ -95094,8 +95094,8 @@
     "entity$": "-/cd/dojos",
     "name": "Koga, Ibaraki",
     "geoPoint": {
-      "lat": 36.1928797,
-      "lon": 139.70928730000003
+      "lat": 36.1768537,
+      "lon": 139.7106998
     },
     "country": {
       "countryName": "Japan",
