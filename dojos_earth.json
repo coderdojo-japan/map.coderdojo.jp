@@ -4180,7 +4180,7 @@
     "stage": 1,
     "urlSlug": "gb/peterborough/orton-library-city-culture-peterborough",
     "startTime": "14:15:00",
-    "endTime": "16:30:00",
+    "endTime": "15:30:00",
     "private": 0,
     "frequency": "2/m",
     "alternativeFrequency": null,
@@ -30538,6 +30538,30 @@
   },
   {
     "entity$": "-/cd/dojos",
+    "name": "Iyo, Ehime",
+    "geoPoint": {
+      "lat": 33.7589376,
+      "lon": 132.70537539999998
+    },
+    "country": {
+      "countryName": "Japan",
+      "continent": "AS",
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "countryNumber": "392"
+    },
+    "stage": 1,
+    "urlSlug": "jp/iyo-ehime/iyo-ehime-1",
+    "startTime": "14:00:00",
+    "endTime": "17:00:00",
+    "private": 0,
+    "frequency": "1/m",
+    "alternativeFrequency": null,
+    "day": 7,
+    "id": "50fad285-bd6d-421e-92c0-158223dd1805"
+  },
+  {
+    "entity$": "-/cd/dojos",
     "name": "Kurume.Fukuoka＠gallant-d.ooo",
     "geoPoint": {
       "lat": 33.3179005,
@@ -38329,7 +38353,7 @@
       "alpha3": "NLD",
       "countryNumber": "528"
     },
-    "stage": 4,
+    "stage": 0,
     "urlSlug": "nl/purmerend/waterland",
     "startTime": "14:00:00",
     "endTime": "16:00:00",
@@ -57106,7 +57130,7 @@
   },
   {
     "entity$": "-/cd/dojos",
-    "name": "Uptown BGC  Manila PH @ Accenture",
+    "name": "Accenture PH",
     "geoPoint": {
       "lat": 14.5557816,
       "lon": 121.05466219999994
@@ -57119,7 +57143,7 @@
       "countryNumber": "608"
     },
     "stage": 1,
-    "urlSlug": "ph/taguig-city-metro-manila/uptown-bgc-manila-ph-accenture",
+    "urlSlug": "ph/taguig-city-metro-manila/accenture-ph",
     "startTime": "12:00:00",
     "endTime": "13:30:00",
     "private": 1,
