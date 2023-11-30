@@ -18694,12 +18694,12 @@
       "countryName": "United States",
       "alpha2": "US"
     },
-    "stage": 2,
-    "urlSlug": "us/california/manhattan-beach-library-and-other-los-angeles-south-bay-locations-reference-eventbrite-ticket-for-exact-address-and-building-location/south-bay",
+    "stage": 4,
+    "urlSlug": "us/california/manhattan-beach-ca/south-bay",
     "startTime": "16:00:00",
     "endTime": "17:30:00",
     "private": 0,
-    "frequency": "1/m",
+    "frequency": "other",
     "alternativeFrequency": "4th",
     "day": 5,
     "id": "322da24a-312e-48f9-a6c7-5fa6993fbb2e"
@@ -72448,7 +72448,7 @@
     "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "Sessions held one Saturday afternoon a month during term. Visit www.coderdojoham.org for details",
+    "alternativeFrequency": "Sessions held one Saturday afternoon a month during term. Visit www.coderdojoku.org for details",
     "day": null,
     "id": "ba6b767f-6e80-49e6-8965-aa47af0f1b9b"
   },
