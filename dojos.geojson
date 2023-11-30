@@ -3891,21 +3891,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.41034930000001,
-          33.8868752
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>South Bay<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/california/manhattan-beach-library-and-other-los-angeles-south-bay-locations-reference-eventbrite-ticket-for-exact-address-and-building-location/south-bay'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           130.3529977798462,
           33.59228320435831
         ]
@@ -6763,7 +6748,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://kichijojijp.wixsite.com/coderdojo' target='_blank' rel='noopener'>  <img src='/images/dojos/kichijoji.webp' alt='吉祥寺' loading='lazy' width='100px' /></a><br><b>吉祥寺</b><br>武蔵野市で毎月開催<br><a href='https://kichijojijp.wixsite.com/coderdojo' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://kichijojijp.wixsite.com/coderdojo' target='_blank' rel='noopener'>  <img src='/images/dojos/kichijoji.webp' alt='吉祥寺' loading='lazy' width='100px' /></a><br><b>吉祥寺</b><br>武蔵野市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-kichijoji.doorkeeper.jp/events/166804' target='_blank' rel='noopener'>12月10日</a><br><a href='https://kichijojijp.wixsite.com/coderdojo' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -11443,7 +11428,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>  <img src='/images/dojos/toyohashi.webp' alt='豊橋' loading='lazy' width='100px' /></a><br><b>豊橋</b><br>豊橋市で不定期開催<br>&rarr; 次回: <a href='https://coderdojo-toyohashi.doorkeeper.jp/events/165573' target='_blank' rel='noopener'>11月2日</a><br><a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>  <img src='/images/dojos/toyohashi.webp' alt='豊橋' loading='lazy' width='100px' /></a><br><b>豊橋</b><br>豊橋市で不定期開催<br>&rarr; 次回: <a href='https://coderdojo-toyohashi.doorkeeper.jp/events/166771' target='_blank' rel='noopener'>12月5日</a><br><a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
