@@ -4204,7 +4204,7 @@
     "endTime": "00:00:00",
     "private": 0,
     "frequency": "other",
-    "alternativeFrequency": "Im Jahr 2023 wollen wir uns jeden zweiten Samstag im Monat treffen",
+    "alternativeFrequency": "Im Jahr 2024 wollen wir uns jeden zweiten Samstag im Monat treffen, gegebenenfalls wird es extra Termine geben",
     "day": 6,
     "id": "0be123e7-c9be-4002-a3cf-f0c8550f749a"
   },
@@ -30381,20 +30381,20 @@
     "entity$": "-/cd/dojos",
     "name": "Faringdon",
     "geoPoint": {
-      "lat": 51.6586265,
-      "lon": -1.5833903000000191
+      "lat": 51.6620997,
+      "lon": -1.5940131
     },
     "country": {
       "countryName": "United Kingdom",
       "alpha2": "GB"
     },
-    "stage": 1,
+    "stage": 4,
     "urlSlug": "gb/great-faringdon-faringdon/faringdon",
     "startTime": "17:45:00",
     "endTime": "18:45:00",
     "private": 0,
-    "frequency": "1/w",
-    "alternativeFrequency": "Every Tuesday in term time, 5:45pm - 6:45pm (term time only)",
+    "frequency": "other",
+    "alternativeFrequency": "not running",
     "day": 2,
     "id": "5043eba5-1557-4344-95ed-441971bb7fa5"
   },
