@@ -82,7 +82,7 @@
       "alpha2": "NL",
       "alpha3": "NLD"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "nl/tilburg/tilburg-code-brabant-bibliotheek-midden-brabant",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
@@ -2221,7 +2221,7 @@
       "alpha3": "JPN",
       "countryNumber": "392"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "jp/kitakyushu-fukuoka-prefecture/bei3-jiu3-zhou1",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
@@ -7720,7 +7720,7 @@
       "alpha3": "LKA",
       "countryNumber": "144"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "lk/paradeniya/peradeniya-sri-lanka-telecom-stemup",
     "startTime": "09:00:00",
     "endTime": "12:00:00",
@@ -20716,7 +20716,7 @@
       "countryName": "Netherlands",
       "alpha2": "NL"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "nl/zuid-holland/rijswijk/den-haag",
     "startTime": null,
     "endTime": null,
@@ -37591,7 +37591,7 @@
       "alpha3": "NLD",
       "countryNumber": "528"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "nl/roosendaal/roosendaal",
     "startTime": "10:30:00",
     "endTime": "11:30:00",
@@ -38875,7 +38875,7 @@
       "alpha2": "NL",
       "alpha3": "NLD"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "nl/s-hertogenbosch/den-bosch",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
@@ -40414,7 +40414,7 @@
       "alpha3": "LKA",
       "countryNumber": "144"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "lk/marawila-north-western-province/sanu-global-academy-marawila",
     "startTime": "09:00:00",
     "endTime": "10:00:00",
@@ -43666,10 +43666,10 @@
       "alpha3": "USA",
       "countryNumber": "840"
     },
-    "stage": 2,
+    "stage": 1,
     "urlSlug": "us/camarillo-ca/camarillo-california-camarillo-library",
     "startTime": "15:00:00",
-    "endTime": "16:00:00",
+    "endTime": "16:30:00",
     "private": 0,
     "frequency": "2/m",
     "alternativeFrequency": "first",
@@ -47134,7 +47134,7 @@
       "alpha3": "NLD",
       "countryNumber": "528"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "nl/bergen-op-zoom/bergen-op-zoom-bibliotheek-het-markiezaat",
     "startTime": "15:00:00",
     "endTime": "17:00:00",
@@ -47635,7 +47635,7 @@
       "alpha3": "JPN",
       "countryNumber": "392"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "jp/japan-osaka-prefecture/song1-yuan2",
     "startTime": "10:00:00",
     "endTime": "12:30:00",
@@ -60808,7 +60808,7 @@
       "alpha3": "JPN",
       "countryNumber": "392"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "jp/tomiya-miyagi/fu4-gu3",
     "startTime": "09:30:00",
     "endTime": "11:30:00",
@@ -67861,7 +67861,7 @@
       "alpha3": "LKA",
       "countryNumber": "144"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "lk/kuliyapitiya-north-western-province/future-tech-lab-saranath-college",
     "startTime": "09:00:00",
     "endTime": "10:00:00",
@@ -72061,7 +72061,7 @@
       "alpha3": "NLD",
       "countryNumber": "528"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "nl/gorinchem/gorinchem-1",
     "startTime": "10:30:00",
     "endTime": "12:30:00",
@@ -74677,7 +74677,7 @@
       "alpha3": "NLD",
       "countryNumber": "528"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "nl/oisterwijk/oisterwijk",
     "startTime": "14:00:00",
     "endTime": "15:30:00",
@@ -79321,7 +79321,7 @@
       "alpha2": "NL",
       "alpha3": "NLD"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "nl/tilburg/tilburg-tilburg-university",
     "startTime": "00:00:00",
     "endTime": "00:00:00",
@@ -89179,7 +89179,7 @@
       "alpha3": "NLD",
       "countryNumber": "528"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "nl/tholen/tholen",
     "startTime": "10:00:00",
     "endTime": "11:00:00",
@@ -96025,7 +96025,7 @@
       "alpha3": "LKA",
       "countryNumber": "144"
     },
-    "stage": 4,
+    "stage": 1,
     "urlSlug": "lk/madampe/madampe-sanuglobal-4-wd-robot-car",
     "startTime": "13:00:00",
     "endTime": "17:00:00",
