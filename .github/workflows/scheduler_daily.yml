@@ -38,9 +38,11 @@ jobs:
       run: |
         bundle install
 
-    - name: 🌐 Fetch dojo data from Earth
-      run: |
-        bundle exec ruby get_data_from_earth.rb
+    # TODO: Re-enable this step when the following PR merged:
+    # https://github.com/coderdojo-japan/map.coderdojo.jp/pull/12
+    #- name: 🌐 Fetch dojo data from Earth
+    #  run: |
+    #    bundle exec ruby get_data_from_earth.rb
 
     - name: 🗾 Fetch dojo/event data from Japan
       run: |
