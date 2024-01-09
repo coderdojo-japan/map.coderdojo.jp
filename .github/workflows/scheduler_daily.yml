@@ -97,7 +97,7 @@ jobs:
         publish_dir:    ./_site
 
     - name: 🔔 Notify error to Slack (if any)
-      if:   github.ref == 'refs/heads/main' && job.status != 'success'
+      if:   failure()
       uses: yasslab/slack_notify@main
       with:
         slack_webhook_url: ${{ secrets.SLACK_WEBHOOK_URL }}
