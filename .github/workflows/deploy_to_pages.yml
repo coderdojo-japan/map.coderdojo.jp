@@ -51,6 +51,6 @@ jobs:
 
     - name: 🔔 Notify error to Slack
       if:   github.ref == 'refs/heads/main' && job.status != 'success'
-      uses: yasslab/slack_notify
+      uses: yasslab/slack_notify@latest
       with:
-        personal_token: ${{ secrets.SLACK_WEBHOOK_URL }}
+        slack_webhook_url: ${{ secrets.SLACK_WEBHOOK_URL }}
