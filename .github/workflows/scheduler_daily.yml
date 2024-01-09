@@ -113,7 +113,7 @@ jobs:
                 "type": "section",
                 "text": {
                   "type": "mrkdwn",
-                  "text": "<@yasulab> Failed to build DojoMap. ([詳細を見る](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}))"
+                  "text": "<@yasulab> Failed to build DojoMap. (<https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}|詳細を見る>)"
                 }
               }
             ]
