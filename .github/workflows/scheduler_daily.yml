@@ -107,13 +107,13 @@ jobs:
         # For posting a simple plain text message
         payload: |
           {
-            "text": "<@yasulab> GitHub Action Status: ${{ job.status }} (詳細を見る)",
+            "text": "<@yasulab> Failed to build DojoMap. (詳細を見る)",
             "blocks": [
               {
                 "type": "section",
                 "text": {
                   "type": "mrkdwn",
-                  "text": "<@yasulab> GitHub Action Status: ${{ job.status }} ([詳細を見る](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}))"
+                  "text": "<@yasulab> Failed to build DojoMap. ([詳細を見る](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}))"
                 }
               }
             ]
