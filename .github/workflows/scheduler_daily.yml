@@ -69,6 +69,7 @@ jobs:
           git add images/dojos
           git add dojos.geojson
           git commit -m '🤖 Upsert Earth/Japan data for DojoMap'
+          git pull origin main
           git push origin main
         fi
       env:
