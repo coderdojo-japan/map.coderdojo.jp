@@ -15,12 +15,14 @@ HEADERS = {
 
 DOJOS_IN_COUNTRY_QUERY = <<~GRAPHQL
   query (
+    # TODO: Remove this when JP markers successfully displayed.
     $countryCode: String!,
     $after: String,
   ) {
     clubs(
       after: $after,
       filterBy: {
+        # TODO: Remove this when JP markers successfully displayed.
         countryCode: $countryCode,
         brand: CODERDOJO,
         verified: true
@@ -49,7 +51,8 @@ DOJOS_IN_COUNTRY_QUERY = <<~GRAPHQL
 GRAPHQL
 
 variables = {
- countryCode: 'JP'
+  # TODO: Remove this when JP markers successfully displayed.
+  countryCode: 'JP'
 }
 
 def request_data(variables:)
@@ -61,6 +64,8 @@ def request_data(variables:)
     http.request(request)
   end
 
+  # TODO: Remove this when JP markers successfully displayed.
+  pp JSON.parse(response.body, symbolize_names: true)
   JSON.parse(response.body, symbolize_names: true)[:data][:clubs]
 end
 
