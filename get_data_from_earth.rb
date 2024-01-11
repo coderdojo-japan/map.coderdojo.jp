@@ -15,15 +15,17 @@ HEADERS = {
 
 DOJOS_IN_COUNTRY_QUERY = <<~GRAPHQL
   query (
-    # TODO: Remove this when JP markers successfully displayed.
-    $countryCode: String!,
+    # MEMO: No need to filter to fetch all dojo data on earth.
+    # $countryCode: String!,
+    #
+    # MEMO: 'after' has which page we have read and the next page to read.
     $after: String,
   ) {
     clubs(
       after: $after,
       filterBy: {
-        # TODO: Remove this when JP markers successfully displayed.
-        countryCode: $countryCode,
+        # MEMO: No need to filter to fetch all dojo data on earth.
+        # countryCode: $countryCode,
         brand: CODERDOJO,
         verified: true
       }
@@ -51,8 +53,8 @@ DOJOS_IN_COUNTRY_QUERY = <<~GRAPHQL
 GRAPHQL
 
 variables = {
-  # TODO: Remove this when JP markers successfully displayed.
-  countryCode: 'JP'
+  # MEMO: No need to filter to fetch all dojo data on earth.
+  # countryCode: 'JP'
 }
 
 def request_data(variables:)
@@ -64,8 +66,7 @@ def request_data(variables:)
     http.request(request)
   end
 
-  # TODO: Remove this when JP markers successfully displayed.
-  pp JSON.parse(response.body, symbolize_names: true)
+  # pp JSON.parse(response.body, symbolize_names: true)
   JSON.parse(response.body, symbolize_names: true)[:data][:clubs]
 end
 
