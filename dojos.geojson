@@ -8391,21 +8391,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.5379149999999981,
-          53.991767
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Harrogate @ Everyman<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/harrogate/harrogate-everyman'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           86.46257109999999,
           23.8149076
         ]
@@ -8444,6 +8429,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>North 24 Parganas, Kharampur@SHAKTI<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/in/district-de-kolkata-north-24-parganas-west-bengal/north-24-parganas-kharampur-shakti'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5379149999999981,
+          53.991767
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Harrogate @ Everyman<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/harrogate/harrogate-everyman'>連絡先を見る</a>"
       }
     },
     {

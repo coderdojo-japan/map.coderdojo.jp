@@ -10864,20 +10864,6 @@
     "id": "d5eea74f-465a-4017-83a6-d55bdf09731f"
   },
   {
-    "name": "Harrogate @ Everyman",
-    "latitude": 53.991767,
-    "longitude": -1.5379149999999981,
-    "countryCode": "GB",
-    "stage": "OPEN",
-    "urlSlug": "gb/harrogate/harrogate-everyman",
-    "startTime": "10:00",
-    "endTime": "13:00",
-    "openToPublic": true,
-    "frequency": null,
-    "day": 0,
-    "id": "6999db56-03eb-4d39-acd4-6e38d4d1b0bc"
-  },
-  {
     "name": "Australind, WA @ Australind Library",
     "latitude": -33.2792968,
     "longitude": 115.7163391,
@@ -10974,6 +10960,20 @@
     "frequency": "1/w",
     "day": 3,
     "id": "4de2f9f3-2fc1-4fd7-96cc-675bddcac093"
+  },
+  {
+    "name": "Harrogate @ Everyman",
+    "latitude": 53.991767,
+    "longitude": -1.5379149999999981,
+    "countryCode": "GB",
+    "stage": "OPEN",
+    "urlSlug": "gb/harrogate/harrogate-everyman",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 0,
+    "id": "6999db56-03eb-4d39-acd4-6e38d4d1b0bc"
   },
   {
     "name": "Voghera",
