@@ -3562,5 +3562,17 @@
     "prefecture": "東京",
     "created_at": "2023-11-16T00:00:00.000+09:00",
     "description": "新宿区で毎月開催"
+  },
+  {
+    "id": 316,
+    "url": "https://coderdojoiida.github.io/",
+    "name": "飯田",
+    "logo": "https://coderdojo.jp/img/dojos/default.webp",
+    "order": "202053",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "長野",
+    "created_at": "2023-12-05T00:00:00.000+09:00",
+    "description": "飯田市で第2土曜開催"
   }
 ]

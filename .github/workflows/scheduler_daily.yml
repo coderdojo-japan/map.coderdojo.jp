@@ -63,9 +63,11 @@ jobs:
           git add Gemfile.lock
           git add dojos_earth.json
           git add dojos_japan.json
+          git add events_japan.json
           git add images/dojos
           git add dojos.geojson
           git commit -m '🤖 Upsert Earth/Japan data for DojoMap'
+          git pull origin main
           git push origin main
         fi
       env:
