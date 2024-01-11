@@ -9,7 +9,7 @@ require 'json'
 API_URI = URI.parse('https://clubs-api.raspberrypi.org/graphql')
 
 HEADERS = {
-  'accept' => 'application/json',
+  'accept'       => 'application/json',
   'content-type' => 'application/json'
 }
 
@@ -53,11 +53,9 @@ variables = {
 }
 
 def request_data(variables:)
-  req_options = {
-    use_ssl: API_URI.scheme == 'https'
-  }
   request      = Net::HTTP::Post.new(API_URI.request_uri, HEADERS)
   request.body = { query: DOJOS_IN_COUNTRY_QUERY, variables: }.to_json
+  req_options  = { use_ssl: API_URI.scheme == 'https' }
 
   response = Net::HTTP.start(API_URI.hostname, API_URI.port, req_options) do |http|
     http.request(request)
