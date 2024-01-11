@@ -7,17 +7,11 @@ dojos_japan  = []
 events_japan = []
 zen2japan    = {}
 
-File.open("dojos_earth.json") do |file|
-  dojos_earth = JSON.load(file, nil, symbolize_names: true, create_additions: false)
-end
-
-File.open("dojos_japan.json") do |file|
-  dojos_japan = JSON.load(file, nil, symbolize_names: true, create_additions: false)
-end
-
-File.open("events_japan.json") do |file|
-  events_japan = JSON.load(file, nil, symbolize_names: true, create_additions: false)
-end
+json_load_options = { symbolize_names: true, create_additions: false }
+File.open("dojos_earth.json") {|file| dojos_earth  = JSON.load(file, nil, json_load_options) }
+File.open("dojos_japan.json") {|file| dojos_japan  = JSON.load(file, nil, json_load_options) }
+File.open("events_japan.json"){|file| events_japan = JSON.load(file, nil, json_load_options) }
+#pp dojos_earth.first, dojos_japan.first, events_japan.first
 
 # Sample format of dojo2dojo.csv:
 # Japan登録名	Zen登録名
@@ -69,16 +63,22 @@ japan_count = 0
 dojos_earth.each do |dojo|
   # 活動していない道場は除外
   #
-  # stage:
-  # 0: In planning
-  # 1: Open, come along
-  # 2: Register ahead
-  # 3: 満員
-  # 4: 活動していません
-  if dojo[:geoPoint] && dojo[:country] && dojo[:stage] != 4
+  # stage:              => Clubs API (renewal in 2023/12)
+  # 0: In planning      => PENDING
+  # 1: Open, come along => OPEN
+  # 2: Register ahead   => ?
+  # 3: 満員             => ?
+  # 4: 活動していません => ?
+  #
+  # MEMO: The first conditions when using the outdated CoderDojo API (aka Zen API).
+  #       if dojo[:geoPoint] && dojo[:country] && dojo[:stage] != 4
+
+  # Skip dojos that don't have required params to point on DojoMap
+  if dojo[:latitude] && dojo[:longitude] && dojo[:stage].eql?('OPEN')
+    #pp dojo
 
     # Show only active dojos in Japan area on DojoMap
-    if dojo[:country][:countryName] == "Japan"
+    if dojo[:countryCode] == "JP"
 
       # Skip if not existing or marked as inactive by Japan DB
       next if zen2japan[dojo[:name]].nil?
@@ -116,7 +116,7 @@ dojos_earth.each do |dojo|
       type: "Feature",
       geometry: {
         type: "Point",
-        coordinates: [dojo[:geoPoint][:lon], dojo[:geoPoint][:lat]],
+        coordinates: [dojo[:longitude], dojo[:latitude]],
       },
       properties: {
         'marker-size'   => 'small', # small, medium, large
