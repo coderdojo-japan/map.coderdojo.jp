@@ -66,9 +66,11 @@ dojos_earth.each do |dojo|
   # stage:              => Clubs API (renewal in 2023/12)
   # 0: In planning      => PENDING
   # 1: Open, come along => OPEN
-  # 2: Register ahead   => ?
-  # 3: 満員             => ?
-  # 4: 活動していません => ?
+  # 2: Register ahead   => REGISTER
+  # 3: 満員             => FULL
+  # 4: 活動していません => ??? (Maybe deleted or PENDING?)
+  #
+  # Clubs API https://clubs-api.raspberrypi.org/
   #
   # MEMO: The first conditions when using the outdated CoderDojo API (aka Zen API).
   #       if dojo[:geoPoint] && dojo[:country] && dojo[:stage] != 4
