@@ -93,7 +93,11 @@ puts '$ cat dojos_data.json'
 
 exit
 
-################
+
+
+##########################################
+# Same script for the archived Zen API ###
+##########################################
 
 uri     = URI.parse("https://zen.coderdojo.com/api/2.0/dojos")
 request = Net::HTTP::Post.new(uri)
