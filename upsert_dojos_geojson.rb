@@ -7,17 +7,11 @@ dojos_japan  = []
 events_japan = []
 zen2japan    = {}
 
-File.open("dojos_earth.json") do |file|
-  dojos_earth = JSON.load(file, nil, symbolize_names: true, create_additions: false)
-end
-
-File.open("dojos_japan.json") do |file|
-  dojos_japan = JSON.load(file, nil, symbolize_names: true, create_additions: false)
-end
-
-File.open("events_japan.json") do |file|
-  events_japan = JSON.load(file, nil, symbolize_names: true, create_additions: false)
-end
+json_load_options = { symbolize_names: true, create_additions: false }
+File.open("dojos_earth.json") {|file| dojos_earth  = JSON.load(file, nil, json_load_options) }
+File.open("dojos_japan.json") {|file| dojos_japan  = JSON.load(file, nil, json_load_options) }
+File.open("events_japan.json"){|file| events_japan = JSON.load(file, nil, json_load_options) }
+#pp dojos_earth.first, dojos_japan.first, events_japan.first
 
 # Sample format of dojo2dojo.csv:
 # Japan登録名	Zen登録名
