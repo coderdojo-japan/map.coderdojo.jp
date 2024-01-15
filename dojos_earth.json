@@ -17920,20 +17920,6 @@
     "id": "a300465b-c698-4b1f-8bde-9dd31c87e8c8"
   },
   {
-    "name": "**This is a test club for dev and example purposes**",
-    "latitude": -20.8089198,
-    "longitude": 167.2266434,
-    "countryCode": "NC",
-    "stage": "REGISTER",
-    "urlSlug": "nc/nang/this-is-a-test-club-for-dev-and-example-purposes",
-    "startTime": "12:00",
-    "endTime": "15:00",
-    "openToPublic": true,
-    "frequency": "2/m",
-    "day": 6,
-    "id": "022fbf70-c6a8-4b99-8834-b873db32b75a"
-  },
-  {
     "name": "Pardubice@krajska knihovna",
     "latitude": 50.038276,
     "longitude": 15.778233,
@@ -18002,6 +17988,20 @@
     "frequency": "other",
     "day": 6,
     "id": "854588ee-7c01-4adc-8697-aee5b0c54750"
+  },
+  {
+    "name": "**This is a test club for dev and example purposes** ",
+    "latitude": -20.8089198,
+    "longitude": 167.2266434,
+    "countryCode": "NC",
+    "stage": "REGISTER",
+    "urlSlug": "nc/nang/this-is-a-test-club-for-dev-and-example-purposes",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 2,
+    "id": "022fbf70-c6a8-4b99-8834-b873db32b75a"
   },
   {
     "name": "Dublin@ICCI",
