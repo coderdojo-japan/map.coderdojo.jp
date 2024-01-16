@@ -10990,6 +10990,20 @@
     "id": "5fd76ad6-b193-488e-88b0-7879234d6b3c"
   },
   {
+    "name": "Tilburg @ LocHal @ Code013",
+    "latitude": 51.5614432,
+    "longitude": 5.0858915,
+    "countryCode": "NL",
+    "stage": "PENDING",
+    "urlSlug": "nl/tilburg/tilburg-lochal-code-01-3",
+    "startTime": null,
+    "endTime": null,
+    "openToPublic": true,
+    "frequency": null,
+    "day": 0,
+    "id": "6b8e63bd-9546-4d1f-baf1-d3fb29aba75a"
+  },
+  {
     "name": "Kent @ Canterbury Library",
     "latitude": 51.279633,
     "longitude": 1.0791450000000395,
@@ -20242,20 +20256,6 @@
     "frequency": "1/m",
     "day": 5,
     "id": "68700e0e-674c-48f6-86ca-c446ed705456"
-  },
-  {
-    "name": "Tilburg @ LocHal @ Code013",
-    "latitude": 51.5614432,
-    "longitude": 5.0858915,
-    "countryCode": "NL",
-    "stage": "PENDING",
-    "urlSlug": "nl/tilburg/tilburg-lochal-code-01-3",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "6b8e63bd-9546-4d1f-baf1-d3fb29aba75a"
   },
   {
     "name": "Cesena, @Wizards of Python",
