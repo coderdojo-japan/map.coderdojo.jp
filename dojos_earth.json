@@ -8064,20 +8064,6 @@
     "id": "1ee8084a-3406-4421-9c5e-22a79a69aa91"
   },
   {
-    "name": "Englewood, Florida@Envoi",
-    "latitude": 26.9737132,
-    "longitude": -82.3547351,
-    "countryCode": "US",
-    "stage": "OPEN",
-    "urlSlug": "us/englewood-fl/englewood-florida-envoi",
-    "startTime": "16:00",
-    "endTime": "18:30",
-    "openToPublic": true,
-    "frequency": "2/m",
-    "day": 3,
-    "id": "1ed7a789-653d-4189-b6a8-32a26a21cbf3"
-  },
-  {
     "name": "Ipswich @ Ipswich Makerspace",
     "latitude": 52.0562172,
     "longitude": 1.1647077,
@@ -8104,6 +8090,20 @@
     "frequency": "1/w",
     "day": 6,
     "id": "b0ce7b20-7168-41f9-8db8-17efc282113f"
+  },
+  {
+    "name": "Englewood, Florida@Envoi",
+    "latitude": 26.9737132,
+    "longitude": -82.3547351,
+    "countryCode": "US",
+    "stage": "OPEN",
+    "urlSlug": "us/englewood-fl/englewood-florida-envoi",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "openToPublic": true,
+    "frequency": "2/m",
+    "day": 4,
+    "id": "1ed7a789-653d-4189-b6a8-32a26a21cbf3"
   },
   {
     "name": "Bologna",
@@ -11142,6 +11142,20 @@
     "frequency": "other",
     "day": null,
     "id": "4eb5b381-a763-46bf-9bbf-01669116c5ed"
+  },
+  {
+    "name": "Southwark, London @ John Harvard Library",
+    "latitude": 51.5018296,
+    "longitude": -0.09239019999999999,
+    "countryCode": "GB",
+    "stage": "OPEN",
+    "urlSlug": "gb/london/southwark-london-john-harvard-library",
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 6,
+    "id": "c82c4b04-a340-492c-a062-faf2cc092dcf"
   },
   {
     "name": "Esposende  @ Associação de Cidadãos de Esposende",
@@ -17990,20 +18004,6 @@
     "id": "cf9daaaa-b1e5-4feb-9ba3-db92f57851d2"
   },
   {
-    "name": "CoderDojo Deloitte @ Iasi",
-    "latitude": 47.1507408,
-    "longitude": 27.5835123,
-    "countryCode": "RO",
-    "stage": "PENDING",
-    "urlSlug": "ro/iasi/coderdojo-deloitte-iasi",
-    "startTime": "10:00",
-    "endTime": "13:00",
-    "openToPublic": false,
-    "frequency": "other",
-    "day": 6,
-    "id": "854588ee-7c01-4adc-8697-aee5b0c54750"
-  },
-  {
     "name": "**This is a test club for dev and example purposes** ",
     "latitude": -20.8089198,
     "longitude": 167.2266434,
@@ -18016,6 +18016,20 @@
     "frequency": "1/w",
     "day": 2,
     "id": "022fbf70-c6a8-4b99-8834-b873db32b75a"
+  },
+  {
+    "name": "CoderDojo Deloitte @ Iasi",
+    "latitude": 47.1507408,
+    "longitude": 27.5835123,
+    "countryCode": "RO",
+    "stage": "PENDING",
+    "urlSlug": "ro/iasi/coderdojo-deloitte-iasi",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "openToPublic": false,
+    "frequency": "other",
+    "day": 6,
+    "id": "854588ee-7c01-4adc-8697-aee5b0c54750"
   },
   {
     "name": "Dublin@ICCI",
