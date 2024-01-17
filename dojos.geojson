@@ -1618,7 +1618,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo.shiojiri.fun/' target='_blank' rel='noopener'>  <img src='/images/dojos/shiojiri.webp' alt='塩尻' loading='lazy' width='100px' /></a><br><b>塩尻</b><br>塩尻市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-shiojiri.connpass.com/event/307812/' target='_blank' rel='noopener'>1月17日</a><br><a href='https://coderdojo.shiojiri.fun/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo.shiojiri.fun/' target='_blank' rel='noopener'>  <img src='/images/dojos/shiojiri.webp' alt='塩尻' loading='lazy' width='100px' /></a><br><b>塩尻</b><br>塩尻市で毎月開催<br><a href='https://coderdojo.shiojiri.fun/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -6351,21 +6351,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.3547351,
-          26.9737132
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Englewood, Florida@Envoi<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/englewood-fl/englewood-florida-envoi'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           39.716242919156066,
           47.22134756287958
         ]
@@ -6374,6 +6359,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Rostov-on-Don @ Russian Federation<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ru/rostov-on-don-rostov-oblast/rostov-on-don-russian-federation'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3547351,
+          26.9737132
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Englewood, Florida@Envoi<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/englewood-fl/englewood-florida-envoi'>連絡先を見る</a>"
       }
     },
     {
@@ -8609,6 +8609,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Arklow<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/wicklow/arklow-cbs-coolgreaney-road-arcklow-co-wicklow/arklow'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09239019999999999,
+          51.5018296
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Southwark, London @ John Harvard Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/london/southwark-london-john-harvard-library'>連絡先を見る</a>"
       }
     },
     {
@@ -15073,7 +15088,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-iwata.connpass.com' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.png' alt='磐田' loading='lazy' width='100px' /></a><br><b>磐田</b><br>磐田市で毎月開催<br><a href='https://coderdojo-iwata.connpass.com' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-iwata.connpass.com' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.png' alt='磐田' loading='lazy' width='100px' /></a><br><b>磐田</b><br>磐田市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-iwata.connpass.com/event/307854/' target='_blank' rel='noopener'>2月17日</a><br><a href='https://coderdojo-iwata.connpass.com' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -15793,7 +15808,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagoya.webp' alt='名古屋' loading='lazy' width='100px' /></a><br><b>名古屋</b><br>名古屋市中区で月<br>2回開催<br><a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagoya.webp' alt='名古屋' loading='lazy' width='100px' /></a><br><b>名古屋</b><br>名古屋市中区で月<br>2回開催<br>&rarr; 次回: <a href='https://coderdojo-nagoya.connpass.com/event/307994/' target='_blank' rel='noopener'>1月21日</a><br><a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
