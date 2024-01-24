@@ -9456,8 +9456,8 @@
     "countryCode": "BE",
     "stage": "OPEN",
     "urlSlug": "be/kortenberg/kortenberg",
-    "startTime": "10:00",
-    "endTime": "13:00",
+    "startTime": "09:30",
+    "endTime": "12:00",
     "openToPublic": true,
     "frequency": "1/m",
     "day": 6,
@@ -12976,20 +12976,6 @@
     "frequency": "other",
     "day": 5,
     "id": "c74a2d46-8c66-4c54-9f55-4270d6e52c06"
-  },
-  {
-    "name": "Kortenberg",
-    "latitude": 50.885659,
-    "longitude": 4.538738999999964,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/kortenberg/kortenberg-1",
-    "startTime": "09:30",
-    "endTime": "12:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 0,
-    "id": "238412a1-fbce-4726-8f19-cd8d39ad4a7f"
   },
   {
     "name": "Tamale@SIA",
