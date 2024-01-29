@@ -10500,20 +10500,6 @@
     "id": "e43b50f1-23e6-4ecb-8673-93140ea2acb0"
   },
   {
-    "name": "Iyo, Ehime",
-    "latitude": 33.7589376,
-    "longitude": 132.70537539999998,
-    "countryCode": "JP",
-    "stage": "OPEN",
-    "urlSlug": "jp/iyo-ehime/iyo-ehime-1",
-    "startTime": "14:00",
-    "endTime": "17:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 0,
-    "id": "50fad285-bd6d-421e-92c0-158223dd1805"
-  },
-  {
     "name": "Gifu",
     "latitude": 35.42744340000001,
     "longitude": 136.75984389999996,
