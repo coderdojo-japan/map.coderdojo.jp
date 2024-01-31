@@ -2044,20 +2044,6 @@
     "id": "e164611a-a892-4f12-9b20-ff9475fa5000"
   },
   {
-    "name": "Hasselt",
-    "latitude": 50.9373499,
-    "longitude": 5.348644299999933,
-    "countryCode": "BE",
-    "stage": "PENDING",
-    "urlSlug": "be/pxl-hasselt/hasselt",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "88deb2fd-bb88-4a1f-ac55-9dc4b8c28a2f"
-  },
-  {
     "name": "Sunshine Coast @ University of the Sunshine Coast",
     "latitude": -26.71604,
     "longitude": 153.05946399999993,
@@ -2126,20 +2112,6 @@
     "frequency": "1/m",
     "day": 6,
     "id": "46a50025-0f0b-4dfe-bed7-5815542dd7cb"
-  },
-  {
-    "name": "Aalst",
-    "latitude": 50.93177896702902,
-    "longitude": 4.021940202502492,
-    "countryCode": "BE",
-    "stage": "FULL",
-    "urlSlug": "be/aalst/aalst-1",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "24abff28-cbbc-4b7e-b31b-5221d0528c04"
   },
   {
     "name": "Geel",
