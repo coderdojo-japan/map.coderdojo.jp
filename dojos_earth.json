@@ -17850,20 +17850,6 @@
     "id": "f19f09f3-af48-4437-a1a5-f8bbcb0e17eb"
   },
   {
-    "name": "Malahide",
-    "latitude": 53.4507408,
-    "longitude": -6.15362970000001,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/dublin/malahide/malahide",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "3828c1ef-721f-4400-8c40-93da5d53b16b"
-  },
-  {
     "name": "George,Western Cape @ Garden Route Innovation and Technology Hub",
     "latitude": -33.97193504673243,
     "longitude": 22.44461282062264,
@@ -17904,6 +17890,20 @@
     "frequency": "1/m",
     "day": 0,
     "id": "831a556f-4f1a-49d4-bd2d-240e3378af1b"
+  },
+  {
+    "name": "Malahide",
+    "latitude": 53.4507408,
+    "longitude": -6.15362970000001,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/dublin/malahide/malahide",
+    "startTime": null,
+    "endTime": null,
+    "openToPublic": true,
+    "frequency": null,
+    "day": 0,
+    "id": "3828c1ef-721f-4400-8c40-93da5d53b16b"
   },
   {
     "name": "VicPark@library",
