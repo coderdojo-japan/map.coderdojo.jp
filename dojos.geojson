@@ -921,21 +921,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3942930000000615,
-          51.1694198
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Wilrijk<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/wilrijk/wilrijk'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -7.1136970818042755,
           52.246068174481856
         ]
@@ -1304,21 +1289,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Zwijndrecht<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/zwijndrecht/zwijndrecht'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.2044048,
-          51.1195171
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Temse<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/temse/temse'>連絡先を見る</a>"
       }
     },
     {
@@ -6958,7 +6928,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojoyabuki.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/yabuki.webp' alt='矢吹' loading='lazy' width='100px' /></a><br><b>矢吹</b><br>矢吹町で毎月開催<br><a href='https://coderdojoyabuki.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojoyabuki.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/yabuki.webp' alt='矢吹' loading='lazy' width='100px' /></a><br><b>矢吹</b><br>矢吹町で毎月開催<br>&rarr; 次回: <a href='https://coderdojoyabuki.connpass.com/event/307639/' target='_blank' rel='noopener'>2月17日</a><br><a href='https://coderdojoyabuki.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -7439,21 +7409,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Deinze<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/deinze/deinze'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.656991400000038,
-          50.9297025
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Gavere<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/gavere/gavere'>連絡先を見る</a>"
       }
     },
     {
@@ -9186,21 +9141,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.677413105964661,
-          50.857028545367946
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Leuven KUL ICTS<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/heverlee/leuven-kul-icts'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.401716828346252,
           51.02833209213164
         ]
@@ -9914,21 +9854,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Claremont WA @ Freshwater Bay Primary School<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/au/perth-wa/claremont-wa-freshwater-bay-primary-school'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.549139700000069,
-          50.94290489999999
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Kampenhout<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/kampenhout/kampenhout'>連絡先を見る</a>"
       }
     },
     {
@@ -11106,21 +11031,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4210936,
-          51.22178779999999
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Permeke<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/antwerpen/permeke'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           32.89057731628418,
           24.061277323933556
         ]
@@ -12284,21 +12194,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Maassluis @ Bieb Maassluis<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/maassluis/maassluis-bieb-maassluis'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.535072117377695,
-          50.65483901295339
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Ans<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/ans/ans'>連絡先を見る</a>"
       }
     },
     {
@@ -14924,21 +14819,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Mirrabooka, Perth @ Stirling Libraries<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/au/mirrabooka-wa/mirrabooka-perth-stirling-libraries'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.43089800000007,
-          51.169503
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Edegem<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/edegem/edegem'>連絡先を見る</a>"
       }
     },
     {

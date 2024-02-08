@@ -1232,20 +1232,6 @@
     "id": "7f4ca3fa-22ab-4376-8d04-64fa04102ef1"
   },
   {
-    "name": "Wilrijk",
-    "latitude": 51.1694198,
-    "longitude": 4.3942930000000615,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/wilrijk/wilrijk",
-    "startTime": "14:00",
-    "endTime": "15:30",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "0eacbb0b-ff4c-4b4d-9b90-2073535d4816"
-  },
-  {
     "name": "St. Angela's School, Waterford",
     "latitude": 52.246068174481856,
     "longitude": -7.1136970818042755,
@@ -1636,20 +1622,6 @@
     "frequency": "1/m",
     "day": 6,
     "id": "d135fd2a-55ca-41ae-82e1-d1503d6ba3b0"
-  },
-  {
-    "name": "Temse",
-    "latitude": 51.1195171,
-    "longitude": 4.2044048,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/temse/temse",
-    "startTime": "09:00",
-    "endTime": "12:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "771bf3fb-ade0-4b5f-a111-36d31232d4ea"
   },
   {
     "name": "Zele",
@@ -2924,20 +2896,6 @@
     "frequency": "other",
     "day": null,
     "id": "10187d3b-de15-497a-af91-4572ac03b21b"
-  },
-  {
-    "name": "Leuven",
-    "latitude": 50.877571,
-    "longitude": 4.704328000000032,
-    "countryCode": "BE",
-    "stage": "REGISTER",
-    "urlSlug": "be/vlaams-gewest/flanders-dc-leuven/leuven",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "c29e50c0-363a-4553-b4d9-d131c4cf9fdc"
   },
   {
     "name": "Blessington",
@@ -9184,20 +9142,6 @@
     "id": "1468b9b4-b644-4757-8a0a-626ade84c2ee"
   },
   {
-    "name": "Antwerpen-Zuid",
-    "latitude": 51.19458098278963,
-    "longitude": 4.380776832263223,
-    "countryCode": "BE",
-    "stage": "REGISTER",
-    "urlSlug": "be/vlaams-gewest/digipolis-generaal-armstrongweg-1-2020-antwerpen/antwerpen-zuid",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "c1beb1f1-3ec9-4cc7-944d-707b5fb989c1"
-  },
-  {
     "name": "Dumbravita@SmartBees",
     "latitude": 45.81447357869358,
     "longitude": 21.229019165039062,
@@ -9280,20 +9224,6 @@
     "frequency": "1/m",
     "day": 6,
     "id": "a19594ef-9fda-4c65-bc68-62ddc6e64b00"
-  },
-  {
-    "name": "Gavere",
-    "latitude": 50.9297025,
-    "longitude": 3.656991400000038,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/gavere/gavere",
-    "startTime": "09:00",
-    "endTime": "11:30",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "2af4f285-28a3-4b28-97b8-383703ccb083"
   },
   {
     "name": "Milano @ Extreme English 4 Kids",
@@ -11802,20 +11732,6 @@
     "id": "c2706f81-6dff-438f-9ec5-3c53c402589c"
   },
   {
-    "name": "Leuven KUL ICTS",
-    "latitude": 50.857028545367946,
-    "longitude": 4.677413105964661,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/heverlee/leuven-kul-icts",
-    "startTime": "10:00",
-    "endTime": "13:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "9726aa19-cd36-4f2b-983f-b76595607b73"
-  },
-  {
     "name": "Houthalen-Helchteren",
     "latitude": 51.02833209213164,
     "longitude": 5.401716828346252,
@@ -12794,20 +12710,6 @@
     "frequency": "1/w",
     "day": 1,
     "id": "378c3b3e-55e9-4aa3-bfba-162674d7b159"
-  },
-  {
-    "name": "Kampenhout",
-    "latitude": 50.94290489999999,
-    "longitude": 4.549139700000069,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/kampenhout/kampenhout",
-    "startTime": "10:00",
-    "endTime": "13:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "4c7383d6-32dd-4e65-9a57-55d8be316028"
   },
   {
     "name": "Fiuggi",
@@ -14236,20 +14138,6 @@
     "frequency": "2/m",
     "day": 6,
     "id": "7d536f85-3180-4b08-a710-cec4e93f361d"
-  },
-  {
-    "name": "Permeke",
-    "latitude": 51.22178779999999,
-    "longitude": 4.4210936,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/antwerpen/permeke",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "ddc18508-047f-45e6-a775-7c7fa259c6b6"
   },
   {
     "name": "Aswan @ Al Salam Academy School",
@@ -15790,20 +15678,6 @@
     "frequency": "1/w",
     "day": 6,
     "id": "e0e6418b-3f65-4791-ba0a-56eb786f3789"
-  },
-  {
-    "name": "Ans",
-    "latitude": 50.65483901295339,
-    "longitude": 5.535072117377695,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/ans/ans",
-    "startTime": "14:00",
-    "endTime": "17:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 0,
-    "id": "48ca8bee-a520-499c-b596-d6cd0e4cdda5"
   },
   {
     "name": "ON EST ENSEMBLE",
@@ -19388,20 +19262,6 @@
     "frequency": "1/m",
     "day": 6,
     "id": "58fdf748-3829-46c9-8d1c-06a62a2838ad"
-  },
-  {
-    "name": "Edegem",
-    "latitude": 51.169503,
-    "longitude": 4.43089800000007,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/edegem/edegem",
-    "startTime": "14:00",
-    "endTime": "17:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "782308c0-b3e1-40dd-99f7-fe59dfdd8b94"
   },
   {
     "name": "Kampala, Uganda @ Refugee Friend Care",
