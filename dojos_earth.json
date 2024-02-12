@@ -3164,20 +3164,6 @@
     "id": "87073fb6-50f7-41b1-a918-48003960330f"
   },
   {
-    "name": "Carlow @ Carlow Institute of Technology",
-    "latitude": 52.82669428900052,
-    "longitude": -6.936200398950177,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/carlow/carlow-it-kilkenny-road-carlow-ireland/carlow-carlow-institute-of-technology",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "87463d31-c01d-4b31-bda3-646b82110917"
-  },
-  {
     "name": "Brazzaville @ YekoLab",
     "latitude": -4.245727302019114,
     "longitude": 15.193768688519299,
@@ -19318,20 +19304,6 @@
     "frequency": "1/w",
     "day": 2,
     "id": "7e24377c-9427-4905-9a62-cfe1dc44456c"
-  },
-  {
-    "name": "MalagaTeatinos",
-    "latitude": 36.7248066,
-    "longitude": -4.4803441999999905,
-    "countryCode": "ES",
-    "stage": "OPEN",
-    "urlSlug": "es/malaga/malagateatinos",
-    "startTime": "17:30",
-    "endTime": "19:00",
-    "openToPublic": true,
-    "frequency": "2/m",
-    "day": 5,
-    "id": "8913f741-c46e-4ab7-8180-8ac0d47b744d"
   },
   {
     "name": "Tullamore",
