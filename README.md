@@ -75,6 +75,19 @@ https://map.coderdojo.jp/
 
 <br>
 
+## :printer: 地図データを印刷するときの注意点
+
+DojoMap の画面右下にあるクレジット表記および `openstreetmap.org/copyright` を画像に含める、もしくはテキストとして別途追記いただくことで、ワークショップや展示物としても本地図データをご活用いただけます。
+
+- 参考: [OpenStreetMap - 著作権とライセンス](https://www.openstreetmap.org/copyright)
+- 参考: [OpenStreetMap Foundation - Licence/Attribution Guidelines](https://osmfoundation.org/wiki/Licence/Attribution_Guidelines)
+
+> [**Books, magazines, and printed maps**](https://osmfoundation.org/wiki/Licence/Attribution_Guidelines#Books,_magazines,_and_printed_maps)
+> 
+> For a printed map and similar media (that is ebooks, PDFs and so on), the credit must appear beside the map if that is where other such credits appear, or in a footnote/endnote if that is where other credits appear, or in the “acknowledgements” section of the publication (often at the start of a book or magazine) if that is where other credits appear. The URL to [openstreetmap.org/copyright](https://www.openstreetmap.org/copyright) must be printed out.
+
+<br>
+
 ## :credit_card: License
 
 <details>
