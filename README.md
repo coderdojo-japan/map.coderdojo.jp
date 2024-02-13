@@ -3,7 +3,7 @@
 # :japan: DojoMap - 地図で CoderDojo を探す
 
 CoderDojo の地図『**[DojoMap](https://map.coderdojo.jp/)**』で、
-最寄りの CoderDojo を探してみよう！:mag: :dash: 
+最寄りの CoderDojo を探してみよう！ :mag: :dash: 
 https://map.coderdojo.jp/
 
 [![DojoMap](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/images/cover.png?raw=true)](https://map.coderdojo.jp/)
