@@ -1638,20 +1638,6 @@
     "id": "8e40d1bf-0908-48aa-b02d-7d2d1afdee3b"
   },
   {
-    "name": "Woluwe Saint Lambert",
-    "latitude": 50.8578786,
-    "longitude": 4.4397109,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/woluwe-saint-lambert/woluwe-saint-lambert",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "4566355e-ffde-439e-98fd-b3dfa1c5722a"
-  },
-  {
     "name": "CoderDojo Altona North",
     "latitude": -37.836138,
     "longitude": 144.846811,
@@ -3850,20 +3836,6 @@
     "id": "2bd4bb4f-de47-4867-b3e0-1b617822fe8c"
   },
   {
-    "name": "Enghien",
-    "latitude": 50.69271519999999,
-    "longitude": 4.0389675000000125,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/7-85-0-enghien/enghien",
-    "startTime": "09:30",
-    "endTime": "12:30",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 0,
-    "id": "3a5ab7fc-564b-4920-bda4-baa50c3624e7"
-  },
-  {
     "name": "Coding @ Sturla",
     "latitude": 44.4025188,
     "longitude": 8.940381300000013,
@@ -4870,20 +4842,6 @@
     "frequency": "1/w",
     "day": 6,
     "id": "5b519fab-2dbf-45d0-8ee4-380df47a85ec"
-  },
-  {
-    "name": "Grez-Doiceau",
-    "latitude": 50.7393868,
-    "longitude": 4.693011399999932,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/grez-doiceau/grez-doiceau",
-    "startTime": "14:00",
-    "endTime": "17:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 0,
-    "id": "e00d3233-29e1-4b87-a1da-d4e7232bc261"
   },
   {
     "name": "Novartis Global",
@@ -8988,20 +8946,6 @@
     "id": "d859ae6e-1eb6-4f54-9629-d6bbc1200b00"
   },
   {
-    "name": "Gembloux",
-    "latitude": 50.5580636,
-    "longitude": 4.690554099999986,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/gembloux/gembloux",
-    "startTime": "14:00",
-    "endTime": "17:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 0,
-    "id": "f6aff09d-6b0e-4143-9621-47e27461b640"
-  },
-  {
     "name": "CoderDozo @ Thomson Reuters",
     "latitude": 12.9496565,
     "longitude": 77.6895705,
@@ -9394,6 +9338,20 @@
     "id": "87acaba4-6eb9-4700-b652-e62928593578"
   },
   {
+    "name": "Carrick On Shannon, Co. Leitrim",
+    "latitude": 53.94573699999999,
+    "longitude": -8.074945,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/carrick-on-shannon/carrick-on-shannon-co-leitrim",
+    "startTime": null,
+    "endTime": null,
+    "openToPublic": true,
+    "frequency": null,
+    "day": 0,
+    "id": "2d7b1344-af48-4751-83c5-a37761dd72e3"
+  },
+  {
     "name": "Hyderabad@Abhibus",
     "latitude": 17.4504907,
     "longitude": 78.38581850000003,
@@ -9406,20 +9364,6 @@
     "frequency": "1/m",
     "day": 6,
     "id": "1dafb122-9cc1-41b4-8e93-c3a9ff81f49e"
-  },
-  {
-    "name": "Carrick On Shannon, Co. Leitrim",
-    "latitude": 53.94573699999999,
-    "longitude": -8.074945,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/carrick-on-shannon/carrick-on-shannon-co-leitrim",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "2d7b1344-af48-4751-83c5-a37761dd72e3"
   },
   {
     "name": "CoderDojo Warszawa",
@@ -14446,20 +14390,6 @@
     "frequency": "other",
     "day": null,
     "id": "478a58a7-ba96-4d72-a524-dab0596eefe2"
-  },
-  {
-    "name": "Mont St Guibert",
-    "latitude": 50.63668209999999,
-    "longitude": 4.612379400000009,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/grandrue-39-1-43-5-mont-saint-guibert/mont-st-guibert",
-    "startTime": "09:00",
-    "endTime": "12:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "477f2e90-c1b8-4939-8116-c6e3c5639d6d"
   },
   {
     "name": "Shimane @ Matsue",
