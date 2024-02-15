@@ -3996,8 +3996,8 @@
     "countryCode": "GB",
     "stage": "OPEN",
     "urlSlug": "gb/gu-1-5-3sy/coderdojo-camberley-library",
-    "startTime": "10:00",
-    "endTime": "11:00",
+    "startTime": "11:00",
+    "endTime": "12:00",
     "openToPublic": true,
     "frequency": "1/w",
     "day": 6,
@@ -17089,8 +17089,8 @@
     "startTime": null,
     "endTime": null,
     "openToPublic": true,
-    "frequency": "other",
-    "day": null,
+    "frequency": null,
+    "day": 0,
     "id": "170fe2d6-2535-4b9e-bf90-3c219206cb91"
   },
   {
