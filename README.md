@@ -47,7 +47,7 @@ https://map.coderdojo.jp/
    ```
    # Japan's API からデータを取得し、ロゴ画像をキャッシングする
    $ bundle exec rake get_data_from_japan
-   $ bundle exec rake caching_dojo_images
+   $ bundle exec rake cache_dojo_logos
    ```
 
 1. 上記２つの取得結果を組み合わせて [`dojos.geojson`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/dojos.geojson) ファイルを生成する

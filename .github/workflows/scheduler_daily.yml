@@ -50,7 +50,7 @@ jobs:
 
     - name: ☯️ Cache dojo logos in Japan
       run: |
-        bundle exec ruby caching_dojo_images.rb
+        bundle exec ruby cache_dojo_logos.rb
 
     - name: 📍 Generate DojoMap from Earth/Japan data
       run: |
