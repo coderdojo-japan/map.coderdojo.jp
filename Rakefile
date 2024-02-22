@@ -4,6 +4,7 @@ task default: 'test'
 desc 'Get CoderDojo data on the Earth via Raspberry Pi Clubs API'
 task(:get_data_from_earth)  { ruby 'get_data_from_earth.rb'  }
 task(:get_data_from_japan)  { ruby 'get_data_from_japan.rb'  }
+task(:caching_dojo_images)  { ruby 'caching_dojo_images.rb'  }
 task(:upsert_dojos_geojson) { ruby 'upsert_dojos_geojson.rb' }
 
 # GitHub - gjtorikian/html-proofer
