@@ -33,19 +33,26 @@ https://map.coderdojo.jp/
    $ ruby --version
    ```   
 
+1. 利用する Ruby ライブラリをインストールする
+   ```
+   $ bundle install
+   ```
+
 1. [CoderDojo Zen](https://zen.coderdojo.com/) から Dojo 情報一覧を取得する（[`dojos_earth.json`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/dojos_earth.json)が更新されます）
    ```
-   $ ./get_data_from_earth.rb
+   $ bundle exec rake get_data_from_earth
    ```
 
 1. [CoderDojo Japan](http://coderdojo.jp/) から Dojo 情報一覧を取得する（[`dojos_japan.json`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/dojos_japan.json)が更新されます）
    ```
-   $ ./get_data_from_japan.rb
+   # Japan's API からデータを取得し、ロゴ画像をキャッシングする
+   $ bundle exec rake get_data_from_japan
+   $ bundle exec rake caching_dojo_images
    ```
 
 1. 上記２つの取得結果を組み合わせて [`dojos.geojson`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/dojos.geojson) ファイルを生成する
    ```
-   $ ./upsert_dojos_geojson.rb
+   $ bundle exec rake upsert_dojos_geojson
    ```
 
 1. ローカル環境で生成された DojoMap を確認する

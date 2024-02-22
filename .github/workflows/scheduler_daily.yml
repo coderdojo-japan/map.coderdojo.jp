@@ -42,19 +42,19 @@ jobs:
     # https://github.com/coderdojo-japan/map.coderdojo.jp/commit/899c26b3878f23f624995ac36ffa01beeea8093d
     #- name: 🌐 Fetch dojo data from Earth
     #  run: |
-    #    bundle exec ruby get_data_from_earth.rb
+    #    bundle exec rake get_data_from_earth
 
     - name: 🗾 Fetch dojo/event data from Japan
       run: |
-        bundle exec ruby get_data_from_japan.rb
+        bundle exec rake get_data_from_japan
 
     - name: ☯️ Cache dojo logos in Japan
       run: |
-        bundle exec ruby caching_images.rb
+        bundle exec ruby caching_dojo_images.rb
 
     - name: 📍 Generate DojoMap from Earth/Japan data
       run: |
-        bundle exec ruby upsert_dojos_geojson.rb
+        bundle exec rake upsert_dojos_geojson
 
     - name: 🆙 Commit latest data to update DojoMap (if any)
       run: |
@@ -81,7 +81,7 @@ jobs:
         bundle exec ruby compact_geojson.rb
         JEKYLL_ENV=production bundle exec jekyll build
         JEKYLL_ENV=production bundle exec jekyll doctor
-        # SKIP_BUILD=true       bundle exec rake test
+        SKIP_BUILD=true       bundle exec rake test
 
     # This is NOT for security reason but for others, especially who fork,
     # to easier find out which API key they need to replace with their own.

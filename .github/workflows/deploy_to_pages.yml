@@ -30,7 +30,7 @@ jobs:
         bundle exec ruby compact_geojson.rb
         JEKYLL_ENV=production bundle exec jekyll build
         JEKYLL_ENV=production bundle exec jekyll doctor
-        # SKIP_BUILD=true       bundle exec rake test
+        SKIP_BUILD=true       bundle exec rake test
 
     # This is NOT for security reason but for others, especially who fork,
     # to easier find out which API key they need to replace with their own.
