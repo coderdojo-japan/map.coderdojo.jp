@@ -45,7 +45,7 @@ https://map.coderdojo.jp/
 
 1. [CoderDojo Japan](http://coderdojo.jp/) から Dojo 情報一覧を取得する（[`dojos_japan.json`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/dojos_japan.json)が更新されます）
    ```
-   # Japan's API からデータを取得し、ロゴ画像をキャッシングする
+   # Japan's API からデータを取得し、ロゴ画像をキャッシュする
    $ bundle exec rake get_data_from_japan
    $ bundle exec rake cache_dojo_logos
    ```
