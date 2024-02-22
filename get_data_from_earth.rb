@@ -89,7 +89,7 @@ end
 
 puts "\nNumber of dojos: #{dojos.length}"
 puts "\nCheck out JSON data you fetched by:"
-puts '$ cat dojos_data.json'
+puts '$ cat dojos_earth.json'
 
 exit
 
