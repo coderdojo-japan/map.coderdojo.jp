@@ -15,16 +15,17 @@ HEADERS = {
 
 DOJOS_IN_COUNTRY_QUERY = <<~GRAPHQL
   query (
-    # MEMO: No need to filter to fetch all dojo data on earth.
+    # No need to filter to fetch all dojo data on earth.
     # $countryCode: String!,
     #
-    # MEMO: 'after' has which page we have read and the next page to read.
+    # This 'after' has which page we have read and the next page to read.
     $after: String,
   ) {
     clubs(
       after: $after,
+      #first: 10,
       filterBy: {
-        # MEMO: No need to filter to fetch all dojo data on earth.
+        # No need to filter to fetch all dojo data on earth.
         # countryCode: $countryCode,
         brand: CODERDOJO,
         verified: true
@@ -65,7 +66,6 @@ def request_data(variables:)
   response = Net::HTTP.start(API_URI.hostname, API_URI.port, req_options) do |http|
     http.request(request)
   end
-
   # pp JSON.parse(response.body, symbolize_names: true)
   JSON.parse(response.body, symbolize_names: true)[:data][:clubs]
 end
@@ -73,75 +73,22 @@ end
 dojos = []
 
 loop do
- fetched_data = request_data(variables:)
+  fetched_data = request_data(variables:)
 
- dojos    += fetched_data[:nodes]
- page_info = fetched_data[:pageInfo]
+  dojos    += fetched_data[:nodes]
+  page_info = fetched_data[:pageInfo]
 
- break unless page_info[:hasNextPage]
+  break unless page_info[:hasNextPage]
 
- variables[:after] = page_info[:endCursor]
+  variables[:after] = page_info[:endCursor]
 end
 
-File.open('dojos_earth.json', 'w') do |file|
- file.puts(JSON.pretty_generate(dojos))
-end
-
-puts "\nNumber of dojos: #{dojos.length}"
-puts "\nCheck out JSON data you fetched by:"
-puts '$ cat dojos_earth.json'
-
-exit
-
-
-
-##########################################
-# Same script for the archived Zen API ###
-##########################################
-
-uri     = URI.parse("https://zen.coderdojo.com/api/2.0/dojos")
-request = Net::HTTP::Post.new(uri)
-request.content_type = "application/json"
-request["Accept"]    = "application/json"
-request.body = JSON.dump({
-  "query" => {
-    "verified" => 1,
-    "deleted" => 0,
-    "fields$" => [
-      "name",
-      "geo_point",
-      "country",
-      "stage",
-      "url_slug",
-      "start_time",
-      "end_time",
-      "private",
-      "frequency",
-      "alternative_frequency",
-      "day"
-    ]
-  }
-})
-
-req_options = {
-  use_ssl: uri.scheme == "https",
-}
-
-response = Net::HTTP.start(uri.hostname, uri.port, req_options) do |http|
-  http.request(request)
-end
-
-DOJOS_DATA = JSON.parse response.body, symbolize_names: true
-DOJOS_JSON = JSON.pretty_generate DOJOS_DATA.sort_by{|dojo| dojo[:id]}
-
-File.open("dojos_earth.json", "w") do |file|
-  file.write(DOJOS_JSON)
-end
+File.open('tmp/number_of_dojos', 'w') { |file| file.write(dojos.length) }
 
 # Show next step for developers
-puts DOJOS_JSON
-puts ''
-puts 'Status Code: ' + response.code
-puts ''
-puts 'Check out JSON data you fetched by:'
+#puts DOJOS_JSON
+puts ""
+puts "Number of dojos: #{dojos.length}"
+puts ""
+puts "Check out JSON data you fetched by:"
 puts '$ cat dojos_earth.json'
