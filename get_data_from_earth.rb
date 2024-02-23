@@ -23,7 +23,7 @@ DOJOS_IN_COUNTRY_QUERY = <<~GRAPHQL
   ) {
     clubs(
       after: $after,
-      #first: 10,
+      first: 10,
       filterBy: {
         # No need to filter to fetch all dojo data on earth.
         # countryCode: $countryCode,
