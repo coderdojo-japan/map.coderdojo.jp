@@ -87,8 +87,9 @@ File.write('tmp/number_of_dojos', dojos.length)
 
 # Show next step for developers
 #puts DOJOS_JSON
-puts ""
-puts "Number of dojos: #{File.read('tmp/number_of_dojos')}"
-puts ""
-puts "Check out JSON data you fetched by:"
+puts ''
+puts 'Fetched number of dojos: ' + File.read('tmp/number_of_dojos')
+puts ''
+puts 'Check out its details by:'
 puts '$ cat dojos_earth.json'
+puts ''
