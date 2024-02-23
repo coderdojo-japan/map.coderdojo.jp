@@ -2766,21 +2766,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.204569554106115,
-          53.2715842406112
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Sandyford @ UlsterBank<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/leopardstown-co/sandyford-ulsterbank'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           42.96683192253113,
           36.86599979416779
         ]
@@ -4244,21 +4229,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Axarquía, Málaga @Educatech<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/es/velez-malaga/axarquia-malaga-educatech'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.23662919999998,
-          38.8341332
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>CoderDojo Northern Virginia (NOVA)<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/virginia/annandale-va/coderdojo-northern-virginia-nova'>連絡先を見る</a>"
       }
     },
     {
@@ -6089,21 +6059,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Diksmuide<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/diksmuide/diksmuide'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.299490856293687,
-          52.50439874557049
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dunnamaggin@stleonardsns<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/kilkenny/dunnamaggin-stleonardsns'>連絡先を見る</a>"
       }
     },
     {
@@ -11796,21 +11751,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1521435,
-          51.44544089999999
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Balham Young Coders @ Balham Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/balham/balham-young-coders-balham-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -90.37935550000003,
           38.7278319
         ]
@@ -14983,7 +14923,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-naha.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/naha.webp' alt='那覇' loading='lazy' width='100px' /></a><br><b>那覇</b><br>那覇市で毎月開催<br><a href='https://coderdojo-naha.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-naha.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/naha.webp' alt='那覇' loading='lazy' width='100px' /></a><br><b>那覇</b><br>那覇市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-naha.doorkeeper.jp/events/170075' target='_blank' rel='noopener'>3月2日</a><br><a href='https://coderdojo-naha.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
