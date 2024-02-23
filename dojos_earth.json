@@ -1288,20 +1288,6 @@
     "id": "9e73825f-d26f-48c6-a7d6-96c0d1c361ed"
   },
   {
-    "name": "Dublin 8 @ Canal Way Educate Together National School",
-    "latitude": 53.342512,
-    "longitude": -6.2915731000000505,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/dublin/dublin-8-canal-way-educate-together-national-school",
-    "startTime": "14:30",
-    "endTime": "16:00",
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "a40a0976-393d-4d69-8561-291f9bcdb683"
-  },
-  {
     "name": "Écoles Élémentaires Alé Codou NDOYE",
     "latitude": 14.67585979561488,
     "longitude": -17.46396843201603,
@@ -2660,20 +2646,6 @@
     "id": "fecfdb2b-3e08-4a21-9741-c6cce9f41e61"
   },
   {
-    "name": "Camden Coding Club @ Pancras Square Library",
-    "latitude": 51.53391689999999,
-    "longitude": -0.12648330000001806,
-    "countryCode": "GB",
-    "stage": "REGISTER",
-    "urlSlug": "gb/london-borough-of-camden-london/camden-coding-club-pancras-square-library",
-    "startTime": "14:00",
-    "endTime": "15:30",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "9b8d19ef-b946-41f4-8b11-4764773c781a"
-  },
-  {
     "name": "Oughterard",
     "latitude": 53.4277424,
     "longitude": -9.3212233,
@@ -3680,20 +3652,6 @@
     "frequency": "other",
     "day": null,
     "id": "8f2c65e2-9b62-4b64-8e03-fdefa5c23a69"
-  },
-  {
-    "name": "Sandyford @ UlsterBank",
-    "latitude": 53.2715842406112,
-    "longitude": -6.204569554106115,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/leopardstown-co/sandyford-ulsterbank",
-    "startTime": "10:00",
-    "endTime": "12:00",
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "561c34eb-b2ca-4474-954a-d553b5729ba4"
   },
   {
     "name": "Pskov @ ROBBO",
@@ -5444,20 +5402,6 @@
     "frequency": "other",
     "day": 6,
     "id": "fe4fdd59-b02e-402b-83db-83ebecf06c3c"
-  },
-  {
-    "name": "CoderDojo Northern Virginia (NOVA)",
-    "latitude": 38.8341332,
-    "longitude": -77.23662919999998,
-    "countryCode": "US",
-    "stage": "OPEN",
-    "urlSlug": "us/virginia/annandale-va/coderdojo-northern-virginia-nova",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "83471b6e-bd8a-4a5f-b6c3-164d294eed53"
   },
   {
     "name": "Diwaniyah @ X Group",
@@ -7644,20 +7588,6 @@
     "id": "db5b5b75-6684-4674-88c4-c5451286418a"
   },
   {
-    "name": "Dunnamaggin@stleonardsns",
-    "latitude": 52.50439874557049,
-    "longitude": -7.299490856293687,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/kilkenny/dunnamaggin-stleonardsns",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "e750840e-ee0e-47a8-9561-200120e22306"
-  },
-  {
     "name": "Amstetten@42Vienna-coding-school",
     "latitude": 48.1210432,
     "longitude": 14.8723803,
@@ -8960,6 +8890,20 @@
     "id": "8644e085-9136-4d9c-a6f6-0fccee0708ce"
   },
   {
+    "name": "Pisa",
+    "latitude": 43.722,
+    "longitude": 10.405,
+    "countryCode": "IT",
+    "stage": "REGISTER",
+    "urlSlug": "it/toscana/pisa-province-of-pisa/pisa",
+    "startTime": null,
+    "endTime": null,
+    "openToPublic": true,
+    "frequency": "other",
+    "day": null,
+    "id": "9592081b-bc35-4cce-9794-013d7348587a"
+  },
+  {
     "name": "Melbourne @ Yarra Ranges",
     "latitude": -37.782493,
     "longitude": 145.612027,
@@ -9000,20 +8944,6 @@
     "frequency": "other",
     "day": 4,
     "id": "a2f2e919-921c-436f-8a5e-bbf76f875590"
-  },
-  {
-    "name": "Pisa",
-    "latitude": 43.71647110000001,
-    "longitude": 10.39033859999995,
-    "countryCode": "IT",
-    "stage": "REGISTER",
-    "urlSlug": "it/toscana/pisa-province-of-pisa/pisa",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "9592081b-bc35-4cce-9794-013d7348587a"
   },
   {
     "name": "Sesto Calende",
@@ -9924,20 +9854,6 @@
     "frequency": "2/m",
     "day": 6,
     "id": "b452974f-3dce-4fb3-96f7-9b3c3cbf69b4"
-  },
-  {
-    "name": "Greenlanes NS @ Clontarf",
-    "latitude": 53.3653983,
-    "longitude": -6.189453100000037,
-    "countryCode": "IE",
-    "stage": "FULL",
-    "urlSlug": "ie/clontarf/greenlanes-ns-clontarf",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 4,
-    "id": "d8bc705c-578e-47aa-bac8-c601091f898e"
   },
   {
     "name": "NISB",
@@ -15176,20 +15092,6 @@
     "id": "df6dfb15-48bb-4e6d-aa85-8992ed7b5346"
   },
   {
-    "name": "Balham Young Coders @ Balham Library",
-    "latitude": 51.44544089999999,
-    "longitude": -0.1521435,
-    "countryCode": "GB",
-    "stage": "OPEN",
-    "urlSlug": "gb/balham/balham-young-coders-balham-library",
-    "startTime": "14:00",
-    "endTime": "16:00",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 3,
-    "id": "ffca4f53-8833-42b0-9e42-0edfcda50a65"
-  },
-  {
     "name": "CoderDojoSTL",
     "latitude": 38.7278319,
     "longitude": -90.37935550000003,
@@ -15678,20 +15580,6 @@
     "frequency": "1/w",
     "day": 3,
     "id": "49280bf8-66db-4a57-b9f8-48b38d8a9e10"
-  },
-  {
-    "name": "Roundwood",
-    "latitude": 53.0657875,
-    "longitude": -6.224187700000016,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/roundwood/roundwood",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "49b5f0b6-3124-401f-bb8e-2505c89b113d"
   },
   {
     "name": "Timisoara @British International School INACTIVE",
@@ -17081,8 +16969,8 @@
   },
   {
     "name": "Manchester",
-    "latitude": 53.4720858,
-    "longitude": -2.2382431,
+    "latitude": 53.484,
+    "longitude": -2.23,
     "countryCode": "GB",
     "stage": "REGISTER",
     "urlSlug": "gb/manchester/manchester",
@@ -19147,8 +19035,8 @@
     "startTime": null,
     "endTime": null,
     "openToPublic": true,
-    "frequency": "other",
-    "day": null,
+    "frequency": null,
+    "day": 0,
     "id": "749ea1cf-026d-482d-80e7-7ccf63983f8a"
   },
   {
