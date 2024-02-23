@@ -83,12 +83,12 @@ loop do
   variables[:after] = page_info[:endCursor]
 end
 
-File.open('tmp/number_of_dojos', 'w') { |file| file.write(dojos.length) }
+File.write('tmp/number_of_dojos', dojos.length)
 
 # Show next step for developers
 #puts DOJOS_JSON
 puts ""
-puts "Number of dojos: #{dojos.length}"
+puts "Number of dojos: #{File.read('tmp/number_of_dojos')}"
 puts ""
 puts "Check out JSON data you fetched by:"
 puts '$ cat dojos_earth.json'
