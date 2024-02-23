@@ -4,10 +4,11 @@ require 'net/http'
 require 'uri'
 require 'json'
 
-## Example script for retrieving all CoderDojos in Japan
+# Set default number_of_dojos to detect if
+# Clubs API has breaking changes in Actions
+File.write('tmp/number_of_dojos', 0)
 
 API_URI = URI.parse('https://clubs-api.raspberrypi.org/graphql')
-
 HEADERS = {
   'accept'       => 'application/json',
   'content-type' => 'application/json'
