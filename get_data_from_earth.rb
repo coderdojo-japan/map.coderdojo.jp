@@ -53,14 +53,14 @@ DOJOS_IN_COUNTRY_QUERY = <<~GRAPHQL
   }
 GRAPHQL
 
-variables = {
+graphql_options = {
   # MEMO: No need to filter to fetch all dojo data on earth.
   # countryCode: 'JP'
 }
 
-def request_data(variables:)
+def request_data(graphql_options:)
   request      = Net::HTTP::Post.new(API_URI.request_uri, HEADERS)
-  request.body = { query: DOJOS_IN_COUNTRY_QUERY, variables: }.to_json
+  request.body = { query: DOJOS_IN_COUNTRY_QUERY, graphql_options: }.to_json
   req_options  = { use_ssl: API_URI.scheme == 'https' }
 
   response = Net::HTTP.start(API_URI.hostname, API_URI.port, req_options) do |http|
@@ -73,14 +73,14 @@ end
 dojos = []
 
 loop do
-  fetched_data = request_data(variables:)
+  fetched_data = request_data(graphql_options:)
 
   dojos    += fetched_data[:nodes]
   page_info = fetched_data[:pageInfo]
 
   break unless page_info[:hasNextPage]
 
-  variables[:after] = page_info[:endCursor]
+  graphql_options[:after] = page_info[:endCursor]
 end
 
 File.write('tmp/number_of_dojos', dojos.length)
