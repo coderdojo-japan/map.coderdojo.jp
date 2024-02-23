@@ -1,8 +1,9 @@
 .envrc
-_site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+_site
+tmp
 vendor
 
 .DS_Store
