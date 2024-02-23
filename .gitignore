@@ -3,7 +3,7 @@
 .jekyll-cache
 .jekyll-metadata
 _site
-tmp
+number_of_dojos.tmp
 vendor
 
 .DS_Store
