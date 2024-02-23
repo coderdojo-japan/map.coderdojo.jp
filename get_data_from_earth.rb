@@ -13,7 +13,7 @@ HEADERS = {
   'content-type' => 'application/json'
 }
 
-DOJOS_IN_COUNTRY_QUERY = <<~GRAPHQL
+ALL_DOJOS_QUERY = <<~GRAPH_QL
   query (
     # No need to filter to fetch all dojo data on earth.
     # $countryCode: String!,
@@ -51,7 +51,7 @@ DOJOS_IN_COUNTRY_QUERY = <<~GRAPHQL
       }
     }
   }
-GRAPHQL
+GRAPH_QL
 
 # This 'variables' is fixed parameter name and cannot be renamed.
 # https://graphql.org/learn/queries/#variables
@@ -62,7 +62,7 @@ variables = {
 
 def request_data(variables:)
   request      = Net::HTTP::Post.new(API_URI.request_uri, HEADERS)
-  request.body = { query: DOJOS_IN_COUNTRY_QUERY, variables: }.to_json
+  request.body = { query: ALL_DOJOS_QUERY, variables: }.to_json
   req_options  = { use_ssl: API_URI.scheme == 'https' }
 
   response = Net::HTTP.start(API_URI.hostname, API_URI.port, req_options) do |http|
