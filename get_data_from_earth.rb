@@ -70,20 +70,21 @@ def request_data(graphql_options:)
   JSON.parse(response.body, symbolize_names: true)[:data][:clubs]
 end
 
-dojos = []
+dojo_data   = []
+page_number = 0
+print 'Fetching page by page: '
+begin
+  page_number = page_number.succ
+  print "#{page_number}.."
 
-loop do
   fetched_data = request_data(graphql_options:)
-
-  dojos    += fetched_data[:nodes]
-  page_info = fetched_data[:pageInfo]
-
-  break unless page_info[:hasNextPage]
+  dojo_data   += fetched_data[:nodes]
+  page_info    = fetched_data[:pageInfo]
 
   graphql_options[:after] = page_info[:endCursor]
-end
+end while page_info[:hasNextPage]
 
-File.write('tmp/number_of_dojos', dojos.length)
+File.write('tmp/number_of_dojos', dojo_data.length)
 
 # Show next step for developers
 #puts DOJOS_JSON
