@@ -42,7 +42,8 @@ jobs:
       run: |
         bundle exec rake get_data_from_earth
         if [ "`cat tmp/number_of_dojos`" -lt "1000"  ] ; then
-          echo "ERROR: NUMBER_OF_DOJOS=`cat tmp/number_of_dojos` should be 1000+. Something went wrong."
+          echo "ERROR: NUMBER_OF_DOJOS=`cat tmp/number_of_dojos`"
+          echo "This number should be 1000+. Something went wrong."
           exit 1
         fi
 
