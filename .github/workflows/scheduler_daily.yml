@@ -38,11 +38,13 @@ jobs:
       run: |
         bundle install
 
-    # TODO: Stop using RasPi's Clubs API that breaks Geo Data
-    # https://github.com/coderdojo-japan/map.coderdojo.jp/commit/899c26b3878f23f624995ac36ffa01beeea8093d
-    #- name: 🌐 Fetch dojo data from Earth
-    #  run: |
-    #    bundle exec rake get_data_from_earth
+    - name: 🌐 Fetch dojo data from Earth
+      run: |
+        bundle exec rake get_data_from_earth
+        if [ "$NUMBER_OF_DOJOS" -lt "1000"  ] ; then
+          echo "ERROR: NUMBER_OF_DOJOS=`cat tmp/number_of_dojos` should be 1000+. Something went wrong."
+          exit 1
+        fi
 
     - name: 🗾 Fetch dojo/event data from Japan
       run: |
