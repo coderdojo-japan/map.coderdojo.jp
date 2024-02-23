@@ -2,8 +2,8 @@
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-_site
-number_of_dojos.tmp
-vendor
+_site/
+tmp/
+vendor/
 
 .DS_Store
