@@ -32,6 +32,22 @@
     "limit": 20
   },
   {
+    "id": 18,
+    "name": "調布",
+    "url": "https://coderdojochofu.hatenablog.jp/",
+    "event_id": 6690,
+    "event_title": "第87回 CoderDojo 調布",
+    "event_date": "2024-03-31T09:30:00.000+09:00",
+    "event_end_at": "2024-03-31T12:30:00.000+09:00",
+    "event_url": "https://coderdojo-chofu.doorkeeper.jp/events/170566",
+    "prefecture": "東京",
+    "participants": 0,
+    "event_update_at": "2024-03-08T01:16:03.067+09:00",
+    "address": "東京都調布市国領町２丁目５−１５",
+    "place": "あくろす会場",
+    "limit": 15
+  },
+  {
     "id": 24,
     "name": "流山",
     "url": "http://www.code-for-nagareyama.org/?cat=11",
@@ -57,8 +73,8 @@
     "event_end_at": "2024-03-28T18:00:00.000+09:00",
     "event_url": "https://coderdojo-toyohashi.doorkeeper.jp/events/170213",
     "prefecture": "愛知",
-    "participants": 6,
-    "event_update_at": "2024-03-06T21:52:35.468+09:00",
+    "participants": 7,
+    "event_update_at": "2024-03-07T16:30:14.248+09:00",
     "address": "〒440-0016 愛知県豊橋市牛川町松下２０−１",
     "place": "豊橋創造大学D22ゼミ室",
     "limit": 12
@@ -147,17 +163,17 @@
     "id": 49,
     "name": "明石",
     "url": "https://coderdojo-akashi.connpass.com/",
-    "event_id": 6677,
-    "event_title": "[忍者募集]第26回CoderDojo明石",
+    "event_id": 6676,
+    "event_title": "[メンター募集]第26回CoderDojo明石",
     "event_date": "2024-03-24T13:30:00.000+09:00",
     "event_end_at": "2024-03-24T16:00:00.000+09:00",
-    "event_url": "https://coderdojo-akashi.connpass.com/event/312338/",
+    "event_url": "https://coderdojo-akashi.connpass.com/event/312339/",
     "prefecture": "兵庫",
-    "participants": 1,
-    "event_update_at": "2024-03-04T10:53:59.000+09:00",
+    "participants": 0,
+    "event_update_at": "2024-03-04T10:53:46.000+09:00",
     "address": "兵庫県明石市東仲ノ町６−１",
     "place": "ウィズあかし",
-    "limit": 6
+    "limit": null
   },
   {
     "id": 54,
@@ -169,7 +185,7 @@
     "event_end_at": "2024-03-09T16:30:00.000+09:00",
     "event_url": "https://coderdojo-kurume.connpass.com/event/310947/",
     "prefecture": "福岡",
-    "participants": 6,
+    "participants": 7,
     "event_update_at": "2024-02-24T15:52:34.000+09:00",
     "address": "福岡県久留米市中央町11-1(第一田中ビル2階)",
     "place": "Mekuruto",
@@ -259,14 +275,14 @@
     "id": 89,
     "name": "さくら",
     "url": "https://coderdojo-sakura.github.io/",
-    "event_id": 6686,
+    "event_id": 6665,
     "event_title": "第６４回CoderDojo さくら",
     "event_date": "2024-03-17T10:00:00.000+09:00",
     "event_end_at": "2024-03-17T12:00:00.000+09:00",
-    "event_url": "https://coderdojosakura.connpass.com/event/312614/",
+    "event_url": "https://coderdojosakura.connpass.com/event/310968/",
     "prefecture": "栃木",
     "participants": 0,
-    "event_update_at": "2024-03-05T15:17:43.000+09:00",
+    "event_update_at": "2024-02-28T18:26:35.000+09:00",
     "address": "〒329-2151 栃木県矢板市幸岡１４９８−１",
     "place": "HCCソフト（株）研究開発センター（旧矢板西小学校）",
     "limit": 10
@@ -361,8 +377,8 @@
     "event_end_at": "2024-03-16T11:30:00.000+09:00",
     "event_url": "https://coderdojo-anjo.doorkeeper.jp/events/170374",
     "prefecture": "愛知",
-    "participants": 3,
-    "event_update_at": "2024-03-05T19:48:21.364+09:00",
+    "participants": 4,
+    "event_update_at": "2024-03-07T17:35:56.932+09:00",
     "address": "愛知県安城市大東町１１−３",
     "place": "安城市民交流センター （1F わくわくセンター）",
     "limit": 10
@@ -494,6 +510,22 @@
     "address": "東京都稲城市若葉台２丁目５−２",
     "place": "稲城市立iプラザ",
     "limit": 20
+  },
+  {
+    "id": 148,
+    "name": "静岡",
+    "url": "https://coderdojo-shizuoka.org/",
+    "event_id": 6688,
+    "event_title": "51回CoderDojo静岡",
+    "event_date": "2024-03-30T09:30:00.000+09:00",
+    "event_end_at": "2024-03-30T11:40:00.000+09:00",
+    "event_url": "https://coderdojo-shizuoka.connpass.com/event/312862/",
+    "prefecture": "静岡",
+    "participants": 9,
+    "event_update_at": "2024-03-07T19:46:53.000+09:00",
+    "address": "静岡市葵区 一番町50",
+    "place": "静岡市番町市民活動センター（大会議室）",
+    "limit": 19
   },
   {
     "id": 149,
@@ -633,8 +665,8 @@
     "event_end_at": "2024-04-28T16:30:00.000+09:00",
     "event_url": "https://coderdojo-machida.connpass.com/event/310656/",
     "prefecture": "東京",
-    "participants": 10,
-    "event_update_at": "2024-02-14T17:15:21.000+09:00",
+    "participants": 11,
+    "event_update_at": "2024-03-07T22:52:58.000+09:00",
     "address": "東京都町田市原町田４丁目９−８ サウスフロントタワー町田内",
     "place": "町田市民フォーラム",
     "limit": null
@@ -953,11 +985,11 @@
     "event_end_at": "2024-03-24T16:00:00.000+09:00",
     "event_url": "https://coderdojo-kojimachi.connpass.com/event/311835/",
     "prefecture": "東京",
-    "participants": 10,
-    "event_update_at": "2024-03-03T10:19:43.000+09:00",
+    "participants": 11,
+    "event_update_at": "2024-03-07T15:52:55.000+09:00",
     "address": "東京都千代田区六番町1-10 山陽六番町ビル4F",
     "place": "株式会社アドバンスト・ソフト",
-    "limit": 11
+    "limit": 12
   },
   {
     "id": 277,
@@ -985,11 +1017,11 @@
     "event_end_at": "2024-03-10T16:00:00.000+09:00",
     "event_url": "https://coderdojo-musashikosugi.connpass.com/event/310911/",
     "prefecture": "神奈川",
-    "participants": 14,
-    "event_update_at": "2024-02-17T09:15:12.000+09:00",
+    "participants": 15,
+    "event_update_at": "2024-03-07T18:05:10.000+09:00",
     "address": "〒211-0004　川崎市中原区新丸子東3-1100-12　1階",
     "place": "かわさき市民活動センター　会議室A/B",
-    "limit": 19
+    "limit": 20
   },
   {
     "id": 280,
@@ -1065,8 +1097,8 @@
     "event_end_at": "2024-03-24T12:00:00.000+09:00",
     "event_url": "https://dojonihonmatsu.doorkeeper.jp/events/170441",
     "prefecture": "福島",
-    "participants": 6,
-    "event_update_at": "2024-03-06T08:49:52.467+09:00",
+    "participants": 8,
+    "event_update_at": "2024-03-07T23:42:03.376+09:00",
     "address": "福島県二本松市油井濡石３",
     "place": "二本松市安達公民館 1階 集会室",
     "limit": 16
@@ -1082,7 +1114,7 @@
     "event_url": "https://coderdojo-takaoka.connpass.com/event/312115/",
     "prefecture": "富山",
     "participants": 0,
-    "event_update_at": "2024-03-01T00:14:44.000+09:00",
+    "event_update_at": "2024-03-07T22:43:25.000+09:00",
     "address": "富山県高岡市横田町1-2-4",
     "place": "OFFICE＆SALON (駐車場は向かいの旧銀行駐車場)",
     "limit": 9
@@ -1150,6 +1182,22 @@
     "address": "大府市柊山町六丁目150-1",
     "place": "おおぶ文化交流の杜　allobu",
     "limit": 7
+  },
+  {
+    "id": 305,
+    "name": "西神",
+    "url": "https://twitter.com/CoderDojoSeisin",
+    "event_id": 6689,
+    "event_title": "第8回 CoderDojo西神",
+    "event_date": "2024-04-03T16:00:00.000+09:00",
+    "event_end_at": "2024-04-03T22:00:00.000+09:00",
+    "event_url": "https://coderdojoseishin.connpass.com/event/312752/",
+    "prefecture": "兵庫",
+    "participants": 0,
+    "event_update_at": "2024-03-07T14:37:14.000+09:00",
+    "address": "兵庫県神戸市西区美賀多台1-1-1",
+    "place": "西神中央ホール ルーム1",
+    "limit": 12
   },
   {
     "id": 307,
