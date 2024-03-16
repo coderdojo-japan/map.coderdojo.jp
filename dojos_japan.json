@@ -1806,7 +1806,7 @@
     "logo": "https://coderdojo.jp/img/dojos/narita.webp",
     "order": "122303",
     "counter": 1,
-    "is_active": false,
+    "is_active": true,
     "prefecture": "千葉",
     "created_at": "2018-11-17T00:00:00.000+09:00",
     "description": "成田市で毎月開催"
