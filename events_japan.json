@@ -560,22 +560,6 @@
     "limit": 22
   },
   {
-    "id": 217,
-    "name": "師勝",
-    "url": "https://twitter.com/CoderDojoSikatu",
-    "event_id": 6760,
-    "event_title": "CoderDojo師勝",
-    "event_date": "2024-03-25T13:00:00.000+09:00",
-    "event_end_at": "2024-03-25T17:30:00.000+09:00",
-    "event_url": "https://coderdojo-shikatsu.connpass.com/event/313879/",
-    "prefecture": "愛知",
-    "participants": 0,
-    "event_update_at": "2024-03-19T11:53:54.000+09:00",
-    "address": "北名古屋市九之坪笹塚1番地",
-    "place": "健康ドーム",
-    "limit": 10
-  },
-  {
     "id": 218,
     "name": "犬山",
     "url": "https://coderdojo-inuyama.rgr.jp/",
