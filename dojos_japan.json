@@ -2310,7 +2310,7 @@
     "logo": "https://coderdojo.jp/img/dojos/kuji.webp",
     "order": "141305",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "神奈川",
     "created_at": "2019-05-05T00:00:00.000+09:00",
     "description": "川崎市高津区で毎月開催"
