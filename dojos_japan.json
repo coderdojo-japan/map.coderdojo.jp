@@ -3574,5 +3574,17 @@
     "prefecture": "長野",
     "created_at": "2023-12-05T00:00:00.000+09:00",
     "description": "飯田市で第2土曜開催"
+  },
+  {
+    "id": 317,
+    "url": "https://coderdojo-sendai-wakabayashi.connpass.com/",
+    "name": "仙台若林",
+    "logo": "https://coderdojo.jp/img/dojos/sendai-wakabayashi.webp",
+    "order": "041033",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "宮城",
+    "created_at": "2024-05-01T00:00:00.000+09:00",
+    "description": "仙台市若林区で月2回開催"
   }
 ]
