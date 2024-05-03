@@ -9748,7 +9748,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-todakoen.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='戸田公園' loading='lazy' width='100px' /></a><br><b>戸田公園</b><br>戸田市で毎月開催<br><a href='https://coderdojo-todakoen.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-todakoen.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='戸田公園' loading='lazy' width='100px' /></a><br><b>戸田公園</b><br>戸田市で毎月開催<br>&rarr; 次回: <a href='https://corderdojo-todakoen.connpass.com/event/317978/' target='_blank' rel='noopener'>5月11日</a><br><a href='https://coderdojo-todakoen.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -13153,7 +13153,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://twitter.com/CoderDojoSikatu' target='_blank' rel='noopener'>  <img src='/images/dojos/shikatsu.webp' alt='師勝' loading='lazy' width='100px' /></a><br><b>師勝</b><br>北名古屋市で第2<br>木曜に開催<br><a href='https://twitter.com/CoderDojoSikatu' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://twitter.com/CoderDojoSikatu' target='_blank' rel='noopener'>  <img src='/images/dojos/shikatsu.webp' alt='師勝' loading='lazy' width='100px' /></a><br><b>師勝</b><br>北名古屋市で第2<br>木曜に開催<br>&rarr; 次回: <a href='https://coderdojo-shikatsu.connpass.com/event/318101/' target='_blank' rel='noopener'>5月26日</a><br><a href='https://twitter.com/CoderDojoSikatu' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -13633,7 +13633,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/CoderDojoTakizawa/' target='_blank' rel='noopener'>  <img src='/images/dojos/takizawa.webp' alt='滝沢' loading='lazy' width='100px' /></a><br><b>滝沢</b><br>滝沢市で毎月開催<br><a href='https://www.facebook.com/CoderDojoTakizawa/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/CoderDojoTakizawa/' target='_blank' rel='noopener'>  <img src='/images/dojos/takizawa.webp' alt='滝沢' loading='lazy' width='100px' /></a><br><b>滝沢</b><br>滝沢市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-takizawa.doorkeeper.jp/events/172959' target='_blank' rel='noopener'>5月12日</a><br><a href='https://www.facebook.com/CoderDojoTakizawa/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
