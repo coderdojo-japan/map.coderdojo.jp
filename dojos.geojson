@@ -6321,6 +6321,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          136.69851422309875,
+          34.48945594965719
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://coderdojo-ise.jimdofree.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/ise.webp' alt='伊勢' loading='lazy' width='100px' /></a><br><b>伊勢</b><br>伊勢市で毎月開催<br><a href='https://coderdojo-ise.jimdofree.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.559100100000023,
           -33.9810531
         ]
