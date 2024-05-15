@@ -169,11 +169,11 @@
     "event_end_at": "2024-05-19T12:00:00.000+09:00",
     "event_url": "https://coderdojo-osakasayama.doorkeeper.jp/events/172614",
     "prefecture": "大阪",
-    "participants": 2,
-    "event_update_at": "2024-05-13T18:55:15.140+09:00",
+    "participants": 3,
+    "event_update_at": "2024-05-14T09:09:00.193+09:00",
     "address": "大阪狭山市狭山四丁目2303番地の2  (2階)",
     "place": "UPっぷ（子育て支援・世代間交流センター）",
-    "limit": 4
+    "limit": 5
   },
   {
     "id": 46,
@@ -457,7 +457,7 @@
     "event_end_at": "2024-05-26T15:30:00.000+09:00",
     "event_url": "https://coderdojo-tobe.connpass.com/event/318966/",
     "prefecture": "神奈川",
-    "participants": 0,
+    "participants": 1,
     "event_update_at": "2024-05-12T18:55:14.000+09:00",
     "address": "横浜市西区中央1-5-10",
     "place": "にしとも広場",
@@ -649,7 +649,7 @@
     "event_end_at": "2024-05-18T16:00:00.000+09:00",
     "event_url": "https://coderdojo-nago.connpass.com/event/315984/",
     "prefecture": "沖縄",
-    "participants": 8,
+    "participants": 7,
     "event_update_at": "2024-05-02T18:27:15.000+09:00",
     "address": "沖縄県名護市宮里４９２",
     "place": "あけみおSKYドーム・会議室",
@@ -714,7 +714,7 @@
     "event_url": "https://coderdojo-matsubara.doorkeeper.jp/events/173163",
     "prefecture": "大阪",
     "participants": 0,
-    "event_update_at": "2024-05-07T13:33:23.359+09:00",
+    "event_update_at": "2024-05-14T20:19:56.769+09:00",
     "address": "〒580-0044 大阪府松原市田井城３丁目１０４−２",
     "place": "まつばらテラス（輝）",
     "limit": null
@@ -730,7 +730,7 @@
     "event_url": "https://coderdojo-suita.doorkeeper.jp/events/172606",
     "prefecture": "大阪",
     "participants": 2,
-    "event_update_at": "2024-05-13T15:07:17.618+09:00",
+    "event_update_at": "2024-05-14T16:23:32.570+09:00",
     "address": "大阪府吹田市内本町3-19-21",
     "place": "吹一地区公民館（本館）",
     "limit": null
@@ -937,11 +937,11 @@
     "event_end_at": "2024-05-19T16:00:00.000+09:00",
     "event_url": "https://coderdojo-kojimachi.connpass.com/event/317135/",
     "prefecture": "東京",
-    "participants": 13,
-    "event_update_at": "2024-04-23T10:16:15.000+09:00",
+    "participants": 14,
+    "event_update_at": "2024-05-14T12:14:12.000+09:00",
     "address": "東京都千代田区六番町1-10 山陽六番町ビル4F",
     "place": "株式会社アドバンスト・ソフト",
-    "limit": 15
+    "limit": 18
   },
   {
     "id": 277,
@@ -1177,7 +1177,7 @@
     "event_end_at": "2024-05-18T15:30:00.000+09:00",
     "event_url": "https://coderdojoiida.connpass.com/event/313118/",
     "prefecture": "長野",
-    "participants": 0,
+    "participants": 1,
     "event_update_at": "2024-04-03T15:37:56.000+09:00",
     "address": "飯田市上郷別府２６８９−１",
     "place": "ロジカランド株式会社",
