@@ -48,22 +48,6 @@
     "limit": 10
   },
   {
-    "id": 30,
-    "name": "豊橋",
-    "url": "https://www.facebook.com/coderdojo.toyohashi/",
-    "event_id": 6916,
-    "event_title": "CoderDojo豊橋の開校について（2024年5月の開催予定）",
-    "event_date": "2024-05-02T16:30:00.000+09:00",
-    "event_end_at": "2024-05-30T18:00:00.000+09:00",
-    "event_url": "https://coderdojo-toyohashi.doorkeeper.jp/events/172720",
-    "prefecture": "愛知",
-    "participants": 9,
-    "event_update_at": "2024-05-22T21:11:16.043+09:00",
-    "address": "〒440-0016 愛知県豊橋市牛川町松下２０−１",
-    "place": "豊橋創造大学D22ゼミ室",
-    "limit": 12
-  },
-  {
     "id": 31,
     "name": "名古屋",
     "url": "https://coderdojo-nagoya.connpass.com/",
