@@ -3598,5 +3598,17 @@
     "prefecture": "沖縄",
     "created_at": "2024-05-19T00:00:00.000+09:00",
     "description": "島尻郡南風原町で毎月3回開催"
+  },
+  {
+    "id": 319,
+    "url": "https://coderdojonihonbashi.wixsite.com/main",
+    "name": "日本橋",
+    "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
+    "order": "131024",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "東京",
+    "created_at": "2024-06-03T11:38:03.763+09:00",
+    "description": "中央区で隔月開催"
   }
 ]
