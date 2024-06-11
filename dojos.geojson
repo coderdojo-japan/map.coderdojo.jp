@@ -613,7 +613,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nada.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/nada.webp' alt='灘' loading='lazy' width='100px' /></a><br><b>灘</b><br>神戸市東灘区で毎<br>月開催<br><a href='https://coderdojo-nada.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nada.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/nada.webp' alt='灘' loading='lazy' width='100px' /></a><br><b>灘</b><br>神戸市東灘区で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojo-nada.doorkeeper.jp/events/174458' target='_blank' rel='noopener'>7月28日</a><br><a href='https://coderdojo-nada.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -8263,7 +8263,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-tobe.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/tobe.webp' alt='戸部' loading='lazy' width='100px' /></a><br><b>戸部</b><br>横浜市西区で毎月開催<br><a href='https://coderdojo-tobe.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-tobe.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/tobe.webp' alt='戸部' loading='lazy' width='100px' /></a><br><b>戸部</b><br>横浜市西区で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-tobe.connpass.com/event/322005/' target='_blank' rel='noopener'>6月23日</a><br><a href='https://coderdojo-tobe.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -15793,7 +15793,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-mito.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/mito.webp' alt='水戸' loading='lazy' width='100px' /></a><br><b>水戸</b><br>水戸市で毎月開催<br><a href='https://coderdojo-mito.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-mito.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/mito.webp' alt='水戸' loading='lazy' width='100px' /></a><br><b>水戸</b><br>水戸市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-mito.connpass.com/event/322082/' target='_blank' rel='noopener'>6月23日</a><br><a href='https://coderdojo-mito.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
