@@ -2713,12 +2713,12 @@
   },
   {
     "id": 245,
-    "url": "https://coderdojo-tsuwano.doorkeeper.jp/",
+    "url": "https://coderdojo-tsuwano.com/",
     "name": "津和野",
     "logo": "https://coderdojo.jp/img/dojos/tsuwano.webp",
     "order": "325015",
     "counter": 1,
-    "is_active": false,
+    "is_active": true,
     "prefecture": "島根",
     "created_at": "2020-03-10T00:00:00.000+09:00",
     "description": "鹿足郡津和野町で隔月開催"
@@ -3610,5 +3610,17 @@
     "prefecture": "東京",
     "created_at": "2024-06-02T00:00:00.000+09:00",
     "description": "中央区で隔月開催"
+  },
+  {
+    "id": 320,
+    "url": "https://coderdojo-nagano.connpass.com",
+    "name": "長野",
+    "logo": "https://coderdojo.jp/img/dojos/default.webp",
+    "order": "202011",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "長野",
+    "created_at": "2024-06-17T00:00:00.000+09:00",
+    "description": "長野市で隔月で開催"
   }
 ]
