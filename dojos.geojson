@@ -13026,21 +13026,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7352356,
-          35.5793886
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-heiwajima.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/heiwajima.webp' alt='平和島' loading='lazy' width='100px' /></a><br><b>平和島</b><br>大田区平和島で毎<br>月開催<br><a href='https://coderdojo-heiwajima.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           116.002666,
           -31.8891852
         ]
