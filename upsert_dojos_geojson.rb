@@ -61,26 +61,24 @@ features    = []
 description = ''
 japan_count = 0
 dojos_earth.each do |dojo|
-  # 活動していない道場は除外
-  #
-  # stage:              => Clubs API (renewal in 2023/12)
-  # 0: In planning      => PENDING
-  # 1: Open, come along => OPEN
-  # 2: Register ahead   => REGISTER
-  # 3: 満員             => FULL
-  # 4: 活動していません => ??? (Maybe deleted or PENDING?)
-  #
-  # Clubs API https://clubs-api.raspberrypi.org/
-  #
-  # MEMO: The first conditions when using the outdated CoderDojo API (aka Zen API).
-  #       if dojo[:geoPoint] && dojo[:country] && dojo[:stage] != 4
-
   # Skip dojos that don't have required params to point on DojoMap
   if dojo[:latitude] && dojo[:longitude]
     #pp dojo
 
     # Skip if dojo status is not active
-    next unless ['OPEN', 'FULL'].include? dojo[:stage]
+    # 活動していない道場は除外
+    #
+    # stage:              => Clubs API (renewal in 2023/12)
+    # 0: In planning      => PENDING
+    # 1: Open, come along => OPEN
+    # 2: Register ahead   => REGISTER
+    # 3: 満員             => FULL
+    # 4: 活動していません => ??? (Maybe deleted or PENDING?)
+    # Clubs API https://clubs-api.raspberrypi.org/
+    #
+    # MEMO: The first conditions when using the outdated CoderDojo API (aka Zen API).
+    #       if dojo[:geoPoint] && dojo[:country] && dojo[:stage] != 4
+    next unless ['OPEN', 'REGISTER', 'FULL'].include? dojo[:stage]
 
     # Show only active dojos in Japan area on DojoMap
     if dojo[:countryCode] == "JP"
