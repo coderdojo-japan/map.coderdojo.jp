@@ -76,8 +76,11 @@ dojos_earth.each do |dojo|
   #       if dojo[:geoPoint] && dojo[:country] && dojo[:stage] != 4
 
   # Skip dojos that don't have required params to point on DojoMap
-  if dojo[:latitude] && dojo[:longitude] && dojo[:stage].eql?('OPEN')
+  if dojo[:latitude] && dojo[:longitude]
     #pp dojo
+
+    # Skip if dojo status is not active
+    next unless ['OPEN', 'FULL'].include? dojo[:stage]
 
     # Show only active dojos in Japan area on DojoMap
     if dojo[:countryCode] == "JP"
