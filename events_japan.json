@@ -1040,22 +1040,6 @@
     "limit": 12
   },
   {
-    "id": 305,
-    "name": "西神",
-    "url": "https://twitter.com/CoderDojoSeisin",
-    "event_id": 7362,
-    "event_title": "第12回 CoderDojo西神",
-    "event_date": "2024-08-08T16:00:00.000+09:00",
-    "event_end_at": "2024-08-08T22:00:00.000+09:00",
-    "event_url": "https://coderdojoseishin.connpass.com/event/327206/",
-    "prefecture": "兵庫",
-    "participants": 4,
-    "event_update_at": "2024-08-03T13:37:27.000+09:00",
-    "address": "兵庫県神戸市西区美賀多台1-1-1",
-    "place": "西神中央ホール ルーム1",
-    "limit": 12
-  },
-  {
     "id": 307,
     "name": "末広町@アミュレット",
     "url": "https://coderdojosuehirocho.connpass.com/",
