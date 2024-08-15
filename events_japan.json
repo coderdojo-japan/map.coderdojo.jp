@@ -9,7 +9,7 @@
     "event_end_at": "2024-08-25T11:30:00.000+09:00",
     "event_url": "https://coderdojo-mizuho.connpass.com/event/326469/",
     "prefecture": "愛知",
-    "participants": 6,
+    "participants": 7,
     "event_update_at": "2024-07-27T07:27:12.000+09:00",
     "address": "名古屋市瑞穂区佐渡町３丁目18番地",
     "place": "瑞穂区社会福祉協議会ボランティアセンター",
@@ -73,8 +73,8 @@
     "event_end_at": "2024-08-25T12:30:00.000+09:00",
     "event_url": "https://coderdojo-chofu.doorkeeper.jp/events/176189",
     "prefecture": "東京",
-    "participants": 0,
-    "event_update_at": "2024-08-14T00:26:13.261+09:00",
+    "participants": 2,
+    "event_update_at": "2024-08-14T14:28:37.753+09:00",
     "address": "東京都調布市国領町２丁目５−１５",
     "place": "あくろす会場 (ホール1)",
     "limit": 15
@@ -201,11 +201,11 @@
     "event_end_at": "2024-08-18T16:00:00.000+09:00",
     "event_url": "https://coderdojo-aizu.doorkeeper.jp/events/175467",
     "prefecture": "福島",
-    "participants": 13,
-    "event_update_at": "2024-08-07T15:08:17.522+09:00",
+    "participants": 14,
+    "event_update_at": "2024-08-14T19:21:27.310+09:00",
     "address": "福島県会津若松市東栄町１ 北出丸大通り",
     "place": "AiCT 交流棟",
-    "limit": 15
+    "limit": 18
   },
   {
     "id": 81,
@@ -265,7 +265,7 @@
     "event_end_at": "2024-08-18T12:00:00.000+09:00",
     "event_url": "https://coderdojo-sennan.connpass.com/event/326709/",
     "prefecture": "大阪",
-    "participants": 1,
+    "participants": 2,
     "event_update_at": "2024-08-08T10:59:43.000+09:00",
     "address": "大阪府泉南市新家２９４９",
     "place": "新家駅前さくらっこ広場",
@@ -489,8 +489,8 @@
     "event_end_at": "2024-08-25T12:00:00.000+09:00",
     "event_url": "https://coderdojo-nago.connpass.com/event/325873/",
     "prefecture": "沖縄",
-    "participants": 13,
-    "event_update_at": "2024-07-21T08:46:13.000+09:00",
+    "participants": 16,
+    "event_update_at": "2024-08-14T19:14:33.000+09:00",
     "address": "恩納村字谷茶1919-1",
     "place": "沖縄科学技術大学院大学 OIST・ ミーティング・ルーム棟・ミーティングルーム棟　ミーティングルーム１",
     "limit": null
@@ -553,8 +553,8 @@
     "event_end_at": "2024-08-18T16:00:00.000+09:00",
     "event_url": "https://coderdojo-suita.doorkeeper.jp/events/176127",
     "prefecture": "大阪",
-    "participants": 6,
-    "event_update_at": "2024-08-11T12:26:35.796+09:00",
+    "participants": 7,
+    "event_update_at": "2024-08-14T19:14:12.048+09:00",
     "address": "大阪府吹田市千里山西６丁目５６－１　トナリエ南千里アネックス１Ｆ",
     "place": "無印良品 トナリエ南千里アネックス店",
     "limit": null
@@ -574,6 +574,22 @@
     "address": "〒484-0081 犬山市大字犬山字中ノ宮43-1",
     "place": "犬山市 丸山地区学習等供用施設",
     "limit": null
+  },
+  {
+    "id": 239,
+    "name": "松山",
+    "url": "https://coderdojo-matsuyama.doorkeeper.jp/",
+    "event_id": 7421,
+    "event_title": "自由にプログラミングを学ぶ場 CoderDojo松山#113",
+    "event_date": "2024-08-18T14:00:00.000+09:00",
+    "event_end_at": "2024-08-18T17:00:00.000+09:00",
+    "event_url": "https://coderdojo-matsuyama.doorkeeper.jp/events/176446",
+    "prefecture": "愛媛",
+    "participants": 0,
+    "event_update_at": "2024-08-14T18:45:59.553+09:00",
+    "address": "〒790-0012  愛媛県松山市湊町4丁目10−6 BLESSビル3F",
+    "place": "コドモノイバショ",
+    "limit": 8
   },
   {
     "id": 243,
