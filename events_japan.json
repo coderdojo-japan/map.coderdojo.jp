@@ -800,22 +800,6 @@
     "limit": 14
   },
   {
-    "id": 289,
-    "name": "たまち",
-    "url": "https://coderdojo-tamachi.connpass.com/",
-    "event_id": 7330,
-    "event_title": "第21回CoderDojoたまち",
-    "event_date": "2024-08-31T14:00:00.000+09:00",
-    "event_end_at": "2024-08-31T16:30:00.000+09:00",
-    "event_url": "https://coderdojo-tamachi.connpass.com/event/325903/",
-    "prefecture": "東京",
-    "participants": 5,
-    "event_update_at": "2024-07-27T15:32:58.000+09:00",
-    "address": "東京都港区芝三丁目41番8号",
-    "place": "駐健保会館 中会議室",
-    "limit": 12
-  },
-  {
     "id": 292,
     "name": "二本松",
     "url": "https://coderdojo-nihonmatsu.com/",
