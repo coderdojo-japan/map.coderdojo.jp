@@ -3694,5 +3694,17 @@
     "prefecture": "東京",
     "created_at": "2024-08-27T00:00:00.000+09:00",
     "description": "中央区晴海で毎月開催"
+  },
+  {
+    "id": 327,
+    "url": "https://www.facebook.com/people/CoderDojo和歌山有田/61564929375960/",
+    "name": "和歌山有田",
+    "logo": "https://coderdojo.jp/img/dojos/default.webp",
+    "order": "302040",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "和歌山",
+    "created_at": "2024-09-19T15:55:19.316+09:00",
+    "description": "有田市で毎月開催"
   }
 ]
