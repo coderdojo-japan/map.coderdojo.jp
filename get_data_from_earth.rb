@@ -92,6 +92,9 @@ begin
 end while page_info[:hasNextPage]
 
 File.write('tmp/number_of_dojos', dojo_data.length)
+File.open('dojos_earth.json', 'w') do |file|
+  file.puts(JSON.pretty_generate(dojo_data))
+end
 
 # Show next step for developers
 #puts DOJOS_JSON
