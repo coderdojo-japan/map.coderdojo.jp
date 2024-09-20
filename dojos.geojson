@@ -8781,21 +8781,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          132.2725428,
-          35.0355573
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://iwapro.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='大田・邑南、他' loading='lazy' width='100px' /></a><br><b>大田・邑南、他</b><br>島根県西部の各地<br>で毎月開催<br><a href='https://iwapro.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           116.0140386,
           -32.1515645
         ]
@@ -11976,21 +11961,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.71141599999999,
-          36.175635
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojokoga.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/koga.webp' alt='古河' loading='lazy' width='100px' /></a><br><b>古河</b><br>古河市で毎月開催<br>&rarr; 次回: <a href='https://coderdojokoga.connpass.com/event/328001/' target='_blank' rel='noopener'>9月21日</a><br><a href='https://coderdojokoga.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.489269799999988,
           55.8478327
         ]
@@ -12921,21 +12891,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          132.498821,
-          35.200083
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://iwapro.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='大田・邑南、他' loading='lazy' width='100px' /></a><br><b>大田・邑南、他</b><br>島根県西部の各地<br>で毎月開催<br><a href='https://iwapro.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           79.15956189999997,
           12.972067
         ]
@@ -13341,21 +13296,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          132.9015542,
-          35.2960064
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://iwapro.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='大田・邑南、他' loading='lazy' width='100px' /></a><br><b>大田・邑南、他</b><br>島根県西部の各地<br>で毎月開催<br><a href='https://iwapro.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           54.5614166,
           24.3157405
         ]
@@ -13424,21 +13364,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<a href='https://coderdojo-tsuruoka.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/tsuruoka.webp' alt='鶴岡' loading='lazy' width='100px' /></a><br><b>鶴岡</b><br>鶴岡市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-tsuruoka.connpass.com/event/329825/' target='_blank' rel='noopener'>9月28日</a><br><a href='https://coderdojo-tsuruoka.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.6155257,
-          34.5716495
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.coderdojo-fujiidera-kashiwara.com' target='_blank' rel='noopener'>  <img src='/images/dojos/fujiidera-kashiwara.webp' alt='藤井寺・柏原' loading='lazy' width='100px' /></a><br><b>藤井寺・柏原</b><br>藤井寺市/柏原市<br>で毎月開催<br><a href='https://www.coderdojo-fujiidera-kashiwara.com' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -16086,21 +16011,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          132.095877,
-          34.898258
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://iwapro.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='大田・邑南、他' loading='lazy' width='100px' /></a><br><b>大田・邑南、他</b><br>島根県西部の各地<br>で毎月開催<br><a href='https://iwapro.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           8.940381300000013,
           44.4025188
         ]
@@ -16326,21 +16236,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          131.8393514,
-          34.6771838
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://iwapro.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='大田・邑南、他' loading='lazy' width='100px' /></a><br><b>大田・邑南、他</b><br>島根県西部の各地<br>で毎月開催<br><a href='https://iwapro.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.335635000000025,
           51.137904
         ]
@@ -16364,21 +16259,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dagenham @ Dagenham Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/london-borough-of-barking-and-dagenham/dagenham-dagenham-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.93782580000004,
-          35.8770792
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='http://www.code-for-nagareyama.org/?cat=11' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='流山' loading='lazy' width='100px' /></a><br><b>流山</b><br>流山市で毎月開催<br><a href='http://www.code-for-nagareyama.org/?cat=11' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -16791,21 +16671,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.6049103,
-          34.6344207
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/profile.php?id=100087493006122' target='_blank' rel='noopener'>  <img src='/images/dojos/yao-yotteco.webp' alt='八尾' loading='lazy' width='100px' /></a><br><b>八尾</b><br>八尾市で毎月開催<br><a href='https://www.facebook.com/profile.php?id=100087493006122' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           131.79519340000002,
           34.5783592
         ]
@@ -16949,21 +16814,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Fossò-Venice Italy<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/veneto/fosso/fosso-venice-italy'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.36085709021302,
-          34.7457687578179
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>  <img src='/images/dojos/nishinomiya.webp' alt='西宮・梅田' loading='lazy' width='100px' /></a><br><b>西宮・梅田</b><br>西宮/梅田でそれ<br>ぞれ毎月開催<br>&rarr; 次回: <a href='https://coderdojo-nishinomiya.doorkeeper.jp/events/173633' target='_blank' rel='noopener'>9月28日</a><br><a href='https://coderdojo-nishinomiya.info/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -18374,21 +18224,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Sint-Niklaas<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/sint-niklaas/sint-niklaas'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.06220589999998,
-          35.4640051
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://iwapro.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='大田・邑南、他' loading='lazy' width='100px' /></a><br><b>大田・邑南、他</b><br>島根県西部の各地<br>で毎月開催<br><a href='https://iwapro.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
