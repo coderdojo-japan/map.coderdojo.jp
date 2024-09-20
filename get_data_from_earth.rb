@@ -24,7 +24,7 @@ ALL_DOJOS_QUERY = <<~GRAPH_QL
   ) {
     clubs(
       after: $after,
-      first: 100,
+      first: 400,
       filterBy: {
         # No need to filter to fetch all dojo data on earth.
         # countryCode: $countryCode,
