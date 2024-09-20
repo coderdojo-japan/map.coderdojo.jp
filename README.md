@@ -79,6 +79,7 @@ https://map.coderdojo.jp/
 - [全国のコーダー道場が地図から探せる「DojoMap」、オープンソースで提供 - 高田馬場経済新聞](https://takadanobaba.keizai.biz/headline/1002/)
 - [非営利のプログラミング道場「CoderDojo」を地図上で表示する「DojoMap」提供開始 - こどもとIT](https://edu.watch.impress.co.jp/docs/news/1460906.html)
 - [CoderDojo Japan、Geoloniaの支援を得て地図から探せる「DojoMap」を開発 - ICT教育ニュース](https://ict-enews.net/2022/12/05coderdojo-japan/)
+- [:mag: DojoMap に関するポストまとめ (X Search)](https://x.com/search?q=DojoMap%20OR%20map.coderdojo.jp%20lang%3Aja&src=typed_query)
 
 <br>
 
