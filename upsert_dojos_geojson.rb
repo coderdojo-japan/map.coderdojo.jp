@@ -60,6 +60,7 @@ end
 features    = []
 description = ''
 japan_count = 0
+marked_dojos = []
 dojos_earth.each do |dojo|
   # Skip dojos that don't have required params to point on DojoMap
   if dojo[:latitude] && dojo[:longitude]
@@ -83,7 +84,7 @@ dojos_earth.each do |dojo|
     # Show only active dojos in Japan area on DojoMap
     if dojo[:countryCode] == "JP"
 
-      # Skip if not existing or marked as inactive by Japan DB
+      # Skip if not existing OR marked as 'Inactive' by Japan DB
       next if zen2japan[dojo[:name]].nil?
       next if name2is_active[zen2japan[dojo[:name]]] == false
 
@@ -91,7 +92,7 @@ dojos_earth.each do |dojo|
       dojo[:name] = zen2japan[dojo[:name]] if zen2japan[dojo[:name]]
 
       # Count active dojo in Japan displayed on DojoMap for debugging
-      japan_count = japan_count.succ
+      #japan_count = japan_count.succ
       #p "#{japan_count.to_s.rjust(3, '0')}: #{dojo[:name]}"
     end
 
@@ -106,6 +107,12 @@ dojos_earth.each do |dojo|
       HTML
     else
       # for Dojos regeisted in coderdojo.jp
+
+      # Skip if multiple-dojos-in-one style in Japan DB to be unique
+      # e.g. '西宮・梅田', '藤井寺・柏原', '大田・邑南、他'
+      next if marked_dojos.include? dojo[:name]
+      marked_dojos << dojo[:name]
+
       description = <<~HTML
         #{name2logo[dojo[:name]]}<br>
         <b>#{dojo[:name]}</b><br>
@@ -115,6 +122,7 @@ dojos_earth.each do |dojo|
       HTML
     end
 
+    # Mark dojo to DojoMap
     features << {
       type: "Feature",
       geometry: {
