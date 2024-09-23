@@ -21336,20 +21336,6 @@
     "id": "c6d9f5ed-23c5-43ae-90fb-20e6edc02599"
   },
   {
-    "name": "**This is a test club for dev and example purposes** ",
-    "latitude": -20.8089198,
-    "longitude": 167.2266434,
-    "countryCode": "NC",
-    "stage": "REGISTER",
-    "urlSlug": "nc/nang/this-is-a-test-club-for-dev-and-example-purposes",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "openToPublic": false,
-    "frequency": "2/m",
-    "day": 5,
-    "id": "022fbf70-c6a8-4b99-8834-b873db32b75a"
-  },
-  {
     "name": "FOSDEM Junior",
     "latitude": 50.81291,
     "longitude": 4.38069,
@@ -21852,5 +21838,19 @@
     "frequency": "1/w",
     "day": 0,
     "id": "e1b14809-e77c-4a1a-bc22-150ccfa47021"
+  },
+  {
+    "name": "**This is a test club for dev and example purposes** ",
+    "latitude": -20.8089198,
+    "longitude": 167.2266434,
+    "countryCode": "NC",
+    "stage": "REGISTER",
+    "urlSlug": "nc/nang/this-is-a-test-club-for-dev-and-example-purposes",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "openToPublic": false,
+    "frequency": "2/m",
+    "day": 5,
+    "id": "022fbf70-c6a8-4b99-8834-b873db32b75a"
   }
 ]
