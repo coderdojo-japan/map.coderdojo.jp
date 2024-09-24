@@ -2458,7 +2458,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojotondabayashi.github.io/main/' target='_blank' rel='noopener'>  <img src='/images/dojos/tondabayashi.webp' alt='富田林' loading='lazy' width='100px' /></a><br><b>富田林</b><br>富田林市で隔月開催<br><a href='https://coderdojotondabayashi.github.io/main/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojotondabayashi.github.io/main/' target='_blank' rel='noopener'>  <img src='/images/dojos/tondabayashi.webp' alt='富田林' loading='lazy' width='100px' /></a><br><b>富田林</b><br>富田林市で隔月開催<br>&rarr; 次回: <a href='https://coderdojotondabayashi.connpass.com/event/331954/' target='_blank' rel='noopener'>10月12日</a><br><a href='https://coderdojotondabayashi.github.io/main/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -2474,21 +2474,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>srikakulam/andhra pradesh/ @KANSEY TRUST<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/in/srikakulam-andhra-pradesh/srikakulam-andhra-pradesh-kansey-trust'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.926635499999975,
-          51.4415948
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Baarle-Nassau @ CCBaarle.org<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/baarle-nassau/baarle-nassau-ccbaarle-org'>連絡先を見る</a>"
       }
     },
     {
@@ -10266,21 +10251,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.034740899999974,
-          5.503441899999999
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Imo@CIPDI/ Roseline Nwanoro Learning Center<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ng/obosima/imo-cipdi-roseline-nwanoro-learning-center'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           9.7616402,
           45.7439767
         ]
@@ -11743,7 +11713,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-sumiyoshi.connpass.com' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='住吉' loading='lazy' width='100px' /></a><br><b>住吉</b><br>大阪市住吉区で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojo-sumiyoshi.connpass.com/event/331799/' target='_blank' rel='noopener'>9月24日</a><br><a href='https://coderdojo-sumiyoshi.connpass.com' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-sumiyoshi.connpass.com' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='住吉' loading='lazy' width='100px' /></a><br><b>住吉</b><br>大阪市住吉区で毎<br>月開催<br><a href='https://coderdojo-sumiyoshi.connpass.com' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -15171,21 +15141,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.180013700000018,
-          42.087201
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Bracciano<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/bracciano-metropolitan-city-of-rome/bracciano'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           140.15513299999998,
           35.633333
         ]
@@ -16468,7 +16423,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-naha.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/naha.webp' alt='那覇' loading='lazy' width='100px' /></a><br><b>那覇</b><br>那覇市で毎月開催<br><a href='https://coderdojo-naha.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-naha.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/naha.webp' alt='那覇' loading='lazy' width='100px' /></a><br><b>那覇</b><br>那覇市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-naha.doorkeeper.jp/events/177917' target='_blank' rel='noopener'>10月5日</a><br><a href='https://coderdojo-naha.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -18171,21 +18126,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          72.52605199999999,
-          23.0227779
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Satellite, Ahmedabad @ M.A.R.S.<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/in/ahmedabad-gujarat/satellite-ahmedabad-m-a-r-s'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           127.72057900000004,
           26.250116
         ]
@@ -18464,21 +18404,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Parma<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/emilia-romagna/parma-province-of-parma/parma'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.2082887,
-          51.2265156
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Sint-Pieters, Brugge @ Innovatieve basisschool De STEMpel<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/brugge/sint-pieters-brugge-innovatieve-basisschool-de-stempel'>連絡先を見る</a>"
       }
     },
     {
@@ -19131,21 +19056,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          131.4245163125605,
-          31.917574641723494
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://lmlab.net/coderdojo/' target='_blank' rel='noopener'>  <img src='/images/dojos/miyazaki.webp' alt='宮崎' loading='lazy' width='100px' /></a><br><b>宮崎</b><br>西臼杵郡で毎月開催<br><a href='https://lmlab.net/coderdojo/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           74.31867450000004,
           31.5710042
         ]
@@ -19491,21 +19401,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.4000222,
-          50.8689495
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Hythe, Southampton<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/hythe-southampton/hythe-southampton'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           127.8230989,
           26.3491564
         ]
@@ -19581,21 +19476,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.77728676417112,
-          35.67791080349318
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nihonbashi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nihonbashi.webp' alt='日本橋' loading='lazy' width='100px' /></a><br><b>日本橋</b><br>中央区で隔月開催<br>&rarr; 次回: <a href='https://coderdojo-nihonbashi.connpass.com/event/327416/' target='_blank' rel='noopener'>9月28日</a><br><a href='https://coderdojo-nihonbashi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.2841865,
           53.5328545
         ]
@@ -19604,6 +19484,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Prestwich<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.77728676417112,
+          35.67791080349318
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://coderdojo-nihonbashi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nihonbashi.webp' alt='日本橋' loading='lazy' width='100px' /></a><br><b>日本橋</b><br>中央区で隔月開催<br>&rarr; 次回: <a href='https://coderdojo-nihonbashi.connpass.com/event/327416/' target='_blank' rel='noopener'>9月28日</a><br><a href='https://coderdojo-nihonbashi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -20068,7 +19963,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojohanno.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/hanno.webp' alt='飯能' loading='lazy' width='100px' /></a><br><b>飯能</b><br>飯能市で毎月開催<br><a href='https://coderdojohanno.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojohanno.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/hanno.webp' alt='飯能' loading='lazy' width='100px' /></a><br><b>飯能</b><br>飯能市で毎月開催<br>&rarr; 次回: <a href='https://coderdojohanno.doorkeeper.jp/events/177936' target='_blank' rel='noopener'>10月19日</a><br><a href='https://coderdojohanno.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -20084,21 +19979,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>ATMIYA CoderDojo<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.201734,
-          55.9471593
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Edinburgh @ Prewired, CodeBase<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/edinburgh/edinburgh-prewired-codebase'>連絡先を見る</a>"
       }
     },
     {
@@ -20466,6 +20346,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          131.4245163125605,
+          31.917574641723494
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://lmlab.net/coderdojo/' target='_blank' rel='noopener'>  <img src='/images/dojos/miyazaki.webp' alt='宮崎' loading='lazy' width='100px' /></a><br><b>宮崎</b><br>西臼杵郡で毎月開催<br><a href='https://lmlab.net/coderdojo/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.493333101272583,
           52.158264466864935
         ]
@@ -20706,6 +20601,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.483796899999999,
+          6.447510299999999
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Enugu@ Radio Nigeria Enugu <br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           167.2266434,
           -20.8089198
         ]
@@ -20714,6 +20624,111 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>**This is a test club for dev and example purposes** <br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nc/nang/this-is-a-test-club-for-dev-and-example-purposes'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.52605199999999,
+          23.0227779
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Satellite, Ahmedabad @ M.A.R.S.<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/in/ahmedabad-gujarat/satellite-ahmedabad-m-a-r-s'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4000877674375567,
+          50.86894950000002
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Hythe, Southampton CoderDojo<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/hythe-southampton/hythe-southampton'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.201734,
+          55.9471593
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Edinburgh @ Prewired, CodeBase<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/edinburgh/edinburgh-prewired-codebase'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2082887,
+          51.2265156
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Sint-Pieters, Brugge @ Innovatieve basisschool De STEMpel<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/brugge/sint-pieters-brugge-innovatieve-basisschool-de-stempel'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.034740899999974,
+          5.503441899999999
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Imo@CIPDI/ Roseline Nwanoro Learning Center<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ng/obosima/imo-cipdi-roseline-nwanoro-learning-center'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.180013700000018,
+          42.087201
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Bracciano<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/bracciano-metropolitan-city-of-rome/bracciano'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.926635499999975,
+          51.4415948
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Baarle-Nassau @ CCBaarle.org<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/baarle-nassau/baarle-nassau-ccbaarle-org'>連絡先を見る</a>"
       }
     }
   ]
