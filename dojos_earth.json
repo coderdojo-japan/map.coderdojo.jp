@@ -2618,20 +2618,6 @@
     "id": "30788733-a5e8-4c7d-9dea-d34e925e550f"
   },
   {
-    "name": "Baarle-Nassau @ CCBaarle.org",
-    "latitude": 51.4415948,
-    "longitude": 4.926635499999975,
-    "countryCode": "NL",
-    "stage": "OPEN",
-    "urlSlug": "nl/baarle-nassau/baarle-nassau-ccbaarle-org",
-    "startTime": "13:00",
-    "endTime": "17:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "875ec77b-b675-4ead-a2bd-41ceea9ce45a"
-  },
-  {
     "name": "Giarre",
     "latitude": 37.757646,
     "longitude": 15.1740564,
@@ -10668,20 +10654,6 @@
     "id": "037322af-b96a-4bcf-a7b2-a617cd964b99"
   },
   {
-    "name": "Imo@CIPDI/ Roseline Nwanoro Learning Center",
-    "latitude": 5.503441899999999,
-    "longitude": 7.034740899999974,
-    "countryCode": "NG",
-    "stage": "OPEN",
-    "urlSlug": "ng/obosima/imo-cipdi-roseline-nwanoro-learning-center",
-    "startTime": "14:30",
-    "endTime": "17:30",
-    "openToPublic": true,
-    "frequency": "other",
-    "day": 1,
-    "id": "396937d4-2849-4f2d-8b2a-c711ba915e34"
-  },
-  {
     "name": "Coding sul Serio",
     "latitude": 45.7439767,
     "longitude": 9.7616402,
@@ -15974,20 +15946,6 @@
     "id": "ac3f82c7-1505-49e1-b92b-e0cf86a3ecfb"
   },
   {
-    "name": "Bracciano",
-    "latitude": 42.087201,
-    "longitude": 12.180013700000018,
-    "countryCode": "IT",
-    "stage": "OPEN",
-    "urlSlug": "it/bracciano-metropolitan-city-of-rome/bracciano",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "d8d23b76-f335-429d-80d5-cf351f27c0cb"
-  },
-  {
     "name": "Wakaba Wakamatsu",
     "latitude": 35.633333,
     "longitude": 140.15513299999998,
@@ -19166,20 +19124,6 @@
     "id": "8cfb014c-c26f-4381-a38e-fd538990a461"
   },
   {
-    "name": "Satellite, Ahmedabad @ M.A.R.S.",
-    "latitude": 23.0227779,
-    "longitude": 72.52605199999999,
-    "countryCode": "IN",
-    "stage": "OPEN",
-    "urlSlug": "in/ahmedabad-gujarat/satellite-ahmedabad-m-a-r-s",
-    "startTime": "19:30",
-    "endTime": "20:30",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 4,
-    "id": "901e9321-d2e4-4f10-bc02-202e94fcffb0"
-  },
-  {
     "name": "Ginowan, Okinawa",
     "latitude": 26.250116,
     "longitude": 127.72057900000004,
@@ -19472,20 +19416,6 @@
     "frequency": "other",
     "day": null,
     "id": "969f64f2-5c9a-4a48-81a9-cee8566bfa52"
-  },
-  {
-    "name": "Sint-Pieters, Brugge @ Innovatieve basisschool De STEMpel",
-    "latitude": 51.2265156,
-    "longitude": 3.2082887,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/brugge/sint-pieters-brugge-innovatieve-basisschool-de-stempel",
-    "startTime": "09:30",
-    "endTime": "12:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "9752259e-906d-4734-921c-ed7661219041"
   },
   {
     "name": "Sutton, London @ Life Centre",
@@ -20132,20 +20062,6 @@
     "id": "b6e53470-fb3f-4679-872f-301dc5fea3bc"
   },
   {
-    "name": "Miyazaki",
-    "latitude": 31.917574641723494,
-    "longitude": 131.4245163125605,
-    "countryCode": "JP",
-    "stage": "OPEN",
-    "urlSlug": "jp/miyazaki-miyazaki-prefecture/miyazaki",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "b7038c6b-1ded-4772-ad66-9dd3ff914390"
-  },
-  {
     "name": "Lahore @ Just Imagine Labs",
     "latitude": 31.5710042,
     "longitude": 74.31867450000004,
@@ -20524,20 +20440,6 @@
     "id": "cf17be63-4d84-4c28-8ca6-0fd66117a566"
   },
   {
-    "name": "Hythe, Southampton",
-    "latitude": 50.8689495,
-    "longitude": -1.4000222,
-    "countryCode": "GB",
-    "stage": "OPEN",
-    "urlSlug": "gb/hythe-southampton/hythe-southampton",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "cdcd8486-d3c1-4363-82fe-293d460d19c3"
-  },
-  {
     "name": "沖縄@ぴあ",
     "latitude": 26.3491564,
     "longitude": 127.8230989,
@@ -20608,20 +20510,6 @@
     "id": "bfa73680-76f9-43c4-add8-02f7c8850816"
   },
   {
-    "name": "日本橋",
-    "latitude": 35.67791080349318,
-    "longitude": 139.77728676417112,
-    "countryCode": "JP",
-    "stage": "OPEN",
-    "urlSlug": null,
-    "startTime": "09:15",
-    "endTime": "12:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 0,
-    "id": "deb9b382-737b-492e-83c1-9c1ac77098ac"
-  },
-  {
     "name": "Prestwich",
     "latitude": 53.5328545,
     "longitude": -2.2841865,
@@ -20634,6 +20522,20 @@
     "frequency": "1/m",
     "day": 0,
     "id": "3f9921ea-0e02-4a9d-8eeb-bcbfcfcfad84"
+  },
+  {
+    "name": "日本橋",
+    "latitude": 35.67791080349318,
+    "longitude": 139.77728676417112,
+    "countryCode": "JP",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "startTime": "09:15",
+    "endTime": "12:00",
+    "openToPublic": true,
+    "frequency": "other",
+    "day": 0,
+    "id": "deb9b382-737b-492e-83c1-9c1ac77098ac"
   },
   {
     "name": "Code Club Redhill @ Merstham Library",
@@ -21154,20 +21056,6 @@
     "id": "2b122263-46e2-4ff4-add9-7b679792800d"
   },
   {
-    "name": "Edinburgh @ Prewired, CodeBase",
-    "latitude": 55.9471593,
-    "longitude": -3.201734,
-    "countryCode": "GB",
-    "stage": "REGISTER",
-    "urlSlug": "gb/edinburgh/edinburgh-prewired-codebase",
-    "startTime": "17:30",
-    "endTime": "19:30",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 3,
-    "id": "49e8d3d4-e54e-417b-9bca-de5354d027f4"
-  },
-  {
     "name": "Digital Friendly York @ Our Lady's Catholic Church Hall ",
     "latitude": 53.9486996,
     "longitude": -1.1316736,
@@ -21588,6 +21476,20 @@
     "id": "c74a2d46-8c66-4c54-9f55-4270d6e52c06"
   },
   {
+    "name": "Miyazaki",
+    "latitude": 31.917574641723494,
+    "longitude": 131.4245163125605,
+    "countryCode": "JP",
+    "stage": "OPEN",
+    "urlSlug": "jp/miyazaki-miyazaki-prefecture/miyazaki",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "openToPublic": true,
+    "frequency": "other",
+    "day": 0,
+    "id": "b7038c6b-1ded-4772-ad66-9dd3ff914390"
+  },
+  {
     "name": "Leiden @ BplusC",
     "latitude": 52.158264466864935,
     "longitude": 4.493333101272583,
@@ -21840,6 +21742,20 @@
     "id": "e1b14809-e77c-4a1a-bc22-150ccfa47021"
   },
   {
+    "name": "Enugu@ Radio Nigeria Enugu ",
+    "latitude": 6.447510299999999,
+    "longitude": 7.483796899999999,
+    "countryCode": "NG",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "f65b3e8f-a8db-441a-b5b8-78f8fed27b30"
+  },
+  {
     "name": "**This is a test club for dev and example purposes** ",
     "latitude": -20.8089198,
     "longitude": 167.2266434,
@@ -21852,5 +21768,103 @@
     "frequency": "2/m",
     "day": 5,
     "id": "022fbf70-c6a8-4b99-8834-b873db32b75a"
+  },
+  {
+    "name": "Satellite, Ahmedabad @ M.A.R.S.",
+    "latitude": 23.0227779,
+    "longitude": 72.52605199999999,
+    "countryCode": "IN",
+    "stage": "OPEN",
+    "urlSlug": "in/ahmedabad-gujarat/satellite-ahmedabad-m-a-r-s",
+    "startTime": "19:30",
+    "endTime": "20:30",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 5,
+    "id": "901e9321-d2e4-4f10-bc02-202e94fcffb0"
+  },
+  {
+    "name": "Hythe, Southampton CoderDojo",
+    "latitude": 50.86894950000002,
+    "longitude": -1.4000877674375567,
+    "countryCode": "GB",
+    "stage": "OPEN",
+    "urlSlug": "gb/hythe-southampton/hythe-southampton",
+    "startTime": "14:30",
+    "endTime": "16:30",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 0,
+    "id": "cdcd8486-d3c1-4363-82fe-293d460d19c3"
+  },
+  {
+    "name": "Edinburgh @ Prewired, CodeBase",
+    "latitude": 55.9471593,
+    "longitude": -3.201734,
+    "countryCode": "GB",
+    "stage": "REGISTER",
+    "urlSlug": "gb/edinburgh/edinburgh-prewired-codebase",
+    "startTime": "17:30",
+    "endTime": "19:30",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 3,
+    "id": "49e8d3d4-e54e-417b-9bca-de5354d027f4"
+  },
+  {
+    "name": "Sint-Pieters, Brugge @ Innovatieve basisschool De STEMpel",
+    "latitude": 51.2265156,
+    "longitude": 3.2082887,
+    "countryCode": "BE",
+    "stage": "OPEN",
+    "urlSlug": "be/brugge/sint-pieters-brugge-innovatieve-basisschool-de-stempel",
+    "startTime": "09:30",
+    "endTime": "12:15",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 6,
+    "id": "9752259e-906d-4734-921c-ed7661219041"
+  },
+  {
+    "name": "Imo@CIPDI/ Roseline Nwanoro Learning Center",
+    "latitude": 5.503441899999999,
+    "longitude": 7.034740899999974,
+    "countryCode": "NG",
+    "stage": "OPEN",
+    "urlSlug": "ng/obosima/imo-cipdi-roseline-nwanoro-learning-center",
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "396937d4-2849-4f2d-8b2a-c711ba915e34"
+  },
+  {
+    "name": "Bracciano",
+    "latitude": 42.087201,
+    "longitude": 12.180013700000018,
+    "countryCode": "IT",
+    "stage": "OPEN",
+    "urlSlug": "it/bracciano-metropolitan-city-of-rome/bracciano",
+    "startTime": "10:00",
+    "endTime": "12:30",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 6,
+    "id": "d8d23b76-f335-429d-80d5-cf351f27c0cb"
+  },
+  {
+    "name": "Baarle-Nassau @ CCBaarle.org",
+    "latitude": 51.4415948,
+    "longitude": 4.926635499999975,
+    "countryCode": "NL",
+    "stage": "OPEN",
+    "urlSlug": "nl/baarle-nassau/baarle-nassau-ccbaarle-org",
+    "startTime": "13:00",
+    "endTime": "17:00",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 6,
+    "id": "875ec77b-b675-4ead-a2bd-41ceea9ce45a"
   }
 ]
