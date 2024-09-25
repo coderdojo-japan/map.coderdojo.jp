@@ -2366,20 +2366,6 @@
     "id": "6eb0846d-2e5a-4d81-82a4-dc7dbc178ef8"
   },
   {
-    "name": "Latsia, Nicosia, @ Open School",
-    "latitude": 35.1855659,
-    "longitude": 33.38227639999999,
-    "countryCode": "CY",
-    "stage": "OPEN",
-    "urlSlug": "cy/nicosia/latsia-nicosia-open-school",
-    "startTime": "16:30",
-    "endTime": "17:10",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "c7c8b359-58fa-4324-9a9f-15170865481f"
-  },
-  {
     "name": "Milpitas, California @ Milpitas Public Library",
     "latitude": 37.4535697,
     "longitude": -121.90089990000001,
@@ -13706,20 +13692,6 @@
     "id": "ca8be66b-ee96-4162-937a-6d506f8bb08f"
   },
   {
-    "name": "Motoyama, Mitoyo, Kagawa",
-    "latitude": 34.1400004,
-    "longitude": 133.70045340000001,
-    "countryCode": "JP",
-    "stage": "OPEN",
-    "urlSlug": "jp/mitoyo-kagawa/motoyama-mitoyo-kagawa",
-    "startTime": "14:00",
-    "endTime": "16:30",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "fa5c2498-e40d-4b9d-94fd-0c8c0ed53fdf"
-  },
-  {
     "name": "Dunoon@Boost Africa Foundation",
     "latitude": -33.8155067,
     "longitude": 18.5351702,
@@ -17598,20 +17570,6 @@
     "id": "4d6fb9e4-831c-48f0-9ba3-4d8fcd64ca36"
   },
   {
-    "name": "Shindaita",
-    "latitude": 35.6628211,
-    "longitude": 139.6606342,
-    "countryCode": "JP",
-    "stage": "OPEN",
-    "urlSlug": "jp/setagaya-tokyo/shindaita",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": 6,
-    "id": "4d7fe211-4b93-4e9a-98a6-9e4ac9ccf944"
-  },
-  {
     "name": "Utsunomiya",
     "latitude": 36.560293,
     "longitude": 139.910517,
@@ -17652,6 +17610,20 @@
     "frequency": "1/w",
     "day": 6,
     "id": "5b519fab-2dbf-45d0-8ee4-380df47a85ec"
+  },
+  {
+    "name": "Shindaita",
+    "latitude": 35.6628211,
+    "longitude": 139.6606342,
+    "countryCode": "JP",
+    "stage": "OPEN",
+    "urlSlug": "jp/setagaya-tokyo/shindaita",
+    "startTime": "13:00",
+    "endTime": "14:40",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 6,
+    "id": "4d7fe211-4b93-4e9a-98a6-9e4ac9ccf944"
   },
   {
     "name": "新宿(Shinjuku) @ Okubo Regional Center",
@@ -21301,7 +21273,7 @@
     "stage": "REGISTER",
     "urlSlug": "ie/cork/mtu-bishopstown-cork",
     "startTime": "16:00",
-    "endTime": "17:30",
+    "endTime": "17:50",
     "openToPublic": true,
     "frequency": "1/w",
     "day": 5,
@@ -21728,20 +21700,6 @@
     "id": "cfc9e9cb-820d-435a-a95c-baa38a886bdf"
   },
   {
-    "name": "Perth @ Edith Cowan University",
-    "latitude": -31.9193259,
-    "longitude": 115.8691526,
-    "countryCode": "AU",
-    "stage": "OPEN",
-    "urlSlug": null,
-    "startTime": "11:00",
-    "endTime": "13:00",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 0,
-    "id": "e1b14809-e77c-4a1a-bc22-150ccfa47021"
-  },
-  {
     "name": "Enugu@ Radio Nigeria Enugu ",
     "latitude": 6.447510299999999,
     "longitude": 7.483796899999999,
@@ -21866,5 +21824,47 @@
     "frequency": "1/m",
     "day": 6,
     "id": "875ec77b-b675-4ead-a2bd-41ceea9ce45a"
+  },
+  {
+    "name": "Latsia, Nicosia, @ Open School",
+    "latitude": 35.1855659,
+    "longitude": 33.38227639999999,
+    "countryCode": "CY",
+    "stage": "OPEN",
+    "urlSlug": "cy/nicosia/latsia-nicosia-open-school",
+    "startTime": "16:30",
+    "endTime": "17:10",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "c7c8b359-58fa-4324-9a9f-15170865481f"
+  },
+  {
+    "name": "Motoyama, Mitoyo, Kagawa",
+    "latitude": 34.1400004,
+    "longitude": 133.70045340000001,
+    "countryCode": "JP",
+    "stage": "OPEN",
+    "urlSlug": "jp/mitoyo-kagawa/motoyama-mitoyo-kagawa",
+    "startTime": "14:00",
+    "endTime": "16:30",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 6,
+    "id": "fa5c2498-e40d-4b9d-94fd-0c8c0ed53fdf"
+  },
+  {
+    "name": "Perth @ Edith Cowan University",
+    "latitude": -31.9193259,
+    "longitude": 115.8691526,
+    "countryCode": "AU",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 0,
+    "id": "e1b14809-e77c-4a1a-bc22-150ccfa47021"
   }
 ]
