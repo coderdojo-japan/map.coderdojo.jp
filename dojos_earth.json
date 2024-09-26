@@ -18536,20 +18536,6 @@
     "id": "7333e389-0b73-49c1-8ed1-e8df056b7356"
   },
   {
-    "name": "Galway City",
-    "latitude": 53.28020867134314,
-    "longitude": -9.058483452192718,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/galway/mornings-insight-building-dangan-afternoon-it-building-nui-galway/galway-city",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": 0,
-    "id": "749ea1cf-026d-482d-80e7-7ccf63983f8a"
-  },
-  {
     "name": "Bangkok @ Ananda Campus",
     "latitude": 13.721349394874402,
     "longitude": 100.55976033210754,
@@ -19248,20 +19234,6 @@
     "frequency": "other",
     "day": 0,
     "id": "91e15c61-549a-486c-9827-178a324c689f"
-  },
-  {
-    "name": "Skibbereen CoderDojo Club",
-    "latitude": 51.5483785,
-    "longitude": -9.2679169,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/skibbereen/skibbereen-coderdojo-club-1",
-    "startTime": "18:30",
-    "endTime": "21:00",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 3,
-    "id": "99b63818-adfc-4da3-90fe-8583cad662c5"
   },
   {
     "name": "Longford Town",
@@ -21714,20 +21686,6 @@
     "id": "f65b3e8f-a8db-441a-b5b8-78f8fed27b30"
   },
   {
-    "name": "**This is a test club for dev and example purposes** ",
-    "latitude": -20.8089198,
-    "longitude": 167.2266434,
-    "countryCode": "NC",
-    "stage": "REGISTER",
-    "urlSlug": "nc/nang/this-is-a-test-club-for-dev-and-example-purposes",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "openToPublic": false,
-    "frequency": "2/m",
-    "day": 5,
-    "id": "022fbf70-c6a8-4b99-8834-b873db32b75a"
-  },
-  {
     "name": "Satellite, Ahmedabad @ M.A.R.S.",
     "latitude": 23.0227779,
     "longitude": 72.52605199999999,
@@ -21866,5 +21824,47 @@
     "frequency": "1/w",
     "day": 0,
     "id": "e1b14809-e77c-4a1a-bc22-150ccfa47021"
+  },
+  {
+    "name": "Galway City",
+    "latitude": 53.28020867134314,
+    "longitude": -9.058483452192718,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/galway/mornings-insight-building-dangan-afternoon-it-building-nui-galway/galway-city",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "749ea1cf-026d-482d-80e7-7ccf63983f8a"
+  },
+  {
+    "name": "**This is a test club for dev and example purposes** ",
+    "latitude": -20.8089198,
+    "longitude": 167.2266434,
+    "countryCode": "NC",
+    "stage": "REGISTER",
+    "urlSlug": "nc/nang/this-is-a-test-club-for-dev-and-example-purposes",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "openToPublic": false,
+    "frequency": "2/m",
+    "day": 5,
+    "id": "022fbf70-c6a8-4b99-8834-b873db32b75a"
+  },
+  {
+    "name": "Skibbereen CoderDojo Club",
+    "latitude": 51.55406057541851,
+    "longitude": -9.263224525847695,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/skibbereen/skibbereen-coderdojo-club-1",
+    "startTime": "18:30",
+    "endTime": "21:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 3,
+    "id": "99b63818-adfc-4da3-90fe-8583cad662c5"
   }
 ]

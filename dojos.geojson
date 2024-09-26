@@ -1723,7 +1723,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>  <img src='/images/dojos/toyohashi.webp' alt='豊橋' loading='lazy' width='100px' /></a><br><b>豊橋</b><br>豊橋市で不定期開催<br>&rarr; 次回: <a href='https://coderdojo-toyohashi.doorkeeper.jp/events/177005' target='_blank' rel='noopener'>9月3日</a><br><a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>  <img src='/images/dojos/toyohashi.webp' alt='豊橋' loading='lazy' width='100px' /></a><br><b>豊橋</b><br>豊橋市で不定期開催<br><a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -17586,21 +17586,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.058483452192718,
-          53.28020867134314
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Galway City<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/galway/mornings-insight-building-dangan-afternoon-it-building-nui-galway/galway-city'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           100.55976033210754,
           13.721349394874402
         ]
@@ -18239,21 +18224,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<a href='https://coderdojo.hanare-hibari.info/' target='_blank' rel='noopener'>  <img src='/images/dojos/hibarigaoka.webp' alt='ひばりヶ丘' loading='lazy' width='100px' /></a><br><b>ひばりヶ丘</b><br>新座市で月2回開催<br><a href='https://coderdojo.hanare-hibari.info/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.2679169,
-          51.5483785
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Skibbereen CoderDojo Club<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/skibbereen/skibbereen-coderdojo-club-1'>連絡先を見る</a>"
       }
     },
     {
@@ -20586,21 +20556,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          167.2266434,
-          -20.8089198
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>**This is a test club for dev and example purposes** <br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nc/nang/this-is-a-test-club-for-dev-and-example-purposes'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           72.52605199999999,
           23.0227779
         ]
@@ -20729,6 +20684,51 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Perth @ Edith Cowan University<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.058483452192718,
+          53.28020867134314
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Galway City<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/galway/mornings-insight-building-dangan-afternoon-it-building-nui-galway/galway-city'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.2266434,
+          -20.8089198
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>**This is a test club for dev and example purposes** <br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nc/nang/this-is-a-test-club-for-dev-and-example-purposes'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.263224525847695,
+          51.55406057541851
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Skibbereen CoderDojo Club<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/skibbereen/skibbereen-coderdojo-club-1'>連絡先を見る</a>"
       }
     }
   ]
