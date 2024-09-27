@@ -7791,21 +7791,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.0851765,
-          45.8080597
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Como, Italy<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/como-province-of-como/como-italy'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.8764346,
           45.4147635
         ]
@@ -19086,21 +19071,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.7122229,
-          53.2356871
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>North Offaly<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/county-offaly/north-offaly'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.2740702,
           35.7875652
         ]
@@ -20406,14 +20376,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.0260341,
-          -27.4704528
+          -6.247529983520508,
+          53.349321688468414
         ]
       },
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Brisbane @ Council Libraries<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/au/brisbane-qld/brisbane-council-libraries'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dublin Docklands @ CHQ<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin/dublin/dublin-docklands-chq'>連絡先を見る</a>"
       }
     },
     {
@@ -20429,21 +20399,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Arequipa @ Universidad Nacional de San Agustín de Arequipa <br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.247529983520508,
-          53.349321688468414
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dublin Docklands @ CHQ<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin/dublin/dublin-docklands-chq'>連絡先を見る</a>"
       }
     },
     {
@@ -20706,6 +20661,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.0851765,
+          45.8080597
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Como, Italy<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/como-province-of-como/como-italy'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7122229,
+          53.2356871
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Offaly Code Club <br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/county-offaly/north-offaly'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           167.2266434,
           -20.8089198
         ]
@@ -20729,6 +20714,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Skibbereen CoderDojo Club<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/skibbereen/skibbereen-coderdojo-club-1'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0260341,
+          -27.4704528
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Brisbane @ Council Libraries<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/au/brisbane-qld/brisbane-council-libraries'>連絡先を見る</a>"
       }
     }
   ]

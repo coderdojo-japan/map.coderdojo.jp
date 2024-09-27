@@ -8148,20 +8148,6 @@
     "id": "d6a7d7e6-6043-4efd-bba4-db5abf0d6372"
   },
   {
-    "name": "Como, Italy",
-    "latitude": 45.8080597,
-    "longitude": 9.0851765,
-    "countryCode": "IT",
-    "stage": "OPEN",
-    "urlSlug": "it/como-province-of-como/como-italy",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "92197346-4304-401c-a609-cad89b4b4767"
-  },
-  {
     "name": "Padova",
     "latitude": 45.4147635,
     "longitude": 11.8764346,
@@ -20076,20 +20062,6 @@
     "id": "bb1b0703-3b1d-487c-9a7b-8dd4170681e2"
   },
   {
-    "name": "North Offaly",
-    "latitude": 53.2356871,
-    "longitude": -7.7122229,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/county-offaly/north-offaly",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "openToPublic": true,
-    "frequency": "other",
-    "day": 4,
-    "id": "be5a2d62-2f38-49a3-9a8e-3ae552c7f679"
-  },
-  {
     "name": "Yokohama",
     "latitude": 35.4684185,
     "longitude": 139.62074000000007,
@@ -21330,7 +21302,7 @@
     "urlSlug": null,
     "startTime": "10:00",
     "endTime": "11:30",
-    "openToPublic": false,
+    "openToPublic": true,
     "frequency": "2/m",
     "day": 6,
     "id": "84f71084-cbb9-4712-b0fc-1e15cd47f90f"
@@ -21546,18 +21518,18 @@
     "id": "f1c974d7-24c1-487b-b2b4-923c9468e6aa"
   },
   {
-    "name": "Brisbane @ Council Libraries",
-    "latitude": -27.4704528,
-    "longitude": 153.0260341,
-    "countryCode": "AU",
+    "name": "Dublin Docklands @ CHQ",
+    "latitude": 53.349321688468414,
+    "longitude": -6.247529983520508,
+    "countryCode": "IE",
     "stage": "REGISTER",
-    "urlSlug": "au/brisbane-qld/brisbane-council-libraries",
-    "startTime": "10:00",
-    "endTime": "15:00",
+    "urlSlug": "ie/dublin/dublin/dublin-docklands-chq",
+    "startTime": "16:30",
+    "endTime": "18:00",
     "openToPublic": true,
-    "frequency": "other",
-    "day": 6,
-    "id": "fa99d95b-651d-4fee-a7f2-ac2ed748ad82"
+    "frequency": "1/m",
+    "day": 5,
+    "id": "358784b6-79e2-4e43-80a4-792da79f5418"
   },
   {
     "name": "Arequipa @ Universidad Nacional de San Agustín de Arequipa ",
@@ -21572,20 +21544,6 @@
     "frequency": "1/w",
     "day": 6,
     "id": "922c1833-f8c2-4a2b-aa83-a12912af3599"
-  },
-  {
-    "name": "Dublin Docklands @ CHQ",
-    "latitude": 53.349321688468414,
-    "longitude": -6.247529983520508,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/dublin/dublin/dublin-docklands-chq",
-    "startTime": "16:30",
-    "endTime": "18:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 5,
-    "id": "358784b6-79e2-4e43-80a4-792da79f5418"
   },
   {
     "name": "Lund",
@@ -21840,6 +21798,34 @@
     "id": "749ea1cf-026d-482d-80e7-7ccf63983f8a"
   },
   {
+    "name": "Como, Italy",
+    "latitude": 45.8080597,
+    "longitude": 9.0851765,
+    "countryCode": "IT",
+    "stage": "OPEN",
+    "urlSlug": "it/como-province-of-como/como-italy",
+    "startTime": "15:00",
+    "endTime": "18:00",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 6,
+    "id": "92197346-4304-401c-a609-cad89b4b4767"
+  },
+  {
+    "name": "Offaly Code Club ",
+    "latitude": 53.2356871,
+    "longitude": -7.7122229,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/county-offaly/north-offaly",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 4,
+    "id": "be5a2d62-2f38-49a3-9a8e-3ae552c7f679"
+  },
+  {
     "name": "**This is a test club for dev and example purposes** ",
     "latitude": -20.8089198,
     "longitude": 167.2266434,
@@ -21866,5 +21852,19 @@
     "frequency": "1/w",
     "day": 3,
     "id": "99b63818-adfc-4da3-90fe-8583cad662c5"
+  },
+  {
+    "name": "Brisbane @ Council Libraries",
+    "latitude": -27.4704528,
+    "longitude": 153.0260341,
+    "countryCode": "AU",
+    "stage": "REGISTER",
+    "urlSlug": "au/brisbane-qld/brisbane-council-libraries",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "openToPublic": true,
+    "frequency": "other",
+    "day": 6,
+    "id": "fa99d95b-651d-4fee-a7f2-ac2ed748ad82"
   }
 ]
