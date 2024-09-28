@@ -18984,20 +18984,6 @@
     "id": "8a335fec-0b4c-44f1-9de7-e5db16f5548b"
   },
   {
-    "name": "Toowoomba",
-    "latitude": -27.5641745,
-    "longitude": 151.9510261,
-    "countryCode": "AU",
-    "stage": "PENDING",
-    "urlSlug": "au/toowoomba-qld/toowoomba",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "8e6051ed-027f-4516-848a-9ac6350f2d36"
-  },
-  {
     "name": "Berghem at Oss",
     "latitude": 51.7714909,
     "longitude": 5.567862900000023,
@@ -21852,6 +21838,20 @@
     "frequency": "1/w",
     "day": 3,
     "id": "99b63818-adfc-4da3-90fe-8583cad662c5"
+  },
+  {
+    "name": "Toowoomba",
+    "latitude": -27.5641745,
+    "longitude": 151.9510261,
+    "countryCode": "AU",
+    "stage": "PENDING",
+    "urlSlug": "au/toowoomba-qld/toowoomba",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "openToPublic": true,
+    "frequency": "other",
+    "day": 0,
+    "id": "8e6051ed-027f-4516-848a-9ac6350f2d36"
   },
   {
     "name": "Brisbane @ Council Libraries",
