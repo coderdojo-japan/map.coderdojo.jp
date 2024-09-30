@@ -20412,20 +20412,6 @@
     "id": "bfa73680-76f9-43c4-add8-02f7c8850816"
   },
   {
-    "name": "Prestwich",
-    "latitude": 53.5328545,
-    "longitude": -2.2841865,
-    "countryCode": "GB",
-    "stage": "OPEN",
-    "urlSlug": null,
-    "startTime": "10:00",
-    "endTime": "12:30",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 0,
-    "id": "3f9921ea-0e02-4a9d-8eeb-bcbfcfcfad84"
-  },
-  {
     "name": "日本橋",
     "latitude": 35.67791080349318,
     "longitude": 139.77728676417112,
@@ -20438,6 +20424,20 @@
     "frequency": "other",
     "day": 0,
     "id": "deb9b382-737b-492e-83c1-9c1ac77098ac"
+  },
+  {
+    "name": "Prestwich",
+    "latitude": 53.5328545,
+    "longitude": -2.2841865,
+    "countryCode": "GB",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "startTime": "10:00",
+    "endTime": "12:30",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 0,
+    "id": "3f9921ea-0e02-4a9d-8eeb-bcbfcfcfad84"
   },
   {
     "name": "Code Club Redhill @ Merstham Library",
@@ -21826,20 +21826,6 @@
     "id": "022fbf70-c6a8-4b99-8834-b873db32b75a"
   },
   {
-    "name": "Skibbereen CoderDojo Club",
-    "latitude": 51.55406057541851,
-    "longitude": -9.263224525847695,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/skibbereen/skibbereen-coderdojo-club-1",
-    "startTime": "18:30",
-    "endTime": "21:00",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 3,
-    "id": "99b63818-adfc-4da3-90fe-8583cad662c5"
-  },
-  {
     "name": "Toowoomba",
     "latitude": -27.5641745,
     "longitude": 151.9510261,
@@ -21852,6 +21838,20 @@
     "frequency": "other",
     "day": 0,
     "id": "8e6051ed-027f-4516-848a-9ac6350f2d36"
+  },
+  {
+    "name": "Skibbereen CoderDojo Club",
+    "latitude": 51.55406057541851,
+    "longitude": -9.263224525847695,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/skibbereen/skibbereen-coderdojo-club-1",
+    "startTime": "18:30",
+    "endTime": "21:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 3,
+    "id": "99b63818-adfc-4da3-90fe-8583cad662c5"
   },
   {
     "name": "Brisbane @ Council Libraries",
