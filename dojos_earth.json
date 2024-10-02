@@ -21434,7 +21434,7 @@
     "id": "d07e05c6-67a4-448c-9a9c-95f7c12969ec"
   },
   {
-    "name": "CoderDojo OIST",
+    "name": "CoderDojo at OIST",
     "latitude": 26.461893320101343,
     "longitude": 127.83078566419292,
     "countryCode": "JP",
@@ -21770,20 +21770,6 @@
     "id": "e1b14809-e77c-4a1a-bc22-150ccfa47021"
   },
   {
-    "name": "Galway City",
-    "latitude": 53.28020867134314,
-    "longitude": -9.058483452192718,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/galway/mornings-insight-building-dangan-afternoon-it-building-nui-galway/galway-city",
-    "startTime": "10:00",
-    "endTime": "11:00",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "749ea1cf-026d-482d-80e7-7ccf63983f8a"
-  },
-  {
     "name": "Como, Italy",
     "latitude": 45.8080597,
     "longitude": 9.0851765,
@@ -21866,5 +21852,19 @@
     "frequency": "other",
     "day": 6,
     "id": "fa99d95b-651d-4fee-a7f2-ac2ed748ad82"
+  },
+  {
+    "name": "Galway City",
+    "latitude": 53.28020867134314,
+    "longitude": -9.058483452192718,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/galway/mornings-insight-building-dangan-afternoon-it-building-nui-galway/galway-city",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "749ea1cf-026d-482d-80e7-7ccf63983f8a"
   }
 ]
