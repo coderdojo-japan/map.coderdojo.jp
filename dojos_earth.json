@@ -9968,20 +9968,6 @@
     "id": "047dc544-c827-4524-819d-36deeeead753"
   },
   {
-    "name": "Dojo Berlin Friedrichshain",
-    "latitude": 52.503947,
-    "longitude": 13.452449399999978,
-    "countryCode": "DE",
-    "stage": "REGISTER",
-    "urlSlug": "de/berlin/dojo-berlin-friedrichshain",
-    "startTime": "14:00",
-    "endTime": "17:00",
-    "openToPublic": true,
-    "frequency": "2/m",
-    "day": 6,
-    "id": "1dbec234-b83c-4713-8eb0-e7e7cebc8f56"
-  },
-  {
     "name": "Rio Preto SP @ Lar de Fátima - Maceno",
     "latitude": -20.802367086539736,
     "longitude": -49.36943978415172,
@@ -21616,7 +21602,7 @@
     "id": "cfc9e9cb-820d-435a-a95c-baa38a886bdf"
   },
   {
-    "name": "Enugu@ Radio Nigeria Enugu ",
+    "name": "CIPDI code club.",
     "latitude": 6.447510299999999,
     "longitude": 7.483796899999999,
     "countryCode": "NG",
@@ -21784,20 +21770,6 @@
     "id": "92197346-4304-401c-a609-cad89b4b4767"
   },
   {
-    "name": "Offaly Code Club ",
-    "latitude": 53.2356871,
-    "longitude": -7.7122229,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/county-offaly/north-offaly",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 4,
-    "id": "be5a2d62-2f38-49a3-9a8e-3ae552c7f679"
-  },
-  {
     "name": "**This is a test club for dev and example purposes** ",
     "latitude": -20.8089198,
     "longitude": 167.2266434,
@@ -21824,6 +21796,20 @@
     "frequency": "other",
     "day": 0,
     "id": "8e6051ed-027f-4516-848a-9ac6350f2d36"
+  },
+  {
+    "name": "Dojo Berlin Lichtenberg",
+    "latitude": 52.503947,
+    "longitude": 13.452449399999978,
+    "countryCode": "DE",
+    "stage": "REGISTER",
+    "urlSlug": "de/berlin/dojo-berlin-friedrichshain",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "openToPublic": true,
+    "frequency": "2/m",
+    "day": 6,
+    "id": "1dbec234-b83c-4713-8eb0-e7e7cebc8f56"
   },
   {
     "name": "Skibbereen CoderDojo Club",
@@ -21866,5 +21852,19 @@
     "frequency": "1/w",
     "day": 6,
     "id": "749ea1cf-026d-482d-80e7-7ccf63983f8a"
+  },
+  {
+    "name": "Offaly Code Club ",
+    "latitude": 53.2356871,
+    "longitude": -7.7122229,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/county-offaly/north-offaly",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 4,
+    "id": "be5a2d62-2f38-49a3-9a8e-3ae552c7f679"
   }
 ]
