@@ -6778,7 +6778,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://toyonaka-minami.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/toyonaka-minami.webp' alt='豊中南' loading='lazy' width='100px' /></a><br><b>豊中南</b><br>豊中市大黒町で毎<br>月開催<br><a href='https://toyonaka-minami.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://toyonaka-minami.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/toyonaka-minami.webp' alt='豊中南' loading='lazy' width='100px' /></a><br><b>豊中南</b><br>豊中市大黒町で毎<br>月開催<br>&rarr; 次回: <a href='https://toyonaka-minami.connpass.com/event/333166/' target='_blank' rel='noopener'>10月14日</a><br><a href='https://toyonaka-minami.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -9591,21 +9591,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.452449399999978,
-          52.503947
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dojo Berlin Friedrichshain<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/de/berlin/dojo-berlin-friedrichshain'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -49.36943978415172,
           -20.802367086539736
         ]
@@ -12208,7 +12193,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/tachikawa.webp' alt='立川' loading='lazy' width='100px' /></a><br><b>立川</b><br>立川市で毎月開催<br><a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/tachikawa.webp' alt='立川' loading='lazy' width='100px' /></a><br><b>立川</b><br>立川市で毎月開催<br>&rarr; 次回: <a href='https://coderdojotachikawa.doorkeeper.jp/events/177888' target='_blank' rel='noopener'>10月27日</a><br><a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -14638,7 +14623,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-matsuyama.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/matsuyama.webp' alt='松山' loading='lazy' width='100px' /></a><br><b>松山</b><br>松山市で月2回開催<br><a href='https://coderdojo-matsuyama.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-matsuyama.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/matsuyama.webp' alt='松山' loading='lazy' width='100px' /></a><br><b>松山</b><br>松山市で月2回開催<br>&rarr; 次回: <a href='https://coderdojo-matsuyama.doorkeeper.jp/events/178325' target='_blank' rel='noopener'>10月13日</a><br><a href='https://coderdojo-matsuyama.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -20503,7 +20488,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Enugu@ Radio Nigeria Enugu <br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>CIPDI code club.<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/'>連絡先を見る</a>"
       }
     },
     {
@@ -20661,21 +20646,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.7122229,
-          53.2356871
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Offaly Code Club <br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/county-offaly/north-offaly'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           167.2266434,
           -20.8089198
         ]
@@ -20684,6 +20654,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>**This is a test club for dev and example purposes** <br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nc/nang/this-is-a-test-club-for-dev-and-example-purposes'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.452449399999978,
+          52.503947
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dojo Berlin Lichtenberg<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/de/berlin/dojo-berlin-friedrichshain'>連絡先を見る</a>"
       }
     },
     {
@@ -20729,6 +20714,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Galway City<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/galway/mornings-insight-building-dangan-afternoon-it-building-nui-galway/galway-city'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7122229,
+          53.2356871
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Offaly Code Club <br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/county-offaly/north-offaly'>連絡先を見る</a>"
       }
     }
   ]
