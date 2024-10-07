@@ -10780,20 +10780,6 @@
     "id": "39edb237-85db-4f72-a7ad-fb9acf13eedd"
   },
   {
-    "name": "KEMPY_Kypseli@Social_Innov",
-    "latitude": 38.0021718,
-    "longitude": 23.7302314,
-    "countryCode": "GR",
-    "stage": "OPEN",
-    "urlSlug": "gr/athens/kempy_kypseli-social_innov",
-    "startTime": "14:45",
-    "endTime": "18:00",
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 4,
-    "id": "3ac24ffa-64d3-4f2a-b2d5-a12a78751e05"
-  },
-  {
     "name": "Abbey People Coder Dojo",
     "latitude": 52.21196339999999,
     "longitude": 0.1654836,
@@ -10862,6 +10848,20 @@
     "frequency": "1/w",
     "day": 3,
     "id": "62a491b3-e749-42c6-8654-cc73ca191500"
+  },
+  {
+    "name": "KEMPY_Kypseli@Social_Innov",
+    "latitude": 38.0021718,
+    "longitude": 23.7302314,
+    "countryCode": "GR",
+    "stage": "OPEN",
+    "urlSlug": "gr/athens/kempy_kypseli-social_innov",
+    "startTime": "14:45",
+    "endTime": "18:00",
+    "openToPublic": false,
+    "frequency": "1/w",
+    "day": 4,
+    "id": "3ac24ffa-64d3-4f2a-b2d5-a12a78751e05"
   },
   {
     "name": "Bantry @ Bantry Bay",
@@ -15286,20 +15286,6 @@
     "frequency": "1/w",
     "day": 5,
     "id": "41ac44cd-0701-47e6-bc21-08582a190e82"
-  },
-  {
-    "name": "Sevenoaks @ The Granville School",
-    "latitude": 51.279028,
-    "longitude": 0.18243899999993118,
-    "countryCode": "GB",
-    "stage": "FULL",
-    "urlSlug": "gb/sevenoaks-district/sevenoaks-the-granville-school",
-    "startTime": "08:00",
-    "endTime": "08:45",
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 4,
-    "id": "061afdf1-7890-4c8c-82e2-fd4700112c54"
   },
   {
     "name": "Austin, Texas @ North Village Library",
@@ -20510,20 +20496,6 @@
     "id": "31f9b905-27c3-4fce-b047-ca958acb62ad"
   },
   {
-    "name": "Hayfields, Pietermaritzburg @ SleepyHollowNinjaZone",
-    "latitude": -29.6302319,
-    "longitude": 30.4125158,
-    "countryCode": "ZA",
-    "stage": "PENDING",
-    "urlSlug": "za/pietermaritzburg/hayfields-pietermaritzburg-sleepyhollowninjazone",
-    "startTime": "14:00",
-    "endTime": "16:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "d36c67f1-cb09-448f-9d2f-ea6509d50d6e"
-  },
-  {
     "name": "Guttenberg @ Clayton Ridge Middle School and High School",
     "latitude": 42.7853658,
     "longitude": -91.0965633,
@@ -21574,6 +21546,20 @@
     "id": "f5dad999-d6c0-4a30-aa91-6a106592e89b"
   },
   {
+    "name": "富士宮",
+    "latitude": 35.2228251,
+    "longitude": 138.618216,
+    "countryCode": "JP",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "startTime": "09:30",
+    "endTime": "11:40",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 0,
+    "id": "c8fd50c6-0145-44d5-8d93-161168b177e2"
+  },
+  {
     "name": "Milano",
     "latitude": 45.4642035,
     "longitude": 9.189981999999986,
@@ -21743,8 +21729,8 @@
   },
   {
     "name": "Como, Italy",
-    "latitude": 45.8080597,
-    "longitude": 9.0851765,
+    "latitude": 45.77611161639106,
+    "longitude": 9.056667624088087,
     "countryCode": "IT",
     "stage": "OPEN",
     "urlSlug": "it/como-province-of-como/como-italy",
@@ -21866,5 +21852,19 @@
     "frequency": "1/m",
     "day": 6,
     "id": "3d17fcb0-30c3-4c91-a6bf-2acf561f1358"
+  },
+  {
+    "name": "Hayfields, Pietermaritzburg @ SleepyHollowNinjaZone",
+    "latitude": -29.6302319,
+    "longitude": 30.4125158,
+    "countryCode": "ZA",
+    "stage": "PENDING",
+    "urlSlug": "za/pietermaritzburg/hayfields-pietermaritzburg-sleepyhollowninjazone",
+    "startTime": "14:00",
+    "endTime": "16:00",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 6,
+    "id": "d36c67f1-cb09-448f-9d2f-ea6509d50d6e"
   }
 ]
