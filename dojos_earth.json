@@ -21000,6 +21000,20 @@
     "id": "af8708a1-fdb3-4bf8-bcf1-a842015c506c"
   },
   {
+    "name": "Flint @ St Richard Gwyn",
+    "latitude": 53.24037930000001,
+    "longitude": -3.1268215,
+    "countryCode": "GB",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "startTime": "12:30",
+    "endTime": "13:00",
+    "openToPublic": false,
+    "frequency": "1/w",
+    "day": 5,
+    "id": "76f0afe8-83b4-4d0c-b4ec-bf7ef04ca492"
+  },
+  {
     "name": "Schöneweide, Berlin",
     "latitude": 52.45405131800873,
     "longitude": 13.513953830458513,
