@@ -21700,20 +21700,6 @@
     "id": "875ec77b-b675-4ead-a2bd-41ceea9ce45a"
   },
   {
-    "name": "Latsia, Nicosia, @ Open School",
-    "latitude": 35.1855659,
-    "longitude": 33.38227639999999,
-    "countryCode": "CY",
-    "stage": "OPEN",
-    "urlSlug": "cy/nicosia/latsia-nicosia-open-school",
-    "startTime": "16:30",
-    "endTime": "17:10",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "c7c8b359-58fa-4324-9a9f-15170865481f"
-  },
-  {
     "name": "Motoyama, Mitoyo, Kagawa",
     "latitude": 34.1400004,
     "longitude": 133.70045340000001,
@@ -21880,5 +21866,19 @@
     "frequency": "1/m",
     "day": 6,
     "id": "d36c67f1-cb09-448f-9d2f-ea6509d50d6e"
+  },
+  {
+    "name": "Latsia, Nicosia, @ Open School",
+    "latitude": 35.1855659,
+    "longitude": 33.38227639999999,
+    "countryCode": "CY",
+    "stage": "OPEN",
+    "urlSlug": "cy/nicosia/latsia-nicosia-open-school",
+    "startTime": "16:30",
+    "endTime": "17:10",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "c7c8b359-58fa-4324-9a9f-15170865481f"
   }
 ]
