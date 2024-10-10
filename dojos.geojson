@@ -2893,7 +2893,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-mn.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/mishima-numazu.webp' alt='三島・沼津' loading='lazy' width='100px' /></a><br><b>三島・沼津</b><br>静岡県立工科短期<br>大学校で隔月開催<br><a href='https://coderdojo-mn.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-mn.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/mishima-numazu.webp' alt='三島・沼津' loading='lazy' width='100px' /></a><br><b>三島・沼津</b><br>静岡県立工科短期<br>大学校で隔月開催<br>&rarr; 次回: <a href='https://coderdojo-mn.connpass.com/event/333337/' target='_blank' rel='noopener'>11月10日</a><br><a href='https://coderdojo-mn.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -7003,7 +7003,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>  <img src='/images/dojos/sennan.webp' alt='せんなん' loading='lazy' width='100px' /></a><br><b>せんなん</b><br>泉南市で毎月開催<br><a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>  <img src='/images/dojos/sennan.webp' alt='せんなん' loading='lazy' width='100px' /></a><br><b>せんなん</b><br>泉南市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-sennan.connpass.com/event/333732/' target='_blank' rel='noopener'>10月20日</a><br><a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -15058,7 +15058,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.coderdojo-nishio.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='西尾' loading='lazy' width='100px' /></a><br><b>西尾</b><br>西尾市で毎月開催<br><a href='https://www.coderdojo-nishio.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.coderdojo-nishio.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='西尾' loading='lazy' width='100px' /></a><br><b>西尾</b><br>西尾市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-nishio.doorkeeper.jp/events/178516' target='_blank' rel='noopener'>10月12日</a><br><a href='https://www.coderdojo-nishio.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -16663,7 +16663,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagoya.webp' alt='名古屋' loading='lazy' width='100px' /></a><br><b>名古屋</b><br>名古屋市中区で月<br>2回開催<br><a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagoya.webp' alt='名古屋' loading='lazy' width='100px' /></a><br><b>名古屋</b><br>名古屋市中区で月<br>2回開催<br>&rarr; 次回: <a href='https://coderdojo-nagoya.connpass.com/event/333801/' target='_blank' rel='noopener'>10月12日</a><br><a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -20586,21 +20586,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.38227639999999,
-          35.1855659
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Latsia, Nicosia, @ Open School<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/cy/nicosia/latsia-nicosia-open-school'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           115.8691526,
           -31.9193259
         ]
@@ -20729,6 +20714,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>CoderDojo Lecce<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/lecce-province-of-lecce/coderdojo-lecce'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.38227639999999,
+          35.1855659
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Latsia, Nicosia, @ Open School<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/cy/nicosia/latsia-nicosia-open-school'>連絡先を見る</a>"
       }
     }
   ]
