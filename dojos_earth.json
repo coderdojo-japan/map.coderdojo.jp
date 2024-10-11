@@ -8386,20 +8386,6 @@
     "id": "c8b6875b-7dcd-41c2-ac77-2783a728b509"
   },
   {
-    "name": "Frankfurt (Oder)",
-    "latitude": 52.3459052,
-    "longitude": 14.5502754,
-    "countryCode": "DE",
-    "stage": "OPEN",
-    "urlSlug": "de/frankfurt-oder/frankfurt-oder",
-    "startTime": "14:00",
-    "endTime": "17:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "5934f607-eb67-42d9-8f9d-0786e1b7e37b"
-  },
-  {
     "name": "Hoeksche Waard",
     "latitude": 51.824745,
     "longitude": 4.412036899999999,
@@ -20799,7 +20785,7 @@
     "startTime": "10:00",
     "endTime": "12:00",
     "openToPublic": true,
-    "frequency": "1/w",
+    "frequency": "2/m",
     "day": 6,
     "id": "da06459a-8b91-459b-8c2c-a81b46c791d7"
   },
@@ -21880,5 +21866,19 @@
     "frequency": "1/w",
     "day": 6,
     "id": "c7c8b359-58fa-4324-9a9f-15170865481f"
+  },
+  {
+    "name": "Frankfurt (Oder)",
+    "latitude": 52.3459052,
+    "longitude": 14.5502754,
+    "countryCode": "DE",
+    "stage": "OPEN",
+    "urlSlug": "de/frankfurt-oder/frankfurt-oder",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 6,
+    "id": "5934f607-eb67-42d9-8f9d-0786e1b7e37b"
   }
 ]
