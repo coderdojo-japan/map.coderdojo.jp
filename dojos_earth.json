@@ -12138,20 +12138,6 @@
     "id": "d39af865-bb31-47b2-8322-36c994c4578c"
   },
   {
-    "name": "Kinvara",
-    "latitude": 53.1392594,
-    "longitude": -8.942205999999942,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/galway/st-josephs-national-school-kinvara-co-galway/kinvara",
-    "startTime": "16:00",
-    "endTime": "18:00",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "6759de0d-96ee-44f5-8f52-9c9a6eb2176e"
-  },
-  {
     "name": "CoderDojo Warszawa",
     "latitude": 52.18096805635187,
     "longitude": 20.992611944675446,
@@ -21880,5 +21866,19 @@
     "frequency": "1/m",
     "day": 6,
     "id": "5934f607-eb67-42d9-8f9d-0786e1b7e37b"
+  },
+  {
+    "name": "Kinvara",
+    "latitude": 53.1392594,
+    "longitude": -8.942205999999942,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/galway/st-josephs-national-school-kinvara-co-galway/kinvara",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "6759de0d-96ee-44f5-8f52-9c9a6eb2176e"
   }
 ]
