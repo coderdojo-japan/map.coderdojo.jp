@@ -4508,20 +4508,6 @@
     "id": "1834e9d2-6210-46e4-8f42-6479b13a0ad1"
   },
   {
-    "name": "Chatswood @ Chatswood Library",
-    "latitude": -33.7954414,
-    "longitude": 151.18407290000005,
-    "countryCode": "AU",
-    "stage": "OPEN",
-    "urlSlug": "au/chatswood-nsw/chatswood-chatswood-library",
-    "startTime": "16:00",
-    "endTime": "17:30",
-    "openToPublic": true,
-    "frequency": "2/m",
-    "day": 2,
-    "id": "9fc2e8ba-ae04-49db-8f7c-ada8c993245c"
-  },
-  {
     "name": "Richmond, Virginia @ Northside Boys and Girls Club",
     "latitude": 37.581226,
     "longitude": -77.42649399999999,
@@ -21434,20 +21420,6 @@
     "id": "f1c974d7-24c1-487b-b2b4-923c9468e6aa"
   },
   {
-    "name": "Dublin Docklands @ CHQ",
-    "latitude": 53.349321688468414,
-    "longitude": -6.247529983520508,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/dublin/dublin/dublin-docklands-chq",
-    "startTime": "16:30",
-    "endTime": "18:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 5,
-    "id": "358784b6-79e2-4e43-80a4-792da79f5418"
-  },
-  {
     "name": "Arequipa @ Universidad Nacional de San Agustín de Arequipa ",
     "latitude": -16.4049287,
     "longitude": -71.5265665,
@@ -21462,6 +21434,20 @@
     "id": "922c1833-f8c2-4a2b-aa83-a12912af3599"
   },
   {
+    "name": "Dublin Docklands @ CHQ",
+    "latitude": 53.349321688468414,
+    "longitude": -6.247529983520508,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/dublin/dublin/dublin-docklands-chq",
+    "startTime": "16:30",
+    "endTime": "18:00",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 5,
+    "id": "358784b6-79e2-4e43-80a4-792da79f5418"
+  },
+  {
     "name": "Lund",
     "latitude": 55.71190104378349,
     "longitude": 13.214497288360576,
@@ -21474,6 +21460,20 @@
     "frequency": "other",
     "day": 0,
     "id": "ab6d8715-aa77-49b5-b196-e0ef3486808e"
+  },
+  {
+    "name": "Southwest Denver @ Denver Public Library - Bear Valley branch",
+    "latitude": 39.6564973,
+    "longitude": -105.0514474,
+    "countryCode": "US",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "startTime": "10:00",
+    "endTime": "14:00",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 6,
+    "id": "5161f260-392d-4083-bd78-48a5a5cf501e"
   },
   {
     "name": "CoderDojo Groane",
