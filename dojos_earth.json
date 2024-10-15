@@ -20706,20 +20706,6 @@
     "id": "3e4c3dbe-54dc-4037-8a15-fb9dbc2f5630"
   },
   {
-    "name": "Bladel@PiusX-College",
-    "latitude": 51.3720524,
-    "longitude": 5.2303327,
-    "countryCode": "NL",
-    "stage": "OPEN",
-    "urlSlug": "nl/bladel/bladel-piusx-college",
-    "startTime": "14:00",
-    "endTime": "16:00",
-    "openToPublic": true,
-    "frequency": "2/m",
-    "day": 3,
-    "id": "9ea32931-154d-44fd-aa3e-14b0aa681851"
-  },
-  {
     "name": "Zevenaar @ De Turmac Cultuurfabriek",
     "latitude": 51.9247465,
     "longitude": 6.075808299999999,
@@ -21880,5 +21866,19 @@
     "frequency": "1/w",
     "day": 6,
     "id": "6759de0d-96ee-44f5-8f52-9c9a6eb2176e"
+  },
+  {
+    "name": "Bladel@PiusX-College",
+    "latitude": 51.3720524,
+    "longitude": 5.2303327,
+    "countryCode": "NL",
+    "stage": "OPEN",
+    "urlSlug": "nl/bladel/bladel-piusx-college",
+    "startTime": "14:00",
+    "endTime": "16:00",
+    "openToPublic": true,
+    "frequency": "2/m",
+    "day": 3,
+    "id": "9ea32931-154d-44fd-aa3e-14b0aa681851"
   }
 ]
