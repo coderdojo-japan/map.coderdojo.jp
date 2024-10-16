@@ -12082,20 +12082,6 @@
     "id": "53fdf401-51bd-401c-8260-4632e89326c8"
   },
   {
-    "name": "住吉",
-    "latitude": 34.5994179,
-    "longitude": 135.5132788,
-    "countryCode": "JP",
-    "stage": "OPEN",
-    "urlSlug": "jp/osaka/zhu4-ji2",
-    "startTime": "18:30",
-    "endTime": "20:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 2,
-    "id": "a23e305c-493e-4738-b46e-48a8a9e86987"
-  },
-  {
     "name": "Neffies",
     "latitude": 43.532917,
     "longitude": 3.3362789999999904,
@@ -21880,5 +21866,19 @@
     "frequency": "2/m",
     "day": 3,
     "id": "9ea32931-154d-44fd-aa3e-14b0aa681851"
+  },
+  {
+    "name": "住吉",
+    "latitude": 34.5994179,
+    "longitude": 135.5132788,
+    "countryCode": "JP",
+    "stage": "OPEN",
+    "urlSlug": "jp/osaka/zhu4-ji2",
+    "startTime": "18:30",
+    "endTime": "20:00",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 2,
+    "id": "a23e305c-493e-4738-b46e-48a8a9e86987"
   }
 ]
