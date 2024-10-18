@@ -17360,20 +17360,6 @@
     "id": "ea51995b-8da5-4100-a782-1fd7372243b5"
   },
   {
-    "name": "Tilburg @ LocHal @ Code013",
-    "latitude": 51.5614432,
-    "longitude": 5.0858915,
-    "countryCode": "NL",
-    "stage": "PENDING",
-    "urlSlug": "nl/tilburg/tilburg-lochal-code-01-3",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": 0,
-    "id": "6b8e63bd-9546-4d1f-baf1-d3fb29aba75a"
-  },
-  {
     "name": "津山",
     "latitude": 35.065508,
     "longitude": 134.0221914,
@@ -21880,5 +21866,19 @@
     "frequency": "1/m",
     "day": 2,
     "id": "a23e305c-493e-4738-b46e-48a8a9e86987"
+  },
+  {
+    "name": "Tilburg @ LocHal @ Code013",
+    "latitude": 51.5614432,
+    "longitude": 5.0858915,
+    "countryCode": "NL",
+    "stage": "PENDING",
+    "urlSlug": "nl/tilburg/tilburg-lochal-code-01-3",
+    "startTime": "09:30",
+    "endTime": "11:30",
+    "openToPublic": true,
+    "frequency": "other",
+    "day": 0,
+    "id": "6b8e63bd-9546-4d1f-baf1-d3fb29aba75a"
   }
 ]
