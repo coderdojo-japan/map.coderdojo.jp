@@ -13426,20 +13426,6 @@
     "id": "24013a83-52b4-4bb8-a5cb-7bc10d6426d7"
   },
   {
-    "name": "Shimane @ Ohda",
-    "latitude": 35.200083,
-    "longitude": 132.498821,
-    "countryCode": "JP",
-    "stage": "OPEN",
-    "urlSlug": "jp/japan-shimane/shimane-ohda",
-    "startTime": "13:30",
-    "endTime": "15:30",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "a9f26db7-3388-4ae8-b7d1-cda360c3e13b"
-  },
-  {
     "name": "Vellore @VIT",
     "latitude": 12.972067,
     "longitude": 79.15956189999997,
@@ -14782,20 +14768,6 @@
     "frequency": "other",
     "day": null,
     "id": "288adf8b-2c85-4cda-8888-658a2037abf0"
-  },
-  {
-    "name": "Brecht",
-    "latitude": 51.34809680000001,
-    "longitude": 4.639923500000009,
-    "countryCode": "BE",
-    "stage": "REGISTER",
-    "urlSlug": "be/brecht/brecht",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "9dce039a-65e4-44f7-ab45-0be1dfdf8fa1"
   },
   {
     "name": "Bangalore @ Bhartiya City",
@@ -18002,20 +17974,6 @@
     "frequency": "other",
     "day": null,
     "id": "6037228e-cbb2-4bc2-8ed0-b115740dbae4"
-  },
-  {
-    "name": "Gold Coast @ Keebra",
-    "latitude": -27.984796,
-    "longitude": 153.39966989999994,
-    "countryCode": "AU",
-    "stage": "OPEN",
-    "urlSlug": "au/southport-qld/gold-coast-keebra",
-    "startTime": "15:15",
-    "endTime": "16:30",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 3,
-    "id": "613fd87e-a51c-4ca2-9634-40b2c0083a41"
   },
   {
     "name": "Noida @ The Coding Champ",
@@ -21532,6 +21490,20 @@
     "id": "f65b3e8f-a8db-441a-b5b8-78f8fed27b30"
   },
   {
+    "name": "Harwich @ Vibe Youth Centre",
+    "latitude": 51.93668476566558,
+    "longitude": 1.2700086531910104,
+    "countryCode": "GB",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 4,
+    "id": "63005dda-c765-4631-8ba2-9fbdc8d13629"
+  },
+  {
     "name": "Satellite, Ahmedabad @ M.A.R.S.",
     "latitude": 23.0227779,
     "longitude": 72.52605199999999,
@@ -21866,6 +21838,20 @@
     "frequency": "1/m",
     "day": 2,
     "id": "a23e305c-493e-4738-b46e-48a8a9e86987"
+  },
+  {
+    "name": "Gold Coast @ Keebra",
+    "latitude": -27.984796,
+    "longitude": 153.39966989999994,
+    "countryCode": "AU",
+    "stage": "OPEN",
+    "urlSlug": "au/southport-qld/gold-coast-keebra",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 3,
+    "id": "613fd87e-a51c-4ca2-9634-40b2c0083a41"
   },
   {
     "name": "Tilburg @ LocHal @ Code013",
