@@ -2954,20 +2954,6 @@
     "id": "306be747-0621-4937-9850-ccf5970fb90a"
   },
   {
-    "name": "Enschede",
-    "latitude": 52.21924721580639,
-    "longitude": 6.89335897564888,
-    "countryCode": "NL",
-    "stage": "FULL",
-    "urlSlug": "nl/enschede/enschede",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "98e6eadc-9332-460d-9ff0-be679987796b"
-  },
-  {
     "name": "Bayard @ 3SSISTEMI",
     "latitude": 40.8501237,
     "longitude": 14.2203228,
@@ -21866,5 +21852,19 @@
     "frequency": "other",
     "day": 0,
     "id": "6b8e63bd-9546-4d1f-baf1-d3fb29aba75a"
+  },
+  {
+    "name": "Enschede",
+    "latitude": 52.21924721580639,
+    "longitude": 6.89335897564888,
+    "countryCode": "NL",
+    "stage": "FULL",
+    "urlSlug": "nl/enschede/enschede",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 6,
+    "id": "98e6eadc-9332-460d-9ff0-be679987796b"
   }
 ]
