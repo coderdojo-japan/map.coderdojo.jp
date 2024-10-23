@@ -1358,20 +1358,6 @@
     "id": "dbae74b6-7e9c-4621-9c2a-a598c3ddda4c"
   },
   {
-    "name": "Dunshaughlin",
-    "latitude": 53.51393299999999,
-    "longitude": -6.543286999999964,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/meath/gaelscoil-na-rthe-dunshaughlin-c-0-meath/dunshaughlin",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "75aca6bc-8294-46b7-b50e-a458e947dacf"
-  },
-  {
     "name": "Tokyo Central @ Minato City, Tokyo",
     "latitude": 35.6545824,
     "longitude": 139.7307153,
@@ -2114,20 +2100,6 @@
     "id": "de5b48b5-3d57-40a8-b756-512b5f0dfc94"
   },
   {
-    "name": "Cork, Glanmire @ Riverstown Community Centre",
-    "latitude": 51.9285041,
-    "longitude": -8.396152400000005,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/cork/riverstown-community-centre-glanmire-co-cork/cork-glanmire-riverstown-community-centre",
-    "startTime": "10:00",
-    "endTime": "12:00",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "52c223f1-e4e3-41e7-87c2-520a6d05d458"
-  },
-  {
     "name": "Arad IT",
     "latitude": 46.1689116,
     "longitude": 21.32080540000004,
@@ -2546,20 +2518,6 @@
     "frequency": "1/m",
     "day": 2,
     "id": "52d27d38-e377-427c-bf24-b9e0a9971455"
-  },
-  {
-    "name": "Marino, Dublin 3 @Vdp girls school",
-    "latitude": 53.3702073,
-    "longitude": -6.230725199999999,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/dublin-9/marino-dublin-3-vdp-girls-school",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 2,
-    "id": "211632ab-40bf-4d90-98bc-f79452dcdcb1"
   },
   {
     "name": "Gurgaon @ GPL",
@@ -5110,20 +5068,6 @@
     "id": "eea86a32-eabb-430a-b216-8526900c1b4c"
   },
   {
-    "name": "CoderDojo Gorey",
-    "latitude": 52.6731779,
-    "longitude": -6.287650100000064,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/wexford/gorey/coderdojo-gorey",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "2deaed62-abe1-48ab-ad56-43d98136c50f"
-  },
-  {
     "name": "Ormus, Biratnagar, Nepal",
     "latitude": 27.694234,
     "longitude": 85.30630300000007,
@@ -6146,20 +6090,6 @@
     "id": "87f722f7-9451-4a6f-b307-0041def1d96f"
   },
   {
-    "name": "Malahide",
-    "latitude": 53.4507408,
-    "longitude": -6.15362970000001,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/dublin/malahide/malahide",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": 0,
-    "id": "3828c1ef-721f-4400-8c40-93da5d53b16b"
-  },
-  {
     "name": "#tec @ machBar",
     "latitude": 52.3895339258694,
     "longitude": 13.079174111810062,
@@ -6888,20 +6818,6 @@
     "id": "26a2d80e-8023-4f00-b8ea-2481be7300dc"
   },
   {
-    "name": "Rathfarnham",
-    "latitude": 53.290705725835736,
-    "longitude": -6.299334657861664,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/dublin/ballyroan-rathfarnham/rathfarnham",
-    "startTime": "18:00",
-    "endTime": "19:30",
-    "openToPublic": true,
-    "frequency": "2/m",
-    "day": 3,
-    "id": "faaf32a1-2cdd-4e00-b7b6-25b2033d4131"
-  },
-  {
     "name": "Bishops Cleeve @ Bishops Cleeve Library",
     "latitude": 51.9464473,
     "longitude": -2.0600438000000167,
@@ -7040,20 +6956,6 @@
     "frequency": "other",
     "day": null,
     "id": "e6a6f025-8d63-4b36-a15e-b88f570eec8e"
-  },
-  {
-    "name": "Scoil Naomh Muire, Farran",
-    "latitude": 51.875925659451575,
-    "longitude": -8.73905955939938,
-    "countryCode": "IE",
-    "stage": "FULL",
-    "urlSlug": "ie/cork/scoil-naomh-muire-farran",
-    "startTime": "18:00",
-    "endTime": "19:00",
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 0,
-    "id": "cd23dc3e-8503-4cd2-9939-ad6417304433"
   },
   {
     "name": "PLUG DOJO",
@@ -7292,20 +7194,6 @@
     "frequency": "1/m",
     "day": 6,
     "id": "c7844bce-5df1-49be-aac3-7f2f24ece389"
-  },
-  {
-    "name": "Kilkenny",
-    "latitude": 52.69051816612615,
-    "longitude": -7.258751537301578,
-    "countryCode": "IE",
-    "stage": "FULL",
-    "urlSlug": "ie/kilkenny/kilkenny/kilkenny",
-    "startTime": "18:00",
-    "endTime": "19:30",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 5,
-    "id": "9278c354-9c00-434a-b4cc-1694c6a55f2a"
   },
   {
     "name": "Charata, Chaco @ Fundación Inquietos Cognitivos, AdIA",
@@ -11368,20 +11256,6 @@
     "id": "0a1cbc3a-947d-481c-877c-d9e6b5c449ca"
   },
   {
-    "name": "Ennis, Co. Clare",
-    "latitude": 52.848070071930785,
-    "longitude": -8.977509140968323,
-    "countryCode": "IE",
-    "stage": "FULL",
-    "urlSlug": "ie/clare/ennis/ennis-co-clare",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "0a39201f-6a66-4eac-a741-dc2c4417a6a4"
-  },
-  {
     "name": "Utrecht Leidsche Rijn",
     "latitude": 52.0940378,
     "longitude": 5.011762399999952,
@@ -11982,20 +11856,6 @@
     "frequency": "2/m",
     "day": 6,
     "id": "162a8e91-27b4-40a8-aa11-b02b151e0aca"
-  },
-  {
-    "name": "Dungarvan",
-    "latitude": 52.084989821941306,
-    "longitude": -7.621250152587891,
-    "countryCode": "IE",
-    "stage": "FULL",
-    "urlSlug": "ie/waterford/dungarvan/dungarvan",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "70129971-1b46-4272-ba3b-9c187b08133a"
   },
   {
     "name": "Melbourne @ Yarra Ranges",
@@ -14168,20 +14028,6 @@
     "id": "211a0a2c-1a43-45ba-9af7-7417c1da1985"
   },
   {
-    "name": "Athenry",
-    "latitude": 53.3043378,
-    "longitude": -8.750189299999988,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/galway/athenry-county-galway/athenry",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "72f70e26-4af0-4a58-aff9-95cb933a2ccf"
-  },
-  {
     "name": "Milton Ulladulla District@Dunn Lewis",
     "latitude": -35.364284,
     "longitude": 150.46940399999994,
@@ -14700,20 +14546,6 @@
     "id": "dfd2510d-d19d-4505-afc6-1debc4b9f81e"
   },
   {
-    "name": "Carrick On Shannon, Co. Leitrim",
-    "latitude": 53.94573699999999,
-    "longitude": -8.074945,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/carrick-on-shannon/carrick-on-shannon-co-leitrim",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": 0,
-    "id": "2d7b1344-af48-4751-83c5-a37761dd72e3"
-  },
-  {
     "name": "Roma SPQR",
     "latitude": 41.9148968,
     "longitude": 12.461733800000047,
@@ -15008,20 +14840,6 @@
     "id": "71cd8abc-9ac7-441f-99a9-d23d992a5fb3"
   },
   {
-    "name": "Dublin 8@ Warrenmount Presentation Secondary School",
-    "latitude": 53.336056508711415,
-    "longitude": -6.277796030044556,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/dublin-8/dublin-8-warrenmount-presentation-secondary-school",
-    "startTime": "13:15",
-    "endTime": "13:45",
-    "openToPublic": false,
-    "frequency": "other",
-    "day": 1,
-    "id": "6f2be8fb-f446-46cc-ae74-4e06eaf62830"
-  },
-  {
     "name": "Orange Walk @ Bishop Martin High School",
     "latitude": 18.0972326,
     "longitude": -88.57374399999998,
@@ -15076,6 +14894,20 @@
     "frequency": "2/m",
     "day": 1,
     "id": "6f4300f7-1883-44c4-a2ba-7652ba75e234"
+  },
+  {
+    "name": "Dublin 8@ Warrenmount Presentation Secondary School",
+    "latitude": 53.336056508711415,
+    "longitude": -6.277796030044556,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/dublin-8/dublin-8-warrenmount-presentation-secondary-school",
+    "startTime": "13:15",
+    "endTime": "13:45",
+    "openToPublic": false,
+    "frequency": "1/w",
+    "day": 1,
+    "id": "6f2be8fb-f446-46cc-ae74-4e06eaf62830"
   },
   {
     "name": "York @ Keeping Digital",
@@ -16478,20 +16310,6 @@
     "id": "3e11d276-57c7-46e5-8be8-5d3dca7b95b3"
   },
   {
-    "name": "Limerick @ LIT",
-    "latitude": 52.67500298472753,
-    "longitude": -8.648107051849365,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/limerick/limerick/limerick-lit",
-    "startTime": "14:00",
-    "endTime": "16:00",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "3e388cea-f7f3-40ac-89a0-e33601d131df"
-  },
-  {
     "name": "Waddinxveen @ Zonnig Zuid",
     "latitude": 52.0307464,
     "longitude": 4.659029099999998,
@@ -17414,20 +17232,6 @@
     "frequency": "1/m",
     "day": 6,
     "id": "58a23e6a-93e7-4a08-865e-b27f5443ebf1"
-  },
-  {
-    "name": "Portarlington",
-    "latitude": 53.1620053,
-    "longitude": -7.203898400000071,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/laois/portarlington-adult-education-centre-bracklone-street-portarlington/portarlington",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "b6a56249-59c8-420b-8751-57c5543fe0d0"
   },
   {
     "name": "BiblioMaker Sanchinarro",
@@ -21280,20 +21084,6 @@
     "id": "acffc45d-4d4f-4b86-9a9e-e0a2007ed3db"
   },
   {
-    "name": "Mullingar",
-    "latitude": 53.514294,
-    "longitude": -7.371775999999999,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/westmeath/mullingar/mullingar",
-    "startTime": "11:00",
-    "endTime": "13:00",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "afb2c75a-c429-4436-bb7d-01b39c973950"
-  },
-  {
     "name": "Steelcity Dojo @ Afro-Canadian Caribbean Association ",
     "latitude": 43.25334609999999,
     "longitude": -79.85635769999999,
@@ -21474,6 +21264,20 @@
     "frequency": "1/w",
     "day": 6,
     "id": "f65b3e8f-a8db-441a-b5b8-78f8fed27b30"
+  },
+  {
+    "name": "Harrow CoderDojo",
+    "latitude": 51.5866468,
+    "longitude": -0.3605362,
+    "countryCode": "GB",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "01936f0d-abc7-43f5-b170-ef677af0c157"
   },
   {
     "name": "Harwich @ Vibe Youth Centre",
@@ -21784,20 +21588,6 @@
     "id": "5934f607-eb67-42d9-8f9d-0786e1b7e37b"
   },
   {
-    "name": "Kinvara",
-    "latitude": 53.1392594,
-    "longitude": -8.942205999999942,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/galway/st-josephs-national-school-kinvara-co-galway/kinvara",
-    "startTime": "16:00",
-    "endTime": "18:00",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "6759de0d-96ee-44f5-8f52-9c9a6eb2176e"
-  },
-  {
     "name": "Bladel@PiusX-College",
     "latitude": 51.3720524,
     "longitude": 5.2303327,
@@ -21866,5 +21656,229 @@
     "frequency": "1/m",
     "day": 6,
     "id": "98e6eadc-9332-460d-9ff0-be679987796b"
+  },
+  {
+    "name": "Athenry",
+    "latitude": 53.3043378,
+    "longitude": -8.750189299999988,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/galway/athenry-county-galway/athenry",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 0,
+    "id": "72f70e26-4af0-4a58-aff9-95cb933a2ccf"
+  },
+  {
+    "name": "Marino, Dublin 3 @Vdp girls school",
+    "latitude": 53.3702073,
+    "longitude": -6.230725199999999,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/dublin-9/marino-dublin-3-vdp-girls-school",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "openToPublic": false,
+    "frequency": "1/w",
+    "day": 2,
+    "id": "211632ab-40bf-4d90-98bc-f79452dcdcb1"
+  },
+  {
+    "name": "Kinvara",
+    "latitude": 53.1392594,
+    "longitude": -8.942205999999942,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/galway/st-josephs-national-school-kinvara-co-galway/kinvara",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "6759de0d-96ee-44f5-8f52-9c9a6eb2176e"
+  },
+  {
+    "name": "Rathfarnham",
+    "latitude": 53.290705725835736,
+    "longitude": -6.299334657861664,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/dublin/ballyroan-rathfarnham/rathfarnham",
+    "startTime": "18:00",
+    "endTime": "19:30",
+    "openToPublic": true,
+    "frequency": "2/m",
+    "day": 3,
+    "id": "faaf32a1-2cdd-4e00-b7b6-25b2033d4131"
+  },
+  {
+    "name": "Scoil Naomh Muire, Farran",
+    "latitude": 51.875925659451575,
+    "longitude": -8.73905955939938,
+    "countryCode": "IE",
+    "stage": "FULL",
+    "urlSlug": "ie/cork/scoil-naomh-muire-farran",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "openToPublic": false,
+    "frequency": "1/w",
+    "day": 0,
+    "id": "cd23dc3e-8503-4cd2-9939-ad6417304433"
+  },
+  {
+    "name": "Mullingar",
+    "latitude": 53.514294,
+    "longitude": -7.371775999999999,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/westmeath/mullingar/mullingar",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "afb2c75a-c429-4436-bb7d-01b39c973950"
+  },
+  {
+    "name": "Kilkenny",
+    "latitude": 52.69051816612615,
+    "longitude": -7.258751537301578,
+    "countryCode": "IE",
+    "stage": "FULL",
+    "urlSlug": "ie/kilkenny/kilkenny/kilkenny",
+    "startTime": "18:00",
+    "endTime": "19:30",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 5,
+    "id": "9278c354-9c00-434a-b4cc-1694c6a55f2a"
+  },
+  {
+    "name": "Malahide",
+    "latitude": 53.4507408,
+    "longitude": -6.15362970000001,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/dublin/malahide/malahide",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 0,
+    "id": "3828c1ef-721f-4400-8c40-93da5d53b16b"
+  },
+  {
+    "name": "Dunshaughlin",
+    "latitude": 53.51393299999999,
+    "longitude": -6.543286999999964,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/meath/gaelscoil-na-rthe-dunshaughlin-c-0-meath/dunshaughlin",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 0,
+    "id": "75aca6bc-8294-46b7-b50e-a458e947dacf"
+  },
+  {
+    "name": "Carrick On Shannon, Co. Leitrim",
+    "latitude": 53.94573699999999,
+    "longitude": -8.074945,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/carrick-on-shannon/carrick-on-shannon-co-leitrim",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 2,
+    "id": "2d7b1344-af48-4751-83c5-a37761dd72e3"
+  },
+  {
+    "name": "Cork, Glanmire @ Riverstown Community Centre",
+    "latitude": 51.9285041,
+    "longitude": -8.396152400000005,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/cork/riverstown-community-centre-glanmire-co-cork/cork-glanmire-riverstown-community-centre",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "52c223f1-e4e3-41e7-87c2-520a6d05d458"
+  },
+  {
+    "name": "Ennis, Co. Clare",
+    "latitude": 52.848070071930785,
+    "longitude": -8.977509140968323,
+    "countryCode": "IE",
+    "stage": "FULL",
+    "urlSlug": "ie/clare/ennis/ennis-co-clare",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "0a39201f-6a66-4eac-a741-dc2c4417a6a4"
+  },
+  {
+    "name": "Limerick @ LIT",
+    "latitude": 52.67500298472753,
+    "longitude": -8.648107051849365,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/limerick/limerick/limerick-lit",
+    "startTime": "14:00",
+    "endTime": "16:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "3e388cea-f7f3-40ac-89a0-e33601d131df"
+  },
+  {
+    "name": "Dungarvan",
+    "latitude": 52.084989821941306,
+    "longitude": -7.621250152587891,
+    "countryCode": "IE",
+    "stage": "FULL",
+    "urlSlug": "ie/waterford/dungarvan/dungarvan",
+    "startTime": "11:30",
+    "endTime": "13:30",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "70129971-1b46-4272-ba3b-9c187b08133a"
+  },
+  {
+    "name": "Portarlington",
+    "latitude": 53.1620053,
+    "longitude": -7.203898400000071,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/laois/portarlington-adult-education-centre-bracklone-street-portarlington/portarlington",
+    "startTime": "10:45",
+    "endTime": "13:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 0,
+    "id": "b6a56249-59c8-420b-8751-57c5543fe0d0"
+  },
+  {
+    "name": "CoderDojo Gorey",
+    "latitude": 52.6731779,
+    "longitude": -6.287650100000064,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/wexford/gorey/coderdojo-gorey",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "2deaed62-abe1-48ab-ad56-43d98136c50f"
   }
 ]
