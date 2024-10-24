@@ -3822,20 +3822,6 @@
     "id": "00673fd5-f699-4756-b0f9-17840dc3a02e"
   },
   {
-    "name": "Trim @ Trim Family Resource Centre",
-    "latitude": 53.5523666,
-    "longitude": -6.786647399999993,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/trim-county-meath/trim-trim-family-resource-centre",
-    "startTime": "11:00",
-    "endTime": "12:30",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "5a967597-8e63-4bd0-bae1-bd90967ceb09"
-  },
-  {
     "name": "Inagi",
     "latitude": 35.6210661,
     "longitude": 139.47215299999993,
@@ -20594,20 +20580,6 @@
     "id": "f18a6adc-ae23-43a7-b120-f071cdee5690"
   },
   {
-    "name": "Katlehong @ STEM and 4IR centre",
-    "latitude": -26.3908141,
-    "longitude": 28.1414118,
-    "countryCode": "ZA",
-    "stage": "OPEN",
-    "urlSlug": null,
-    "startTime": "09:00",
-    "endTime": "13:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "68a22c09-6685-455b-aa1f-685aaff46615"
-  },
-  {
     "name": "日野",
     "latitude": 35.6641056,
     "longitude": 139.3802673,
@@ -21880,5 +21852,33 @@
     "frequency": "1/w",
     "day": 6,
     "id": "2deaed62-abe1-48ab-ad56-43d98136c50f"
+  },
+  {
+    "name": "Katlehong @ STEM and 4IR centre",
+    "latitude": -26.3908141,
+    "longitude": 28.1414118,
+    "countryCode": "ZA",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "startTime": "09:00",
+    "endTime": "13:00",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 6,
+    "id": "68a22c09-6685-455b-aa1f-685aaff46615"
+  },
+  {
+    "name": "Trim @ Trim Family Resource Centre",
+    "latitude": 53.5523666,
+    "longitude": -6.786647399999993,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/trim-county-meath/trim-trim-family-resource-centre",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "5a967597-8e63-4bd0-bae1-bd90967ceb09"
   }
 ]

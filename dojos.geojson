@@ -3606,21 +3606,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.786647399999993,
-          53.5523666
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Trim @ Trim Family Resource Centre<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/trim-county-meath/trim-trim-family-resource-centre'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.47215299999993,
           35.6210661
         ]
@@ -19513,7 +19498,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojohanno.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/hanno.webp' alt='飯能' loading='lazy' width='100px' /></a><br><b>飯能</b><br>飯能市で毎月開催<br><a href='https://coderdojohanno.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojohanno.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/hanno.webp' alt='飯能' loading='lazy' width='100px' /></a><br><b>飯能</b><br>飯能市で毎月開催<br>&rarr; 次回: <a href='https://coderdojohanno.doorkeeper.jp/events/178989' target='_blank' rel='noopener'>11月23日</a><br><a href='https://coderdojohanno.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -19559,21 +19544,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Coderdojomxp<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.1414118,
-          -26.3908141
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Katlehong @ STEM and 4IR centre<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/'>連絡先を見る</a>"
       }
     },
     {
@@ -20744,6 +20714,36 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>CoderDojo Gorey<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/wexford/gorey/coderdojo-gorey'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1414118,
+          -26.3908141
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Katlehong @ STEM and 4IR centre<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.786647399999993,
+          53.5523666
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Trim @ Trim Family Resource Centre<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/trim-county-meath/trim-trim-family-resource-centre'>連絡先を見る</a>"
       }
     }
   ]
