@@ -20720,20 +20720,6 @@
     "id": "c6d9f5ed-23c5-43ae-90fb-20e6edc02599"
   },
   {
-    "name": "FOSDEM Junior",
-    "latitude": 50.81291,
-    "longitude": 4.38069,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "nl/oisterwijk/oisterwijk",
-    "startTime": "10:30",
-    "endTime": "19:00",
-    "openToPublic": true,
-    "frequency": "other",
-    "day": 0,
-    "id": "c0468f47-a1a4-43b6-b7f0-170a7d98b30c"
-  },
-  {
     "name": "Bishopton @ The Cornerstone",
     "latitude": 55.9104353,
     "longitude": -4.5106132,
@@ -20746,6 +20732,20 @@
     "frequency": "1/w",
     "day": 5,
     "id": "2368ff87-9532-40c4-aac3-90ea88851d4e"
+  },
+  {
+    "name": "FOSDEM Junior",
+    "latitude": 50.81291,
+    "longitude": 4.38069,
+    "countryCode": "BE",
+    "stage": "OPEN",
+    "urlSlug": "nl/oisterwijk/oisterwijk",
+    "startTime": "10:30",
+    "endTime": "19:00",
+    "openToPublic": true,
+    "frequency": "other",
+    "day": 0,
+    "id": "c0468f47-a1a4-43b6-b7f0-170a7d98b30c"
   },
   {
     "name": "Monterrey @ Tec",
