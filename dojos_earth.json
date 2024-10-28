@@ -6804,20 +6804,6 @@
     "id": "26a2d80e-8023-4f00-b8ea-2481be7300dc"
   },
   {
-    "name": "Bishops Cleeve @ Bishops Cleeve Library",
-    "latitude": 51.9464473,
-    "longitude": -2.0600438000000167,
-    "countryCode": "GB",
-    "stage": "OPEN",
-    "urlSlug": "gb/cheltenham/bishops-cleeve-bishops-cleeve-library",
-    "startTime": "12:30",
-    "endTime": "14:30",
-    "openToPublic": true,
-    "frequency": "2/m",
-    "day": 6,
-    "id": "b05ca2dc-65c8-4501-bf67-869acc1773c9"
-  },
-  {
     "name": "Pitesti @ GIVE-IT BACK",
     "latitude": 44.8475684,
     "longitude": 24.849298900000008,
@@ -21880,5 +21866,19 @@
     "frequency": "1/w",
     "day": 6,
     "id": "5a967597-8e63-4bd0-bae1-bd90967ceb09"
+  },
+  {
+    "name": "Bishops Cleeve @ Bishops Cleeve Library",
+    "latitude": 51.9464473,
+    "longitude": -2.0600438000000167,
+    "countryCode": "GB",
+    "stage": "OPEN",
+    "urlSlug": "https://bccd.uk/",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "openToPublic": true,
+    "frequency": "2/m",
+    "day": 6,
+    "id": "b05ca2dc-65c8-4501-bf67-869acc1773c9"
   }
 ]
