@@ -4214,20 +4214,6 @@
     "id": "ccc1a8fc-3e37-4f32-a4a0-36862f85bb76"
   },
   {
-    "name": "Lugano",
-    "latitude": 46.03417080521038,
-    "longitude": 8.919943571090698,
-    "countryCode": "CH",
-    "stage": "REGISTER",
-    "urlSlug": "ch/ticino/manno/lugano",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "f0a3fc76-c5aa-40a3-926f-de81d1b2cc8c"
-  },
-  {
     "name": "Chofu",
     "latitude": 35.6506212,
     "longitude": 139.5580759,
@@ -21880,5 +21866,19 @@
     "frequency": "2/m",
     "day": 6,
     "id": "b05ca2dc-65c8-4501-bf67-869acc1773c9"
+  },
+  {
+    "name": "Lugano",
+    "latitude": 46.03417080521038,
+    "longitude": 8.919943571090698,
+    "countryCode": "CH",
+    "stage": "REGISTER",
+    "urlSlug": "ch/ticino/manno/lugano",
+    "startTime": "09:00",
+    "endTime": "12:15",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 6,
+    "id": "f0a3fc76-c5aa-40a3-926f-de81d1b2cc8c"
   }
 ]

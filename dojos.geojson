@@ -4011,21 +4011,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.919943571090698,
-          46.03417080521038
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Lugano<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ch/ticino/manno/lugano'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.5580759,
           35.6506212
         ]
@@ -20744,6 +20729,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Bishops Cleeve @ Bishops Cleeve Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/https://bccd.uk/'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.919943571090698,
+          46.03417080521038
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Lugano<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ch/ticino/manno/lugano'>連絡先を見る</a>"
       }
     }
   ]
