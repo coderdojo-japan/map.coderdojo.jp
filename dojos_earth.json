@@ -3276,20 +3276,6 @@
     "id": "e3206c45-aae0-47de-b211-a7d88b7fbf03"
   },
   {
-    "name": "Selby @ Olympia",
-    "latitude": 53.7870289,
-    "longitude": -1.0630936,
-    "countryCode": "GB",
-    "stage": "OPEN",
-    "urlSlug": "gb/selby/selby-olympia-1",
-    "startTime": "10:00",
-    "endTime": "11:30",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 0,
-    "id": "4058a676-31b2-4de0-86a5-bc9b4fad8c29"
-  },
-  {
     "name": "Edinburgh Stockbridge @ Stockbridge Library",
     "latitude": 55.95888129999999,
     "longitude": -3.207762300000013,
@@ -8204,20 +8190,6 @@
     "id": "c8b6875b-7dcd-41c2-ac77-2783a728b509"
   },
   {
-    "name": "Hoeksche Waard",
-    "latitude": 51.824745,
-    "longitude": 4.412036899999999,
-    "countryCode": "NL",
-    "stage": "REGISTER",
-    "urlSlug": "nl/hoeksche-waard/hoeksche-waard",
-    "startTime": "11:00",
-    "endTime": "13:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "db54f671-b705-4bf6-bbe2-be0d7ab981a1"
-  },
-  {
     "name": "Kahror Pakka, Punjab @ Jd Digital Lab",
     "latitude": 29.6247002,
     "longitude": 71.91049440000006,
@@ -8272,6 +8244,20 @@
     "frequency": "1/m",
     "day": 6,
     "id": "9ab3c24f-dc25-4d6d-b428-7318cf805196"
+  },
+  {
+    "name": "Hoeksche Waard",
+    "latitude": 51.824745,
+    "longitude": 4.412036899999999,
+    "countryCode": "NL",
+    "stage": "REGISTER",
+    "urlSlug": "nl/hoeksche-waard/hoeksche-waard",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "openToPublic": true,
+    "frequency": "other",
+    "day": 6,
+    "id": "db54f671-b705-4bf6-bbe2-be0d7ab981a1"
   },
   {
     "name": "Learning Links Foundation",
@@ -9434,20 +9420,6 @@
     "frequency": "1/m",
     "day": 5,
     "id": "809ce739-a325-48c2-860d-f66074fe7943"
-  },
-  {
-    "name": "Wiveliscombe @ Digi +",
-    "latitude": 51.0395204,
-    "longitude": -3.3114052,
-    "countryCode": "GB",
-    "stage": "OPEN",
-    "urlSlug": "gb/wiveliscombe-taunton/wiveliscombe-digi",
-    "startTime": "18:00",
-    "endTime": "20:00",
-    "openToPublic": false,
-    "frequency": "1/m",
-    "day": 4,
-    "id": "55b10634-5593-4c36-a16f-1b9fc2508cde"
   },
   {
     "name": "Fullerton @ Fullerton Public Library",
@@ -15468,20 +15440,6 @@
     "frequency": "1/m",
     "day": 0,
     "id": "3b543ede-20e5-4283-a0a6-c342fcb3ffc8"
-  },
-  {
-    "name": "Belfast @ Shockwaves Makerspace",
-    "latitude": 54.5409964,
-    "longitude": -5.9038739,
-    "countryCode": "GB",
-    "stage": "REGISTER",
-    "urlSlug": "gb/belfast/belfast-shockwaves-makerspace",
-    "startTime": "10:00",
-    "endTime": "11:30",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "1b9a45fe-2939-4752-840c-1ec4637a4eb7"
   },
   {
     "name": "Warrington",
@@ -21868,9 +21826,23 @@
     "id": "b05ca2dc-65c8-4501-bf67-869acc1773c9"
   },
   {
+    "name": "Selby CoderDojo",
+    "latitude": 53.7870289,
+    "longitude": -1.0630936,
+    "countryCode": "GB",
+    "stage": "OPEN",
+    "urlSlug": "gb/selby/selby-olympia-1",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 0,
+    "id": "4058a676-31b2-4de0-86a5-bc9b4fad8c29"
+  },
+  {
     "name": "Lugano",
-    "latitude": 46.03417080521038,
-    "longitude": 8.919943571090698,
+    "latitude": 46.03504395745587,
+    "longitude": 8.929941549313698,
     "countryCode": "CH",
     "stage": "REGISTER",
     "urlSlug": "ch/ticino/manno/lugano",
@@ -21880,5 +21852,19 @@
     "frequency": "1/m",
     "day": 6,
     "id": "f0a3fc76-c5aa-40a3-926f-de81d1b2cc8c"
+  },
+  {
+    "name": "Belfast @ Shockwaves Makerspace",
+    "latitude": 54.57373462472127,
+    "longitude": -5.885235902509837,
+    "countryCode": "GB",
+    "stage": "REGISTER",
+    "urlSlug": "gb/belfast/belfast-shockwaves-makerspace",
+    "startTime": "10:30",
+    "endTime": "12:00",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 6,
+    "id": "1b9a45fe-2939-4752-840c-1ec4637a4eb7"
   }
 ]
