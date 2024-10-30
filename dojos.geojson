@@ -3081,21 +3081,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.0630936,
-          53.7870289
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Selby @ Olympia<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/selby/selby-olympia-1'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.207762300000013,
           55.95888129999999
         ]
@@ -7821,21 +7806,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.412036899999999,
-          51.824745
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Hoeksche Waard<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/hoeksche-waard/hoeksche-waard'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           71.91049440000006,
           29.6247002
         ]
@@ -7889,6 +7859,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Almere @ DeNieuwe Bibliotheek<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/almere/almere-denieuwe-bibliotheek'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.412036899999999,
+          51.824745
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Hoeksche Waard<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/hoeksche-waard/hoeksche-waard'>連絡先を見る</a>"
       }
     },
     {
@@ -9029,21 +9014,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Lafayette, IN @ Imagination Station<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/lafayette-in/lafayette-in-imagination-station'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.3114052,
-          51.0395204
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Wiveliscombe @ Digi +<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/wiveliscombe-taunton/wiveliscombe-digi'>連絡先を見る</a>"
       }
     },
     {
@@ -14661,21 +14631,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.9038739,
-          54.5409964
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Belfast @ Shockwaves Makerspace<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/belfast/belfast-shockwaves-makerspace'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.5890743999999586,
           53.4082321
         ]
@@ -14773,7 +14728,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/CoderDojoTakizawa/' target='_blank' rel='noopener'>  <img src='/images/dojos/takizawa.webp' alt='滝沢' loading='lazy' width='100px' /></a><br><b>滝沢</b><br>滝沢市で毎月開催<br><a href='https://www.facebook.com/CoderDojoTakizawa/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/CoderDojoTakizawa/' target='_blank' rel='noopener'>  <img src='/images/dojos/takizawa.webp' alt='滝沢' loading='lazy' width='100px' /></a><br><b>滝沢</b><br>滝沢市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-takizawa.doorkeeper.jp/events/179185' target='_blank' rel='noopener'>11月9日</a><br><a href='https://www.facebook.com/CoderDojoTakizawa/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -15448,7 +15403,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-osakasayama.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/osakasayama.webp' alt='大阪狭山' loading='lazy' width='100px' /></a><br><b>大阪狭山</b><br>大阪狭山で毎月開催<br><a href='https://coderdojo-osakasayama.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-osakasayama.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/osakasayama.webp' alt='大阪狭山' loading='lazy' width='100px' /></a><br><b>大阪狭山</b><br>大阪狭山で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-osakasayama.doorkeeper.jp/events/179183' target='_blank' rel='noopener'>11月17日</a><br><a href='https://coderdojo-osakasayama.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -20736,14 +20691,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.919943571090698,
-          46.03417080521038
+          -1.0630936,
+          53.7870289
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Selby CoderDojo<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/selby/selby-olympia-1'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.929941549313698,
+          46.03504395745587
         ]
       },
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Lugano<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ch/ticino/manno/lugano'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.885235902509837,
+          54.57373462472127
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Belfast @ Shockwaves Makerspace<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/belfast/belfast-shockwaves-makerspace'>連絡先を見る</a>"
       }
     }
   ]
