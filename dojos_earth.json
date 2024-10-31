@@ -210,20 +210,6 @@
     "id": "83c462de-4797-4d47-a470-20213ca02a94"
   },
   {
-    "name": "Arainn Mhor Island",
-    "latitude": 54.98072575647496,
-    "longitude": -8.498586047668482,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/donegal/ionad-an-chrois-bhealaigh-arainn-mhor-island/arainn-mhor-island",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "28f8e6d6-4931-4270-9ea6-44bccf1afe65"
-  },
-  {
     "name": "Kampala @ Design Hub",
     "latitude": 0.3165756000000001,
     "longitude": 32.612577699999974,
@@ -2702,20 +2688,6 @@
     "id": "003b1e60-2668-4344-8835-1d512b449680"
   },
   {
-    "name": "Ashbourne",
-    "latitude": 53.51173390642726,
-    "longitude": -6.4001400284942065,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/meath/ashbourne/ashbourne",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "e1bc6454-6066-46a3-ace7-de7c7235ae52"
-  },
-  {
     "name": "Virar, Mumbai @ Buaut Coding School",
     "latitude": 19.4669859,
     "longitude": 72.79869370000002,
@@ -3668,20 +3640,6 @@
     "id": "987a3f4a-37e1-4108-bc33-aae5731e8be7"
   },
   {
-    "name": "Fód as Cód",
-    "latitude": 53.0850692,
-    "longitude": -9.5862099,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/inis-meain-county-galway/fod-as-cod",
-    "startTime": "18:00",
-    "endTime": "19:30",
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 2,
-    "id": "90ce0139-4262-4706-b17a-0627e8e0dfe6"
-  },
-  {
     "name": "Ijmuiden @ Velsen",
     "latitude": 52.4611048,
     "longitude": 4.6231494,
@@ -4114,20 +4072,6 @@
     "frequency": "1/m",
     "day": 6,
     "id": "e00d3a01-0620-4ac7-a9c6-508e9ef361ad"
-  },
-  {
-    "name": "Navan @ St. Patricks",
-    "latitude": 53.6525025,
-    "longitude": -6.697551400000066,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/navan-county-meath/navan-st-patricks",
-    "startTime": "13:00",
-    "endTime": "13:45",
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 2,
-    "id": "a7904505-da7e-4cba-a441-971a6665df27"
   },
   {
     "name": "Kanpur @ ASRSBot Code Ninja",
@@ -4654,11 +4598,11 @@
     "countryCode": "IE",
     "stage": "REGISTER",
     "urlSlug": "ie/meath/unity-centre-windtown-navan-co-meath/navan",
-    "startTime": null,
-    "endTime": null,
+    "startTime": "10:00",
+    "endTime": "15:00",
     "openToPublic": true,
-    "frequency": "other",
-    "day": null,
+    "frequency": "1/w",
+    "day": 6,
     "id": "f746ac2b-2f86-4133-a9c5-037cddb7e9d5"
   },
   {
@@ -4968,20 +4912,6 @@
     "frequency": "1/w",
     "day": 2,
     "id": "d5eea74f-465a-4017-83a6-d55bdf09731f"
-  },
-  {
-    "name": "Sallins and Naas",
-    "latitude": 53.21698629999999,
-    "longitude": -6.667578400000025,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/kildare/naas/sallins-and-amp-naas",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": 0,
-    "id": "027cbd99-3d03-4d70-9f05-813665fe87ec"
   },
   {
     "name": "Dhnabad, Jharkhand @ Kidi Robotics",
@@ -7546,20 +7476,6 @@
     "id": "cf9daaaa-b1e5-4feb-9ba3-db92f57851d2"
   },
   {
-    "name": "Dundalk",
-    "latitude": 53.9842765,
-    "longitude": -6.393370399999999,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/louth/dundalk-county-louth/dundalk",
-    "startTime": "12:00",
-    "endTime": "14:30",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "1eb7332f-4a65-4b16-a692-17fd397ff0b6"
-  },
-  {
     "name": "Ise",
     "latitude": 34.48945594965719,
     "longitude": 136.69851422309875,
@@ -7908,20 +7824,6 @@
     "frequency": "other",
     "day": 6,
     "id": "7f9d04c4-a4d2-44e3-878e-2b4e38a978c7"
-  },
-  {
-    "name": "St. Angela's School, Waterford",
-    "latitude": 52.246068174481856,
-    "longitude": -7.1136970818042755,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/waterford/st-angelas-school-waterford",
-    "startTime": "13:15",
-    "endTime": "14:00",
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 4,
-    "id": "cf3f7e95-7ac4-42e0-8692-a3c52eded377"
   },
   {
     "name": "Cernica @ World Changers",
@@ -9422,6 +9324,20 @@
     "id": "809ce739-a325-48c2-860d-f66074fe7943"
   },
   {
+    "name": "Monaghan",
+    "latitude": 54.26326903867169,
+    "longitude": -6.95634126663208,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/monaghan/monaghan/monaghan",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "openToPublic": true,
+    "frequency": "2/m",
+    "day": 6,
+    "id": "e54d03d1-528d-4307-9242-bb82b4616647"
+  },
+  {
     "name": "Fullerton @ Fullerton Public Library",
     "latitude": 33.87072729999999,
     "longitude": -117.9304862,
@@ -9434,20 +9350,6 @@
     "frequency": "1/w",
     "day": 4,
     "id": "ca09d6b0-0ea0-4339-b758-7fda0fd99aa5"
-  },
-  {
-    "name": "Monaghan",
-    "latitude": 54.26326903867169,
-    "longitude": -6.95634126663208,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/monaghan/monaghan/monaghan",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "e54d03d1-528d-4307-9242-bb82b4616647"
   },
   {
     "name": "Luxembourg Level2",
@@ -9868,20 +9770,6 @@
     "frequency": "1/m",
     "day": 6,
     "id": "959721ca-a351-4263-bb85-1f430b04b093"
-  },
-  {
-    "name": "Tramore",
-    "latitude": 52.1688171,
-    "longitude": -7.146724800000015,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/waterford/tramore/tramore",
-    "startTime": "16:00",
-    "endTime": "18:00",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "5f202913-c7cb-4695-bc3a-a60900f87882"
   },
   {
     "name": "Touggourt @ Shames foundation",
@@ -19768,20 +19656,6 @@
     "id": "c41f82d2-4273-4de0-bce0-c714053856ff"
   },
   {
-    "name": "Killeen, Louisburgh @ Killeen NS",
-    "latitude": 53.71691209999999,
-    "longitude": -9.873918499999945,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/killeen-louisburgh-co-mayo/killeen-louisburgh-killeen-ns",
-    "startTime": "13:30",
-    "endTime": "14:30",
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 5,
-    "id": "c515f352-f658-4502-9401-99aeba04aa23"
-  },
-  {
     "name": "Leigh, Greater Manchester@Leigh Hackspace",
     "latitude": 53.46877549467067,
     "longitude": -2.500540013563409,
@@ -20720,20 +20594,6 @@
     "id": "0a7bb96c-9cd6-4d96-b052-096186a0e012"
   },
   {
-    "name": "MTU, Bishopstown, Cork",
-    "latitude": 51.886048,
-    "longitude": -8.533569,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/cork/mtu-bishopstown-cork",
-    "startTime": "16:00",
-    "endTime": "17:50",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 5,
-    "id": "70f37f66-557f-4b8e-b013-fe696a42a9be"
-  },
-  {
     "name": "San Jose @ Village Square Branch Library",
     "latitude": 37.3133723,
     "longitude": -121.7744547,
@@ -20760,6 +20620,20 @@
     "frequency": "1/m",
     "day": 6,
     "id": "36f33548-cf69-481c-a6f7-f85c69782331"
+  },
+  {
+    "name": "MTU, Bishopstown, Cork",
+    "latitude": 51.886048,
+    "longitude": -8.533569,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/cork/mtu-bishopstown-cork",
+    "startTime": "16:00",
+    "endTime": "17:50",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 5,
+    "id": "70f37f66-557f-4b8e-b013-fe696a42a9be"
   },
   {
     "name": "Cdad. Obregón @CUDDEC ITSON",
@@ -20972,20 +20846,6 @@
     "id": "8e4a0410-56d9-4ded-bdd2-e4334dc94f2c"
   },
   {
-    "name": "Coderdojo Kinsale",
-    "latitude": 51.70442809999999,
-    "longitude": -8.530442899999999,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/cork/kinsale/coderdojo-kinsale",
-    "startTime": "19:15",
-    "endTime": "20:30",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 4,
-    "id": "acffc45d-4d4f-4b86-9a9e-e0a2007ed3db"
-  },
-  {
     "name": "Steelcity Dojo @ Afro-Canadian Caribbean Association ",
     "latitude": 43.25334609999999,
     "longitude": -79.85635769999999,
@@ -20998,6 +20858,20 @@
     "frequency": "1/w",
     "day": 4,
     "id": "37c7969d-e27a-4eff-a0f0-9e044c71d94f"
+  },
+  {
+    "name": "Coderdojo Kinsale",
+    "latitude": 51.70442809999999,
+    "longitude": -8.530442899999999,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/cork/kinsale/coderdojo-kinsale",
+    "startTime": "19:15",
+    "endTime": "20:30",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 4,
+    "id": "acffc45d-4d4f-4b86-9a9e-e0a2007ed3db"
   },
   {
     "name": "和歌山有田",
@@ -21826,6 +21700,20 @@
     "id": "b05ca2dc-65c8-4501-bf67-869acc1773c9"
   },
   {
+    "name": "Ashbourne",
+    "latitude": 53.51173390642726,
+    "longitude": -6.4001400284942065,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/meath/ashbourne/ashbourne",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "openToPublic": true,
+    "frequency": "2/m",
+    "day": 6,
+    "id": "e1bc6454-6066-46a3-ace7-de7c7235ae52"
+  },
+  {
     "name": "Selby CoderDojo",
     "latitude": 53.7870289,
     "longitude": -1.0630936,
@@ -21854,6 +21742,76 @@
     "id": "f0a3fc76-c5aa-40a3-926f-de81d1b2cc8c"
   },
   {
+    "name": "Fód as Cód",
+    "latitude": 53.08728598845651,
+    "longitude": -9.588989279446247,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/inis-meain-county-galway/fod-as-cod",
+    "startTime": "18:00",
+    "endTime": "19:30",
+    "openToPublic": false,
+    "frequency": "1/w",
+    "day": 2,
+    "id": "90ce0139-4262-4706-b17a-0627e8e0dfe6"
+  },
+  {
+    "name": "Tramore",
+    "latitude": 52.1688171,
+    "longitude": -7.146724800000015,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/waterford/tramore/tramore",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "5f202913-c7cb-4695-bc3a-a60900f87882"
+  },
+  {
+    "name": "Navan @ St. Patricks",
+    "latitude": 53.6525025,
+    "longitude": -6.697551400000066,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/navan-county-meath/navan-st-patricks",
+    "startTime": "13:00",
+    "endTime": "13:45",
+    "openToPublic": false,
+    "frequency": "1/w",
+    "day": 2,
+    "id": "a7904505-da7e-4cba-a441-971a6665df27"
+  },
+  {
+    "name": "Arainn Mhor Island",
+    "latitude": 54.98072575647496,
+    "longitude": -8.498586047668482,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/donegal/ionad-an-chrois-bhealaigh-arainn-mhor-island/arainn-mhor-island",
+    "startTime": "15:30",
+    "endTime": "17:30",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 5,
+    "id": "28f8e6d6-4931-4270-9ea6-44bccf1afe65"
+  },
+  {
+    "name": "Dundalk",
+    "latitude": 53.9842765,
+    "longitude": -6.393370399999999,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/louth/dundalk-county-louth/dundalk",
+    "startTime": "12:00",
+    "endTime": "14:30",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 6,
+    "id": "1eb7332f-4a65-4b16-a692-17fd397ff0b6"
+  },
+  {
     "name": "Belfast @ Shockwaves Makerspace",
     "latitude": 54.57373462472127,
     "longitude": -5.885235902509837,
@@ -21866,5 +21824,47 @@
     "frequency": "1/m",
     "day": 6,
     "id": "1b9a45fe-2939-4752-840c-1ec4637a4eb7"
+  },
+  {
+    "name": "Killeen, Louisburgh @ Killeen NS",
+    "latitude": 53.71691209999999,
+    "longitude": -9.873918499999945,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/killeen-louisburgh-co-mayo/killeen-louisburgh-killeen-ns",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "openToPublic": false,
+    "frequency": "1/w",
+    "day": 5,
+    "id": "c515f352-f658-4502-9401-99aeba04aa23"
+  },
+  {
+    "name": "Sallins and Naas",
+    "latitude": 53.21698629999999,
+    "longitude": -6.667578400000025,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/kildare/naas/sallins-and-amp-naas",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 3,
+    "id": "027cbd99-3d03-4d70-9f05-813665fe87ec"
+  },
+  {
+    "name": "St. Angela's School, Waterford",
+    "latitude": 52.246068174481856,
+    "longitude": -7.1136970818042755,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/waterford/st-angelas-school-waterford",
+    "startTime": "13:15",
+    "endTime": "14:00",
+    "openToPublic": false,
+    "frequency": "1/w",
+    "day": 4,
+    "id": "cf3f7e95-7ac4-42e0-8692-a3c52eded377"
   }
 ]
