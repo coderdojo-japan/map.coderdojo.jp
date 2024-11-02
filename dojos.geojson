@@ -11263,7 +11263,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-musashikosugi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/musashi-kosugi.webp' alt='武蔵小杉' loading='lazy' width='100px' /></a><br><b>武蔵小杉</b><br>武蔵小杉、向河原<br>周辺で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-musashikosugi.connpass.com/event/334740/' target='_blank' rel='noopener'>11月2日</a><br><a href='https://coderdojo-musashikosugi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-musashikosugi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/musashi-kosugi.webp' alt='武蔵小杉' loading='lazy' width='100px' /></a><br><b>武蔵小杉</b><br>武蔵小杉、向河原<br>周辺で毎月開催<br><a href='https://coderdojo-musashikosugi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -11773,7 +11773,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/tachikawa.webp' alt='立川' loading='lazy' width='100px' /></a><br><b>立川</b><br>立川市で毎月開催<br>&rarr; 次回: <a href='https://coderdojotachikawa.doorkeeper.jp/events/177857' target='_blank' rel='noopener'>11月23日</a><br><a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/tachikawa.webp' alt='立川' loading='lazy' width='100px' /></a><br><b>立川</b><br>立川市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-tachikawa.connpass.com/event/304934/' target='_blank' rel='noopener'>11月23日</a><br><a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -12298,7 +12298,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojoshirakawa.hateblo.jp/entry/top' target='_blank' rel='noopener'>  <img src='/images/dojos/shirakawa.webp' alt='白河' loading='lazy' width='100px' /></a><br><b>白河</b><br>白河市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-shirakawa.doorkeeper.jp/events/175099' target='_blank' rel='noopener'>11月2日</a><br><a href='https://coderdojoshirakawa.hateblo.jp/entry/top' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojoshirakawa.hateblo.jp/entry/top' target='_blank' rel='noopener'>  <img src='/images/dojos/shirakawa.webp' alt='白河' loading='lazy' width='100px' /></a><br><b>白河</b><br>白河市で毎月開催<br><a href='https://coderdojoshirakawa.hateblo.jp/entry/top' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -15853,7 +15853,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-naha.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/naha.webp' alt='那覇' loading='lazy' width='100px' /></a><br><b>那覇</b><br>那覇市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-naha.doorkeeper.jp/events/178997' target='_blank' rel='noopener'>11月2日</a><br><a href='https://coderdojo-naha.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-naha.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/naha.webp' alt='那覇' loading='lazy' width='100px' /></a><br><b>那覇</b><br>那覇市で毎月開催<br><a href='https://coderdojo-naha.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -16048,7 +16048,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojokibi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='吉備' loading='lazy' width='100px' /></a><br><b>吉備</b><br>岡山市北区で毎月開催<br><a href='https://coderdojokibi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojokibi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='吉備' loading='lazy' width='100px' /></a><br><b>吉備</b><br>岡山市北区で毎月開催<br>&rarr; 次回: <a href='https://coderdojokibi.connpass.com/event/334729/' target='_blank' rel='noopener'>11月16日</a><br><a href='https://coderdojokibi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -16349,21 +16349,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>CoderDojo Helsingborg<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/se/helsingborg/coderdojo-helsingborg'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.046954154968262,
-          53.58552509801924
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Digitaler Samstag @ Bücherhalle Barmbek<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/de/5-3-5-86949-1-0-0-4466-6/digitaler-samstag-buecherhalle-barmbek'>連絡先を見る</a>"
       }
     },
     {
@@ -18928,7 +18913,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nara.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/nara.webp' alt='奈良' loading='lazy' width='100px' /></a><br><b>奈良</b><br>奈良市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-nara-ikoma.connpass.com/event/333466/' target='_blank' rel='noopener'>11月2日</a><br><a href='https://coderdojo-nara.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nara.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/nara.webp' alt='奈良' loading='lazy' width='100px' /></a><br><b>奈良</b><br>奈良市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-nara-ikoma.connpass.com/event/331982/' target='_blank' rel='noopener'>11月10日</a><br><a href='https://coderdojo-nara.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -18943,7 +18928,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-komae.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/komae.webp' alt='狛江' loading='lazy' width='100px' /></a><br><b>狛江</b><br>狛江市で毎月開催<br><a href='https://coderdojo-komae.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-komae.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/komae.webp' alt='狛江' loading='lazy' width='100px' /></a><br><b>狛江</b><br>狛江市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-komae.connpass.com/event/336098/' target='_blank' rel='noopener'>11月17日</a><br><a href='https://coderdojo-komae.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -20571,21 +20556,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.0630936,
-          53.7870289
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Selby CoderDojo<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/selby/selby-olympia-1'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           8.929941549313698,
           46.03504395745587
         ]
@@ -20729,6 +20699,36 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>St. Angela's School, Waterford<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/waterford/st-angelas-school-waterford'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0630936,
+          53.7870289
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Selby CoderDojo<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/selby/selby-olympia-1'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.046954154968262,
+          53.58552509801924
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Digitaler Samstag @ Bücherhalle Barmbek<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/de/5-3-5-86949-1-0-0-4466-6/digitaler-samstag-buecherhalle-barmbek'>連絡先を見る</a>"
       }
     }
   ]
