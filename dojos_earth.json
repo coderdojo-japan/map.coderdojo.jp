@@ -17332,20 +17332,6 @@
     "id": "510a67a1-775e-49b2-b124-702144bbdcf2"
   },
   {
-    "name": "Digitaler Samstag @ Bücherhalle Barmbek",
-    "latitude": 53.58552509801924,
-    "longitude": 10.046954154968262,
-    "countryCode": "DE",
-    "stage": "REGISTER",
-    "urlSlug": "de/5-3-5-86949-1-0-0-4466-6/digitaler-samstag-buecherhalle-barmbek",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "53ee095c-e207-4729-9749-58ef76826ab4"
-  },
-  {
     "name": "Lucan @ Lucan Library",
     "latitude": 53.3487016,
     "longitude": -6.452722199999999,
@@ -21714,20 +21700,6 @@
     "id": "e1bc6454-6066-46a3-ace7-de7c7235ae52"
   },
   {
-    "name": "Selby CoderDojo",
-    "latitude": 53.7870289,
-    "longitude": -1.0630936,
-    "countryCode": "GB",
-    "stage": "OPEN",
-    "urlSlug": "gb/selby/selby-olympia-1",
-    "startTime": "10:00",
-    "endTime": "11:30",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 0,
-    "id": "4058a676-31b2-4de0-86a5-bc9b4fad8c29"
-  },
-  {
     "name": "Lugano",
     "latitude": 46.03504395745587,
     "longitude": 8.929941549313698,
@@ -21866,5 +21838,33 @@
     "frequency": "1/w",
     "day": 4,
     "id": "cf3f7e95-7ac4-42e0-8692-a3c52eded377"
+  },
+  {
+    "name": "Selby CoderDojo",
+    "latitude": 53.7870289,
+    "longitude": -1.0630936,
+    "countryCode": "GB",
+    "stage": "OPEN",
+    "urlSlug": "gb/selby/selby-olympia-1",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 0,
+    "id": "4058a676-31b2-4de0-86a5-bc9b4fad8c29"
+  },
+  {
+    "name": "Digitaler Samstag @ Bücherhalle Barmbek",
+    "latitude": 53.58552509801924,
+    "longitude": 10.046954154968262,
+    "countryCode": "DE",
+    "stage": "REGISTER",
+    "urlSlug": "de/5-3-5-86949-1-0-0-4466-6/digitaler-samstag-buecherhalle-barmbek",
+    "startTime": "10:00",
+    "endTime": "13:50",
+    "openToPublic": true,
+    "frequency": "other",
+    "day": 0,
+    "id": "53ee095c-e207-4729-9749-58ef76826ab4"
   }
 ]
