@@ -21294,20 +21294,6 @@
     "id": "be5a2d62-2f38-49a3-9a8e-3ae552c7f679"
   },
   {
-    "name": "CoderDojo Lecce",
-    "latitude": 40.36079369999999,
-    "longitude": 18.1714598,
-    "countryCode": "IT",
-    "stage": "OPEN",
-    "urlSlug": "it/lecce-province-of-lecce/coderdojo-lecce",
-    "startTime": "15:30",
-    "endTime": "19:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "3d17fcb0-30c3-4c91-a6bf-2acf561f1358"
-  },
-  {
     "name": "Hayfields, Pietermaritzburg @ SleepyHollowNinjaZone",
     "latitude": -29.6302319,
     "longitude": 30.4125158,
@@ -21320,6 +21306,20 @@
     "frequency": "1/m",
     "day": 6,
     "id": "d36c67f1-cb09-448f-9d2f-ea6509d50d6e"
+  },
+  {
+    "name": "CoderDojo Lecce",
+    "latitude": 40.36079369999999,
+    "longitude": 18.1714598,
+    "countryCode": "IT",
+    "stage": "OPEN",
+    "urlSlug": "it/lecce-province-of-lecce/coderdojo-lecce",
+    "startTime": "15:30",
+    "endTime": "19:00",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 6,
+    "id": "3d17fcb0-30c3-4c91-a6bf-2acf561f1358"
   },
   {
     "name": "Latsia, Nicosia, @ Open School",
