@@ -21658,20 +21658,6 @@
     "id": "68a22c09-6685-455b-aa1f-685aaff46615"
   },
   {
-    "name": "Trim @ Trim Family Resource Centre",
-    "latitude": 53.5523666,
-    "longitude": -6.786647399999993,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/trim-county-meath/trim-trim-family-resource-centre",
-    "startTime": "11:00",
-    "endTime": "12:30",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "5a967597-8e63-4bd0-bae1-bd90967ceb09"
-  },
-  {
     "name": "Bishops Cleeve @ Bishops Cleeve Library",
     "latitude": 51.9464473,
     "longitude": -2.0600438000000167,
@@ -21866,5 +21852,19 @@
     "frequency": "other",
     "day": 0,
     "id": "53ee095c-e207-4729-9749-58ef76826ab4"
+  },
+  {
+    "name": "Trim @ Trim Family Resource Centre",
+    "latitude": 53.5523666,
+    "longitude": -6.786647399999993,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/trim-county-meath/trim-trim-family-resource-centre",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "5a967597-8e63-4bd0-bae1-bd90967ceb09"
   }
 ]

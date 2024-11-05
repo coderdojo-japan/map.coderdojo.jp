@@ -5758,7 +5758,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-atsugi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/atsugi.webp' alt='厚木' loading='lazy' width='100px' /></a><br><b>厚木</b><br>厚木市で不定期開催<br><a href='https://coderdojo-atsugi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-atsugi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/atsugi.webp' alt='厚木' loading='lazy' width='100px' /></a><br><b>厚木</b><br>厚木市で不定期開催<br>&rarr; 次回: <a href='https://coderdojo-atsugi.connpass.com/event/336225/' target='_blank' rel='noopener'>12月22日</a><br><a href='https://coderdojo-atsugi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -20511,21 +20511,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.786647399999993,
-          53.5523666
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Trim @ Trim Family Resource Centre<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/trim-county-meath/trim-trim-family-resource-centre'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.0600438000000167,
           51.9464473
         ]
@@ -20729,6 +20714,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Digitaler Samstag @ Bücherhalle Barmbek<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/de/5-3-5-86949-1-0-0-4466-6/digitaler-samstag-buecherhalle-barmbek'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.786647399999993,
+          53.5523666
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Trim @ Trim Family Resource Centre<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/trim-county-meath/trim-trim-family-resource-centre'>連絡先を見る</a>"
       }
     }
   ]
