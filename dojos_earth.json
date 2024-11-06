@@ -12138,20 +12138,6 @@
     "id": "f126911d-5a5e-4fbe-89ef-de2feb46a232"
   },
   {
-    "name": "Votanikos@63GymAth",
-    "latitude": 37.9760654,
-    "longitude": 23.7038101,
-    "countryCode": "GR",
-    "stage": "REGISTER",
-    "urlSlug": "gr/central-athens/votanikos-63-gymath",
-    "startTime": "16:30",
-    "endTime": "18:00",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "e0e6418b-3f65-4791-ba0a-56eb786f3789"
-  },
-  {
     "name": "Münster @ TechLabs e. V.",
     "latitude": 51.9750434,
     "longitude": 7.5995667,
@@ -21854,9 +21840,23 @@
     "id": "53ee095c-e207-4729-9749-58ef76826ab4"
   },
   {
-    "name": "Trim @ Trim Family Resource Centre",
-    "latitude": 53.5523666,
-    "longitude": -6.786647399999993,
+    "name": "Votanikos@63GymAth",
+    "latitude": 37.9760654,
+    "longitude": 23.7038101,
+    "countryCode": "GR",
+    "stage": "REGISTER",
+    "urlSlug": "gr/central-athens/votanikos-63-gymath",
+    "startTime": "16:30",
+    "endTime": "18:00",
+    "openToPublic": true,
+    "frequency": "2/m",
+    "day": 6,
+    "id": "e0e6418b-3f65-4791-ba0a-56eb786f3789"
+  },
+  {
+    "name": "Trim CoderDojo @ Trim Family Resource Centre",
+    "latitude": 53.5500940859185,
+    "longitude": -6.790993069170794,
     "countryCode": "IE",
     "stage": "OPEN",
     "urlSlug": "ie/trim-county-meath/trim-trim-family-resource-centre",
