@@ -11032,20 +11032,6 @@
     "id": "e3a531d8-70d6-4e56-868c-894563424096"
   },
   {
-    "name": "Ipswich @ Ipswich Makerspace",
-    "latitude": 52.0562172,
-    "longitude": 1.1647077,
-    "countryCode": "GB",
-    "stage": "REGISTER",
-    "urlSlug": "gb/ipswich/ipswich-ipswich-makerspace",
-    "startTime": "14:00",
-    "endTime": "16:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 0,
-    "id": "6452334b-c6c0-4fe4-8a6a-ff9da1c6ee21"
-  },
-  {
     "name": "岩国",
     "latitude": 34.093219520916435,
     "longitude": 132.05178022384644,
@@ -12446,6 +12432,20 @@
     "id": "fc1fb126-fe99-4ef6-b8db-46f348869369"
   },
   {
+    "name": "Eyrecourt",
+    "latitude": 53.201319217066086,
+    "longitude": -8.129872191332993,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/galway/eyrecourt-ns-eyrecourt-ballinasloe-co-galway/eyrecourt",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "openToPublic": false,
+    "frequency": "1/w",
+    "day": 3,
+    "id": "aa3dd322-a55b-42e4-b649-286b18f59edb"
+  },
+  {
     "name": "Bramley Road @ Oakwood Library",
     "latitude": 51.64843843482686,
     "longitude": -0.12859582901000977,
@@ -12486,20 +12486,6 @@
     "frequency": "1/m",
     "day": 0,
     "id": "f3a379c1-46c5-4a9f-9f9f-6469f0aa05d3"
-  },
-  {
-    "name": "Eyrecourt",
-    "latitude": 53.201319217066086,
-    "longitude": -8.129872191332993,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/galway/eyrecourt-ns-eyrecourt-ballinasloe-co-galway/eyrecourt",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": false,
-    "frequency": "other",
-    "day": null,
-    "id": "aa3dd322-a55b-42e4-b649-286b18f59edb"
   },
   {
     "name": "Bundang@Naver Library",
@@ -21866,5 +21852,19 @@
     "frequency": "1/w",
     "day": 6,
     "id": "5a967597-8e63-4bd0-bae1-bd90967ceb09"
+  },
+  {
+    "name": "Ipswich @ Ipswich Makerspace",
+    "latitude": 52.0562172,
+    "longitude": 1.1647077,
+    "countryCode": "GB",
+    "stage": "REGISTER",
+    "urlSlug": "gb/ipswich/ipswich-ipswich-makerspace",
+    "startTime": "14:00",
+    "endTime": "16:00",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 0,
+    "id": "6452334b-c6c0-4fe4-8a6a-ff9da1c6ee21"
   }
 ]
