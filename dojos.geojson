@@ -10521,21 +10521,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.1647077,
-          52.0562172
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Ipswich @ Ipswich Makerspace<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/ipswich/ipswich-ipswich-makerspace'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           132.05178022384644,
           34.093219520916435
         ]
@@ -11758,7 +11743,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/tachikawa.webp' alt='立川' loading='lazy' width='100px' /></a><br><b>立川</b><br>立川市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-tachikawa.connpass.com/event/304934/' target='_blank' rel='noopener'>11月23日</a><br><a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/tachikawa.webp' alt='立川' loading='lazy' width='100px' /></a><br><b>立川</b><br>立川市で毎月開催<br>&rarr; 次回: <a href='https://coderdojotachikawa.doorkeeper.jp/events/177857' target='_blank' rel='noopener'>11月23日</a><br><a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -11841,6 +11826,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -8.129872191332993,
+          53.201319217066086
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Eyrecourt<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/galway/eyrecourt-ns-eyrecourt-ballinasloe-co-galway/eyrecourt'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.12859582901000977,
           51.64843843482686
         ]
@@ -11879,21 +11879,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<a href='https://sites.google.com/view/coderdojo-tottori' target='_blank' rel='noopener'>  <img src='/images/dojos/tottori.webp' alt='鳥取' loading='lazy' width='100px' /></a><br><b>鳥取</b><br>鳥取市で毎月開催<br><a href='https://sites.google.com/view/coderdojo-tottori' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.129872191332993,
-          53.201319217066086
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Eyrecourt<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/galway/eyrecourt-ns-eyrecourt-ballinasloe-co-galway/eyrecourt'>連絡先を見る</a>"
       }
     },
     {
@@ -20729,6 +20714,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Trim CoderDojo @ Trim Family Resource Centre<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/trim-county-meath/trim-trim-family-resource-centre'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1647077,
+          52.0562172
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Ipswich @ Ipswich Makerspace<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/ipswich/ipswich-ipswich-makerspace'>連絡先を見る</a>"
       }
     }
   ]
