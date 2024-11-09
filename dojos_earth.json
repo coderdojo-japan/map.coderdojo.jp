@@ -10388,20 +10388,6 @@
     "id": "bfa73680-76f9-43c4-add8-02f7c8850816"
   },
   {
-    "name": "日本橋",
-    "latitude": 35.67791080349318,
-    "longitude": 139.77728676417112,
-    "countryCode": "JP",
-    "stage": "OPEN",
-    "urlSlug": null,
-    "startTime": "09:15",
-    "endTime": "12:00",
-    "openToPublic": true,
-    "frequency": "other",
-    "day": 0,
-    "id": "deb9b382-737b-492e-83c1-9c1ac77098ac"
-  },
-  {
     "name": "Prestwich",
     "latitude": 53.5328545,
     "longitude": -2.2841865,
@@ -10414,6 +10400,20 @@
     "frequency": "1/m",
     "day": 0,
     "id": "3f9921ea-0e02-4a9d-8eeb-bcbfcfcfad84"
+  },
+  {
+    "name": "日本橋",
+    "latitude": 35.67791080349318,
+    "longitude": 139.77728676417112,
+    "countryCode": "JP",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "startTime": "09:15",
+    "endTime": "12:00",
+    "openToPublic": true,
+    "frequency": "other",
+    "day": 0,
+    "id": "deb9b382-737b-492e-83c1-9c1ac77098ac"
   },
   {
     "name": "蒲田@ユニークアイネット",
