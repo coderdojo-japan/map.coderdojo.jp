@@ -11108,11 +11108,11 @@
     "countryCode": "GB",
     "stage": "OPEN",
     "urlSlug": null,
-    "startTime": "13:00",
-    "endTime": "15:00",
+    "startTime": "14:00",
+    "endTime": "15:30",
     "openToPublic": true,
     "frequency": "1/w",
-    "day": 6,
+    "day": 0,
     "id": "01936f0d-abc7-43f5-b170-ef677af0c157"
   },
   {
