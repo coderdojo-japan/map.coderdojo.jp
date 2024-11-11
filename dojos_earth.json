@@ -18592,20 +18592,6 @@
     "id": "ab605299-d4a9-481c-9e37-67a65775b7fd"
   },
   {
-    "name": "Southwest Denver @ Denver Public Library - Bear Valley branch",
-    "latitude": 39.6564973,
-    "longitude": -105.0514474,
-    "countryCode": "US",
-    "stage": "OPEN",
-    "urlSlug": null,
-    "startTime": "10:00",
-    "endTime": "14:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "5161f260-392d-4083-bd78-48a5a5cf501e"
-  },
-  {
     "name": "Burnie",
     "latitude": -41.060091,
     "longitude": 145.898368,
@@ -21866,5 +21852,19 @@
     "frequency": "1/w",
     "day": 6,
     "id": "5a967597-8e63-4bd0-bae1-bd90967ceb09"
+  },
+  {
+    "name": "Southwest Denver @ Denver Public Library - Bear Valley branch",
+    "latitude": 39.6564973,
+    "longitude": -105.0514474,
+    "countryCode": "US",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "startTime": "10:00",
+    "endTime": "14:00",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 6,
+    "id": "5161f260-392d-4083-bd78-48a5a5cf501e"
   }
 ]
