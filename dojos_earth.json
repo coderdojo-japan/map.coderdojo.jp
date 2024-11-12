@@ -4676,20 +4676,6 @@
     "id": "ccd40b07-fb55-425d-b38f-0c2f35634f35"
   },
   {
-    "name": "Deansrath Clondalkin Coder Dojo",
-    "latitude": 53.3251755,
-    "longitude": -6.413773,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/dublin/dublin/deansrath-clondalkin-coder-dojo",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "efb7495b-fb71-42c2-80cf-5661e6bf2111"
-  },
-  {
     "name": "Baku@Edtech Azerbaijan",
     "latitude": 40.3780441,
     "longitude": 49.81060579999996,
@@ -4702,6 +4688,20 @@
     "frequency": "1/m",
     "day": 6,
     "id": "1fa86d66-b3c6-4e28-9835-f5567d47f3cb"
+  },
+  {
+    "name": "Deansrath Clondalkin Coder Dojo",
+    "latitude": 53.3251755,
+    "longitude": -6.413773,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/dublin/dublin/deansrath-clondalkin-coder-dojo",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 0,
+    "id": "efb7495b-fb71-42c2-80cf-5661e6bf2111"
   },
   {
     "name": "Lviv @ Molodvizh",
@@ -7882,20 +7882,6 @@
     "id": "36b1d060-df97-47da-aede-b374af8cc15c"
   },
   {
-    "name": "Dunlavin, Wicklow",
-    "latitude": 53.055118,
-    "longitude": -6.698764799999935,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/wicklow/scoil-nioclais-naofa-stephen-st-dunlavin-co-wicklow/dunlavin-wicklow",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "0353da1b-7c3f-40c4-b0b8-f7edffa3c704"
-  },
-  {
     "name": "Usera, Madrid @ CSC Capuchinos",
     "latitude": 40.3905557,
     "longitude": -3.7094428000000335,
@@ -7936,6 +7922,20 @@
     "frequency": "other",
     "day": null,
     "id": "36ebe25e-f27e-476c-b1f5-7a945b139239"
+  },
+  {
+    "name": "Dunlavin, Wicklow",
+    "latitude": 53.055118,
+    "longitude": -6.698764799999935,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/wicklow/scoil-nioclais-naofa-stephen-st-dunlavin-co-wicklow/dunlavin-wicklow",
+    "startTime": "19:00",
+    "endTime": "20:30",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 3,
+    "id": "0353da1b-7c3f-40c4-b0b8-f7edffa3c704"
   },
   {
     "name": "Den Haag",
@@ -11436,20 +11436,6 @@
     "frequency": "2/m",
     "day": 6,
     "id": "c7230062-8ac5-4fcf-b131-2472da36ce92"
-  },
-  {
-    "name": "Vsetín@Masarykova veřejná knihovna",
-    "latitude": 49.33952410000001,
-    "longitude": 17.994083700000033,
-    "countryCode": "CZ",
-    "stage": "REGISTER",
-    "urlSlug": "cz/vsetin/vsetin-masarykova-verejna-knihovna",
-    "startTime": "15:30",
-    "endTime": "19:00",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 2,
-    "id": "48756856-4a54-4820-b4e0-f4b9323d2b18"
   },
   {
     "name": "Deventer",
@@ -17528,20 +17514,6 @@
     "id": "f7c90845-33b4-4b3d-b8bf-ad021ddcbb74"
   },
   {
-    "name": "Bray",
-    "latitude": 53.19197032889269,
-    "longitude": -6.101875305175781,
-    "countryCode": "IE",
-    "stage": "FULL",
-    "urlSlug": "ie/wicklow/bray-county-wicklow/bray",
-    "startTime": "14:30",
-    "endTime": "16:30",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "f333cd7c-09cf-472a-8e84-6b7b949056d1"
-  },
-  {
     "name": "Kinshasa",
     "latitude": -4.432377,
     "longitude": 15.37995019999994,
@@ -21866,5 +21838,33 @@
     "frequency": "1/m",
     "day": 6,
     "id": "5161f260-392d-4083-bd78-48a5a5cf501e"
+  },
+  {
+    "name": "Vsetín@Masarykova veřejná knihovna",
+    "latitude": 49.33952410000001,
+    "longitude": 17.994083700000033,
+    "countryCode": "CZ",
+    "stage": "REGISTER",
+    "urlSlug": "cz/vsetin/vsetin-masarykova-verejna-knihovna",
+    "startTime": "15:30",
+    "endTime": "19:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 2,
+    "id": "48756856-4a54-4820-b4e0-f4b9323d2b18"
+  },
+  {
+    "name": "Bray",
+    "latitude": 53.19197032889269,
+    "longitude": -6.101875305175781,
+    "countryCode": "IE",
+    "stage": "FULL",
+    "urlSlug": "ie/wicklow/bray-county-wicklow/bray",
+    "startTime": "14:30",
+    "endTime": "16:30",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "f333cd7c-09cf-472a-8e84-6b7b949056d1"
   }
 ]

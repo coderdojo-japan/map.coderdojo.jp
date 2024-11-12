@@ -4371,21 +4371,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.413773,
-          53.3251755
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Deansrath Clondalkin Coder Dojo<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin/dublin/deansrath-clondalkin-coder-dojo'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           49.81060579999996,
           40.3780441
         ]
@@ -4394,6 +4379,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Baku@Edtech Azerbaijan<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/az/baku/baku-edtech-azerbaijan'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.413773,
+          53.3251755
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Deansrath Clondalkin Coder Dojo<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin/dublin/deansrath-clondalkin-coder-dojo'>連絡先を見る</a>"
       }
     },
     {
@@ -7431,21 +7431,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.698764799999935,
-          53.055118
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dunlavin, Wicklow<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/wicklow/scoil-nioclais-naofa-stephen-st-dunlavin-co-wicklow/dunlavin-wicklow'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.7094428000000335,
           40.3905557
         ]
@@ -7484,6 +7469,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Indianapolis @ Chase Legacy Center<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/indiana/indianapolis/indianapolis-chase-legacy-center'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.698764799999935,
+          53.055118
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dunlavin, Wicklow<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/wicklow/scoil-nioclais-naofa-stephen-st-dunlavin-co-wicklow/dunlavin-wicklow'>連絡先を見る</a>"
       }
     },
     {
@@ -10814,21 +10814,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Delhi @ Kanu<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/in/rohini-delhi/delhi-kanu'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.994083700000033,
-          49.33952410000001
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Vsetín@Masarykova veřejná knihovna<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/cz/vsetin/vsetin-masarykova-verejna-knihovna'>連絡先を見る</a>"
       }
     },
     {
@@ -16656,21 +16641,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.101875305175781,
-          53.19197032889269
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Bray<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/wicklow/bray-county-wicklow/bray'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           15.37995019999994,
           -4.432377
         ]
@@ -18778,7 +18748,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojoiida.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='飯田' loading='lazy' width='100px' /></a><br><b>飯田</b><br>飯田市で第2土曜開催<br><a href='https://coderdojoiida.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojoiida.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='飯田' loading='lazy' width='100px' /></a><br><b>飯田</b><br>飯田市で第2土曜開催<br>&rarr; 次回: <a href='https://coderdojoiida.connpass.com/event/336957/' target='_blank' rel='noopener'>12月14日</a><br><a href='https://coderdojoiida.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -20729,6 +20699,36 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Southwest Denver @ Denver Public Library - Bear Valley branch<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.994083700000033,
+          49.33952410000001
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Vsetín@Masarykova veřejná knihovna<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/cz/vsetin/vsetin-masarykova-verejna-knihovna'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.101875305175781,
+          53.19197032889269
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Bray<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/wicklow/bray-county-wicklow/bray'>連絡先を見る</a>"
       }
     }
   ]
