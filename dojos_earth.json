@@ -6188,6 +6188,20 @@
     "id": "fc1fb126-fe99-4ef6-b8db-46f348869369"
   },
   {
+    "name": "Eyrecourt",
+    "latitude": 53.201319217066086,
+    "longitude": -8.129872191332993,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/galway/eyrecourt-ns-eyrecourt-ballinasloe-co-galway/eyrecourt",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "openToPublic": false,
+    "frequency": "1/w",
+    "day": 3,
+    "id": "aa3dd322-a55b-42e4-b649-286b18f59edb"
+  },
+  {
     "name": "Bramley Road @ Oakwood Library",
     "latitude": 51.64843843482686,
     "longitude": -0.12859582901000977,
@@ -6214,20 +6228,6 @@
     "frequency": "other",
     "day": null,
     "id": "1eaf680a-4ea2-40a8-96b9-ac20d03bda24"
-  },
-  {
-    "name": "Eyrecourt",
-    "latitude": 53.201319217066086,
-    "longitude": -8.129872191332993,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/galway/eyrecourt-ns-eyrecourt-ballinasloe-co-galway/eyrecourt",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 3,
-    "id": "aa3dd322-a55b-42e4-b649-286b18f59edb"
   },
   {
     "name": "Bundang@Naver Library",
