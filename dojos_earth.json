@@ -518,20 +518,6 @@
     "id": "4e7bf79a-ee8d-4919-b916-2c17159fdd9c"
   },
   {
-    "name": "Hechtel-Eksel",
-    "latitude": 51.12533055237951,
-    "longitude": 5.362722873687744,
-    "countryCode": "BE",
-    "stage": "REGISTER",
-    "urlSlug": "be/hechtel-eksel/hechtel-eksel",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "b511c11c-8d9d-4915-8f21-52dc6812f3f7"
-  },
-  {
     "name": "CLT@Accenture",
     "latitude": 35.2248873,
     "longitude": -80.843337,
@@ -544,6 +530,20 @@
     "frequency": "1/w",
     "day": 2,
     "id": "d6ecfdf9-66de-4e1e-9446-ac8e9b180eeb"
+  },
+  {
+    "name": "Hechtel-Eksel",
+    "latitude": 51.12533055237951,
+    "longitude": 5.362722873687744,
+    "countryCode": "BE",
+    "stage": "REGISTER",
+    "urlSlug": "be/hechtel-eksel/hechtel-eksel",
+    "startTime": null,
+    "endTime": null,
+    "openToPublic": true,
+    "frequency": "other",
+    "day": null,
+    "id": "b511c11c-8d9d-4915-8f21-52dc6812f3f7"
   },
   {
     "name": "Pendleton @ PCL",
@@ -4262,8 +4262,8 @@
     "countryCode": "PH",
     "stage": "PENDING",
     "urlSlug": "ph/manila-metro-manila/accenture-ph",
-    "startTime": null,
-    "endTime": null,
+    "startTime": "16:00",
+    "endTime": "16:10",
     "openToPublic": false,
     "frequency": "1/w",
     "day": 1,
@@ -4424,20 +4424,6 @@
     "id": "28409fa5-41d2-47f8-83ee-f8f8bd107174"
   },
   {
-    "name": "Austin @ Accenture",
-    "latitude": 30.2609153,
-    "longitude": -97.79001900000003,
-    "countryCode": "US",
-    "stage": "OPEN",
-    "urlSlug": "us/austin-tx/austin-accenture",
-    "startTime": "10:00",
-    "endTime": "13:00",
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "e47caa50-68d1-4780-90d6-0fc624d1ad5a"
-  },
-  {
     "name": "Shimane @ Gotsu",
     "latitude": 35.0355573,
     "longitude": 132.2725428,
@@ -4450,6 +4436,20 @@
     "frequency": "1/m",
     "day": 0,
     "id": "0c422d07-3cd2-4cdb-a8fe-a54eec5c3605"
+  },
+  {
+    "name": "Austin @ Accenture",
+    "latitude": 30.2609153,
+    "longitude": -97.79001900000003,
+    "countryCode": "US",
+    "stage": "OPEN",
+    "urlSlug": "us/austin-tx/austin-accenture",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "openToPublic": false,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "e47caa50-68d1-4780-90d6-0fc624d1ad5a"
   },
   {
     "name": "Rikuzentakata @ Iwate",
@@ -9366,20 +9366,6 @@
     "id": "72b7a240-a4d4-472f-836e-c12c67faa9eb"
   },
   {
-    "name": "SiliconDocks @ Accenture The Dock",
-    "latitude": 53.3438095,
-    "longitude": -6.232834000000025,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/dublin-2/silicondocks-accenture-the-dock",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "731d7415-98d0-40ce-8db5-fe371285f206"
-  },
-  {
     "name": "Blekinge",
     "latitude": 56.1648742,
     "longitude": 14.8657209,
@@ -9406,6 +9392,20 @@
     "frequency": "1/m",
     "day": 1,
     "id": "7333e389-0b73-49c1-8ed1-e8df056b7356"
+  },
+  {
+    "name": "SiliconDocks @ Accenture The Dock",
+    "latitude": 53.3438095,
+    "longitude": -6.232834000000025,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/dublin-2/silicondocks-accenture-the-dock",
+    "startTime": "18:00",
+    "endTime": "19:30",
+    "openToPublic": true,
+    "frequency": "2/m",
+    "day": 0,
+    "id": "731d7415-98d0-40ce-8db5-fe371285f206"
   },
   {
     "name": "ICT Scouts/Campus",
@@ -12502,20 +12502,6 @@
     "id": "273226a1-10fe-48ee-a234-0074e3b74616"
   },
   {
-    "name": "Bogota @ Accenture 10",
-    "latitude": 4.6543262,
-    "longitude": -74.05535909999999,
-    "countryCode": "CO",
-    "stage": "OPEN",
-    "urlSlug": "co/bogota/bogota-accenture-10",
-    "startTime": "10:00",
-    "endTime": "12:00",
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "6296726b-60c0-41b3-b224-bc77a67707a9"
-  },
-  {
     "name": "Napanee Branch @ Lennox + Addington Libraries",
     "latitude": 44.2422494,
     "longitude": -76.9484013,
@@ -13608,20 +13594,6 @@
     "id": "337ff52d-3bf7-4e7b-b105-6f13a9dfc853"
   },
   {
-    "name": "MED-JAVA-3 @ Accenture Bogata",
-    "latitude": 6.2234893,
-    "longitude": -75.5976564,
-    "countryCode": "CO",
-    "stage": "OPEN",
-    "urlSlug": "co/medellin-medellin-antioquia/med-java-3-accenture-bogata",
-    "startTime": "09:00",
-    "endTime": "12:00",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "13ff2c93-6499-4735-b1db-2f75bde4fec8"
-  },
-  {
     "name": "GCM Computer Club",
     "latitude": 51.91114161263148,
     "longitude": -8.480326459859285,
@@ -14236,20 +14208,6 @@
     "frequency": "2/m",
     "day": 0,
     "id": "a786f94a-e6d8-4369-9663-1d1eb9dc9359"
-  },
-  {
-    "name": "Delhi, Literacy India @ Accenture",
-    "latitude": 28.5089956,
-    "longitude": 77.2010449,
-    "countryCode": "IN",
-    "stage": "OPEN",
-    "urlSlug": "in/new-delhi-delhi/delhi-literacy-india-accenture",
-    "startTime": "14:30",
-    "endTime": "16:30",
-    "openToPublic": false,
-    "frequency": "2/m",
-    "day": 6,
-    "id": "f41c942f-fa27-4b24-88fc-5116c339fe5a"
   },
   {
     "name": "Egypt,PortSaid@SmartPeekAcademy",
@@ -15062,20 +15020,6 @@
     "frequency": "1/w",
     "day": 1,
     "id": "97de872c-9481-409d-9971-9734841a4094"
-  },
-  {
-    "name": "Kolkata,Accenture@RaniBhabani School",
-    "latitude": 22.5916901,
-    "longitude": 88.3724551,
-    "countryCode": "IN",
-    "stage": "OPEN",
-    "urlSlug": "in/kolkata-west-bengal/kolkata-accenture-ranibhabani-school",
-    "startTime": "10:30",
-    "endTime": "12:30",
-    "openToPublic": false,
-    "frequency": "2/m",
-    "day": 0,
-    "id": "bac29707-1376-499d-afba-aaf05a49a763"
   },
   {
     "name": "Brno @ ZSHamry",
@@ -18410,20 +18354,6 @@
     "id": "f4ab34c5-478e-42c2-8eec-549fea1265fe"
   },
   {
-    "name": "Bijwasan, New Delhi @ Accenture",
-    "latitude": 28.5341264,
-    "longitude": 77.05487939999999,
-    "countryCode": "IN",
-    "stage": "OPEN",
-    "urlSlug": "in/new-delhi-delhi/bijwasan-new-delhi-accenture",
-    "startTime": "10:00",
-    "endTime": "12:00",
-    "openToPublic": false,
-    "frequency": "2/m",
-    "day": 0,
-    "id": "022a4025-de18-4010-86af-0dae437e7b34"
-  },
-  {
     "name": "Consiju",
     "latitude": 12.5607837,
     "longitude": -16.28398459999994,
@@ -19024,20 +18954,6 @@
     "frequency": "other",
     "day": 4,
     "id": "b86c5a78-f774-49c5-bd87-3a0c7e010f56"
-  },
-  {
-    "name": "Accenture PH",
-    "latitude": 14.5557816,
-    "longitude": 121.05466219999994,
-    "countryCode": "PH",
-    "stage": "OPEN",
-    "urlSlug": "ph/taguig-city-metro-manila/accenture-ph",
-    "startTime": "12:00",
-    "endTime": "13:30",
-    "openToPublic": false,
-    "frequency": "2/m",
-    "day": 4,
-    "id": "943b2067-26d3-4220-872e-9acb7bf7b4d7"
   },
   {
     "name": "Sanu Global Academy - Marawila",
@@ -21866,5 +21782,89 @@
     "frequency": "1/w",
     "day": 6,
     "id": "f333cd7c-09cf-472a-8e84-6b7b949056d1"
+  },
+  {
+    "name": "MED-JAVA-3 @ Accenture Bogata",
+    "latitude": 6.2234893,
+    "longitude": -75.5976564,
+    "countryCode": "CO",
+    "stage": "OPEN",
+    "urlSlug": "co/medellin-medellin-antioquia/med-java-3-accenture-bogata",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "13ff2c93-6499-4735-b1db-2f75bde4fec8"
+  },
+  {
+    "name": "Bijwasan, New Delhi @ Accenture",
+    "latitude": 28.5341264,
+    "longitude": 77.05487939999999,
+    "countryCode": "IN",
+    "stage": "OPEN",
+    "urlSlug": "in/new-delhi-delhi/bijwasan-new-delhi-accenture",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "openToPublic": false,
+    "frequency": "2/m",
+    "day": 0,
+    "id": "022a4025-de18-4010-86af-0dae437e7b34"
+  },
+  {
+    "name": "Delhi, Literacy India @ Accenture",
+    "latitude": 28.5089956,
+    "longitude": 77.2010449,
+    "countryCode": "IN",
+    "stage": "OPEN",
+    "urlSlug": "in/new-delhi-delhi/delhi-literacy-india-accenture",
+    "startTime": "14:30",
+    "endTime": "16:30",
+    "openToPublic": false,
+    "frequency": "2/m",
+    "day": 6,
+    "id": "f41c942f-fa27-4b24-88fc-5116c339fe5a"
+  },
+  {
+    "name": "Bogota @ Accenture 10",
+    "latitude": 4.6543262,
+    "longitude": -74.05535909999999,
+    "countryCode": "CO",
+    "stage": "OPEN",
+    "urlSlug": "co/bogota/bogota-accenture-10",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "openToPublic": false,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "6296726b-60c0-41b3-b224-bc77a67707a9"
+  },
+  {
+    "name": "Kolkata,Accenture@RaniBhabani School",
+    "latitude": 22.5916901,
+    "longitude": 88.3724551,
+    "countryCode": "IN",
+    "stage": "OPEN",
+    "urlSlug": "in/kolkata-west-bengal/kolkata-accenture-ranibhabani-school",
+    "startTime": "10:30",
+    "endTime": "12:30",
+    "openToPublic": false,
+    "frequency": "2/m",
+    "day": 0,
+    "id": "bac29707-1376-499d-afba-aaf05a49a763"
+  },
+  {
+    "name": "Accenture PH",
+    "latitude": 14.5557816,
+    "longitude": 121.05466219999994,
+    "countryCode": "PH",
+    "stage": "OPEN",
+    "urlSlug": "ph/taguig-city-metro-manila/accenture-ph",
+    "startTime": "12:00",
+    "endTime": "13:30",
+    "openToPublic": false,
+    "frequency": "2/m",
+    "day": 4,
+    "id": "943b2067-26d3-4220-872e-9acb7bf7b4d7"
   }
 ]

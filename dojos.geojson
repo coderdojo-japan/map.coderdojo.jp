@@ -486,21 +486,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.362722873687744,
-          51.12533055237951
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Hechtel-Eksel<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/hechtel-eksel/hechtel-eksel'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.843337,
           35.2248873
         ]
@@ -509,6 +494,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>CLT@Accenture<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/charlotte-nc/clt-accenture'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.362722873687744,
+          51.12533055237951
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Hechtel-Eksel<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/hechtel-eksel/hechtel-eksel'>連絡先を見る</a>"
       }
     },
     {
@@ -6388,7 +6388,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://shinagawa-gotenyama.coderdojo.roundtable.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/shinagawa-gotenyama.webp' alt='品川御殿山' loading='lazy' width='100px' /></a><br><b>品川御殿山</b><br>品川区で不定期開催<br><a href='https://shinagawa-gotenyama.coderdojo.roundtable.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://shinagawa-gotenyama.coderdojo.roundtable.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/shinagawa-gotenyama.webp' alt='品川御殿山' loading='lazy' width='100px' /></a><br><b>品川御殿山</b><br>品川区で不定期開催<br>&rarr; 次回: <a href='https://coderdojo-shinagawa-gotenyama.connpass.com/event/337307/' target='_blank' rel='noopener'>11月16日</a><br><a href='https://shinagawa-gotenyama.coderdojo.roundtable.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -8916,21 +8916,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.232834000000025,
-          53.3438095
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>SiliconDocks @ Accenture The Dock<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin-2/silicondocks-accenture-the-dock'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.140839000000028,
           51.1625299
         ]
@@ -8939,6 +8924,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Sint-Niklaas@bib<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/oost-vlaanderen/sint-niklaas-bib'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.232834000000025,
+          53.3438095
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>SiliconDocks @ Accenture The Dock<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin-2/silicondocks-accenture-the-dock'>連絡先を見る</a>"
       }
     },
     {
@@ -11811,21 +11811,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.05535909999999,
-          4.6543262
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Bogota @ Accenture 10<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/co/bogota/bogota-accenture-10'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -76.9484013,
           44.2422494
         ]
@@ -12876,21 +12861,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.5976564,
-          6.2234893
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>MED-JAVA-3 @ Accenture Bogata<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/co/medellin-medellin-antioquia/med-java-3-accenture-bogata'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -8.480326459859285,
           51.91114161263148
         ]
@@ -13484,21 +13454,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Sanaa @ YODET<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ye/sanaa/sanaa-yodet'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.2010449,
-          28.5089956
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Delhi, Literacy India @ Accenture<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/in/new-delhi-delhi/delhi-literacy-india-accenture'>連絡先を見る</a>"
       }
     },
     {
@@ -14324,21 +14279,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Turda @ Scoala Gimnaziala<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ro/turda/turda-scoala-gimnaziala'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.3724551,
-          22.5916901
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Kolkata,Accenture@RaniBhabani School<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/in/kolkata-west-bengal/kolkata-accenture-ranibhabani-school'>連絡先を見る</a>"
       }
     },
     {
@@ -17421,21 +17361,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.05487939999999,
-          28.5341264
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Bijwasan, New Delhi @ Accenture<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/in/new-delhi-delhi/bijwasan-new-delhi-accenture'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -16.28398459999994,
           12.5607837
         ]
@@ -17984,21 +17909,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<a href='https://www.npokuru2.net/coderdojo%E5%AE%A4%E8%98%AD' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='室蘭' loading='lazy' width='100px' /></a><br><b>室蘭</b><br>室蘭市で毎月開催<br><a href='https://www.npokuru2.net/coderdojo%E5%AE%A4%E8%98%AD' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.05466219999994,
-          14.5557816
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Accenture PH<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ph/taguig-city-metro-manila/accenture-ph'>連絡先を見る</a>"
       }
     },
     {
@@ -19528,7 +19438,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojoome.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/ome.webp' alt='青梅' loading='lazy' width='100px' /></a><br><b>青梅</b><br>青梅市で毎月開催<br><a href='https://coderdojoome.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojoome.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/ome.webp' alt='青梅' loading='lazy' width='100px' /></a><br><b>青梅</b><br>青梅市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-ome.connpass.com/event/336882/' target='_blank' rel='noopener'>12月8日</a><br><a href='https://coderdojoome.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -20729,6 +20639,96 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Bray<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/wicklow/bray-county-wicklow/bray'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5976564,
+          6.2234893
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>MED-JAVA-3 @ Accenture Bogata<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/co/medellin-medellin-antioquia/med-java-3-accenture-bogata'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.05487939999999,
+          28.5341264
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Bijwasan, New Delhi @ Accenture<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/in/new-delhi-delhi/bijwasan-new-delhi-accenture'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2010449,
+          28.5089956
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Delhi, Literacy India @ Accenture<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/in/new-delhi-delhi/delhi-literacy-india-accenture'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05535909999999,
+          4.6543262
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Bogota @ Accenture 10<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/co/bogota/bogota-accenture-10'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3724551,
+          22.5916901
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Kolkata,Accenture@RaniBhabani School<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/in/kolkata-west-bengal/kolkata-accenture-ranibhabani-school'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.05466219999994,
+          14.5557816
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Accenture PH<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ph/taguig-city-metro-manila/accenture-ph'>連絡先を見る</a>"
       }
     }
   ]
