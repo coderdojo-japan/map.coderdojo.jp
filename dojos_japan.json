@@ -1002,7 +1002,7 @@
     "logo": "https://coderdojo.jp/img/dojos/kofu.webp",
     "order": "192015",
     "counter": 1,
-    "is_active": false,
+    "is_active": true,
     "prefecture": "山梨",
     "created_at": "2017-05-29T00:00:00.000+09:00",
     "description": "甲府市で毎月開催"
