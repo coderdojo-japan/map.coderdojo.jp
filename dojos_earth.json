@@ -21336,20 +21336,6 @@
     "id": "211632ab-40bf-4d90-98bc-f79452dcdcb1"
   },
   {
-    "name": "Kinvara",
-    "latitude": 53.1392594,
-    "longitude": -8.942205999999942,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/galway/st-josephs-national-school-kinvara-co-galway/kinvara",
-    "startTime": "16:00",
-    "endTime": "18:00",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "6759de0d-96ee-44f5-8f52-9c9a6eb2176e"
-  },
-  {
     "name": "Rathfarnham",
     "latitude": 53.290705725835736,
     "longitude": -6.299334657861664,
@@ -21866,5 +21852,19 @@
     "frequency": "2/m",
     "day": 4,
     "id": "943b2067-26d3-4220-872e-9acb7bf7b4d7"
+  },
+  {
+    "name": "Kinvara",
+    "latitude": 53.1392594,
+    "longitude": -8.942205999999942,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "6759de0d-96ee-44f5-8f52-9c9a6eb2176e"
   }
 ]
