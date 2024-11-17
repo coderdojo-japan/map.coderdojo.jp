@@ -3718,5 +3718,17 @@
     "prefecture": "東京",
     "created_at": "2024-10-29T00:00:00.000+09:00",
     "description": "日野市で毎月開催"
+  },
+  {
+    "id": 329,
+    "url": "https://coderdojo-hirano.com/",
+    "name": "平野@YOZORA LABO",
+    "logo": "https://coderdojo.jp/img/dojos/hirano.webp",
+    "order": "271268",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "大阪",
+    "created_at": "2024-11-17T17:52:07.144+09:00",
+    "description": "平野区で毎月開催"
   }
 ]
