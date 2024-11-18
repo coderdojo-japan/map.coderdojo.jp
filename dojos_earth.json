@@ -5460,20 +5460,6 @@
     "id": "a2be31f2-afe2-4e3b-9b84-ca3b81320d1d"
   },
   {
-    "name": "Sapporo",
-    "latitude": 43.0631515,
-    "longitude": 141.355672,
-    "countryCode": "JP",
-    "stage": "OPEN",
-    "urlSlug": "jp/sapporo-hokkaido-prefecture/sapporo",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "09718f70-1a91-41de-bea3-a5d09ef099c4"
-  },
-  {
     "name": "Brighton",
     "latitude": 50.8278085,
     "longitude": -0.1703455,
@@ -5500,6 +5486,20 @@
     "frequency": "1/w",
     "day": 5,
     "id": "1ee8084a-3406-4421-9c5e-22a79a69aa91"
+  },
+  {
+    "name": "Sapporo",
+    "latitude": 43.0631515,
+    "longitude": 141.355672,
+    "countryCode": "JP",
+    "stage": "OPEN",
+    "urlSlug": "jp/sapporo-hokkaido-prefecture/sapporo",
+    "startTime": "09:45",
+    "endTime": "11:45",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 0,
+    "id": "09718f70-1a91-41de-bea3-a5d09ef099c4"
   },
   {
     "name": "WA @ UWA",
@@ -21210,20 +21210,6 @@
     "id": "be5a2d62-2f38-49a3-9a8e-3ae552c7f679"
   },
   {
-    "name": "Hayfields, Pietermaritzburg @ SleepyHollowNinjaZone",
-    "latitude": -29.6302319,
-    "longitude": 30.4125158,
-    "countryCode": "ZA",
-    "stage": "PENDING",
-    "urlSlug": "za/pietermaritzburg/hayfields-pietermaritzburg-sleepyhollowninjazone",
-    "startTime": "14:00",
-    "endTime": "16:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "d36c67f1-cb09-448f-9d2f-ea6509d50d6e"
-  },
-  {
     "name": "CoderDojo Lecce",
     "latitude": 40.36079369999999,
     "longitude": 18.1714598,
@@ -21236,6 +21222,20 @@
     "frequency": "1/m",
     "day": 6,
     "id": "3d17fcb0-30c3-4c91-a6bf-2acf561f1358"
+  },
+  {
+    "name": "Hayfields, Pietermaritzburg @ SleepyHollowNinjaZone",
+    "latitude": -29.6302319,
+    "longitude": 30.4125158,
+    "countryCode": "ZA",
+    "stage": "PENDING",
+    "urlSlug": "za/pietermaritzburg/hayfields-pietermaritzburg-sleepyhollowninjazone",
+    "startTime": "14:00",
+    "endTime": "16:00",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 6,
+    "id": "d36c67f1-cb09-448f-9d2f-ea6509d50d6e"
   },
   {
     "name": "Frankfurt (Oder)",
