@@ -9870,20 +9870,6 @@
     "id": "9b2fba2f-ff32-4c46-862a-0cdb7a99887f"
   },
   {
-    "name": "Toronto",
-    "latitude": 43.64725809999999,
-    "longitude": -79.38695089999999,
-    "countryCode": "CA",
-    "stage": "OPEN",
-    "urlSlug": "ca/ontario/2-2-0-king-st-w-toronto-on-m-5-h-1k-4-canada/toronto",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "9ec1ab8d-c9f4-43cb-a9a3-e30032729e18"
-  },
-  {
     "name": "Kanazawa, Ishikawa @ HackforPlay",
     "latitude": 36.56132540000001,
     "longitude": 136.65620509999997,
@@ -9896,6 +9882,20 @@
     "frequency": "other",
     "day": null,
     "id": "9f02bd31-4392-44fe-8a09-d7267b1a1991"
+  },
+  {
+    "name": "Toronto",
+    "latitude": 43.64725809999999,
+    "longitude": -79.38695089999999,
+    "countryCode": "CA",
+    "stage": "OPEN",
+    "urlSlug": "ca/ontario/2-2-0-king-st-w-toronto-on-m-5-h-1k-4-canada/toronto",
+    "startTime": "10:30",
+    "endTime": "12:30",
+    "openToPublic": true,
+    "frequency": "1/m",
+    "day": 0,
+    "id": "9ec1ab8d-c9f4-43cb-a9a3-e30032729e18"
   },
   {
     "name": "Ham",
