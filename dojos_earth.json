@@ -658,20 +658,6 @@
     "id": "da83638c-6836-46b8-ae76-621f69ea875d"
   },
   {
-    "name": "Galway @ SolutionLion",
-    "latitude": 53.27056400000001,
-    "longitude": -9.0566819,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/galway/galway-solutionlion",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 3,
-    "id": "5193ad69-bca4-4a19-b720-cd342d67a29d"
-  },
-  {
     "name": "Lancaster, PA CoderDojo",
     "latitude": 40.0406753,
     "longitude": -76.3037607,
@@ -684,6 +670,20 @@
     "frequency": "other",
     "day": null,
     "id": "e894dc66-e3d9-43df-b446-c8ba3d06426d"
+  },
+  {
+    "name": "Galway @ SolutionLion",
+    "latitude": 53.27056400000001,
+    "longitude": -9.0566819,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/galway/galway-solutionlion",
+    "startTime": null,
+    "endTime": null,
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 3,
+    "id": "5193ad69-bca4-4a19-b720-cd342d67a29d"
   },
   {
     "name": "Castelletto @ Comune di Castelletto Sopra Ticino",
@@ -905,8 +905,8 @@
     "startTime": null,
     "endTime": null,
     "openToPublic": true,
-    "frequency": "other",
-    "day": null,
+    "frequency": null,
+    "day": 0,
     "id": "10187d3b-de15-497a-af91-4572ac03b21b"
   },
   {
@@ -1367,8 +1367,8 @@
     "startTime": null,
     "endTime": null,
     "openToPublic": true,
-    "frequency": "other",
-    "day": null,
+    "frequency": null,
+    "day": 0,
     "id": "d22c6ff7-9150-40e7-9b98-84d47a17bca8"
   },
   {
@@ -1890,6 +1890,20 @@
     "id": "0d0f00f7-adc2-4e91-a0d4-f337324a6f54"
   },
   {
+    "name": "Athlone",
+    "latitude": 53.41946909075532,
+    "longitude": -7.906959056854248,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/westmeath/athlone-institute-of-technology-engineering-building/athlone",
+    "startTime": null,
+    "endTime": null,
+    "openToPublic": true,
+    "frequency": null,
+    "day": 0,
+    "id": "647bdcc3-5100-4344-9436-6bd53ca1b7cb"
+  },
+  {
     "name": "Fresno @ Ideaworks",
     "latitude": 36.7400733,
     "longitude": -119.80009569999999,
@@ -1902,20 +1916,6 @@
     "frequency": "1/m",
     "day": 6,
     "id": "874e20d2-ae3a-4e14-8266-95b5b53c9cd3"
-  },
-  {
-    "name": "Athlone",
-    "latitude": 53.41946909075532,
-    "longitude": -7.906959056854248,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/westmeath/athlone-institute-of-technology-engineering-building/athlone",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "647bdcc3-5100-4344-9436-6bd53ca1b7cb"
   },
   {
     "name": "Arasampalayam, Coimbatore @ SVS Educational Institutions",
@@ -2870,6 +2870,20 @@
     "id": "b6189a49-58ab-4afb-a137-8cff3148413a"
   },
   {
+    "name": "Wicklow @ East Glendalough School",
+    "latitude": 52.98731919999999,
+    "longitude": -6.0544475000000375,
+    "countryCode": "IE",
+    "stage": "PENDING",
+    "urlSlug": "ie/wicklow/wicklow-east-glendalough-school",
+    "startTime": "16:15",
+    "endTime": "17:45",
+    "openToPublic": false,
+    "frequency": "1/w",
+    "day": 4,
+    "id": "743df4bb-063e-47c3-931e-3fc8f0335ccf"
+  },
+  {
     "name": "Lindenhurst@Heritage",
     "latitude": 42.4314263,
     "longitude": -88.0238885,
@@ -2882,20 +2896,6 @@
     "frequency": "1/m",
     "day": 6,
     "id": "87f722f7-9451-4a6f-b307-0041def1d96f"
-  },
-  {
-    "name": "Wicklow @ East Glendalough School",
-    "latitude": 52.98731919999999,
-    "longitude": -6.0544475000000375,
-    "countryCode": "IE",
-    "stage": "PENDING",
-    "urlSlug": "ie/wicklow/wicklow-east-glendalough-school",
-    "startTime": "16:15",
-    "endTime": "17:45",
-    "openToPublic": false,
-    "frequency": "other",
-    "day": 4,
-    "id": "743df4bb-063e-47c3-931e-3fc8f0335ccf"
   },
   {
     "name": "Recanati",
@@ -4032,6 +4032,20 @@
     "id": "ebc0a31a-bbc2-45d3-a844-4fad410f2191"
   },
   {
+    "name": "Nenagh",
+    "latitude": 52.865022223607326,
+    "longitude": -8.199455103982473,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/tipperary/nenagh-arts-centre/nenagh",
+    "startTime": null,
+    "endTime": null,
+    "openToPublic": true,
+    "frequency": null,
+    "day": 0,
+    "id": "f946d474-9faa-4060-a6af-ca2ca04e0267"
+  },
+  {
     "name": "Amritsar @ Red Tree Coders",
     "latitude": 31.6815896,
     "longitude": 74.9057141,
@@ -4044,20 +4058,6 @@
     "frequency": "other",
     "day": 1,
     "id": "c0dcff32-d326-4466-b40c-bfa84d75cc1f"
-  },
-  {
-    "name": "Nenagh",
-    "latitude": 52.865022223607326,
-    "longitude": -8.199455103982473,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/tipperary/nenagh-arts-centre/nenagh",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "f946d474-9faa-4060-a6af-ca2ca04e0267"
   },
   {
     "name": "CoderDojoSTL",
@@ -5068,20 +5068,6 @@
     "id": "2ce78efa-a3d1-4451-bbde-c1a98057c143"
   },
   {
-    "name": "CoderDojo @ Mallow Cork",
-    "latitude": 52.12238740000001,
-    "longitude": -8.65094590000001,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/mallow-cork/coderdojo-mallow-cork",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "60813a67-5f9e-4a5e-922f-d6edc7ae219b"
-  },
-  {
     "name": "Hamamatsu @ Shizuoka",
     "latitude": 34.704985,
     "longitude": 137.724601,
@@ -5203,8 +5189,8 @@
     "startTime": null,
     "endTime": null,
     "openToPublic": true,
-    "frequency": "other",
-    "day": null,
+    "frequency": null,
+    "day": 0,
     "id": "037322af-b96a-4bcf-a7b2-a617cd964b99"
   },
   {
@@ -6188,20 +6174,6 @@
     "id": "fc1fb126-fe99-4ef6-b8db-46f348869369"
   },
   {
-    "name": "Eyrecourt",
-    "latitude": 53.201319217066086,
-    "longitude": -8.129872191332993,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/galway/eyrecourt-ns-eyrecourt-ballinasloe-co-galway/eyrecourt",
-    "startTime": "15:00",
-    "endTime": "16:00",
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 3,
-    "id": "aa3dd322-a55b-42e4-b649-286b18f59edb"
-  },
-  {
     "name": "Bramley Road @ Oakwood Library",
     "latitude": 51.64843843482686,
     "longitude": -0.12859582901000977,
@@ -6228,6 +6200,20 @@
     "frequency": "other",
     "day": null,
     "id": "1eaf680a-4ea2-40a8-96b9-ac20d03bda24"
+  },
+  {
+    "name": "Eyrecourt",
+    "latitude": 53.201319217066086,
+    "longitude": -8.129872191332993,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/galway/eyrecourt-ns-eyrecourt-ballinasloe-co-galway/eyrecourt",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "openToPublic": false,
+    "frequency": "1/w",
+    "day": 3,
+    "id": "aa3dd322-a55b-42e4-b649-286b18f59edb"
   },
   {
     "name": "Bundang@Naver Library",
@@ -6608,20 +6594,6 @@
     "id": "9b6b4670-b90f-4fe0-96c8-9b1fe3b7ec55"
   },
   {
-    "name": "Dublin 15",
-    "latitude": 53.4047486,
-    "longitude": -6.378062699999987,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/dublin/blanchardstown/dublin-15",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "ca8be66b-ee96-4162-937a-6d506f8bb08f"
-  },
-  {
     "name": "Dunoon@Boost Africa Foundation",
     "latitude": -33.8155067,
     "longitude": 18.5351702,
@@ -6634,6 +6606,20 @@
     "frequency": "1/w",
     "day": 5,
     "id": "253cd243-63fe-4066-bba8-effad08e6364"
+  },
+  {
+    "name": "Dublin 15",
+    "latitude": 53.4047486,
+    "longitude": -6.378062699999987,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/dublin/blanchardstown/dublin-15",
+    "startTime": null,
+    "endTime": null,
+    "openToPublic": true,
+    "frequency": null,
+    "day": 0,
+    "id": "ca8be66b-ee96-4162-937a-6d506f8bb08f"
   },
   {
     "name": "CoderDojo BAT (Barletta-Andria-Trani)",
@@ -8526,20 +8512,6 @@
     "id": "4b658709-e35b-4888-bf88-70d46e3b0e0b"
   },
   {
-    "name": "Dublin@Iqraa",
-    "latitude": 53.27896980000001,
-    "longitude": -6.2163425,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/dublin/dublin-iqraa",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 0,
-    "id": "4bb14e89-6d86-48e3-bfed-38f220bbe0c4"
-  },
-  {
     "name": "Pitesti",
     "latitude": 44.8921128,
     "longitude": 24.82056130000001,
@@ -8552,6 +8524,20 @@
     "frequency": "1/w",
     "day": 6,
     "id": "4b286ef4-18f9-49e4-8e60-2064d37c8271"
+  },
+  {
+    "name": "Dublin@Iqraa",
+    "latitude": 53.27896980000001,
+    "longitude": -6.2163425,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/dublin/dublin-iqraa",
+    "startTime": null,
+    "endTime": null,
+    "openToPublic": false,
+    "frequency": "1/w",
+    "day": 0,
+    "id": "4bb14e89-6d86-48e3-bfed-38f220bbe0c4"
   },
   {
     "name": "Gosselies Aéropole",
@@ -9100,20 +9086,6 @@
     "id": "5fd76ad6-b193-488e-88b0-7879234d6b3c"
   },
   {
-    "name": "Athy, Kildare",
-    "latitude": 53.002095,
-    "longitude": -6.986779,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/kildare/athy-kildare",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "6037228e-cbb2-4bc2-8ed0-b115740dbae4"
-  },
-  {
     "name": "Isehara @ Civic Support Center",
     "latitude": 35.4021388,
     "longitude": 139.3147673,
@@ -9140,6 +9112,20 @@
     "frequency": "2/m",
     "day": 0,
     "id": "5dd52b26-37d0-4b46-b9b5-4be51702805c"
+  },
+  {
+    "name": "Athy, Kildare",
+    "latitude": 53.002095,
+    "longitude": -6.986779,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/kildare/athy-kildare",
+    "startTime": null,
+    "endTime": null,
+    "openToPublic": true,
+    "frequency": null,
+    "day": 0,
+    "id": "6037228e-cbb2-4bc2-8ed0-b115740dbae4"
   },
   {
     "name": "Tolentino @ Biblioteca Filelfica",
@@ -9296,20 +9282,6 @@
     "id": "6db86787-d8e3-4c86-bbff-c11620701a16"
   },
   {
-    "name": "Greystones",
-    "latitude": 53.1491175,
-    "longitude": -6.079341399999976,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/wicklow/greystones-wicklow/greystones",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "6e39e105-4e7a-4680-97f2-1a1b21fd2bec"
-  },
-  {
     "name": "Rugby @ Rugby Library",
     "latitude": 52.37164509999999,
     "longitude": -1.264534000000026,
@@ -9322,6 +9294,20 @@
     "frequency": "1/m",
     "day": 6,
     "id": "75c67565-c46b-4b69-9f7c-d28ff5c48947"
+  },
+  {
+    "name": "Greystones",
+    "latitude": 53.1491175,
+    "longitude": -6.079341399999976,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/wicklow/greystones-wicklow/greystones",
+    "startTime": null,
+    "endTime": null,
+    "openToPublic": true,
+    "frequency": null,
+    "day": 0,
+    "id": "6e39e105-4e7a-4680-97f2-1a1b21fd2bec"
   },
   {
     "name": "Safety Harbor CoderDojo",
@@ -9506,6 +9492,20 @@
     "id": "86b0d65f-2f22-4d34-9ad8-34c701d1f170"
   },
   {
+    "name": "Rathgar, Dublin @ Rathgar Junior School",
+    "latitude": 53.3195486,
+    "longitude": -6.270898699999975,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/dublin/rathgar/rathgar-dublin-rathgar-junior-school-1",
+    "startTime": null,
+    "endTime": null,
+    "openToPublic": false,
+    "frequency": null,
+    "day": 0,
+    "id": "87ee79f1-3efc-408a-a137-6a8a9389b8a8"
+  },
+  {
     "name": "Brecht",
     "latitude": 51.3483513,
     "longitude": 4.64161439999998,
@@ -9532,20 +9532,6 @@
     "frequency": "other",
     "day": 6,
     "id": "87d44edb-31f5-46d2-a8ff-e1693a97c1de"
-  },
-  {
-    "name": "Rathgar, Dublin @ Rathgar Junior School",
-    "latitude": 53.3195486,
-    "longitude": -6.270898699999975,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/dublin/rathgar/rathgar-dublin-rathgar-junior-school-1",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": false,
-    "frequency": "other",
-    "day": null,
-    "id": "87ee79f1-3efc-408a-a137-6a8a9389b8a8"
   },
   {
     "name": "Banbridge, Co Down @ Banbridge Enterprise Centre",
@@ -10954,8 +10940,8 @@
     "countryCode": "DE",
     "stage": "REGISTER",
     "urlSlug": "de/oldenburg/oldenburg-ktt",
-    "startTime": "17:30",
-    "endTime": "20:15",
+    "startTime": "16:30",
+    "endTime": "19:15",
     "openToPublic": true,
     "frequency": "other",
     "day": 5,
@@ -13594,20 +13580,6 @@
     "id": "337ff52d-3bf7-4e7b-b105-6f13a9dfc853"
   },
   {
-    "name": "GCM Computer Club",
-    "latitude": 51.91114161263148,
-    "longitude": -8.480326459859285,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/cork-road-county-cork/gcm-computer-club",
-    "startTime": "12:15",
-    "endTime": "12:45",
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 1,
-    "id": "1468b9b4-b644-4757-8a0a-626ade84c2ee"
-  },
-  {
     "name": "Dublin City @ Qualtrics",
     "latitude": 53.34041621139893,
     "longitude": -6.265820252670282,
@@ -13846,20 +13818,6 @@
     "id": "190d51e6-973c-4c7b-877a-c6a37c008c0d"
   },
   {
-    "name": "Dublin @ Deanrath Family Centre",
-    "latitude": 53.31051427463035,
-    "longitude": -6.311417425319667,
-    "countryCode": "IE",
-    "stage": "PENDING",
-    "urlSlug": "ie/clondalkin-county-dublin/dublin-deanrath-family-centre",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 2,
-    "id": "d5eea74f-465a-4017-83a6-d55bdf09731f"
-  },
-  {
     "name": "Ormus, Biratnagar, Nepal",
     "latitude": 27.694234,
     "longitude": 85.30630300000007,
@@ -13900,20 +13858,6 @@
     "frequency": "2/m",
     "day": 6,
     "id": "b452974f-3dce-4fb3-96f7-9b3c3cbf69b4"
-  },
-  {
-    "name": "Arklow",
-    "latitude": 52.7975247,
-    "longitude": -6.166359800000009,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/wicklow/arklow-cbs-coolgreaney-road-arcklow-co-wicklow/arklow",
-    "startTime": "11:00",
-    "endTime": "12:30",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "95ae75e7-c69f-4429-b14a-7cb4d430b36a"
   },
   {
     "name": "Kapunda@HighSchool",
@@ -15596,20 +15540,6 @@
     "id": "d35457cf-e160-4eec-88b1-33314ecaffbe"
   },
   {
-    "name": "Corrandulla @ National School",
-    "latitude": 53.4495441,
-    "longitude": -8.982851600000004,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/corrandulla-county-galway/corrandulla-national-school",
-    "startTime": "09:30",
-    "endTime": "11:00",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "528c38d8-180a-48a5-9dae-aeb178fc8f01"
-  },
-  {
     "name": "Lagos @ Epo IT-World",
     "latitude": 6.4882458,
     "longitude": 3.353006700000037,
@@ -16688,20 +16618,6 @@
     "id": "094f63b2-4808-4c6c-b308-61f58def02b8"
   },
   {
-    "name": "Creevy National School",
-    "latitude": 54.5203704,
-    "longitude": -8.2266855,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/rossnowlagh-crossroads-county-donegal/creevy-national-school-2",
-    "startTime": "19:00",
-    "endTime": "20:30",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 5,
-    "id": "d2de7b6e-5ddc-49fd-b73f-4fd9d827e1f3"
-  },
-  {
     "name": "Itabashi @ Sakuragawa",
     "latitude": 35.7546838,
     "longitude": 139.67878199999996,
@@ -17064,20 +16980,6 @@
     "frequency": "2/m",
     "day": 6,
     "id": "e85bf092-76b3-4235-ab98-83d1f341caa7"
-  },
-  {
-    "name": "CoderDojo Dublin",
-    "latitude": 53.33818249999999,
-    "longitude": -6.242074300000013,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/dublin/dublin/coderdojo-dublin",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 0,
-    "id": "f1443162-d764-4013-b84e-395acea4a811"
   },
   {
     "name": "Aghada@CommunityCenter",
@@ -17582,20 +17484,6 @@
     "frequency": "2/m",
     "day": 2,
     "id": "b01b8b98-bf9d-4dc8-a6a1-18579e05fa15"
-  },
-  {
-    "name": "Blessington",
-    "latitude": 53.161645,
-    "longitude": -6.552336200000013,
-    "countryCode": "IE",
-    "stage": "PENDING",
-    "urlSlug": "ie/wicklow/blessington",
-    "startTime": "19:00",
-    "endTime": "20:15",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 1,
-    "id": "20735589-5a25-4196-9bb2-eb3419e96bb1"
   },
   {
     "name": "Nürnberg @ Künstlerhaus @ Hackerspace k4cg",
@@ -20160,20 +20048,6 @@
     "id": "90bf558d-0ff1-49c5-8f52-16e049d2f5db"
   },
   {
-    "name": "Longford Town",
-    "latitude": 53.7286151,
-    "longitude": -7.7903479999999945,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/longford/longford/longford-town",
-    "startTime": "15:00",
-    "endTime": "17:00",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 6,
-    "id": "92496554-e0d8-4147-8639-8139d80f5ff2"
-  },
-  {
     "name": "Valongo @ Casa do Conhecimento",
     "latitude": 41.19008609999999,
     "longitude": -8.4974159,
@@ -20228,20 +20102,6 @@
     "frequency": "1/m",
     "day": 6,
     "id": "97bb050f-e00e-4ce5-971f-9306a2590977"
-  },
-  {
-    "name": "SASNS@Saint Attracta's SNS",
-    "latitude": 53.2811461,
-    "longitude": -6.255228999999986,
-    "countryCode": "IE",
-    "stage": "FULL",
-    "urlSlug": "ie/dublin-16/sasns-saint-attractas-sns",
-    "startTime": "14:30",
-    "endTime": "16:00",
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 3,
-    "id": "97d7a504-2437-4727-98b3-cfea8bf8c733"
   },
   {
     "name": "Jamshedpur @ Tangrain Potka",
@@ -21336,20 +21196,6 @@
     "id": "211632ab-40bf-4d90-98bc-f79452dcdcb1"
   },
   {
-    "name": "Rathfarnham",
-    "latitude": 53.290705725835736,
-    "longitude": -6.299334657861664,
-    "countryCode": "IE",
-    "stage": "REGISTER",
-    "urlSlug": "ie/dublin/ballyroan-rathfarnham/rathfarnham",
-    "startTime": "18:00",
-    "endTime": "19:30",
-    "openToPublic": true,
-    "frequency": "2/m",
-    "day": 3,
-    "id": "faaf32a1-2cdd-4e00-b7b6-25b2033d4131"
-  },
-  {
     "name": "Scoil Naomh Muire, Farran",
     "latitude": 51.875925659451575,
     "longitude": -8.73905955939938,
@@ -21432,6 +21278,20 @@
     "frequency": "1/w",
     "day": 2,
     "id": "2d7b1344-af48-4751-83c5-a37761dd72e3"
+  },
+  {
+    "name": "Rathfarnham",
+    "latitude": 53.290705725835736,
+    "longitude": -6.299334657861664,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/dublin/ballyroan-rathfarnham/rathfarnham",
+    "startTime": "18:00",
+    "endTime": "19:30",
+    "openToPublic": true,
+    "frequency": "2/m",
+    "day": 3,
+    "id": "faaf32a1-2cdd-4e00-b7b6-25b2033d4131"
   },
   {
     "name": "Cork, Glanmire @ Riverstown Community Centre",
@@ -21700,20 +21560,6 @@
     "id": "4058a676-31b2-4de0-86a5-bc9b4fad8c29"
   },
   {
-    "name": "Digitaler Samstag @ Bücherhalle Barmbek",
-    "latitude": 53.58552509801924,
-    "longitude": 10.046954154968262,
-    "countryCode": "DE",
-    "stage": "REGISTER",
-    "urlSlug": "de/5-3-5-86949-1-0-0-4466-6/digitaler-samstag-buecherhalle-barmbek",
-    "startTime": "10:00",
-    "endTime": "13:50",
-    "openToPublic": true,
-    "frequency": "other",
-    "day": 0,
-    "id": "53ee095c-e207-4729-9749-58ef76826ab4"
-  },
-  {
     "name": "Trim CoderDojo @ Trim Family Resource Centre",
     "latitude": 53.5500940859185,
     "longitude": -6.790993069170794,
@@ -21866,5 +21712,159 @@
     "frequency": "1/w",
     "day": 6,
     "id": "6759de0d-96ee-44f5-8f52-9c9a6eb2176e"
+  },
+  {
+    "name": "Digitaler Samstag @ Bücherhalle Barmbek",
+    "latitude": 53.58552509801924,
+    "longitude": 10.046954154968262,
+    "countryCode": "DE",
+    "stage": "REGISTER",
+    "urlSlug": "de/5-3-5-86949-1-0-0-4466-6/digitaler-samstag-buecherhalle-barmbek",
+    "startTime": "10:00",
+    "endTime": "13:50",
+    "openToPublic": true,
+    "frequency": "other",
+    "day": 0,
+    "id": "53ee095c-e207-4729-9749-58ef76826ab4"
+  },
+  {
+    "name": "Corrandulla @ National School",
+    "latitude": 53.4495441,
+    "longitude": -8.982851600000004,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/corrandulla-county-galway/corrandulla-national-school",
+    "startTime": "09:30",
+    "endTime": "11:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "528c38d8-180a-48a5-9dae-aeb178fc8f01"
+  },
+  {
+    "name": "Longford Town",
+    "latitude": 53.7286151,
+    "longitude": -7.7903479999999945,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/longford/longford/longford-town",
+    "startTime": "15:00",
+    "endTime": "17:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "92496554-e0d8-4147-8639-8139d80f5ff2"
+  },
+  {
+    "name": "Arklow",
+    "latitude": 52.7975247,
+    "longitude": -6.166359800000009,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/wicklow/arklow-cbs-coolgreaney-road-arcklow-co-wicklow/arklow",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 6,
+    "id": "95ae75e7-c69f-4429-b14a-7cb4d430b36a"
+  },
+  {
+    "name": "Blessington",
+    "latitude": 53.161645,
+    "longitude": -6.552336200000013,
+    "countryCode": "IE",
+    "stage": "PENDING",
+    "urlSlug": "ie/wicklow/blessington",
+    "startTime": "19:00",
+    "endTime": "20:15",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 1,
+    "id": "20735589-5a25-4196-9bb2-eb3419e96bb1"
+  },
+  {
+    "name": "CoderDojo Dublin",
+    "latitude": 53.33818249999999,
+    "longitude": -6.242074300000013,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/dublin/dublin/coderdojo-dublin",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 0,
+    "id": "f1443162-d764-4013-b84e-395acea4a811"
+  },
+  {
+    "name": "SASNS@Saint Attracta's SNS",
+    "latitude": 53.2811461,
+    "longitude": -6.255228999999986,
+    "countryCode": "IE",
+    "stage": "FULL",
+    "urlSlug": "ie/dublin-16/sasns-saint-attractas-sns",
+    "startTime": "14:30",
+    "endTime": "16:00",
+    "openToPublic": false,
+    "frequency": "1/w",
+    "day": 3,
+    "id": "97d7a504-2437-4727-98b3-cfea8bf8c733"
+  },
+  {
+    "name": "Creevy National School",
+    "latitude": 54.5203704,
+    "longitude": -8.2266855,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/rossnowlagh-crossroads-county-donegal/creevy-national-school-2",
+    "startTime": "19:00",
+    "endTime": "20:30",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 5,
+    "id": "d2de7b6e-5ddc-49fd-b73f-4fd9d827e1f3"
+  },
+  {
+    "name": "Dublin @ Deanrath Family Centre",
+    "latitude": 53.31051427463035,
+    "longitude": -6.311417425319667,
+    "countryCode": "IE",
+    "stage": "PENDING",
+    "urlSlug": "ie/clondalkin-county-dublin/dublin-deanrath-family-centre",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "openToPublic": false,
+    "frequency": "1/w",
+    "day": 2,
+    "id": "d5eea74f-465a-4017-83a6-d55bdf09731f"
+  },
+  {
+    "name": "GCM Computer Club",
+    "latitude": 51.91114161263148,
+    "longitude": -8.480326459859285,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/cork-road-county-cork/gcm-computer-club",
+    "startTime": "12:15",
+    "endTime": "12:45",
+    "openToPublic": false,
+    "frequency": "1/w",
+    "day": 1,
+    "id": "1468b9b4-b644-4757-8a0a-626ade84c2ee"
+  },
+  {
+    "name": "Donaghmede",
+    "latitude": 53.396621079700665,
+    "longitude": -6.161228772491427,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/dublin/holy-trinity-senior-national-school-donaghmede-dublin-13/donaghmede",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 0,
+    "id": "39d0b4fb-625c-4458-8d95-4748f21a24a5"
   }
 ]
