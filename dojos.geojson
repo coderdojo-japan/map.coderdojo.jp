@@ -1116,21 +1116,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.389362699999992,
-          52.5164038
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Volkswagen We Space Mitte<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/de/berlin/volkswagen-we-space-mitte'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           77.1124365,
           28.6773272
         ]
@@ -5631,21 +5616,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7839131000000634,
-          56.00187750000001
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Falkirk @ Graeme High School<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/falkirk/falkirk-graeme-high-school'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.3905938863754272,
           53.87304512660184
         ]
@@ -5669,6 +5639,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>NISB<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/in/mysore-karnataka/nisb'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7839131000000634,
+          56.00187750000001
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Falkirk @ Graeme High School<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/falkirk/falkirk-graeme-high-school'>連絡先を見る</a>"
       }
     },
     {
@@ -14556,21 +14541,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.412036899999999,
-          51.824745
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Hoeksche Waard<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/hoeksche-waard/hoeksche-waard'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           80.22315600000002,
           13.0523124
         ]
@@ -16483,7 +16453,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/tachikawa.webp' alt='立川' loading='lazy' width='100px' /></a><br><b>立川</b><br>立川市で毎月開催<br>&rarr; 次回: <a href='https://coderdojotachikawa.doorkeeper.jp/events/177857' target='_blank' rel='noopener'>11月23日</a><br><a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/tachikawa.webp' alt='立川' loading='lazy' width='100px' /></a><br><b>立川</b><br>立川市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-tachikawa.connpass.com/event/304934/' target='_blank' rel='noopener'>11月23日</a><br><a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -19611,21 +19581,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.47389309999994,
-          35.7402637
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/kodaira.webp' alt='こだいら' loading='lazy' width='100px' /></a><br><b>こだいら</b><br>小平市で隔週水曜<br>および週末に不定期で開催<br>&rarr; 次回: <a href='https://coderdojo-jp-kodaira.connpass.com/event/333198/' target='_blank' rel='noopener'>11月27日</a><br><a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.32841533908973,
           35.85647557339057
         ]
@@ -20729,6 +20684,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Donaghmede<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin/holy-trinity-senior-national-school-donaghmede-dublin-13/donaghmede'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.412036899999999,
+          51.824745
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Hoeksche Waard<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/hoeksche-waard/hoeksche-waard'>連絡先を見る</a>"
       }
     }
   ]
