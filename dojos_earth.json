@@ -1190,20 +1190,6 @@
     "id": "caae29b2-7369-44f1-a4a3-fff10f0e8a38"
   },
   {
-    "name": "Volkswagen We Space Mitte",
-    "latitude": 52.5164038,
-    "longitude": 13.389362699999992,
-    "countryCode": "DE",
-    "stage": "OPEN",
-    "urlSlug": "de/berlin/volkswagen-we-space-mitte",
-    "startTime": "14:00",
-    "endTime": "17:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "864828ff-353c-44ec-b34a-e290a61bec72"
-  },
-  {
     "name": "Paschim Vihar, New Delhi",
     "latitude": 28.6773272,
     "longitude": 77.1124365,
@@ -5922,20 +5908,6 @@
     "id": "197030bf-2301-4216-937f-6644a8d7c538"
   },
   {
-    "name": "Falkirk @ Graeme High School",
-    "latitude": 56.00187750000001,
-    "longitude": -3.7839131000000634,
-    "countryCode": "GB",
-    "stage": "OPEN",
-    "urlSlug": "gb/falkirk/falkirk-graeme-high-school",
-    "startTime": "12:25",
-    "endTime": "13:00",
-    "openToPublic": false,
-    "frequency": "1/w",
-    "day": 1,
-    "id": "b225bf7e-5b20-4da5-a81d-4fc2dbe8be89"
-  },
-  {
     "name": "Clitheroe @ Clitheroe library",
     "latitude": 53.87304512660184,
     "longitude": -2.3905938863754272,
@@ -5976,6 +5948,20 @@
     "frequency": "other",
     "day": null,
     "id": "75aeaaec-80f5-423f-9a77-6976d59b393d"
+  },
+  {
+    "name": "Falkirk @ Graeme High School",
+    "latitude": 56.00187750000001,
+    "longitude": -3.7839131000000634,
+    "countryCode": "GB",
+    "stage": "OPEN",
+    "urlSlug": "gb/falkirk/falkirk-graeme-high-school",
+    "startTime": "12:25",
+    "endTime": "13:00",
+    "openToPublic": false,
+    "frequency": "1/w",
+    "day": 1,
+    "id": "b225bf7e-5b20-4da5-a81d-4fc2dbe8be89"
   },
   {
     "name": "Southwark, London @ John Harvard Library",
@@ -15260,20 +15246,6 @@
     "id": "9ab3c24f-dc25-4d6d-b428-7318cf805196"
   },
   {
-    "name": "Hoeksche Waard",
-    "latitude": 51.824745,
-    "longitude": 4.412036899999999,
-    "countryCode": "NL",
-    "stage": "REGISTER",
-    "urlSlug": "nl/hoeksche-waard/hoeksche-waard",
-    "startTime": "11:00",
-    "endTime": "13:00",
-    "openToPublic": true,
-    "frequency": "other",
-    "day": 6,
-    "id": "db54f671-b705-4bf6-bbe2-be0d7ab981a1"
-  },
-  {
     "name": "Learning Links Foundation",
     "latitude": 13.0523124,
     "longitude": 80.22315600000002,
@@ -20720,20 +20692,6 @@
     "id": "da06459a-8b91-459b-8c2c-a81b46c791d7"
   },
   {
-    "name": "Kodaira",
-    "latitude": 35.7402637,
-    "longitude": 139.47389309999994,
-    "countryCode": "JP",
-    "stage": "REGISTER",
-    "urlSlug": "jp/t-ky-to/kodaira-tokyo/kodaira",
-    "startTime": "18:30",
-    "endTime": "20:30",
-    "openToPublic": true,
-    "frequency": "2/m",
-    "day": 3,
-    "id": "ddfc605d-5cb8-49f6-a0ac-82884577f70e"
-  },
-  {
     "name": "Hanno",
     "latitude": 35.85647557339057,
     "longitude": 139.32841533908973,
@@ -21866,5 +21824,33 @@
     "frequency": "1/w",
     "day": 0,
     "id": "39d0b4fb-625c-4458-8d95-4748f21a24a5"
+  },
+  {
+    "name": "CoderDojo Kodaira",
+    "latitude": 35.7402637,
+    "longitude": 139.47389309999994,
+    "countryCode": "JP",
+    "stage": "REGISTER",
+    "urlSlug": "jp/t-ky-to/kodaira-tokyo/kodaira",
+    "startTime": "18:30",
+    "endTime": "20:30",
+    "openToPublic": true,
+    "frequency": "2/m",
+    "day": 3,
+    "id": "ddfc605d-5cb8-49f6-a0ac-82884577f70e"
+  },
+  {
+    "name": "Hoeksche Waard",
+    "latitude": 51.824745,
+    "longitude": 4.412036899999999,
+    "countryCode": "NL",
+    "stage": "REGISTER",
+    "urlSlug": "nl/hoeksche-waard/hoeksche-waard",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "openToPublic": true,
+    "frequency": "2/m",
+    "day": 6,
+    "id": "db54f671-b705-4bf6-bbe2-be0d7ab981a1"
   }
 ]
