@@ -9310,20 +9310,6 @@
     "id": "6ec1abce-120a-4921-8a66-f8d157c6a66a"
   },
   {
-    "name": "Civitavecchia",
-    "latitude": 42.0870073,
-    "longitude": 11.810231299999941,
-    "countryCode": "IT",
-    "stage": "REGISTER",
-    "urlSlug": "it/via-ciro-corradetti-2-00053-civitavecchia-rm/civitavecchia",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "6eeca596-c587-46a7-b73c-6611e53d3d3a"
-  },
-  {
     "name": "Camarillo, California @ Camarillo Library",
     "latitude": 34.243166,
     "longitude": -119.0138953,

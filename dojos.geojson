@@ -8856,21 +8856,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.810231299999941,
-          42.0870073
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Civitavecchia<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/via-ciro-corradetti-2-00053-civitavecchia-rm/civitavecchia'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -119.0138953,
           34.243166
         ]
