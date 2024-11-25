@@ -1406,11 +1406,11 @@
     "countryCode": "JP",
     "stage": "OPEN",
     "urlSlug": "jp/chiba-ken/kashiwa-shi/kashiwa",
-    "startTime": null,
-    "endTime": null,
+    "startTime": "10:00",
+    "endTime": "12:00",
     "openToPublic": true,
-    "frequency": "other",
-    "day": null,
+    "frequency": "1/m",
+    "day": 0,
     "id": "a889512c-8a4a-48bb-8100-c07cb514a931"
   },
   {
@@ -3820,20 +3820,6 @@
     "frequency": "1/m",
     "day": 0,
     "id": "ca45ffe6-4878-49ea-88cb-f35c9f5b969c"
-  },
-  {
-    "name": "Villeneuve Saint Georges @ EducActive",
-    "latitude": 48.7345786,
-    "longitude": 2.4534809,
-    "countryCode": "FR",
-    "stage": "OPEN",
-    "urlSlug": "fr/villeneuve-saint-georges/villeneuve-saint-georges-educactive",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": 1,
-    "id": "2959636a-a1be-4ec2-aad6-e342f6caf7ab"
   },
   {
     "name": "Castricum @ Bibliotheek Kennemerwaard",
@@ -6326,20 +6312,6 @@
     "frequency": "other",
     "day": null,
     "id": "c47dcc51-a21e-4317-a8f8-83861e14d6b8"
-  },
-  {
-    "name": "Wierden @  Bibliotheek Wierden",
-    "latitude": 52.3564832,
-    "longitude": 6.5929633,
-    "countryCode": "NL",
-    "stage": "OPEN",
-    "urlSlug": "nl/overijssel/wierden-bibliotheek-wierden",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "bad058c7-4686-46f8-94b5-e37ad3a83372"
   },
   {
     "name": "Sto Rox Dojo @ Community Resource Center",
