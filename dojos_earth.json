@@ -294,20 +294,6 @@
     "id": "1089be38-1ec0-4ea8-9f79-4288963e7d80"
   },
   {
-    "name": "Eeklo",
-    "latitude": 51.1852719,
-    "longitude": 3.5638899000000492,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/eeklo/eeklo",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "e7814c26-7c61-4059-a345-dcfb5902823c"
-  },
-  {
     "name": "Greenfield @ St Michael",
     "latitude": 39.7909434,
     "longitude": -85.79018739999998,
@@ -5698,20 +5684,6 @@
     "id": "116f95d3-ba16-4c89-bb3c-3ef37994d39f"
   },
   {
-    "name": "Sint-Job",
-    "latitude": 51.29220249999999,
-    "longitude": 4.577031000000034,
-    "countryCode": "BE",
-    "stage": "REGISTER",
-    "urlSlug": "be/kerklei-2-brecht/dojo-brecht",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "7eb4d6fa-c0e0-470e-abb8-8b8ab7a48ab3"
-  },
-  {
     "name": "Zottegem",
     "latitude": 50.87259419999999,
     "longitude": 3.80896580000001,
@@ -5724,6 +5696,20 @@
     "frequency": "1/m",
     "day": 6,
     "id": "e9412384-3e76-4298-b0df-4d192b6694e4"
+  },
+  {
+    "name": "Brecht",
+    "latitude": 51.29220249999999,
+    "longitude": 4.577031000000034,
+    "countryCode": "BE",
+    "stage": "REGISTER",
+    "urlSlug": "be/kerklei-2-brecht/dojo-brecht",
+    "startTime": null,
+    "endTime": null,
+    "openToPublic": true,
+    "frequency": "other",
+    "day": null,
+    "id": "7eb4d6fa-c0e0-470e-abb8-8b8ab7a48ab3"
   },
   {
     "name": "Ignite Hubs Camberwell",
@@ -6116,20 +6102,6 @@
     "frequency": "other",
     "day": null,
     "id": "557c56ff-ace1-436c-9f2f-edd5ad042e93"
-  },
-  {
-    "name": "Menen",
-    "latitude": 50.7979030346482,
-    "longitude": 3.117467164993286,
-    "countryCode": "BE",
-    "stage": "FULL",
-    "urlSlug": "be/menen/menen",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "8e30d225-9730-48d4-89f9-a0b0364a6566"
   },
   {
     "name": "Hitachinaka",
@@ -12164,20 +12136,6 @@
     "frequency": "1/w",
     "day": 6,
     "id": "8427aa83-e0a2-4234-b4e2-124503cbba1d"
-  },
-  {
-    "name": "Brugge",
-    "latitude": 51.1877131,
-    "longitude": 3.2108888999999863,
-    "countryCode": "BE",
-    "stage": "REGISTER",
-    "urlSlug": "be/vlaams-gewest/bruges/brugge",
-    "startTime": "09:00",
-    "endTime": "12:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 6,
-    "id": "ed5a16bc-9a78-4ea6-b4ca-7c20d0d5d6bd"
   },
   {
     "name": "Mysore @ MRIT Let’s Learn",
