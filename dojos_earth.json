@@ -9128,20 +9128,6 @@
     "id": "67e7e102-e1ea-45b3-afd0-c12af3d40120"
   },
   {
-    "name": "Zurich",
-    "latitude": 47.3861445,
-    "longitude": 8.529222000000004,
-    "countryCode": "CH",
-    "stage": "REGISTER",
-    "urlSlug": "ch/zuerich/zurich",
-    "startTime": null,
-    "endTime": null,
-    "openToPublic": true,
-    "frequency": "other",
-    "day": null,
-    "id": "67f7d3a8-4304-4d1f-b0d6-4773f28e63ce"
-  },
-  {
     "name": "Mechanicsville, Virginia @ Atlee Branch Library",
     "latitude": 37.6492498,
     "longitude": -77.40062339999997,
@@ -9168,6 +9154,20 @@
     "frequency": "2/m",
     "day": 6,
     "id": "6b1f4c4f-cac9-480d-8afc-37e384c6b4a7"
+  },
+  {
+    "name": "Zurich",
+    "latitude": 47.3861445,
+    "longitude": 8.529222000000004,
+    "countryCode": "CH",
+    "stage": "REGISTER",
+    "urlSlug": "ch/zuerich/zurich",
+    "startTime": "15:00",
+    "endTime": "17:00",
+    "openToPublic": true,
+    "frequency": "other",
+    "day": 0,
+    "id": "67f7d3a8-4304-4d1f-b0d6-4773f28e63ce"
   },
   {
     "name": "Indiana, PA @ Indiana Free Library",
