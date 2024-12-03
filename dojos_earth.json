@@ -19726,20 +19726,6 @@
     "id": "7f11c0b8-7bb5-4580-b589-7c55b591ef84"
   },
   {
-    "name": "Elingen @ Pepingen",
-    "latitude": 50.7798101,
-    "longitude": 4.1713651,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/elingen/elingen-pepingen",
-    "startTime": "19:00",
-    "endTime": "21:00",
-    "openToPublic": true,
-    "frequency": "1/m",
-    "day": 4,
-    "id": "7f24b39a-c7db-484e-8374-0ee54395b00f"
-  },
-  {
     "name": "Nishinasuno@Minami comunity center",
     "latitude": 36.85512371715175,
     "longitude": 139.96966123580933,
