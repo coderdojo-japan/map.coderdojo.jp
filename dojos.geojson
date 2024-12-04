@@ -19626,21 +19626,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.123864054679871,
-          53.18901976165462
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Ballywaltrim @ Bray Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/bray-county-wicklow/ballywaltrim-bray-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.483796899999999,
           6.447510299999999
         ]
@@ -20594,6 +20579,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Hoeksche Waard<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/hoeksche-waard/hoeksche-waard'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.123864054679871,
+          53.18901976165462
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Ballywaltrim @ Bray Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/bray-county-wicklow/ballywaltrim-bray-library'>連絡先を見る</a>"
       }
     }
   ]

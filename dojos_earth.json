@@ -20748,20 +20748,6 @@
     "id": "52b623b0-53b3-47c6-893f-ebe0b38265f5"
   },
   {
-    "name": "Ballywaltrim @ Bray Library",
-    "latitude": 53.18901976165462,
-    "longitude": -6.123864054679871,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/bray-county-wicklow/ballywaltrim-bray-library",
-    "startTime": "17:00",
-    "endTime": "18:30",
-    "openToPublic": true,
-    "frequency": "1/w",
-    "day": 3,
-    "id": "df52e00c-915c-482c-9b3b-d2fea7d3a24a"
-  },
-  {
     "name": "CIPDI code club.",
     "latitude": 6.447510299999999,
     "longitude": 7.483796899999999,
@@ -21754,5 +21740,19 @@
     "frequency": "2/m",
     "day": 6,
     "id": "db54f671-b705-4bf6-bbe2-be0d7ab981a1"
+  },
+  {
+    "name": "Ballywaltrim @ Bray Library",
+    "latitude": 53.18901976165462,
+    "longitude": -6.123864054679871,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/bray-county-wicklow/ballywaltrim-bray-library",
+    "startTime": "17:00",
+    "endTime": "18:30",
+    "openToPublic": true,
+    "frequency": "1/w",
+    "day": 3,
+    "id": "df52e00c-915c-482c-9b3b-d2fea7d3a24a"
   }
 ]
