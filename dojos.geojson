@@ -10101,6 +10101,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.3802673,
+          35.6641056
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://coderdojo-hino.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/hino.webp' alt='日野' loading='lazy' width='100px' /></a><br><b>日野</b><br>日野市で毎月開催<br><a href='https://coderdojo-hino.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.5067761,
           34.5587994
         ]
@@ -20564,6 +20579,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Donaghmede<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin/holy-trinity-senior-national-school-donaghmede-dublin-13/donaghmede'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.47389309999994,
+          35.7402637
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/kodaira.webp' alt='こだいら' loading='lazy' width='100px' /></a><br><b>こだいら</b><br>小平市で隔週水曜<br>および週末に不定期で開催<br>&rarr; 次回: <a href='https://coderdojo-jp-kodaira.connpass.com/event/335320/' target='_blank' rel='noopener'>12月7日</a><br><a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
