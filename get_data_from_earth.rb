@@ -43,12 +43,12 @@ ALL_DOJOS_QUERY = <<~GRAPH_QL
         countryCode
         stage
         urlSlug: url
-        startTime
-        endTime
-        openToPublic
-        frequency
-        day
         id: uuid
+        #startTime
+        #endTime
+        #openToPublic
+        #frequency
+        #day
       }
       pageInfo {
         endCursor
@@ -83,12 +83,12 @@ JP_DOJOS_QUERY = <<~GRAPH_QL
         countryCode
         stage
         urlSlug: url
-        startTime
-        endTime
-        openToPublic
-        frequency
-        day
         id: uuid
+        #startTime
+        #endTime
+        #openToPublic
+        #frequency
+        #day
       }
       pageInfo {
         endCursor
