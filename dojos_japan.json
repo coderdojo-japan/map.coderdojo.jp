@@ -3730,5 +3730,17 @@
     "prefecture": "大阪",
     "created_at": "2024-11-17T00:00:00.000+09:00",
     "description": "平野区で毎月開催"
+  },
+  {
+    "id": 330,
+    "url": "https://coderdojo-fujinomiya.site/",
+    "name": "富士宮",
+    "logo": "https://coderdojo.jp/img/dojos/fujinomiya.webp",
+    "order": "222071",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "静岡",
+    "created_at": "2024-12-09T00:00:00.000+09:00",
+    "description": "富士宮市で毎月開催"
   }
 ]
