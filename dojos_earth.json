@@ -3114,15 +3114,6 @@
     "id": "3b543ede-20e5-4283-a0a6-c342fcb3ffc8"
   },
   {
-    "name": "Fernelmont @ coworking Fernelmont",
-    "latitude": 50.5565526,
-    "longitude": 4.984619100000032,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/fernelmont/fernelmont-coworking-fernelmont",
-    "id": "3b609129-2f5d-4e48-ab68-7b4632da7edd"
-  },
-  {
     "name": "Torrazzo, Cremona",
     "latitude": 45.1411332,
     "longitude": 10.039871400000038,
@@ -5013,7 +5004,7 @@
     "id": "6037228e-cbb2-4bc2-8ed0-b115740dbae4"
   },
   {
-    "name": "Diest@BibDiest",
+    "name": "Diest",
     "latitude": 50.9872028,
     "longitude": 5.058501400000068,
     "countryCode": "BE",
@@ -6138,15 +6129,6 @@
     "id": "731d7415-98d0-40ce-8db5-fe371285f206"
   },
   {
-    "name": "Sint-Niklaas@bib",
-    "latitude": 51.1625299,
-    "longitude": 4.140839000000028,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/oost-vlaanderen/sint-niklaas-bib",
-    "id": "7333e389-0b73-49c1-8ed1-e8df056b7356"
-  },
-  {
     "name": "Dublin City @ Qualtrics",
     "latitude": 53.34041621139893,
     "longitude": -6.265820252670282,
@@ -6282,7 +6264,7 @@
     "id": "7659c9e9-0ffc-4d63-a08a-2ac2e91d8aea"
   },
   {
-    "name": "Bxl Yser",
+    "name": "Bxl Monty",
     "latitude": 50.8573506,
     "longitude": 4.350037899999961,
     "countryCode": "BE",
@@ -6741,15 +6723,6 @@
     "id": "7e7a477c-b91b-4130-b525-ef08c6e60358"
   },
   {
-    "name": "Brecht",
-    "latitude": 51.29220249999999,
-    "longitude": 4.577031000000034,
-    "countryCode": "BE",
-    "stage": "REGISTER",
-    "urlSlug": "be/kerklei-2-brecht/dojo-brecht",
-    "id": "7eb4d6fa-c0e0-470e-abb8-8b8ab7a48ab3"
-  },
-  {
     "name": "Ofuna",
     "latitude": 35.3544739,
     "longitude": 139.53313019999996,
@@ -6768,7 +6741,7 @@
     "id": "7f11c0b8-7bb5-4580-b589-7c55b591ef84"
   },
   {
-    "name": "Westerlo @ bibliotheek",
+    "name": "Westerlo",
     "latitude": 51.0900314,
     "longitude": 4.909658799999988,
     "countryCode": "BE",
@@ -7218,7 +7191,7 @@
     "id": "86b0d65f-2f22-4d34-9ad8-34c701d1f170"
   },
   {
-    "name": "Bierbeek@deBorre",
+    "name": "Bierbeek",
     "latitude": 50.8273247,
     "longitude": 4.753993599999999,
     "countryCode": "BE",
@@ -7470,7 +7443,7 @@
     "id": "8b0f09ac-4b6e-4e8c-95d1-125a2852cca4"
   },
   {
-    "name": "Ghent",
+    "name": "gent",
     "latitude": 51.0363412,
     "longitude": 3.736166899999944,
     "countryCode": "BE",
@@ -8118,7 +8091,7 @@
     "id": "971da0c4-abf5-4448-b424-6ccdd6f01dfb"
   },
   {
-    "name": "Sint-Pieters, Brugge @ Innovatieve basisschool De STEMpel",
+    "name": "Sint-Pieters Brugge",
     "latitude": 51.2265156,
     "longitude": 3.2082887,
     "countryCode": "BE",
@@ -9054,15 +9027,6 @@
     "id": "a889512c-8a4a-48bb-8100-c07cb514a931"
   },
   {
-    "name": "Harelbeke",
-    "latitude": 50.8546631,
-    "longitude": 3.3137022,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/harelbeke/harelbeke",
-    "id": "a89252e4-85ae-42b7-8e8f-08ba6b6788e5"
-  },
-  {
     "name": "Makerlab@Agrinio",
     "latitude": 38.6244897,
     "longitude": 21.4096034,
@@ -9070,15 +9034,6 @@
     "stage": "OPEN",
     "urlSlug": "gr/agrinio/makerlab-agrinio",
     "id": "a8b764a6-36ca-468e-9c2b-2b754679252a"
-  },
-  {
-    "name": "Roux",
-    "latitude": 50.4416202,
-    "longitude": 4.390975199999957,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/6-04-4-charleroi/roux",
-    "id": "a90c9447-88f0-4b28-9439-4a2d6ddbc236"
   },
   {
     "name": "Milpitas, California @ Milpitas Public Library",
@@ -10233,7 +10188,7 @@
     "id": "bb116483-6cc6-4335-87d8-a93b4f8b38e3"
   },
   {
-    "name": "CoderDojo Liège",
+    "name": "Liège",
     "latitude": 50.64377649999999,
     "longitude": 5.574891799999932,
     "countryCode": "BE",
@@ -10492,15 +10447,6 @@
     "stage": "REGISTER",
     "urlSlug": "us/poulsbo-wa/west-sound-seattle",
     "id": "c0e4b1f5-95a9-4f48-8cfb-b5d195d75bb5"
-  },
-  {
-    "name": "Zemst",
-    "latitude": 50.9828485,
-    "longitude": 4.464635499999986,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/zemst/zemst-1",
-    "id": "c1342959-86ce-4782-adfa-e11a66438461"
   },
   {
     "name": "Asse",
@@ -12294,15 +12240,6 @@
     "id": "e1447ba8-ba14-4350-927e-334fce62a24a"
   },
   {
-    "name": "Hoogstraten",
-    "latitude": 51.4014003,
-    "longitude": 4.764162299999953,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/hoogstraten/hoogstraten",
-    "id": "e157cbb3-f329-4a37-96b8-f0a8d589aa6b"
-  },
-  {
     "name": "shikatsu",
     "latitude": 35.238428,
     "longitude": 136.87490200000002,
@@ -12355,15 +12292,6 @@
     "stage": "OPEN",
     "urlSlug": "de/heidelberg/coderdojo-heidelberg",
     "id": "e1b46be3-cb9c-44be-ba45-b1700ddf64fd"
-  },
-  {
-    "name": "De Panne",
-    "latitude": 51.094914,
-    "longitude": 2.587086999999997,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/de-panne/de-panne",
-    "id": "e1b9f9eb-7f5b-4f29-b016-adbb61029eb8"
   },
   {
     "name": "Ashbourne",
@@ -12733,15 +12661,6 @@
     "stage": "OPEN",
     "urlSlug": "tr/konya/konya-genc-makers",
     "id": "e6fe61b8-2d94-42bc-89b2-f653754e4cd8"
-  },
-  {
-    "name": "Zottegem",
-    "latitude": 50.8735157,
-    "longitude": 3.808872899999983,
-    "countryCode": "BE",
-    "stage": "FULL",
-    "urlSlug": "be/zottegem/zottegem",
-    "id": "e70608e3-7b62-40bb-91be-66ceb439087d"
   },
   {
     "name": "Epping, Melbourne @ Greenbrook Community Service, 40 McFarlane Cres, Epping VIC 3076",
