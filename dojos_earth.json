@@ -2925,15 +2925,6 @@
     "id": "37e3c1a2-029b-4962-9618-573643b4a5b3"
   },
   {
-    "name": "Timisoara @ CDLoga",
-    "latitude": 45.752664,
-    "longitude": 21.234593000000018,
-    "countryCode": "RO",
-    "stage": "OPEN",
-    "urlSlug": "ro/timisoara-timis-county/timisoara-cdloga",
-    "id": "37f13b58-fa62-4b2f-96b0-92b164bb4109"
-  },
-  {
     "name": "CoderDojoMatsuyama",
     "latitude": 33.8362162,
     "longitude": 132.7653075,
@@ -6930,7 +6921,7 @@
     "id": "833b004b-06a6-45bd-b122-68922a4dc8ff"
   },
   {
-    "name": "Timisoara@ West University of Timisoara",
+    "name": " Code Club @ UVT",
     "latitude": 45.7471192,
     "longitude": 21.23161479999999,
     "countryCode": "RO",

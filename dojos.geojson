@@ -388,7 +388,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-sendai-wakabayashi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/sendai-wakabayashi.webp' alt='仙台若林' loading='lazy' width='100px' /></a><br><b>仙台若林</b><br>仙台市若林区で月<br>2回開催<br>&rarr; 次回: <a href='https://coderdojo-sendai-wakabayashi.connpass.com/event/338994/' target='_blank' rel='noopener'>12月15日</a><br><a href='https://coderdojo-sendai-wakabayashi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-sendai-wakabayashi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/sendai-wakabayashi.webp' alt='仙台若林' loading='lazy' width='100px' /></a><br><b>仙台若林</b><br>仙台市若林区で月<br>2回開催<br>&rarr; 次回: <a href='https://coderdojo-sendai-wakabayashi.connpass.com/event/338994/' target='_blank' rel='noopener'>12月22日</a><br><a href='https://coderdojo-sendai-wakabayashi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -4401,21 +4401,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.234593000000018,
-          45.752664
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Timisoara @ CDLoga<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ro/timisoara-timis-county/timisoara-cdloga'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           132.7653075,
           33.8362162
         ]
@@ -6673,7 +6658,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>  <img src='/images/dojos/sennan.webp' alt='せんなん' loading='lazy' width='100px' /></a><br><b>せんなん</b><br>泉南市で毎月開催<br><a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>  <img src='/images/dojos/sennan.webp' alt='せんなん' loading='lazy' width='100px' /></a><br><b>せんなん</b><br>泉南市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-sennan.connpass.com/event/339190/' target='_blank' rel='noopener'>12月22日</a><br><a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -10408,7 +10393,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Timisoara@ West University of Timisoara<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ro/timisoara-timis-county/timisoara-west-university-of-timisoara'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br> Code Club @ UVT<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ro/timisoara-timis-county/timisoara-west-university-of-timisoara'>連絡先を見る</a>"
       }
     },
     {
