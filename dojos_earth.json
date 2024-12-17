@@ -343,8 +343,8 @@
   },
   {
     "name": "Borsbeek",
-    "latitude": 51.19301790000001,
-    "longitude": 4.488118399999962,
+    "latitude": 51.195711253604436,
+    "longitude": 4.476212287412699,
     "countryCode": "BE",
     "stage": "OPEN",
     "urlSlug": "be/borsbeek/borsbeek",
@@ -496,8 +496,8 @@
   },
   {
     "name": "Ninove",
-    "latitude": 50.8352424,
-    "longitude": 4.026238499999977,
+    "latitude": 50.83710534983867,
+    "longitude": 4.02563816384663,
     "countryCode": "BE",
     "stage": "OPEN",
     "urlSlug": "be/ninove/ninove",
@@ -712,8 +712,8 @@
   },
   {
     "name": "Aalter",
-    "latitude": 51.08410079999999,
-    "longitude": 3.450403999999935,
+    "latitude": 51.09309754047862,
+    "longitude": 3.450069772697097,
     "countryCode": "BE",
     "stage": "FULL",
     "urlSlug": "be/vlaams-gewest/kaho-kwalestraat-1-54-aalter/aalter",
@@ -955,8 +955,8 @@
   },
   {
     "name": "Sint-Katelijne Waver",
-    "latitude": 51.0660044,
-    "longitude": 4.528412600000024,
+    "latitude": 51.0554620389351,
+    "longitude": 4.544587595717371,
     "countryCode": "BE",
     "stage": "FULL",
     "urlSlug": "be/vlaams-gewest/gemeentelijke-basisschool-g-l-o-c-daliastraat-35-2-86-0-sint-katelijne-waver/sint-katelijne-waver",
@@ -1747,8 +1747,8 @@
   },
   {
     "name": "Braine l'Alleud",
-    "latitude": 50.68250579999999,
-    "longitude": 4.3700717000000395,
+    "latitude": 50.68283969631958,
+    "longitude": 4.369377222622325,
     "countryCode": "BE",
     "stage": "OPEN",
     "urlSlug": "be/braine-lalleud/braine-lalleud",
@@ -1864,8 +1864,8 @@
   },
   {
     "name": "Beveren-Waas",
-    "latitude": 51.2130391,
-    "longitude": 4.262210800000048,
+    "latitude": 51.218980757473474,
+    "longitude": 4.252168397310975,
     "countryCode": "BE",
     "stage": "OPEN",
     "urlSlug": "be/beveren/beveren-waas",
@@ -1918,8 +1918,8 @@
   },
   {
     "name": "Clavier",
-    "latitude": 50.4132561,
-    "longitude": 5.362983799999938,
+    "latitude": 50.41349252950939,
+    "longitude": 5.299785730056117,
     "countryCode": "BE",
     "stage": "OPEN",
     "urlSlug": "be/clavier/clavier",
@@ -3880,8 +3880,8 @@
   },
   {
     "name": "Gosselies Aéropole",
-    "latitude": 50.471124,
-    "longitude": 4.463885900000037,
+    "latitude": 50.43233320875986,
+    "longitude": 4.448945482014635,
     "countryCode": "BE",
     "stage": "OPEN",
     "urlSlug": "be/gosselies/gosselies-aeropole",
@@ -4645,8 +4645,8 @@
   },
   {
     "name": "Lier",
-    "latitude": 51.1342562,
-    "longitude": 4.569791500000065,
+    "latitude": 51.12910579133475,
+    "longitude": 4.573356689475047,
     "countryCode": "BE",
     "stage": "REGISTER",
     "urlSlug": "be/vlaams-gewest/cc-colibrant-deensestraat-6-2-50-0-lier/lier",
@@ -5518,8 +5518,8 @@
   },
   {
     "name": "Dilsen-Stokkem",
-    "latitude": 51.0353779,
-    "longitude": 5.725615000000062,
+    "latitude": 51.038606012622445,
+    "longitude": 5.69731166862315,
     "countryCode": "BE",
     "stage": "OPEN",
     "urlSlug": "be/dilsen-stokkem/dilsen-stokkem",
@@ -6256,8 +6256,8 @@
   },
   {
     "name": "Bxl Monty",
-    "latitude": 50.8573506,
-    "longitude": 4.350037899999961,
+    "latitude": 50.83816505359696,
+    "longitude": 4.408569739623902,
     "countryCode": "BE",
     "stage": "OPEN",
     "urlSlug": "be/bruxelles/bxl-yser",
@@ -7264,8 +7264,8 @@
   },
   {
     "name": "Brecht",
-    "latitude": 51.3483513,
-    "longitude": 4.64161439999998,
+    "latitude": 51.34890408852532,
+    "longitude": 4.638587326159028,
     "countryCode": "BE",
     "stage": "OPEN",
     "urlSlug": "be/brecht/brecht-1",
@@ -7435,8 +7435,8 @@
   },
   {
     "name": "gent",
-    "latitude": 51.0363412,
-    "longitude": 3.736166899999944,
+    "latitude": 51.060404548888734,
+    "longitude": 3.7098615134914663,
     "countryCode": "BE",
     "stage": "OPEN",
     "urlSlug": "be/ghent/ghent",
@@ -7606,8 +7606,8 @@
   },
   {
     "name": "Kortrijk",
-    "latitude": 50.8254874,
-    "longitude": 3.267650799999956,
+    "latitude": 50.80516595911156,
+    "longitude": 3.2851744988178133,
     "countryCode": "BE",
     "stage": "REGISTER",
     "urlSlug": "be/parkoffice-63-doorniksestraat-8500-kortrijk/kortrijk",
@@ -8659,8 +8659,8 @@
   },
   {
     "name": "Geel",
-    "latitude": 51.1608366,
-    "longitude": 4.962115499999982,
+    "latitude": 51.16128355294104,
+    "longitude": 4.984908931347981,
     "countryCode": "BE",
     "stage": "FULL",
     "urlSlug": "be/kleinhoefstraat-4-2440-geel-belgium/geel-1",
@@ -9414,7 +9414,7 @@
     "id": "af7c85e7-4e93-4523-b96d-e6c879eff232"
   },
   {
-    "name": "Willemstad @ Coder Dojo Curaçao Nacional Library",
+    "name": "Code Club BNK",
     "latitude": 12.1083668,
     "longitude": -68.9143176,
     "countryCode": "CW",
@@ -9685,8 +9685,8 @@
   },
   {
     "name": "Berchem",
-    "latitude": 51.1933193,
-    "longitude": 4.412655200000017,
+    "latitude": 51.19471351750916,
+    "longitude": 4.409034244503358,
     "countryCode": "BE",
     "stage": "OPEN",
     "urlSlug": "be/antwerpen/berchem",
@@ -9775,8 +9775,8 @@
   },
   {
     "name": "Hechtel-Eksel",
-    "latitude": 51.12533055237951,
-    "longitude": 5.362722873687744,
+    "latitude": 51.15592578006616,
+    "longitude": 5.394687897312793,
     "countryCode": "BE",
     "stage": "REGISTER",
     "urlSlug": "be/hechtel-eksel/hechtel-eksel",
@@ -10180,8 +10180,8 @@
   },
   {
     "name": "Liège",
-    "latitude": 50.64377649999999,
-    "longitude": 5.574891799999932,
+    "latitude": 50.64196371049394,
+    "longitude": 5.576200873516591,
     "countryCode": "BE",
     "stage": "REGISTER",
     "urlSlug": "be/liege/coderdojo-liege",
@@ -10195,6 +10195,15 @@
     "stage": "OPEN",
     "urlSlug": "ke/nairobi-nairobi-county/nairobi-kilimani-kids-tech-united-bible-societies-ndemi-road",
     "id": "bb2a1e67-6f6a-4156-88ca-b24ee736a417"
+  },
+  {
+    "name": "CoderDojo 品川港南",
+    "latitude": 35.6309571,
+    "longitude": 139.7496359,
+    "countryCode": "JP",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "id": "bba216fc-b2af-49b9-98f3-a5ba46579da6"
   },
   {
     "name": "Valašské Meziříčí @ Knihovna Valmez",
@@ -11548,8 +11557,8 @@
   },
   {
     "name": "Lessines",
-    "latitude": 50.7118437,
-    "longitude": 3.8287983000000168,
+    "latitude": 50.71277806380388,
+    "longitude": 3.836216935787444,
     "countryCode": "BE",
     "stage": "OPEN",
     "urlSlug": "be/lessines/lessines",
