@@ -3742,5 +3742,17 @@
     "prefecture": "静岡",
     "created_at": "2024-12-09T00:00:00.000+09:00",
     "description": "富士宮市で毎月開催"
+  },
+  {
+    "id": 331,
+    "url": "https://x.com/coderdojo_konan",
+    "name": "品川港南",
+    "logo": "https://coderdojo.jp/img/dojos/shinagawa-konan.webp",
+    "order": "131032",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "東京",
+    "created_at": "2024-12-20T01:32:32.432+09:00",
+    "description": "港区港南で毎月開催"
   }
 ]
