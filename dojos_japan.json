@@ -2814,7 +2814,7 @@
     "logo": "https://coderdojo.jp/img/dojos/default.webp",
     "order": "012050",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "北海道",
     "created_at": "2020-09-10T00:00:00.000+09:00",
     "description": "室蘭市で毎月開催"
