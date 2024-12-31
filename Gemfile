@@ -18,4 +18,4 @@ end
 # https://www.ruby-lang.org/ja/news/2023/12/25/ruby-3-3-0-released/
 gem 'csv'
 gem 'base64'
-gem 'bigdecimal'
+gem 'logger'
