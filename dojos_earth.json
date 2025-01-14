@@ -1197,6 +1197,15 @@
     "id": "184e12c9-0e86-4f57-8102-c5fdcad524c8"
   },
   {
+    "name": "黒潮町",
+    "latitude": 33.0555725,
+    "longitude": 133.085034,
+    "countryCode": "JP",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "id": "18704b53-1042-4464-9d49-8820c6ff8c97"
+  },
+  {
     "name": "Palermo",
     "latitude": 38.1156879,
     "longitude": 13.361267099999964,
