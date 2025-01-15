@@ -343,7 +343,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojokibi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='吉備' loading='lazy' width='100px' /></a><br><b>吉備</b><br>岡山市北区で毎月開催<br><a href='https://coderdojokibi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojokibi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='吉備' loading='lazy' width='100px' /></a><br><b>吉備</b><br>岡山市北区で毎月開催<br>&rarr; 次回: <a href='https://coderdojokibi.connpass.com/event/342702/' target='_blank' rel='noopener'>1月18日</a><br><a href='https://coderdojokibi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -7341,21 +7341,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.6342403888702393,
-          53.54937583525053
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Wigan @ Wigan Youth Zone<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/wn1-1ru/wigan-wigan-youth-zone'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           121.47405920000006,
           -30.74892789999999
         ]
@@ -8623,7 +8608,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojoiida.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='飯田' loading='lazy' width='100px' /></a><br><b>飯田</b><br>飯田市で第2土曜開催<br><a href='https://coderdojoiida.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojoiida.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='飯田' loading='lazy' width='100px' /></a><br><b>飯田</b><br>飯田市で第2土曜開催<br>&rarr; 次回: <a href='https://coderdojoiida.connpass.com/event/342680/' target='_blank' rel='noopener'>2月8日</a><br><a href='https://coderdojoiida.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -17308,7 +17293,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nakamozu.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nakamozu.webp' alt='なかもず' loading='lazy' width='100px' /></a><br><b>なかもず</b><br>堺市で毎月開催<br><a href='https://coderdojo-nakamozu.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nakamozu.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nakamozu.webp' alt='なかもず' loading='lazy' width='100px' /></a><br><b>なかもず</b><br>堺市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-nakamozu.connpass.com/event/336548/' target='_blank' rel='noopener'>2月9日</a><br><a href='https://coderdojo-nakamozu.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
