@@ -388,7 +388,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-sendai-wakabayashi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/sendai-wakabayashi.webp' alt='仙台若林' loading='lazy' width='100px' /></a><br><b>仙台若林</b><br>仙台市若林区で月<br>2回開催<br><a href='https://coderdojo-sendai-wakabayashi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-sendai-wakabayashi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/sendai-wakabayashi.webp' alt='仙台若林' loading='lazy' width='100px' /></a><br><b>仙台若林</b><br>仙台市若林区で月<br>2回開催<br>&rarr; 次回: <a href='https://coderdojo-sendai-wakabayashi.connpass.com/event/343302/' target='_blank' rel='noopener'>1月26日</a><br><a href='https://coderdojo-sendai-wakabayashi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -2788,7 +2788,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-atsugi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/atsugi.webp' alt='厚木' loading='lazy' width='100px' /></a><br><b>厚木</b><br>厚木市で不定期開催<br><a href='https://coderdojo-atsugi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-atsugi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/atsugi.webp' alt='厚木' loading='lazy' width='100px' /></a><br><b>厚木</b><br>厚木市で不定期開催<br>&rarr; 次回: <a href='https://coderdojo-atsugi.connpass.com/event/342016/' target='_blank' rel='noopener'>2月24日</a><br><a href='https://coderdojo-atsugi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -5083,7 +5083,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojokasai.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/kasai.webp' alt='加西' loading='lazy' width='100px' /></a><br><b>加西</b><br>加西市で毎月開催<br><a href='https://coderdojokasai.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojokasai.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/kasai.webp' alt='加西' loading='lazy' width='100px' /></a><br><b>加西</b><br>加西市で毎月開催<br>&rarr; 次回: <a href='https://coderdojokasai.connpass.com/event/343311/' target='_blank' rel='noopener'>2月9日</a><br><a href='https://coderdojokasai.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -5173,7 +5173,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-iwata.connpass.com' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.png' alt='磐田' loading='lazy' width='100px' /></a><br><b>磐田</b><br>磐田市で毎月開催<br><a href='https://coderdojo-iwata.connpass.com' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-iwata.connpass.com' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.png' alt='磐田' loading='lazy' width='100px' /></a><br><b>磐田</b><br>磐田市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-iwata.connpass.com/event/343325/' target='_blank' rel='noopener'>2月22日</a><br><a href='https://coderdojo-iwata.connpass.com' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -7153,7 +7153,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-sakai.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/sakai.webp' alt='堺' loading='lazy' width='100px' /></a><br><b>堺</b><br>堺市で毎月開催<br><a href='https://coderdojo-sakai.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-sakai.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/sakai.webp' alt='堺' loading='lazy' width='100px' /></a><br><b>堺</b><br>堺市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-sakai.connpass.com/event/343310/' target='_blank' rel='noopener'>1月26日</a><br><a href='https://coderdojo-sakai.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -9838,7 +9838,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nagano.connpass.com' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='長野' loading='lazy' width='100px' /></a><br><b>長野</b><br>長野市で隔月で開催<br><a href='https://coderdojo-nagano.connpass.com' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nagano.connpass.com' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='長野' loading='lazy' width='100px' /></a><br><b>長野</b><br>長野市で隔月で開催<br>&rarr; 次回: <a href='https://coderdojo-nagano.connpass.com/event/343291/' target='_blank' rel='noopener'>3月2日</a><br><a href='https://coderdojo-nagano.connpass.com' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -9868,7 +9868,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagoya.webp' alt='名古屋' loading='lazy' width='100px' /></a><br><b>名古屋</b><br>名古屋市中区で月<br>2回開催<br><a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagoya.webp' alt='名古屋' loading='lazy' width='100px' /></a><br><b>名古屋</b><br>名古屋市中区で月<br>2回開催<br>&rarr; 次回: <a href='https://coderdojo-nagoya.connpass.com/event/343290/' target='_blank' rel='noopener'>1月26日</a><br><a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -11323,7 +11323,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-morooka.connpass.com' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='横浜師岡' loading='lazy' width='100px' /></a><br><b>横浜師岡</b><br>横浜市港北区の師<br>岡町で毎月開催<br><a href='https://coderdojo-morooka.connpass.com' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-morooka.connpass.com' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='横浜師岡' loading='lazy' width='100px' /></a><br><b>横浜師岡</b><br>横浜市港北区の師<br>岡町で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-morooka.connpass.com/event/343337/' target='_blank' rel='noopener'>2月9日</a><br><a href='https://coderdojo-morooka.connpass.com' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
