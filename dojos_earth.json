@@ -1198,8 +1198,8 @@
   },
   {
     "name": "黒潮町",
-    "latitude": 33.0555725,
-    "longitude": 133.085034,
+    "latitude": 33.02275691656167,
+    "longitude": 133.00831645027952,
     "countryCode": "JP",
     "stage": "OPEN",
     "urlSlug": null,
@@ -4113,15 +4113,6 @@
     "id": "4fc8ca2d-3786-4194-a07c-7ab2be3579f2"
   },
   {
-    "name": "Ventura @ EP Foster Library",
-    "latitude": 34.2809945,
-    "longitude": -119.2907467,
-    "countryCode": "US",
-    "stage": "OPEN",
-    "urlSlug": null,
-    "id": "50188d19-9560-4e56-bdb9-e9b2c089c1f1"
-  },
-  {
     "name": "Ripley, Surrey@ Old Ripley CofE School",
     "latitude": 51.299442478048505,
     "longitude": -0.49678802490234375,
@@ -6530,7 +6521,7 @@
     "longitude": 4.2859163000000535,
     "countryCode": "NL",
     "stage": "OPEN",
-    "urlSlug": "nl/bergen-op-zoom/bergen-op-zoom-bibliotheek-het-markiezaat",
+    "urlSlug": "www.bibliotheekwb.nl",
     "id": "7bfbdfa4-7c6a-4b10-b0f9-04e4c3672cb9"
   },
   {
