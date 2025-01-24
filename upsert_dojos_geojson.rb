@@ -13,7 +13,8 @@ File.open("dojos_japan.json") {|file| dojos_japan  = JSON.load(file, nil, json_l
 File.open("events_japan.json"){|file| events_japan = JSON.load(file, nil, json_load_options) }
 #pp dojos_earth.first, dojos_japan.first, events_japan.first
 
-# Sample format of dojo2dojo.csv:
+# dojo2dojo.csv から Dojo 名の突合準備をする
+# 【フォーマット】
 # Japan登録名	Zen登録名
 # ひばりヶ丘	Hibarigaoka
 # ...
@@ -62,12 +63,11 @@ description = ''
 japan_count = 0
 marked_dojos = []
 dojos_earth.each do |dojo|
-  # Skip dojos that don't have required params to point on DojoMap
+  # 緯度または経度データが無いクラブはスキップ（地図上に配置できないため）
   if dojo[:latitude] && dojo[:longitude]
     #pp dojo
 
-    # Skip if dojo status is not active
-    # 活動していない道場は除外
+    # 以下の stage ステータスを見て活動中ではない道場は除外
     #
     # stage:              => Clubs API (renewal in 2023/12)
     # 0: In planning      => PENDING
@@ -77,26 +77,28 @@ dojos_earth.each do |dojo|
     # 4: 活動していません => ??? (Maybe deleted or PENDING?)
     # Clubs API https://clubs-api.raspberrypi.org/
     #
-    # MEMO: The first conditions when using the outdated CoderDojo API (aka Zen API).
+    # MEMO: Clubs API (旧: Zen API) リニューアル前は下記コードが使えた
     #       if dojo[:geoPoint] && dojo[:country] && dojo[:stage] != 4
     next unless ['OPEN', 'REGISTER', 'FULL'].include? dojo[:stage]
 
-    # Show only active dojos in Japan area on DojoMap
+    # アクティブで、地域情報が日本 (JP) の場合、地図上への配置処理に進む
     if dojo[:countryCode] == "JP"
 
-      # Skip if not existing OR marked as 'Inactive' by Japan DB
+      # dojo2dojo.csv に無かったらスキップ
+      # Japan DB 上で Inactive ならスキップ (Clubs DB より厳密に管理されているため)
       next if zen2japan[dojo[:name]].nil?
       next if name2is_active[zen2japan[dojo[:name]]] == false
 
-      # Convert Zen name into Japan name by Hash
+      # Clubs API 上のクラブ名を Japan DB 上のクラブ前に変換する by Hash
       dojo[:name] = zen2japan[dojo[:name]] if zen2japan[dojo[:name]]
 
-      # Count active dojo in Japan displayed on DojoMap for debugging
+      # デバッグ用: 地図上に配置したクラブ数をコンソールに出力する
       #japan_count = japan_count.succ
       #p "#{japan_count.to_s.rjust(3, '0')}: #{dojo[:name]}"
     end
 
-    # Compose 'description' passned to Geojson
+    # 各マーカー押下時の説明文 ('description') を生成する
+    # ロゴ画像がまだ無い場合はデフォルトのロゴで代用
     if name2logo[dojo[:name]].nil?
       # for Dojos overseas
       description = <<~HTML
@@ -105,11 +107,11 @@ dojos_earth.each do |dojo|
         <a target='_blank' rel='noopener'
            href='http://zen.coderdojo.com/dojos/#{dojo[:urlSlug]}'>連絡先を見る</a>
       HTML
-    else
-      # for Dojos regeisted in coderdojo.jp
 
-      # Skip if multiple-dojos-in-one style in Japan DB to be unique
-      # e.g. '西宮・梅田', '藤井寺・柏原', '大田・邑南、他'
+    # ロゴ画像がある場合はそのまま使用する
+    else
+      # 複数道場で一括登録している場合は１つのみ地図上に配置する
+      # 一括登録例: '西宮・梅田', '藤井寺・柏原', '大田・邑南、他'
       next if marked_dojos.include? dojo[:name]
       marked_dojos << dojo[:name]
 
@@ -122,7 +124,8 @@ dojos_earth.each do |dojo|
       HTML
     end
 
-    # Mark dojo to DojoMap
+    # 地図上に配置するため GeoJSON 形式に変換する
+    # https://ja.wikipedia.org/wiki/GeoJSON
     features << {
       type: "Feature",
       geometry: {
