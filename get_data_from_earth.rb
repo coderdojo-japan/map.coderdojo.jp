@@ -15,10 +15,12 @@ HEADERS = {
   'content-type' => 'application/json'
 }
 
-ALL_DOJOS_QUERY = <<~GRAPH_QL
+def get_query_from_template(filter)
+  query_template = <<~GRAPH_QL
   query (
-    # No need to filter to fetch all dojo data on earth.
-    # $countryCode: String!,
+    # No need to filter to fetch all dojo data on earth like:
+    #   $countryCode: String!,
+    #   countryCode: $countryCode,
     #
     # This 'after' has which page we have read and the next page to read.
     $after: String,
@@ -26,15 +28,7 @@ ALL_DOJOS_QUERY = <<~GRAPH_QL
     clubs(
       after: $after,
       first: 400,
-      filterBy: {
-        # No need to filter to fetch all dojo data on earth.
-        # countryCode: $countryCode,
-        #
-        # For DEBUG add this "JP" filter
-        #countryCode: "JP",
-        brand: CODERDOJO,
-        verified: true
-      }
+      #{filter}
     ) {
       nodes {
         name
@@ -56,47 +50,8 @@ ALL_DOJOS_QUERY = <<~GRAPH_QL
       }
     }
   }
-GRAPH_QL
-
-# This 'variables' is fixed parameter name and cannot be renamed.
-# https://graphql.org/learn/queries/#variables
-#variables = {
-#  # MEMO: No need to filter to fetch all dojo data on earth.
-#  # countryCode: 'JP'
-#}
-JP_DOJOS_QUERY = <<~GRAPH_QL
-  query (
-    $after: String
-  ) {
-    clubs(
-      after: $after,
-      first: 400,
-      filterBy: {
-        countryCode: "JP",
-        #verified: true # This does NOT change on number_of_dojos
-      }
-    ) {
-      nodes {
-        name
-        latitude
-        longitude
-        countryCode
-        stage
-        urlSlug: url
-        id: uuid
-        #startTime
-        #endTime
-        #openToPublic
-        #frequency
-        #day
-      }
-      pageInfo {
-        endCursor
-        hasNextPage
-      }
-    }
-  }
-GRAPH_QL
+  GRAPH_QL
+end
 
 def request_to_clubs_api(query:, variables:)
   request      = Net::HTTP::Post.new(API_URI.request_uri, HEADERS)
@@ -118,14 +73,6 @@ def request_to_clubs_api(query:, variables:)
   response_data[:data][:clubs]
 end
 
-@dojo_data   = []
-@unique_ids  = Set.new
-
-# Fetch clubs for Japan without filtering by brand
-variables = { after: nil }
-query = JP_DOJOS_QUERY
-print ' JP_DOJOS_QUERY: '
-
 def fetch_responses_by_request(page_number=0, query:, variables:)
   begin
     print "#{page_number = page_number.succ}.."
@@ -140,12 +87,33 @@ def fetch_responses_by_request(page_number=0, query:, variables:)
     variables[:after] = page_info[:endCursor]
   end while page_info[:hasNextPage]
 end
+
+# Variables to set fetched_data
+@dojo_data   = []
+@unique_ids  = Set.new
+
+# 日本国内の全クラブ情報を取得する
+# CoderDojo Japan API で 'verified' は突合できるため省略
+variables    = { after: nil } # Initialize to fetch from start.
+filter_by_jp = 'filterBy: { countryCode: "JP" }'
+query        = get_query_from_template(filter_by_jp)
+print ' JP_DOJOS_QUERY: '
+
+
+# This 'variables' is fixed parameter name and cannot be renamed.
+# https://graphql.org/learn/queries/#variables
+#
+# variables = {
+#   # MEMO: No need to filter to fetch all dojo data on earth.
+#   # countryCode: 'JP'
+# }
 fetch_responses_by_request(query: query, variables: variables)
 puts " (JP: #{@dojo_data.count})"
 
 # Fetch clubs for other countries with filtering by brand
-variables = { after: nil }
-query = ALL_DOJOS_QUERY
+variables        = { after: nil }
+filter_by_brands = 'filterBy: { brand: CODERDOJO, verified: true }'
+query            = get_query_from_template(filter_by_brands)
 print 'ALL_DOJOS_QUERY: '
 fetch_responses_by_request(query: query, variables: variables)
 puts " (Total: #{@dojo_data.count})"
