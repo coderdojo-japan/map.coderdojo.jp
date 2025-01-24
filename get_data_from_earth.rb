@@ -98,7 +98,7 @@ JP_DOJOS_QUERY = <<~GRAPH_QL
   }
 GRAPH_QL
 
-def request_data(query:, variables:)
+def request_to_clubs_api(query:, variables:)
   request      = Net::HTTP::Post.new(API_URI.request_uri, HEADERS)
   request.body = { query:, variables: }.to_json
   req_options  = { use_ssl: API_URI.scheme == 'https' }
@@ -118,49 +118,41 @@ def request_data(query:, variables:)
   response_data[:data][:clubs]
 end
 
-dojo_data   = []
-unique_ids  = Set.new
-page_number = 0
+@dojo_data   = []
+@unique_ids  = Set.new
 
 # Fetch clubs for Japan without filtering by brand
 variables = { after: nil }
 query = JP_DOJOS_QUERY
 print ' JP_DOJOS_QUERY: '
-begin
-  print "#{page_number = page_number.succ}.."
-  fetched_data = request_data(query: query, variables: variables)
-  fetched_data[:nodes].each do |dojo|
-    unless unique_ids.include?(dojo[:id])
-      dojo_data << dojo
-      unique_ids.add(dojo[:id])
+
+def fetch_responses_by_request(page_number=0, query:, variables:)
+  begin
+    print "#{page_number = page_number.succ}.."
+    fetched_data = request_to_clubs_api(query: query, variables: variables)
+    fetched_data[:nodes].each do |dojo|
+      unless @unique_ids.include?(dojo[:id])
+        @dojo_data << dojo
+        @unique_ids.add(dojo[:id])
+      end
     end
-  end
-  page_info = fetched_data[:pageInfo]
-  variables[:after] = page_info[:endCursor]
-end while page_info[:hasNextPage]
-puts " (JP: #{dojo_data.count})"
+    page_info = fetched_data[:pageInfo]
+    variables[:after] = page_info[:endCursor]
+  end while page_info[:hasNextPage]
+end
+fetch_responses_by_request(query: query, variables: variables)
+puts " (JP: #{@dojo_data.count})"
 
 # Fetch clubs for other countries with filtering by brand
 variables = { after: nil }
 query = ALL_DOJOS_QUERY
 print 'ALL_DOJOS_QUERY: '
-begin
-  print "#{page_number = page_number.succ}.."
-  fetched_data = request_data(query: query, variables: variables)
-  fetched_data[:nodes].each do |dojo|
-    unless unique_ids.include?(dojo[:id])
-      dojo_data << dojo
-      unique_ids.add(dojo[:id])
-    end
-  end
-  page_info = fetched_data[:pageInfo]
-  variables[:after] = page_info[:endCursor]
-end while page_info[:hasNextPage]
-puts " (Total: #{dojo_data.count})"
+fetch_responses_by_request(query: query, variables: variables)
+puts " (Total: #{@dojo_data.count})"
 
-File.write('tmp/number_of_dojos', dojo_data.length)
+File.write('tmp/number_of_dojos', @dojo_data.length)
 File.open('dojos_earth.json', 'w') do |file|
-  file.puts JSON.pretty_generate(dojo_data.sort_by{|dojo| dojo[:id]})
+  file.puts JSON.pretty_generate(@dojo_data.sort_by{|dojo| dojo[:id]})
 end
 
 # Show next step for developers
