@@ -1866,6 +1866,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          133.00831645027952,
+          33.02275691656167
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://www.facebook.com/coderdojo.kuroshio' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='黒潮町' loading='lazy' width='100px' /></a><br><b>黒潮町</b><br>黒潮町で毎月開催<br><a href='https://www.facebook.com/coderdojo.kuroshio' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.361267099999964,
           38.1156879
         ]
@@ -15126,6 +15141,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7496359,
+          35.6309571
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://x.com/coderdojo_konan' target='_blank' rel='noopener'>  <img src='/images/dojos/shinagawa-konan.webp' alt='品川港南' loading='lazy' width='100px' /></a><br><b>品川港南</b><br>港区港南で毎月開催<br><a href='https://x.com/coderdojo_konan' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           17.9709361,
           49.4728746
         ]
@@ -16094,6 +16124,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Pinrang @ PinCode<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/id/pinrang-penrang-pinrang-regency-south-sulawesi/pinrang-pincode'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.618216,
+          35.2228251
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://coderdojo-fujinomiya.site/' target='_blank' rel='noopener'>  <img src='/images/dojos/fujinomiya.webp' alt='富士宮' loading='lazy' width='100px' /></a><br><b>富士宮</b><br>富士宮市で毎月開催<br><a href='https://coderdojo-fujinomiya.site/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
