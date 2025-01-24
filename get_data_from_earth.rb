@@ -73,7 +73,7 @@ JP_DOJOS_QUERY = <<~GRAPH_QL
       first: 400,
       filterBy: {
         countryCode: "JP",
-        verified: true
+        #verified: true # This does NOT change on number_of_dojos
       }
     ) {
       nodes {
@@ -121,11 +121,11 @@ end
 dojo_data   = []
 unique_ids  = Set.new
 page_number = 0
-print 'Fetching page by page: '
 
 # Fetch clubs for Japan without filtering by brand
 variables = { after: nil }
 query = JP_DOJOS_QUERY
+print ' JP_DOJOS_QUERY: '
 begin
   print "#{page_number = page_number.succ}.."
   fetched_data = request_data(query: query, variables: variables)
@@ -138,10 +138,12 @@ begin
   page_info = fetched_data[:pageInfo]
   variables[:after] = page_info[:endCursor]
 end while page_info[:hasNextPage]
+puts " (JP: #{dojo_data.count})"
 
 # Fetch clubs for other countries with filtering by brand
 variables = { after: nil }
 query = ALL_DOJOS_QUERY
+print 'ALL_DOJOS_QUERY: '
 begin
   print "#{page_number = page_number.succ}.."
   fetched_data = request_data(query: query, variables: variables)
@@ -154,6 +156,7 @@ begin
   page_info = fetched_data[:pageInfo]
   variables[:after] = page_info[:endCursor]
 end while page_info[:hasNextPage]
+puts " (Total: #{dojo_data.count})"
 
 File.write('tmp/number_of_dojos', dojo_data.length)
 File.open('dojos_earth.json', 'w') do |file|
