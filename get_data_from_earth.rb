@@ -32,6 +32,7 @@ def get_query_from_template(filter)
       #{filter}
     ) {
       nodes {
+        brand
         name
         latitude
         longitude
