@@ -68,8 +68,9 @@ def request_to_clubs_api(query:, variables:)
   # pp JSON.parse(response.body, symbolize_names: true)
   # JSON.parse(response.body, symbolize_names: true)[:data][:clubs]
   response_data = JSON.parse(response.body, symbolize_names: true)
-  if response_data[:errors]
-    puts "Error: #{response_data[:errors]}"
+  if response_data[:error] or response_data[:errors]
+    print "Error: "
+    puts response_data
     return { nodes: [], pageInfo: { endCursor: nil, hasNextPage: false } }
   end
 
