@@ -15,6 +15,7 @@ HEADERS = {
   'content-type' => 'application/json'
 }
 
+# GraphQL 用クエリはテンプレートから生成
 def get_query_from_template(filter)
   query_template = <<~GRAPH_QL
   query (
@@ -53,6 +54,7 @@ def get_query_from_template(filter)
   GRAPH_QL
 end
 
+# Clubs API (GraphQL) へのクエリ送付結果を返す
 def request_to_clubs_api(query:, variables:)
   request      = Net::HTTP::Post.new(API_URI.request_uri, HEADERS)
   request.body = { query:, variables: }.to_json
@@ -73,6 +75,10 @@ def request_to_clubs_api(query:, variables:)
   response_data[:data][:clubs]
 end
 
+# Clubs API (GraphQL) 特有のループ処理と、
+# 複数回クエリを投げるためクラブ情報の重複もチェックする
+@dojo_data   = []
+@unique_ids  = Set.new
 def fetch_responses_by_request(page_number=0, query:, variables:)
   begin
     print "#{page_number = page_number.succ}.."
@@ -88,42 +94,32 @@ def fetch_responses_by_request(page_number=0, query:, variables:)
   end while page_info[:hasNextPage]
 end
 
-# Variables to set fetched_data
-@dojo_data   = []
-@unique_ids  = Set.new
-
 # 日本国内の全クラブ情報を取得する
 # CoderDojo Japan API で 'verified' は突合できるため省略
-variables    = { after: nil } # Initialize to fetch from start.
+# https://graphql.org/learn/queries/#variables
+variables    = { after: nil } # 次に読むページ番号の初期化
 filter_by_jp = 'filterBy: { countryCode: "JP" }'
 query        = get_query_from_template(filter_by_jp)
 print ' JP_DOJOS_QUERY: '
-
-
-# This 'variables' is fixed parameter name and cannot be renamed.
-# https://graphql.org/learn/queries/#variables
-#
-# variables = {
-#   # MEMO: No need to filter to fetch all dojo data on earth.
-#   # countryCode: 'JP'
-# }
 fetch_responses_by_request(query: query, variables: variables)
 puts " (JP: #{@dojo_data.count})"
 
-# Fetch clubs for other countries with filtering by brand
-variables        = { after: nil }
+# 'CODERDOJO' ブランドで承認された全クラブ情報を取得する
+# https://graphql.org/learn/queries/#variables
+variables        = { after: nil } # 次に読むページ番号の初期化
 filter_by_brands = 'filterBy: { brand: CODERDOJO, verified: true }'
 query            = get_query_from_template(filter_by_brands)
 print 'ALL_DOJOS_QUERY: '
 fetch_responses_by_request(query: query, variables: variables)
 puts " (Total: #{@dojo_data.count})"
 
+# API から取得した結果を JSON にしてファイルに書き込む
 File.write('tmp/number_of_dojos', @dojo_data.length)
 File.open('dojos_earth.json', 'w') do |file|
   file.puts JSON.pretty_generate(@dojo_data.sort_by{|dojo| dojo[:id]})
 end
 
-# Show next step for developers
+# 次のステップを出力
 #puts DOJOS_JSON
 puts ''
 puts 'Fetched number of dojos: ' + File.read('tmp/number_of_dojos')
