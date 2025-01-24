@@ -13,11 +13,12 @@ File.open("dojos_japan.json") {|file| dojos_japan  = JSON.load(file, nil, json_l
 File.open("events_japan.json"){|file| events_japan = JSON.load(file, nil, json_load_options) }
 #pp dojos_earth.first, dojos_japan.first, events_japan.first
 
-# dojo2dojo.csv から Dojo 名の突合準備をする
+# dojo2dojo.csv で Clubs DB と Japan DB のクラブ名を突合する
 # 【フォーマット】
 # Japan登録名	Zen登録名
 # ひばりヶ丘	Hibarigaoka
 # ...
+# TODO: Japan DB にも Clubs DB と同じ UUID を持たせると突合でき、上記の名前突合が不要になる
 File.foreach("dojo2dojo.csv") do |line|
   japan_name, zen_name = line.split("\t").map(&:chomp)
   next if japan_name.empty? or zen_name.empty?
@@ -85,8 +86,10 @@ dojos_earth.each do |dojo|
     if dojo[:countryCode] == "JP"
 
       # dojo2dojo.csv に無かったらスキップ
-      # Japan DB 上で Inactive ならスキップ (Clubs DB より厳密に管理されているため)
+      # TODO: Japan DB にも Clubs DB と同じ UUID を持たせると突合でき、以下のような名前での突合が不要になる
       next if zen2japan[dojo[:name]].nil?
+
+      # Japan DB 上で Inactive ならスキップ (Clubs DB より厳密に管理されているため)
       next if name2is_active[zen2japan[dojo[:name]]] == false
 
       # Clubs API 上のクラブ名を Japan DB 上のクラブ前に変換する by Hash
