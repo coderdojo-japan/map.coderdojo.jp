@@ -115,6 +115,15 @@ print 'ALL_DOJOS_QUERY: '
 fetch_responses_by_request(query: query, variables: variables)
 puts " (Total: #{@dojo_data.count})"
 
+# [今は不要] Clubs API にある承認された全クラブ情報を取得する
+# https://graphql.org/learn/queries/#variables
+#variables        = { after: nil } # 次に読むページ番号の初期化
+#filter_by_brands = 'filterBy: { verified: true }'
+#query            = get_query_from_template(filter_by_brands)
+#print 'ALL_CLUBS_QUERY: '
+#fetch_responses_by_request(query: query, variables: variables)
+#puts " (Total: #{@dojo_data.count})"
+
 # API から取得した結果を JSON にしてファイルに書き込む
 File.write('tmp/number_of_dojos', @dojo_data.length)
 File.open('dojos_earth.json', 'w') do |file|
