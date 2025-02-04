@@ -2601,6 +2601,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.90030329999999,
+          39.22233839999999
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dragons @ Columbus Signature Academy New Tech High School<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.230725199999999,
           53.3702073
         ]
@@ -14038,7 +14053,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojochofu.hatenablog.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/chofu.webp' alt='調布' loading='lazy' width='100px' /></a><br><b>調布</b><br>調布市で毎月開催<br><a href='https://coderdojochofu.hatenablog.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojochofu.hatenablog.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/chofu.webp' alt='調布' loading='lazy' width='100px' /></a><br><b>調布</b><br>調布市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-chofu.doorkeeper.jp/events/181819' target='_blank' rel='noopener'>2月23日</a><br><a href='https://coderdojochofu.hatenablog.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
