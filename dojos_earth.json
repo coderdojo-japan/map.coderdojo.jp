@@ -1911,6 +1911,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Dragons @ Columbus Signature Academy New Tech High School",
+    "latitude": 39.22233839999999,
+    "longitude": -85.90030329999999,
+    "countryCode": "US",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "id": "20f7d383-8bd5-4b1b-a6b7-0dcd7312d584"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "Marino, Dublin 3 @Vdp girls school",
     "latitude": 53.3702073,
     "longitude": -6.230725199999999,
@@ -5048,6 +5058,16 @@
     "stage": "PENDING",
     "urlSlug": "ro/chitila/chitila-ion-visoiu-school",
     "id": "57cb74e8-bb70-4fd7-a4ae-9cf6d7f99c91"
+  },
+  {
+    "brand": "CODE_CLUB",
+    "name": "CoderDojo 野母崎（長崎）",
+    "latitude": 32.5624558,
+    "longitude": 129.7865525,
+    "countryCode": "JP",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "id": "57efa1ba-4c02-4e9e-8419-d47d2f3c32d6"
   },
   {
     "brand": "CODERDOJO",
