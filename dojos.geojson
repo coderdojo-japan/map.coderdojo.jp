@@ -6831,6 +6831,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          129.7865525,
+          32.5624558
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://note.com/trachodon' target='_blank' rel='noopener'>  <img src='/images/dojos/nomozaki.webp' alt='野母崎' loading='lazy' width='100px' /></a><br><b>野母崎</b><br>長崎市野母崎で週<br>1回、出張可<br><a href='https://note.com/trachodon' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           85.8541202545166,
           20.279306528372217
         ]
