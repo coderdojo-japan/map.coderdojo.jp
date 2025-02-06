@@ -5011,16 +5011,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Dundee @ Central Library",
-    "latitude": 56.4646772,
-    "longitude": -2.969240799999966,
-    "countryCode": "GB",
-    "stage": "OPEN",
-    "urlSlug": "gb/dundee/dundee-central-library",
-    "id": "56e0ed9c-c5e7-41a2-b5c1-567c16e03e5a"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Kuji, Kanagawa",
     "latitude": 35.6088435,
     "longitude": 139.60460820000003,
@@ -9278,16 +9268,6 @@
     "stage": "OPEN",
     "urlSlug": "jp/miyoshi-hiroshima-prefecture/miyoshi",
     "id": "9b61788b-50cb-45bd-8160-c64a39e15111"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Cork Airport Business Park @ IBM Ireland",
-    "latitude": 51.8500653,
-    "longitude": -8.4801497,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/cork-airport-business-park-county-cork/cork-airport-business-park-ibm-ireland",
-    "id": "9b6b4670-b90f-4fe0-96c8-9b1fe3b7ec55"
   },
   {
     "brand": "CODERDOJO",
