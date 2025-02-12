@@ -70,6 +70,16 @@
     "id": "01936f0d-abc7-43f5-b170-ef677af0c157"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": " CoderDojo 小田原",
+    "latitude": 35.2928649,
+    "longitude": 139.2283527,
+    "countryCode": "JP",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "id": "01df8836-8a93-4e6d-9f49-594b461e500b"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "Bijwasan, New Delhi @ Accenture",
     "latitude": 28.5341264,
@@ -10868,6 +10878,16 @@
     "stage": "OPEN",
     "urlSlug": "be/zulte/zulte",
     "id": "b53853aa-480c-4693-b4fa-27d3c1158eda"
+  },
+  {
+    "brand": "CODERDOJO",
+    "name": "Quantum Code Club",
+    "latitude": 53.56956810000001,
+    "longitude": -2.8955733999999893,
+    "countryCode": "GB",
+    "stage": "OPEN",
+    "urlSlug": "gb/ormskirk/quantum-code-club",
+    "id": "b55efc6c-7079-48ae-bca8-27d226fd4978"
   },
   {
     "brand": "CODERDOJO",
