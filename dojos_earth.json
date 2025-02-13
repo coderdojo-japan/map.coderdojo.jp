@@ -9281,6 +9281,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Harrogate @ Harrogate Library",
+    "latitude": 53.9909502,
+    "longitude": -1.53863309999997,
+    "countryCode": "GB",
+    "stage": "OPEN",
+    "urlSlug": "gb/harrogate/harrogate-harrogate-library",
+    "id": "9cb04f92-dd2d-4b29-9eb6-476293fa7dd6"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "Valencia",
     "latitude": 39.4814522,
     "longitude": -0.3373474,
@@ -11018,6 +11028,16 @@
     "stage": "REGISTER",
     "urlSlug": "ie/laois/portarlington-adult-education-centre-bracklone-street-portarlington/portarlington",
     "id": "b6a56249-59c8-420b-8751-57c5543fe0d0"
+  },
+  {
+    "brand": "CODERDOJO",
+    "name": "Glasgow @ Mitchell Library",
+    "latitude": 55.8650616,
+    "longitude": -4.272175400000037,
+    "countryCode": "GB",
+    "stage": "OPEN",
+    "urlSlug": "gb/glasgow/glasgow-mitchell-library",
+    "id": "b6b3168c-1b96-469c-be5e-d2c31a9cc994"
   },
   {
     "brand": "CODERDOJO",
@@ -14371,7 +14391,7 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Poole@Poolelibrary",
+    "name": "Poole @ Poole library",
     "latitude": 50.7184794,
     "longitude": -1.979842299999973,
     "countryCode": "GB",
@@ -15461,7 +15481,7 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Gateshead @ Gateshead Library",
+    "name": "CoderDojo @ Gateshead Library",
     "latitude": 54.95122114004177,
     "longitude": -1.6013551210672858,
     "countryCode": "GB",
