@@ -950,6 +950,16 @@
     "id": "12111144-3fcf-47bb-900c-c27695d30acc"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": "CoderDojo Kagurazaka",
+    "latitude": 35.7004221,
+    "longitude": 139.734191,
+    "countryCode": "JP",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "id": "1237536f-44cf-44a7-8fb6-464fb12f3865"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "Richmond, Virginia @ Northside Boys and Girls Club",
     "latitude": 37.581226,
@@ -6908,16 +6918,6 @@
     "stage": "OPEN",
     "urlSlug": "in/mysore-karnataka/nisb",
     "id": "75aeaaec-80f5-423f-9a77-6976d59b393d"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Rugby @ Rugby Library",
-    "latitude": 52.37164509999999,
-    "longitude": -1.264534000000026,
-    "countryCode": "GB",
-    "stage": "OPEN",
-    "urlSlug": "gb/rugby/rugby-rugby-library",
-    "id": "75c67565-c46b-4b69-9f7c-d28ff5c48947"
   },
   {
     "brand": "CODERDOJO",
