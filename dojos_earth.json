@@ -9671,6 +9671,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Glasgow @ Hillhead Library",
+    "latitude": 55.8767624,
+    "longitude": -4.291539100000023,
+    "countryCode": "GB",
+    "stage": "OPEN",
+    "urlSlug": "gb/glasgow/glasgow-hillhead-library",
+    "id": "a282be2d-7cc6-48d4-b55d-d1cbc0885c99"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "Schöneweide, Berlin",
     "latitude": 52.45405131800873,
     "longitude": 13.513953830458513,
