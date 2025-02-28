@@ -8391,7 +8391,7 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "CoderDojo at OIST",
+    "name": "CoderDojo Onna @OIST",
     "latitude": 26.461893320101343,
     "longitude": 127.83078566419292,
     "countryCode": "JP",
@@ -13648,16 +13648,6 @@
     "stage": "OPEN",
     "urlSlug": "nl/hazerswoude-dorp/hazerswoude-dorp",
     "id": "e1a5caa2-c6a3-45d4-a47a-0ac56d1ca172"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Perth @ Edith Cowan University",
-    "latitude": -31.9193259,
-    "longitude": 115.8691526,
-    "countryCode": "AU",
-    "stage": "OPEN",
-    "urlSlug": null,
-    "id": "e1b14809-e77c-4a1a-bc22-150ccfa47021"
   },
   {
     "brand": "CODERDOJO",
