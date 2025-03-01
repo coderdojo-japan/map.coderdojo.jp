@@ -282,7 +282,7 @@
     "logo": "https://coderdojo.jp/img/dojos/wakaba-mitsuwadai.webp",
     "order": "121002",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "千葉",
     "created_at": "2016-04-27T00:00:00.000+09:00",
     "description": "千葉市若葉区みつわ台で毎月開催"
