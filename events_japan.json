@@ -105,8 +105,8 @@
     "event_end_at": "2025-03-27T18:00:00.000+09:00",
     "event_url": "https://coderdojo-toyohashi.doorkeeper.jp/events/182472",
     "prefecture": "愛知",
-    "participants": 14,
-    "event_update_at": "2025-03-04T18:51:14.395+09:00",
+    "participants": 15,
+    "event_update_at": "2025-03-06T16:46:33.771+09:00",
     "address": "〒440-0016 愛知県豊橋市牛川町松下２０−１",
     "place": "豊橋創造大学D22ゼミ室",
     "limit": 17
@@ -190,6 +190,22 @@
     "address": "大阪府大阪市北区大深江町3-1 グランフロント大阪 タワーC 16階",
     "place": "gusuku Ashibinaa OSAKA（アールスリーインスティテュート）",
     "limit": 0
+  },
+  {
+    "id": 54,
+    "name": "久留米",
+    "url": "https://www.facebook.com/CoderDojoKurume/",
+    "event_id": 8179,
+    "event_title": "【会場開催】第102回CoderDojo久留米",
+    "event_date": "2025-03-22T14:00:00.000+09:00",
+    "event_end_at": "2025-03-22T16:30:00.000+09:00",
+    "event_url": "https://coderdojo-kurume.connpass.com/event/348279/",
+    "prefecture": "福岡",
+    "participants": 5,
+    "event_update_at": "2025-03-06T19:36:14.000+09:00",
+    "address": "久留米市六ツ門町3−11(くるめりあ六ツ門6階)",
+    "place": "みんくる",
+    "limit": null
   },
   {
     "id": 65,
@@ -345,11 +361,11 @@
     "event_end_at": "2025-03-08T16:00:00.000+09:00",
     "event_url": "https://coderdojo-fukuoka.connpass.com/event/346194/",
     "prefecture": "福岡",
-    "participants": 12,
-    "event_update_at": "2025-02-15T18:11:35.000+09:00",
+    "participants": 14,
+    "event_update_at": "2025-03-06T08:10:58.000+09:00",
     "address": "福岡県福岡市中央区大名2-6-11",
     "place": "オンライン + Fukuoka Growth Next",
-    "limit": 20
+    "limit": 22
   },
   {
     "id": 109,
@@ -366,6 +382,22 @@
     "address": "岩手県滝沢市巣子152-409",
     "place": "滝沢市IPU第二イノベーションセンター",
     "limit": null
+  },
+  {
+    "id": 110,
+    "name": "せんなん",
+    "url": "http://coderdojo-sennan.net/",
+    "event_id": 8180,
+    "event_title": "CoderDojoせんなん　第７８回道場",
+    "event_date": "2025-03-16T10:00:00.000+09:00",
+    "event_end_at": "2025-03-16T12:00:00.000+09:00",
+    "event_url": "https://coderdojo-sennan.connpass.com/event/348440/",
+    "prefecture": "大阪",
+    "participants": 0,
+    "event_update_at": "2025-03-06T17:23:22.000+09:00",
+    "address": "大阪府泉南市新家２９４９",
+    "place": "新家駅前さくらっこ広場",
+    "limit": 5
   },
   {
     "id": 114,
@@ -1033,7 +1065,7 @@
     "event_end_at": "2025-03-23T16:30:00.000+09:00",
     "event_url": "https://coderdojo-iwata.connpass.com/event/347020/",
     "prefecture": "静岡",
-    "participants": 6,
+    "participants": 7,
     "event_update_at": "2025-03-02T08:49:26.000+09:00",
     "address": "〒438-0831 静岡県磐田市上新屋678番地1",
     "place": "磐田市民文化会館 創作活動室1",
@@ -1081,7 +1113,7 @@
     "event_end_at": "2025-03-22T12:00:00.000+09:00",
     "event_url": "https://coderdojosuehirocho.connpass.com/event/346947/",
     "prefecture": "東京",
-    "participants": 4,
+    "participants": 3,
     "event_update_at": "2025-02-22T12:01:17.000+09:00",
     "address": "東京都千代田区外神田３ー５ー１１",
     "place": "神田キリスト教会　１階ホール",
