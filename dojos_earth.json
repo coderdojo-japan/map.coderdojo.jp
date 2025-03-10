@@ -341,16 +341,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "CoderDojoSalem",
-    "latitude": 11.673641,
-    "longitude": 78.11216300000001,
-    "countryCode": "IN",
-    "stage": "OPEN",
-    "urlSlug": "in/salem-tamil-nadu/coderdojosalem",
-    "id": "070e50e8-cbe1-41fe-b195-d5f0750155db"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Mackay @ Split Spaces",
     "latitude": -21.145992164957892,
     "longitude": 149.18573141098022,
@@ -391,16 +381,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Baghdad @ SWD",
-    "latitude": 33.31922021466699,
-    "longitude": 44.37881810254703,
-    "countryCode": "IQ",
-    "stage": "OPEN",
-    "urlSlug": "iq/baghdad/baghdad-swd",
-    "id": "0785cfa6-97bd-4539-b590-e42b5411738c"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Borgo Veneto",
     "latitude": 45.2182719,
     "longitude": 11.513659899999993,
@@ -428,16 +408,6 @@
     "stage": "OPEN",
     "urlSlug": "jp/san1-zhong4-xian4/si4-ri4-shi4",
     "id": "080efc54-d674-4c8e-99e6-162cb816e07c"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Digital:Lab Volkswagen",
-    "latitude": 52.4997772,
-    "longitude": 13.455392699999948,
-    "countryCode": "DE",
-    "stage": "OPEN",
-    "urlSlug": "de/berlin/digital-lab-volkswagen",
-    "id": "083884e6-ccde-4740-a78b-8fb9e71ad230"
   },
   {
     "brand": "CODERDOJO",
@@ -591,6 +561,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Kalamunda WA",
+    "latitude": -31.9711289,
+    "longitude": 116.0599054,
+    "countryCode": "AU",
+    "stage": "OPEN",
+    "urlSlug": "au/kalamunda-wa/kalamunda-wa",
+    "id": "0b35a370-1de8-438a-a86f-74b2772d8bec"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "Faenza @ La Palestra del Coding",
     "latitude": 44.286811107406145,
     "longitude": 11.87864368911255,
@@ -631,7 +611,7 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Orton Library @ City Culture Peterborough",
+    "name": "Peterborough CoderDojo @ Orton Library",
     "latitude": 52.5453678,
     "longitude": -0.30201,
     "countryCode": "GB",
@@ -841,16 +821,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Penicuik, Midlothian @ Thistledean Language Academy",
-    "latitude": 55.83645443901689,
-    "longitude": -3.214831990127891,
-    "countryCode": "GB",
-    "stage": "OPEN",
-    "urlSlug": "gb/penicuik/penicuik-midlothian-thistledean-language-academy",
-    "id": "10d1b8ef-6495-430b-845f-e106d0b0e4a9"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Bio Timișoara",
     "latitude": 45.7461735,
     "longitude": 21.2259736,
@@ -1008,16 +978,6 @@
     "stage": "PENDING",
     "urlSlug": "jp/k-be-shi-nagata-ward-hy-go-prefecture/nishi-kobe-hyogo",
     "id": "134b2829-8628-49f9-997b-23fc6f89647e"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Ridderkerk @ Bibliotheek Aan Zet",
-    "latitude": 51.8701471,
-    "longitude": 4.600167700000043,
-    "countryCode": "NL",
-    "stage": "OPEN",
-    "urlSlug": "nl/ridderkerk/ridderkerk-bibliotheek-aan-zet",
-    "id": "136a2d7a-f016-4453-92ce-4ba77d94af31"
   },
   {
     "brand": "CODERDOJO",
@@ -1751,16 +1711,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Nippa, Kanagawa",
-    "latitude": 35.5268509,
-    "longitude": 139.6123199,
-    "countryCode": "JP",
-    "stage": "OPEN",
-    "urlSlug": "jp/yokohama-kanagawa-prefecture/nippa-kanagawa",
-    "id": "1ebccccb-96ee-4df9-9c59-6caf1d21a6cf"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Englewood, Florida@Envoi",
     "latitude": 26.9737132,
     "longitude": -82.3547351,
@@ -2071,16 +2021,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Alkimos WA @Sprout",
-    "latitude": -31.6215523,
-    "longitude": 115.68583100000001,
-    "countryCode": "AU",
-    "stage": "OPEN",
-    "urlSlug": "au/alkimos-western-australia/alkimos-wa-sprout",
-    "id": "238eb115-7dbd-40a9-9664-106b2838040f"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Atsugi, Kanagawa",
     "latitude": 35.44232951775286,
     "longitude": 139.3659657239914,
@@ -2108,16 +2048,6 @@
     "stage": "OPEN",
     "urlSlug": "au/ballan-vic/ballan-library",
     "id": "24013a83-52b4-4bb8-a5cb-7bc10d6426d7"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Beveren-Waas",
-    "latitude": 51.218980757473474,
-    "longitude": 4.252168397310975,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/beveren/beveren-waas",
-    "id": "24234a0c-8859-4c50-ba7f-7b7e35a28018"
   },
   {
     "brand": "CODERDOJO",
@@ -2521,16 +2451,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Austin, Texas @ North Village Library",
-    "latitude": 30.362144,
-    "longitude": -97.73050319999999,
-    "countryCode": "US",
-    "stage": "REGISTER",
-    "urlSlug": "us/austin-tx/austin-texas-north-village-library",
-    "id": "2c79dd33-80f1-4205-802d-81cee0e7de11"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Oostende",
     "latitude": 51.2250926,
     "longitude": 2.9038112000000638,
@@ -2588,16 +2508,6 @@
     "stage": "OPEN",
     "urlSlug": "ug/kampala-central-region/kampala-design-hub",
     "id": "2d90f7d8-b494-44be-895f-897ce2f98d5d"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Wyton @ Wyton Primary School",
-    "latitude": 52.3438627,
-    "longitude": -0.1120778,
-    "countryCode": "GB",
-    "stage": "REGISTER",
-    "urlSlug": "gb/wyton-cambridgeshire/wyton-wyton-primary-school",
-    "id": "2d9a567f-44b4-4a70-9c1d-9c50745fbdb1"
   },
   {
     "brand": "CODERDOJO",
@@ -2688,16 +2598,6 @@
     "stage": "OPEN",
     "urlSlug": "jp/japan/ebetsu-hokkaido",
     "id": "2fbba227-6a47-4d61-86df-62f059df6da2"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Balseskin, Finglas @ JRS",
-    "latitude": 53.41051599999999,
-    "longitude": -6.3070217,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/finglas/balseskin-finglas-jrs",
-    "id": "30286b91-5a50-4564-af2b-0cd0ec425fe4"
   },
   {
     "brand": "CODERDOJO",
@@ -3201,6 +3101,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Philly CoderDojo @ Bright Hope Baptist Church",
+    "latitude": 39.9778807,
+    "longitude": -75.15388189999999,
+    "countryCode": "US",
+    "stage": "OPEN",
+    "urlSlug": "us/philadelphia-pa/philly-coderdojo-bright-hope-baptist-church",
+    "id": "36bc16a3-5ed5-4701-850f-db9acb1c5fff"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "Quetice@Glory to God School",
     "latitude": 6.457330400000001,
     "longitude": 3.5661685000000034,
@@ -3228,16 +3138,6 @@
     "stage": "OPEN",
     "urlSlug": null,
     "id": "36f33548-cf69-481c-a6f7-f85c69782331"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Den Haag",
-    "latitude": 52.04179389999999,
-    "longitude": 4.335630199999969,
-    "countryCode": "NL",
-    "stage": "OPEN",
-    "urlSlug": "nl/zuid-holland/rijswijk/den-haag",
-    "id": "371e3b1b-f371-4193-aa45-05fd76956f87"
   },
   {
     "brand": "CODERDOJO",
@@ -3718,16 +3618,6 @@
     "stage": "REGISTER",
     "urlSlug": "gb/derry/derry-university-of-ulster-magee-mf-building",
     "id": "3f28e68f-12c5-4908-960b-da00fc127d18"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Penang@RCS",
-    "latitude": 5.42792944812467,
-    "longitude": 100.3125462437531,
-    "countryCode": "MY",
-    "stage": "OPEN",
-    "urlSlug": "my/george-town-penang/penang-rcs",
-    "id": "3f38144a-5082-4fac-9863-f557c0998d70"
   },
   {
     "brand": "CODERDOJO",
@@ -4601,6 +4491,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Faringdon",
+    "latitude": 51.6620997,
+    "longitude": -1.5940131,
+    "countryCode": "GB",
+    "stage": "OPEN",
+    "urlSlug": "gb/great-faringdon-faringdon/faringdon",
+    "id": "5043eba5-1557-4344-95ed-441971bb7fa5"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "CoderDojo McDonough",
     "latitude": 33.4473361,
     "longitude": -84.14686159999997,
@@ -4618,6 +4518,16 @@
     "stage": "PENDING",
     "urlSlug": "jp/japan-fukuoka-prefecture/kurume-fukuoka-gallant-d-ooo",
     "id": "510a67a1-775e-49b2-b124-702144bbdcf2"
+  },
+  {
+    "brand": "CODERDOJO",
+    "name": "Dun Laoghaire",
+    "latitude": 53.279764310014826,
+    "longitude": -6.153137683868408,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/dublin/dublin/dun-laoghaire",
+    "id": "5120ae92-6473-4a6d-b32e-fff142be8cab"
   },
   {
     "brand": "CODERDOJO",
@@ -4758,16 +4668,6 @@
     "stage": "OPEN",
     "urlSlug": "jp/kurume-fukuoka-prefecture/kurume",
     "id": "53703176-6fa2-40b8-b796-e97aa73de1bb"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Rügen @ MIZ Bergen",
-    "latitude": 54.41809302337999,
-    "longitude": 13.434022070092912,
-    "countryCode": "DE",
-    "stage": "OPEN",
-    "urlSlug": "de/bergen-auf-ruegen/ruegen-miz-bergen",
-    "id": "53b52743-9f9b-449f-a178-33a37b3efe0d"
   },
   {
     "brand": "CODERDOJO",
@@ -5272,8 +5172,8 @@
   {
     "brand": "CODERDOJO",
     "name": "Redruth Library",
-    "latitude": 50.2315795,
-    "longitude": -5.226187799999934,
+    "latitude": 50.2328856366582,
+    "longitude": -5.227207846188912,
     "countryCode": "GB",
     "stage": "REGISTER",
     "urlSlug": "gb/redruth/redruth-library",
@@ -5328,16 +5228,6 @@
     "stage": "OPEN",
     "urlSlug": "ro/craiova/craiova-virtualcodeclub",
     "id": "5bd7a589-ab34-4e68-8e22-4525140bf618"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Bengaluru @ APS college - 1",
-    "latitude": 12.7836606,
-    "longitude": 77.49654369999996,
-    "countryCode": "IN",
-    "stage": "OPEN",
-    "urlSlug": "in/bangalore-karnataka/bengaluru-aps-college-1",
-    "id": "5bd92e2e-9d7c-4849-95aa-846100ffd802"
   },
   {
     "brand": "CODERDOJO",
@@ -5418,6 +5308,16 @@
     "stage": "OPEN",
     "urlSlug": "id/surabaya-surabaya-city-east-java/surabaya-nola-learning-center",
     "id": "5daa4de0-6db9-4021-b8f6-b2801cc26447"
+  },
+  {
+    "brand": "CODERDOJO",
+    "name": "Gurgaon",
+    "latitude": 28.50671904526363,
+    "longitude": 77.0401072978973,
+    "countryCode": "IN",
+    "stage": "OPEN",
+    "urlSlug": "in/haryana/gurgaon-india/gurgaon",
+    "id": "5db9cbf3-0268-48c2-88cd-26b7346da0a5"
   },
   {
     "brand": "CODERDOJO",
@@ -5531,16 +5431,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Starcode Berlin @TU Berlin",
-    "latitude": 52.5123407,
-    "longitude": 13.3269913,
-    "countryCode": "DE",
-    "stage": "OPEN",
-    "urlSlug": "de/berlin/starcode-berlin-tu-berlin",
-    "id": "5fb57de8-e6da-4eaf-a83a-472fe3777b76"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Voghera",
     "latitude": 44.98728172396563,
     "longitude": 9.009361990985099,
@@ -5591,6 +5481,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Coding Club at Open Doors",
+    "latitude": 51.763108971631816,
+    "longitude": -0.5723726749420166,
+    "countryCode": "GB",
+    "stage": "OPEN",
+    "urlSlug": "gb/berkhamsted/coding-club-at-open-doors",
+    "id": "607028f0-077b-41a1-af66-306eba82bada"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "Bucharest @ Essensys",
     "latitude": 44.4645063,
     "longitude": 26.061167299999966,
@@ -5608,6 +5508,16 @@
     "stage": "OPEN",
     "urlSlug": "us/bremerton-wa/new-life-coders",
     "id": "60748722-7130-484c-b3f3-83a2cf09538f"
+  },
+  {
+    "brand": "CODERDOJO",
+    "name": "CoderDojo @ Mallow Cork",
+    "latitude": 52.12238740000001,
+    "longitude": -8.65094590000001,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/mallow-cork/coderdojo-mallow-cork",
+    "id": "60813a67-5f9e-4a5e-922f-d6edc7ae219b"
   },
   {
     "brand": "CODERDOJO",
@@ -5698,16 +5608,6 @@
     "stage": "REGISTER",
     "urlSlug": "gb/edinburgh/edinburgh-storm-storm-id",
     "id": "61dc99e2-5d0e-4946-a470-08f0ea5d4858"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Wasit @ Scientific Care Forum",
-    "latitude": 32.50935138189953,
-    "longitude": 45.81753296405109,
-    "countryCode": "IQ",
-    "stage": "OPEN",
-    "urlSlug": "iq/kut-wasit/wasit-scientific-care-forum",
-    "id": "61f1adb9-9d1d-4f0d-b5e3-aa6bd511211f"
   },
   {
     "brand": "CODERDOJO",
@@ -6391,16 +6291,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Corduff Communty Youth Project",
-    "latitude": 53.3982823,
-    "longitude": -6.378019900000027,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/dublin/corduff-communty-youth-project",
-    "id": "6ccbf492-89a0-43c5-9210-bbecf56a5ecb"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "IIDA@logicaland",
     "latitude": 35.52188947766241,
     "longitude": 137.83271885856064,
@@ -6601,6 +6491,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Rondebosch, Cape Town @ Rondebosch Library",
+    "latitude": -33.961421,
+    "longitude": 18.471708000000035,
+    "countryCode": "ZA",
+    "stage": "OPEN",
+    "urlSlug": "za/cape-town/rondebosch-cape-town-rondebosch-library",
+    "id": "6ff5eaa3-d1d0-4a46-bfc2-907fe526b3d3"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "PLUG DOJO",
     "latitude": 40.5749125,
     "longitude": 15.7841262,
@@ -6708,6 +6608,16 @@
     "stage": "OPEN",
     "urlSlug": "ke/wamunyu/wamunyu-kenyaconnect-lrc",
     "id": "71220e23-392e-4eaa-be47-b99b003ab6e8"
+  },
+  {
+    "brand": "CODERDOJO",
+    "name": "Goirle @ Code013",
+    "latitude": 51.5192431,
+    "longitude": 5.0667142,
+    "countryCode": "NL",
+    "stage": "OPEN",
+    "urlSlug": "nl/goirle/goirle-code-01-3",
+    "id": "7171c89a-ab86-4ca5-a7d1-660aaf56f545"
   },
   {
     "brand": "CODERDOJO",
@@ -7341,16 +7251,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Sylva @ SCC",
-    "latitude": 35.3482449,
-    "longitude": -83.2055048,
-    "countryCode": "US",
-    "stage": "OPEN",
-    "urlSlug": "us/sylva-nc/sylva-scc",
-    "id": "7d136afe-ab8b-4a2b-a626-7b99ba566a67"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Nagareyama",
     "latitude": 35.87654998812682,
     "longitude": 139.93871927261353,
@@ -7751,16 +7651,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Waddinxveen @ De Paddestoel",
-    "latitude": 52.0426458,
-    "longitude": 4.645832799999994,
-    "countryCode": "NL",
-    "stage": "OPEN",
-    "urlSlug": "nl/waddinxveen/waddinxveen-de-paddestoel",
-    "id": "8429db87-e469-4a5b-8231-0533c588c1a1"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Tobe",
     "latitude": 35.4538205,
     "longitude": 139.6173824,
@@ -7881,16 +7771,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Tameside",
-    "latitude": 53.4774117,
-    "longitude": -2.109439000000066,
-    "countryCode": "GB",
-    "stage": "REGISTER",
-    "urlSlug": "gb/tameside-district/tameside",
-    "id": "85a09272-70c3-46e8-9d3a-cb81743aa920"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Oradea/Romania",
     "latitude": 47.06220500000001,
     "longitude": 21.938718999999992,
@@ -7978,16 +7858,6 @@
     "stage": "OPEN",
     "urlSlug": "it/piemonte/turin-metropolitan-city-of-turin/torino2-cascina-roccafranca",
     "id": "86b0d65f-2f22-4d34-9ad8-34c701d1f170"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Bierbeek",
-    "latitude": 50.8273247,
-    "longitude": 4.753993599999999,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/bierbeek/bierbeek-deborre",
-    "id": "87361d1c-5ab6-428a-8f59-7b42a64adfd7"
   },
   {
     "brand": "CODERDOJO",
@@ -8191,6 +8061,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Bratislava @ Campus City",
+    "latitude": 48.1465899,
+    "longitude": 17.105664899999965,
+    "countryCode": "SK",
+    "stage": "OPEN",
+    "urlSlug": "sk/bratislava/bratislava-campus-city",
+    "id": "8916f47c-7cf1-4437-b8f8-3cc27bd34309"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "Toyohashi, Aichi @ Sozo Univ",
     "latitude": 34.7763410646082,
     "longitude": 137.40984678268433,
@@ -8198,16 +8078,6 @@
     "stage": "FULL",
     "urlSlug": "jp/toyohashi-aichi-prefecture/toyohashi-aichi-sozo-univ",
     "id": "891b073b-5954-494e-bf92-924585400871"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Akishima",
-    "latitude": 35.71102077714912,
-    "longitude": 139.36410695314407,
-    "countryCode": "JP",
-    "stage": "FULL",
-    "urlSlug": "jp/akishima-city-tokyo/akishima",
-    "id": "897ee5df-7320-4d1f-a42e-e4ea66f005c9"
   },
   {
     "brand": "CODERDOJO",
@@ -8331,6 +8201,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Austin, Texas @ Spicewood Springs Branch Library",
+    "latitude": 30.4337824,
+    "longitude": -97.77321080000002,
+    "countryCode": "US",
+    "stage": "OPEN",
+    "urlSlug": "us/texas/8637-spicewood-spring-rd-austin-tx-78759/austin-texas-spicewood-springs-branch-library",
+    "id": "8c297b90-3655-49a6-a456-8638b03743b1"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "Moray at Moray College",
     "latitude": 57.6448581,
     "longitude": -3.315414199999964,
@@ -8428,16 +8308,6 @@
     "stage": "OPEN",
     "urlSlug": "jp/kashiwara-osaka/kawachi-kokubu",
     "id": "8f1b698f-2ffa-48d9-bb4e-d26ae5ffb0fa"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "WA, Collie @ PCYC",
-    "latitude": -33.358647,
-    "longitude": 116.15216759999998,
-    "countryCode": "AU",
-    "stage": "REGISTER",
-    "urlSlug": "au/collie-western-australia/wa-collie-pcyc",
-    "id": "8f2c65e2-9b62-4b64-8e03-fdefa5c23a69"
   },
   {
     "brand": "CODERDOJO",
@@ -8551,16 +8421,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Fód as Cód",
-    "latitude": 53.08728598845651,
-    "longitude": -9.588989279446247,
-    "countryCode": "IE",
-    "stage": "OPEN",
-    "urlSlug": "ie/inis-meain-county-galway/fod-as-cod",
-    "id": "90ce0139-4262-4706-b17a-0627e8e0dfe6"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "West Bengal @ CodeX",
     "latitude": 22.7636563,
     "longitude": 88.53598699999999,
@@ -8578,16 +8438,6 @@
     "stage": "OPEN",
     "urlSlug": "in/erode-tamil-nadu/erode-tamil-nadu-g-e-engineering-consultants",
     "id": "910160b3-054a-4029-a4fe-c495e30cfd91"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "New Port Richey @ NPR Public Library",
-    "latitude": 28.2504634,
-    "longitude": -82.7158723,
-    "countryCode": "US",
-    "stage": "PENDING",
-    "urlSlug": "us/new-port-richey-fl/new-port-richey-npr-public-library",
-    "id": "9132775d-293e-4d44-b5e8-9b366e3f16c1"
   },
   {
     "brand": "CODERDOJO",
@@ -8628,16 +8478,6 @@
     "stage": "OPEN",
     "urlSlug": "jp/saitama-ken/japan-saitama/hibarigaoka",
     "id": "91e15c61-549a-486c-9827-178a324c689f"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "相模大野",
-    "latitude": 35.530613,
-    "longitude": 139.4354011,
-    "countryCode": "JP",
-    "stage": "OPEN",
-    "urlSlug": "jp/shen2-nai4-chuan1-xian4-xiang1-mo2-yuan2-shi4-nan2-qu1-xiang1-mo2-da4-ye3-ding1-mu4-fan1-hao4/xiang1-mo2-da4-ye3",
-    "id": "9200e2c0-4b59-4f2e-9bc1-0e45ad96e29c"
   },
   {
     "brand": "CODERDOJO",
@@ -9491,6 +9331,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Virtuelles Dojo",
+    "latitude": 52.55267449999999,
+    "longitude": 13.4139036,
+    "countryCode": "DE",
+    "stage": "OPEN",
+    "urlSlug": "de/berlin/virtuelles-dojo",
+    "id": "9fdffbf2-e3cc-4622-859f-c0e154e9d9a3"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "kisumu@podii",
     "latitude": -0.09909420000000001,
     "longitude": 34.76627439999993,
@@ -9558,16 +9408,6 @@
     "stage": "OPEN",
     "urlSlug": "th/nakhon-ratchasima-mueang-nakhon-ratchasima-district-nakhon-ratchasima/korat-cslab",
     "id": "a0c00aac-0315-4baa-a169-02c4c6e9f8ad"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Northfield, MN @ Greenvale",
-    "latitude": 44.4689994,
-    "longitude": -93.16977409999998,
-    "countryCode": "US",
-    "stage": "REGISTER",
-    "urlSlug": "us/minnesota/northfield-mn/northfield-mn-greenvale",
-    "id": "a11bfaf6-65c1-4e3a-8332-9af904f45d40"
   },
   {
     "brand": "CODERDOJO",
@@ -9831,6 +9671,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Dublin 8 @ Canal Way Educate Together National School",
+    "latitude": 53.342512,
+    "longitude": -6.2915731000000505,
+    "countryCode": "IE",
+    "stage": "REGISTER",
+    "urlSlug": "ie/dublin/dublin-8-canal-way-educate-together-national-school",
+    "id": "a40a0976-393d-4d69-8561-291f9bcdb683"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "Amstetten@42Vienna-coding-school",
     "latitude": 48.1210432,
     "longitude": 14.8723803,
@@ -9878,16 +9728,6 @@
     "stage": "OPEN",
     "urlSlug": "us/hawaii/h-lualoa/holualoa",
     "id": "a4e557ca-8653-41c0-b177-81c66baafdc0"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "MaroaIL@MaroaLibrary",
-    "latitude": 40.0342026,
-    "longitude": -88.9528701,
-    "countryCode": "US",
-    "stage": "OPEN",
-    "urlSlug": "us/maroa-il/maroail-maroalibrary",
-    "id": "a527258c-4eef-4418-8305-5752d329f980"
   },
   {
     "brand": "CODERDOJO",
@@ -10421,16 +10261,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Aide-et-action @ Accenture",
-    "latitude": 19.0783555,
-    "longitude": 72.9166963,
-    "countryCode": "IN",
-    "stage": "OPEN",
-    "urlSlug": "in/mumbai-maharashtra/aide-et-action-accenture",
-    "id": "af2563ba-46e3-4bb3-aa7d-641331b07543"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "SembokuIzumi",
     "latitude": 34.4579776,
     "longitude": 135.45662700000003,
@@ -10831,16 +10661,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "MO, Chillicothe @ Livingston County Library",
-    "latitude": 39.7922904,
-    "longitude": -93.55277960000001,
-    "countryCode": "US",
-    "stage": "REGISTER",
-    "urlSlug": "us/chillicothe-mo/mo-chillicothe-livingston-county-library",
-    "id": "b4b22432-c66e-4dfb-b028-f47595c379e7"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Bengaluru, Krivanja",
     "latitude": 12.9055444,
     "longitude": 77.5055244,
@@ -11041,16 +10861,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "新座志木",
-    "latitude": 35.8214164,
-    "longitude": 139.55913069999997,
-    "countryCode": "JP",
-    "stage": "OPEN",
-    "urlSlug": "jp/niiza-saitama/xin1-zuo4-zhi4-mu4",
-    "id": "b6c4a30a-8ae8-4a24-87f1-c774fb96afb5"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Noale @ Talentree",
     "latitude": 45.5526011,
     "longitude": 12.07232590000001,
@@ -11138,16 +10948,6 @@
     "stage": "OPEN",
     "urlSlug": "it/monza-province-of-monza-and-brianza/monza",
     "id": "b7a50d66-5af7-456b-840b-e74285b0a6be"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Geldrop Mierlo @ Bibliotheek Dommeldal",
-    "latitude": 51.4226987,
-    "longitude": 5.5600869,
-    "countryCode": "NL",
-    "stage": "OPEN",
-    "urlSlug": "nl/geldrop/geldrop-mierlo-bibliotheek-dommeldal",
-    "id": "b7fe4100-509b-4ff5-81e5-d1057bc13946"
   },
   {
     "brand": "CODERDOJO",
@@ -11381,6 +11181,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "1 DC Dublin @ BNY Mellon",
+    "latitude": 53.34836379999999,
+    "longitude": -6.241367200000013,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/ifsc-dublin/1-dc-dublin-bny-mellon",
+    "id": "bbe6d715-2fbb-4b65-b917-3cf87949da0f"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "True Light",
     "latitude": -1.2274421,
     "longitude": 36.9222636,
@@ -11388,16 +11198,6 @@
     "stage": "REGISTER",
     "urlSlug": "ke/nairobi/true-light",
     "id": "bc0f4659-edff-4e1e-9e8d-3dbac2be1a48"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Chota Byte Club@Kharadi Pune",
-    "latitude": 18.5554514,
-    "longitude": 73.95268340000007,
-    "countryCode": "IN",
-    "stage": "OPEN",
-    "urlSlug": "in/pune-maharashtra/chota-byte-club-kharadi-pune",
-    "id": "bc1b6c1b-8949-4f21-aa1e-4801b42ed25d"
   },
   {
     "brand": "CODERDOJO",
@@ -11451,13 +11251,13 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Armadale @ Dale Christian School",
-    "latitude": -32.1593071,
-    "longitude": 115.9992782,
-    "countryCode": "AU",
+    "name": "Sneek @ Bibliotheken Mar en Fean",
+    "latitude": 53.0333011,
+    "longitude": 5.657507099999975,
+    "countryCode": "NL",
     "stage": "OPEN",
-    "urlSlug": "au/armadale-wa/armadale-dale-christian-school",
-    "id": "bd8c7f38-1fe7-4629-a82e-13bfef0d8e18"
+    "urlSlug": "nl/sneek/sneek-bibliotheken-mar-en-fean",
+    "id": "bd2f2fca-4c0b-458c-829a-9ee63ab726e2"
   },
   {
     "brand": "CODERDOJO",
@@ -11771,16 +11571,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Indianapolis, Indiana @ BDNGC Library",
-    "latitude": 39.7835602,
-    "longitude": -86.28853709999999,
-    "countryCode": "US",
-    "stage": "REGISTER",
-    "urlSlug": "us/indianapolis-in/indianapolis-indiana-bdngc-library",
-    "id": "c4040b26-7ee9-4a6f-832b-ae7bd3d36b5c"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Mitcham/Adelaide",
     "latitude": -34.9728827,
     "longitude": 138.6087116,
@@ -12048,16 +11838,6 @@
     "stage": "OPEN",
     "urlSlug": "cm/limbe/limbe-zixtechhub",
     "id": "c7e643c1-8244-4cda-a605-f760e090ce96"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "NL @ CSNL",
-    "latitude": 47.5651292,
-    "longitude": -52.7360847,
-    "countryCode": "CA",
-    "stage": "OPEN",
-    "urlSlug": "ca/st-johns-newfoundland-and-labrador/nl-csnl",
-    "id": "c7eee2cb-5d17-4be9-8962-3e39d2a2708b"
   },
   {
     "brand": "CODERDOJO",
@@ -12651,6 +12431,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Okayama",
+    "latitude": 34.6420754,
+    "longitude": 133.86358059999998,
+    "countryCode": "JP",
+    "stage": "OPEN",
+    "urlSlug": "jp/ri4-ben3-gang1-shan1-xian4-gang1-shan1-shi4-bei3-qu1/okayama",
+    "id": "d0b57ce8-7fbb-415f-9fc9-d661a48ecc36"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "Bucharest@EduHub Veranda",
     "latitude": 44.452511,
     "longitude": 26.128602900000033,
@@ -12718,16 +12508,6 @@
     "stage": "OPEN",
     "urlSlug": "in/alwar-rajasthan/sunrise-raspberrypi",
     "id": "d1e414a8-0b24-400e-bac3-1233d724193e"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Ballston Lake, NY @ Chango",
-    "latitude": 42.933006,
-    "longitude": -73.81190700000002,
-    "countryCode": "US",
-    "stage": "OPEN",
-    "urlSlug": "us/ballston-lake-ny/ballston-lake-ny-chango",
-    "id": "d20a279f-78d9-4085-ad76-a15b6f787c73"
   },
   {
     "brand": "CODERDOJO",
@@ -12838,16 +12618,6 @@
     "stage": "PENDING",
     "urlSlug": "za/pietermaritzburg/hayfields-pietermaritzburg-sleepyhollowninjazone",
     "id": "d36c67f1-cb09-448f-9d2f-ea6509d50d6e"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Kortenberg",
-    "latitude": 50.8861019,
-    "longitude": 4.539480499999968,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/kortenberg/kortenberg",
-    "id": "d39af865-bb31-47b2-8322-36c994c4578c"
   },
   {
     "brand": "CODERDOJO",
@@ -13048,6 +12818,16 @@
     "stage": "OPEN",
     "urlSlug": null,
     "id": "d7178c1a-1372-4314-aee9-bb9444a2364a"
+  },
+  {
+    "brand": "CODERDOJO",
+    "name": "Kiyama @ Saga",
+    "latitude": 33.4268521,
+    "longitude": 130.5228128,
+    "countryCode": "JP",
+    "stage": "OPEN",
+    "urlSlug": "jp/ri4-ben3-zuo3-he4-xian4-san1-yang3-ji1-jun4-ji1-shan1-ting3/kiyama-saga",
+    "id": "d717cf05-1307-49d6-bb49-fa4d8be7ae97"
   },
   {
     "brand": "CODERDOJO",
@@ -13291,6 +13071,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Loughrea",
+    "latitude": 53.19510709272769,
+    "longitude": -8.559411764144897,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/galway/loughrea/loughrea",
+    "id": "dcd62d10-a23b-4c3a-b1c6-ba0d315e7dfd"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "Killybegs @St Catherines",
     "latitude": 54.6347625,
     "longitude": -8.454708399999959,
@@ -13388,16 +13178,6 @@
     "stage": "PENDING",
     "urlSlug": "jp/ichikawa-chiba-prefecture/ichikawa-mama-chiba",
     "id": "dee0c196-91ca-446d-86e6-7fb30a47b83a"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Lissone",
-    "latitude": 45.6093436,
-    "longitude": 9.243133899999975,
-    "countryCode": "IT",
-    "stage": "FULL",
-    "urlSlug": "it/lissone-province-of-monza-and-brianza/lissone",
-    "id": "dee9dfb4-1373-49bd-a184-626734cdae38"
   },
   {
     "brand": "CODERDOJO",
@@ -13681,16 +13461,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Pitesti @ Universitatea Constantin Brancoveanu",
-    "latitude": 44.8698991,
-    "longitude": 24.85993659999997,
-    "countryCode": "RO",
-    "stage": "REGISTER",
-    "urlSlug": "ro/pitesti/pitesti-universitatea-constantin-brancoveanu",
-    "id": "e1da6777-6552-4f5a-a1aa-babfa3f3ac3b"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Imizu @ Hibari",
     "latitude": 36.7306389,
     "longitude": 137.0755452,
@@ -13798,16 +13568,6 @@
     "stage": "PENDING",
     "urlSlug": "au/australind-wa/australind-wa-australind-library",
     "id": "e3206c45-aae0-47de-b211-a7d88b7fbf03"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "たまみら",
-    "latitude": 35.69161,
-    "longitude": 139.389907,
-    "countryCode": "JP",
-    "stage": "FULL",
-    "urlSlug": "jp/tachikawa-tokyo/tamamira",
-    "id": "e356754f-e401-4036-9a71-566aa9583570"
   },
   {
     "brand": "CODERDOJO",
@@ -14161,26 +13921,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Bundaberg @ The Generator",
-    "latitude": -24.865845475444367,
-    "longitude": 152.34839900964243,
-    "countryCode": "AU",
-    "stage": "OPEN",
-    "urlSlug": "au/bundaberg-qld/bundaberg-the-generator",
-    "id": "e931ffe5-47ce-4b0b-b808-27eef144bcae"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Zottegem",
-    "latitude": 50.87259419999999,
-    "longitude": 3.80896580000001,
-    "countryCode": "BE",
-    "stage": "OPEN",
-    "urlSlug": "be/zottegem/zottegem-1",
-    "id": "e9412384-3e76-4298-b0df-4d192b6694e4"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Dublin 9, Ballymun @ Ballymun Child and Family Resource Centre",
     "latitude": 53.3947495,
     "longitude": -6.258071400000063,
@@ -14358,16 +14098,6 @@
     "stage": "OPEN",
     "urlSlug": "gb/london/plumstead-gic-youth-centre",
     "id": "ec2bf9d5-998b-4106-8f3b-11cc1fa89379"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Carpi",
-    "latitude": 44.7831586,
-    "longitude": 10.875554500000021,
-    "countryCode": "IT",
-    "stage": "REGISTER",
-    "urlSlug": "it/emilia-romagna/casa-del-volontariato-viale-peruzzi-22-4-101-2-carpi-mo/carpi",
-    "id": "ec9b0325-f608-4776-a65c-4a5058ed8120"
   },
   {
     "brand": "CODERDOJO",
@@ -14711,6 +14441,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Cobh CoderDojo",
+    "latitude": 51.8527102,
+    "longitude": -8.299161999999999,
+    "countryCode": "IE",
+    "stage": "FULL",
+    "urlSlug": "ie/cobh/cobh-coderdojo",
+    "id": "f2c6ce35-1aad-4911-bc7e-217287dfb8a6"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "San Nicolas @ YMCA",
     "latitude": 12.43781532848709,
     "longitude": -69.90968307690925,
@@ -14828,6 +14568,16 @@
     "stage": "OPEN",
     "urlSlug": "jp/koga-ibaraki-prefecture/koga-ibaraki",
     "id": "f472598c-b12a-4d40-8012-ecca335f437a"
+  },
+  {
+    "brand": "CODERDOJO",
+    "name": "Dublin @ Verizon Connect",
+    "latitude": 53.2770772,
+    "longitude": -6.2077615000000606,
+    "countryCode": "IE",
+    "stage": "OPEN",
+    "urlSlug": "ie/sandyford-dublin/dublin-verizon-connect",
+    "id": "f47f9cd6-2256-4128-81eb-4eecefd4136c"
   },
   {
     "brand": "CODERDOJO",
@@ -15011,16 +14761,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Teshikaga @ Mashu Garden",
-    "latitude": 43.617188046474396,
-    "longitude": 144.4712769985199,
-    "countryCode": "JP",
-    "stage": "OPEN",
-    "urlSlug": "jp/teshikaga-hokkaido/teshikaga-mashu-garden",
-    "id": "f740913b-fc79-4538-bb3b-5509c7471ab6"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Navan",
     "latitude": 53.669911,
     "longitude": -6.698629,
@@ -15038,16 +14778,6 @@
     "stage": "OPEN",
     "urlSlug": "ie/thomastown-county-kilkenny/thomastown-thomastown-library",
     "id": "f74f4280-8b8c-40ea-b973-bab5f675b2a7"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Rockingham @ Rockingham Central Library",
-    "latitude": -32.277818,
-    "longitude": 115.75187200000005,
-    "countryCode": "AU",
-    "stage": "REGISTER",
-    "urlSlug": "au/rockingham-western-australia/rockingham-rockingham-central-library",
-    "id": "f75e4631-05a1-4a86-bf5c-efea4f76d2f7"
   },
   {
     "brand": "CODERDOJO",
@@ -15261,16 +14991,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Amarah @ Missan Engineers Union",
-    "latitude": 31.8320424,
-    "longitude": 47.1496276,
-    "countryCode": "IQ",
-    "stage": "OPEN",
-    "urlSlug": "iq/amarah/amarah-missan-engineers-union",
-    "id": "fa5f0233-a491-4204-8820-593267ac0d06"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Cernusco, Milano @HPE",
     "latitude": 45.5190527141928,
     "longitude": 9.343049625714116,
@@ -15361,16 +15081,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Newmilns @ Townhead Church",
-    "latitude": 55.6081859,
-    "longitude": -4.320728099999997,
-    "countryCode": "GB",
-    "stage": "REGISTER",
-    "urlSlug": "gb/newmilns/newmilns-townhead-church",
-    "id": "fca54426-0ea2-4cfe-acb7-9b6dff5b7a90"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Kahror Pakka, Punjab @ Jd Digital Lab",
     "latitude": 29.6247002,
     "longitude": 71.91049440000006,
@@ -15418,6 +15128,16 @@
     "stage": "OPEN",
     "urlSlug": "cz/pardubice/pardubice-krajska-knihovna",
     "id": "fe059ecd-da5c-48e5-b37a-943959644efb"
+  },
+  {
+    "brand": "CODERDOJO",
+    "name": "Oisterwijk @ Code013",
+    "latitude": 51.582761,
+    "longitude": 5.174757899999999,
+    "countryCode": "NL",
+    "stage": "OPEN",
+    "urlSlug": "nl/oisterwijk/oisterwijk-code-01-3",
+    "id": "fe2ad2a3-8c85-4d67-b486-181948035f4b"
   },
   {
     "brand": "CODERDOJO",
