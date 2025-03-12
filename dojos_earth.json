@@ -4440,6 +4440,16 @@
     "id": "4e24931f-2b08-4f40-ac4a-554336f7fb23"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": "CoderDojo砧",
+    "latitude": 35.6411816,
+    "longitude": 139.6005872,
+    "countryCode": "JP",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "id": "4e31fc13-205c-4738-9b62-2722d890f6ed"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "Kent @ Canterbury Library",
     "latitude": 51.279633,
