@@ -3778,5 +3778,17 @@
     "prefecture": "長崎",
     "created_at": "2025-02-04T00:00:00.000+09:00",
     "description": "長崎市野母崎で週1回、出張可"
+  },
+  {
+    "id": 334,
+    "url": "https://coderdojo-odawara.github.io/",
+    "name": "小田原",
+    "logo": "https://coderdojo.jp/img/dojos/odawara.webp",
+    "order": "142069",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "神奈川",
+    "created_at": "2025-03-14T00:00:00.000+09:00",
+    "description": "小田原市で不定期開催"
   }
 ]
