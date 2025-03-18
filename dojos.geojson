@@ -4138,7 +4138,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-kojimachi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='麹町@アドバンスト・ソフト' loading='lazy' width='100px' /></a><br><b>麹町@アドバンスト・ソフト</b><br>千代田区で毎月開催<br><a href='https://coderdojo-kojimachi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-kojimachi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='麹町@アドバンスト・ソフト' loading='lazy' width='100px' /></a><br><b>麹町@アドバンスト・ソフト</b><br>千代田区で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-kojimachi.connpass.com/event/349482/' target='_blank' rel='noopener'>4月20日</a><br><a href='https://coderdojo-kojimachi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -6749,21 +6749,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dundee @ Central Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/dundee/dundee-central-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.77337999999997,
-          -31.74399
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Perth, Joondalup@Joondalup Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/au/joondalup-western-australia/perth-joondalup-joondalup-library'>連絡先を見る</a>"
       }
     },
     {
