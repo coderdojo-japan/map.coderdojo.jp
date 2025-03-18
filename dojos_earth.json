@@ -5021,16 +5021,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Perth, Joondalup@Joondalup Library",
-    "latitude": -31.74399,
-    "longitude": 115.77337999999997,
-    "countryCode": "AU",
-    "stage": "OPEN",
-    "urlSlug": "au/joondalup-western-australia/perth-joondalup-joondalup-library",
-    "id": "5717b8aa-13a0-4c68-ab72-c756d5f9a470"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Philly CoderDojo .Code@Home",
     "latitude": 39.9525839,
     "longitude": -75.1652215,
