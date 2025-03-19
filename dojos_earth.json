@@ -9241,6 +9241,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Haringey Coding Club @ Tottenham Community Sports Centre",
+    "latitude": 51.6017908,
+    "longitude": -0.0684311,
+    "countryCode": "GB",
+    "stage": "OPEN",
+    "urlSlug": null,
+    "id": "9d4bca7a-6c18-402a-8613-778ef24a2988"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "Techies@Hausleiten",
     "latitude": 48.3874266,
     "longitude": 16.1017057,
