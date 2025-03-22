@@ -6811,16 +6811,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Stalybridge",
-    "latitude": 53.483227,
-    "longitude": -2.0561204,
-    "countryCode": "GB",
-    "stage": "REGISTER",
-    "urlSlug": "gb/stalybridge/stalybridge",
-    "id": "73c625f2-4250-4fb7-a01d-abddb432910c"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Porsche Digital Lab | Berlin",
     "latitude": 52.4982627,
     "longitude": 13.460040599999957,
