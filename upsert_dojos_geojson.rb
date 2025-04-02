@@ -68,19 +68,23 @@ dojos_earth.each do |dojo|
   if dojo[:latitude] && dojo[:longitude]
     #pp dojo
 
-    # 以下の stage ステータスを見て活動中ではない道場は除外
+    # NOTE: 2025/03/29 に Clubs API は予告なく破壊的な変更がされた
+    # https://github.com/coderdojo-japan/map.coderdojo.jp/pull/19
+
+    # 以下の status ステータスを見て活動中ではない道場は除外
     #
-    # stage:              => Clubs API (renewal in 2023/12)
-    # 0: In planning      => PENDING
-    # 1: Open, come along => OPEN
-    # 2: Register ahead   => REGISTER
-    # 3: 満員             => FULL
+    # status:             => Clubs API (as of 2025/03/29)
+    # 0: In planning      => PLANNING         (formerly PENDING)
+    # 1: Open, come along => RUNNING_SESSIONS (formerly OPEN)
+    # 2: Register ahead   => RUNNING_SESSIONS (formerly REGISTER)
+    # 3: 満員             => RUNNING_SESSIONS (formerly FULL)
     # 4: 活動していません => ??? (Maybe deleted or PENDING?)
     # Clubs API https://clubs-api.raspberrypi.org/
+    # ChatGPT Log: https://chatgpt.com/share/67ecfb6a-26f4-800a-9c79-c3c54d91e829
     #
     # MEMO: Clubs API (旧: Zen API) リニューアル前は下記コードが使えた
-    #       if dojo[:geoPoint] && dojo[:country] && dojo[:stage] != 4
-    next unless ['OPEN', 'REGISTER', 'FULL'].include? dojo[:stage]
+    #       if dojo[:geoPoint] && dojo[:country] && dojo[:status] != 4
+    next unless ['PLANNING', 'RUNNING_SESSIONS'].include? dojo[:status]
 
     # アクティブで、地域情報が日本 (JP) の場合、地図上への配置処理に進む
     if dojo[:countryCode] == "JP"

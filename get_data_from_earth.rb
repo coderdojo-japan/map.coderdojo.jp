@@ -37,7 +37,7 @@ def get_query_from_template(filter)
         latitude
         longitude
         countryCode
-        stage
+        status
         urlSlug: url
         id: uuid
         #startTime
