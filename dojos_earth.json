@@ -1921,16 +1921,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Paignton @ Paignton Library",
-    "latitude": 50.4337501,
-    "longitude": -3.5658862,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/paignton-library/paignton-paignton-library",
-    "id": "20fa815c-e5ac-4a47-8b74-589a5fc363d9"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Marino, Dublin 3 @Vdp girls school",
     "latitude": 53.3702073,
     "longitude": -6.230725199999999,
