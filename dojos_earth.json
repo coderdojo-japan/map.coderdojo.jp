@@ -75,7 +75,7 @@
     "latitude": 35.2928649,
     "longitude": 139.2283527,
     "countryCode": "JP",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": null,
     "id": "01df8836-8a93-4e6d-9f49-594b461e500b"
   },
@@ -115,7 +115,7 @@
     "latitude": 53.21698629999999,
     "longitude": -6.667578400000025,
     "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "ie/kildare/naas/sallins-and-amp-naas",
     "id": "027cbd99-3d03-4d70-9f05-813665fe87ec"
   },
@@ -1471,16 +1471,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Rathfarnham @ RETNS",
-    "latitude": 53.292063658526075,
-    "longitude": -6.273770335537847,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/dublin/rathfarnham-retns",
-    "id": "1a431475-2b5c-4e1d-9b43-6ffdac8bca80"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Douala @ Mbcode",
     "latitude": 4.094772309251999,
     "longitude": 9.752565622329712,
@@ -1825,7 +1815,7 @@
     "latitude": 45.7653708,
     "longitude": 21.2299821,
     "countryCode": "RO",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "ro/timisoara-timis-county/timisoara-ntt-data",
     "id": "203a3ea0-fec2-4b96-a9b0-2d7454372d79"
   },
@@ -2245,7 +2235,7 @@
     "latitude": 43.7867737,
     "longitude": 10.927014399999962,
     "countryCode": "IT",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "it/vinci-metropolitan-city-of-florence/vinci",
     "id": "270c3b40-8bc6-4943-acd0-07a3d4d0741b"
   },
@@ -3245,7 +3235,7 @@
     "latitude": 53.4507408,
     "longitude": -6.15362970000001,
     "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "ie/dublin/malahide/malahide",
     "id": "3828c1ef-721f-4400-8c40-93da5d53b16b"
   },
@@ -4245,7 +4235,7 @@
     "latitude": 52.2867239,
     "longitude": -9.669582799999999,
     "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "ie/tralee-county-kerry/tralee-tomcreancentre",
     "id": "4b87084f-739b-40c1-a045-08c9914f3ea6"
   },
@@ -5415,7 +5405,7 @@
     "latitude": 39.9514181,
     "longitude": -86.26084980000002,
     "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "us/zionsville-in/zionsville",
     "id": "5e463eac-c4c3-499b-bf8a-ce3773a36297"
   },
@@ -6435,7 +6425,7 @@
     "latitude": 35.711722,
     "longitude": 138.44995100000006,
     "countryCode": "JP",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "jp/nirasaki-shi-yamanashi-prefecture/jiu3-qi2",
     "id": "6e4ea7d6-2fa3-49f7-aae1-4dfbf44b92bf"
   },
@@ -6665,7 +6655,7 @@
     "latitude": 51.5192431,
     "longitude": 5.0667142,
     "countryCode": "NL",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "nl/goirle/goirle-code-01-3",
     "id": "7171c89a-ab86-4ca5-a7d1-660aaf56f545"
   },
@@ -7885,7 +7875,7 @@
     "latitude": 45.5211505,
     "longitude": 9.595118899999989,
     "countryCode": "IT",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "it/treviglio-province-of-bergamo/treviglio",
     "id": "86a2123a-9f6f-44bb-997d-f042fa830adb"
   },
@@ -8745,7 +8735,7 @@
     "latitude": 33.3511796,
     "longitude": 44.4337756,
     "countryCode": "IQ",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "iq/baghdad/baghdad-kids-dar",
     "id": "95afe574-6364-4e44-8f19-89166cbee6f8"
   },
@@ -9465,7 +9455,7 @@
     "latitude": 14.984493452999267,
     "longitude": 102.12113876986695,
     "countryCode": "TH",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "th/nakhon-ratchasima-mueang-nakhon-ratchasima-district-nakhon-ratchasima/korat-cslab",
     "id": "a0c00aac-0315-4baa-a169-02c4c6e9f8ad"
   },
@@ -10605,7 +10595,7 @@
     "latitude": 48.3705449,
     "longitude": 10.89779,
     "countryCode": "DE",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "de/augsburg/augsburg-kidslab",
     "id": "b28e0c7e-fc4f-45df-af09-b38a1dc09e6c"
   },
@@ -11561,16 +11551,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Higashi-Sumiyoshi, Osaka",
-    "latitude": 34.6200748,
-    "longitude": 135.5287352,
-    "countryCode": "JP",
-    "status": "PLANNING",
-    "urlSlug": "jp/da4-ban3-fu3-da4-ban3-shi4-dong1-zhu4-ji2-qu1/higashi-sumiyoshi-osaka",
-    "id": "c2706f81-6dff-438f-9ec5-3c53c402589c"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Sint-Pieters-Leeuw",
     "latitude": 50.7796134,
     "longitude": 4.244120800000019,
@@ -11885,7 +11865,7 @@
     "latitude": 51.5587644,
     "longitude": -0.2811517999999751,
     "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "gb/wembley-middlesex/wembley-park",
     "id": "c7844bce-5df1-49be-aac3-7f2f24ece389"
   },
@@ -12735,7 +12715,7 @@
     "latitude": 34.48945594965719,
     "longitude": 136.69851422309875,
     "countryCode": "JP",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "jp/ise-mie-prefecture/ise",
     "id": "d465a50b-79f5-4c46-ba37-084aaad17b74"
   },
@@ -13015,7 +12995,7 @@
     "latitude": 34.34601877771013,
     "longitude": 134.0341081409524,
     "countryCode": "JP",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "jp/takamatsu-kagawa-prefecture/shiun-kagawa",
     "id": "d9a2266b-d2c3-4541-9ff2-0a665a76be00"
   },
@@ -13935,7 +13915,7 @@
     "latitude": 37.8937659,
     "longitude": 32.5080303,
     "countryCode": "TR",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "tr/konya/konya-genc-makers",
     "id": "e6fe61b8-2d94-42bc-89b2-f653754e4cd8"
   },
@@ -14148,6 +14128,16 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "ie/bishopstown/bishopstown-library",
     "id": "ead65192-6a85-411b-a13f-ddb6511b2973"
+  },
+  {
+    "brand": "CODERDOJO",
+    "name": "北杜",
+    "latitude": 35.83739838496139,
+    "longitude": 138.41175377368927,
+    "countryCode": "JP",
+    "status": "PLANNING",
+    "urlSlug": "jp/japan-yamanashi-prefecture/bei3-du4",
+    "id": "eb308faa-deb3-4d6e-bd5e-792c681e3cb9"
   },
   {
     "brand": "CODERDOJO",
@@ -15285,7 +15275,7 @@
     "latitude": 35.6532597,
     "longitude": 138.6244282,
     "countryCode": "JP",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": null,
     "id": "fdd3304b-486d-495f-b53e-0de47102dc6d"
   },

@@ -2076,21 +2076,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.273770335537847,
-          53.292063658526075
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Rathfarnham @ RETNS<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin/rathfarnham-retns'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           9.752565622329712,
           4.094772309251999
         ]
