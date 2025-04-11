@@ -1048,7 +1048,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nara.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/nara.webp' alt='奈良' loading='lazy' width='100px' /></a><br><b>奈良</b><br>奈良市で毎月開催<br><a href='https://coderdojo-nara.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nara.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/nara.webp' alt='奈良' loading='lazy' width='100px' /></a><br><b>奈良</b><br>奈良市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-nara-ikoma.connpass.com/event/351974/' target='_blank' rel='noopener'>4月19日</a><br><a href='https://coderdojo-nara.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -2203,7 +2203,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/tachikawa.webp' alt='立川' loading='lazy' width='100px' /></a><br><b>立川</b><br>立川市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-tachikawa.connpass.com/event/349408/' target='_blank' rel='noopener'>4月19日</a><br><a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/tachikawa.webp' alt='立川' loading='lazy' width='100px' /></a><br><b>立川</b><br>立川市で毎月開催<br>&rarr; 次回: <a href='https://coderdojotachikawa.doorkeeper.jp/events/182877' target='_blank' rel='noopener'>4月19日</a><br><a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -2458,7 +2458,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojotondabayashi.github.io/main/' target='_blank' rel='noopener'>  <img src='/images/dojos/tondabayashi.webp' alt='富田林' loading='lazy' width='100px' /></a><br><b>富田林</b><br>富田林市で隔月開催<br><a href='https://coderdojotondabayashi.github.io/main/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojotondabayashi.github.io/main/' target='_blank' rel='noopener'>  <img src='/images/dojos/tondabayashi.webp' alt='富田林' loading='lazy' width='100px' /></a><br><b>富田林</b><br>富田林市で隔月開催<br>&rarr; 次回: <a href='https://coderdojotondabayashi.connpass.com/event/352025/' target='_blank' rel='noopener'>4月19日</a><br><a href='https://coderdojotondabayashi.github.io/main/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -4528,7 +4528,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-matsuyama.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/matsuyama.webp' alt='松山' loading='lazy' width='100px' /></a><br><b>松山</b><br>松山市で月2回開催<br><a href='https://coderdojo-matsuyama.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-matsuyama.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/matsuyama.webp' alt='松山' loading='lazy' width='100px' /></a><br><b>松山</b><br>松山市で月2回開催<br>&rarr; 次回: <a href='https://coderdojo-matsuyama.doorkeeper.jp/events/183564' target='_blank' rel='noopener'>4月20日</a><br><a href='https://coderdojo-matsuyama.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -6493,7 +6493,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nisshin.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nisshin.webp' alt='日進' loading='lazy' width='100px' /></a><br><b>日進</b><br>日進市で月2回開催<br>&rarr; 次回: <a href='https://coderdojo-nisshin.connpass.com/event/349741/' target='_blank' rel='noopener'>4月12日</a><br><a href='https://coderdojo-nisshin.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nisshin.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nisshin.webp' alt='日進' loading='lazy' width='100px' /></a><br><b>日進</b><br>日進市で月2回開催<br>&rarr; 次回: <a href='https://coderdojo-nisshin.connpass.com/event/351960/' target='_blank' rel='noopener'>4月12日</a><br><a href='https://coderdojo-nisshin.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -8249,21 +8249,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Oregon City, OR@Alliance Charter Academy<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/oregon-city-or/oregon-city-or-alliance-charter-academy'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.906959056854248,
-          53.41946909075532
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Athlone<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/westmeath/athlone-institute-of-technology-engineering-building/athlone'>連絡先を見る</a>"
       }
     },
     {
