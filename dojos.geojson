@@ -1843,7 +1843,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Maysan @ Khutwa Center<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/iq/maysan/maysan-khutwa-center'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Maysan @ AlWarqa<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/iq/maysan/maysan-khutwa-center'>連絡先を見る</a>"
       }
     },
     {
@@ -2203,7 +2203,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/tachikawa.webp' alt='立川' loading='lazy' width='100px' /></a><br><b>立川</b><br>立川市で毎月開催<br>&rarr; 次回: <a href='https://coderdojotachikawa.doorkeeper.jp/events/182877' target='_blank' rel='noopener'>4月19日</a><br><a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/tachikawa.webp' alt='立川' loading='lazy' width='100px' /></a><br><b>立川</b><br>立川市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-tachikawa.connpass.com/event/349408/' target='_blank' rel='noopener'>4月19日</a><br><a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -3163,7 +3163,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Braga<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/pt/braga/braga'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>CoderDojo Braga<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/pt/braga/braga'>連絡先を見る</a>"
       }
     },
     {
@@ -3313,7 +3313,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Ferbane @ Business and Technology Park<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/ferbane-county-offaly/ferbane-business-and-technology-park'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Ferbane CoderDojo<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/ferbane-county-offaly/ferbane-business-and-technology-park'>連絡先を見る</a>"
       }
     },
     {
@@ -19663,7 +19663,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojoaizu.mystrikingly.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/aizu.webp' alt='会津' loading='lazy' width='100px' /></a><br><b>会津</b><br>会津若松市内で第<br>3土曜に開催<br><a href='https://coderdojoaizu.mystrikingly.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojoaizu.mystrikingly.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/aizu.webp' alt='会津' loading='lazy' width='100px' /></a><br><b>会津</b><br>会津若松市内で第<br>3土曜に開催<br>&rarr; 次回: <a href='https://coderdojo-aizu.doorkeeper.jp/events/183688' target='_blank' rel='noopener'>5月3日</a><br><a href='https://coderdojoaizu.mystrikingly.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -20699,21 +20699,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Navan<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/meath/unity-centre-windtown-navan-co-meath/navan'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.1401875,
-          52.5250364
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Thomastown @ Thomastown Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/thomastown-county-kilkenny/thomastown-thomastown-library'>連絡先を見る</a>"
       }
     },
     {
