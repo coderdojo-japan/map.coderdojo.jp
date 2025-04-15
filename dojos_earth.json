@@ -1311,7 +1311,7 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Maysan @ Khutwa Center",
+    "name": "Maysan @ AlWarqa",
     "latitude": 31.85048579999999,
     "longitude": 47.13347199999998,
     "countryCode": "IQ",
@@ -2251,7 +2251,7 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Braga",
+    "name": "CoderDojo Braga",
     "latitude": 41.5614336,
     "longitude": -8.3972397,
     "countryCode": "PT",
@@ -2371,7 +2371,7 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Ferbane @ Business and Technology Park",
+    "name": "Ferbane CoderDojo",
     "latitude": 53.27336949999999,
     "longitude": -7.812997600000017,
     "countryCode": "IE",
@@ -14888,16 +14888,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "ie/meath/unity-centre-windtown-navan-co-meath/navan",
     "id": "f746ac2b-2f86-4133-a9c5-037cddb7e9d5"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Thomastown @ Thomastown Library",
-    "latitude": 52.5250364,
-    "longitude": -7.1401875,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/thomastown-county-kilkenny/thomastown-thomastown-library",
-    "id": "f74f4280-8b8c-40ea-b973-bab5f675b2a7"
   },
   {
     "brand": "CODERDOJO",
