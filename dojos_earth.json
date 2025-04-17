@@ -7781,7 +7781,7 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Oradea/Romania",
+    "name": "CoderDojo Oradea",
     "latitude": 47.06220500000001,
     "longitude": 21.938718999999992,
     "countryCode": "RO",
@@ -7891,7 +7891,7 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Baarle-Nassau @ CCBaarle.org",
+    "name": "CoderDojo Baarle",
     "latitude": 51.4415948,
     "longitude": 4.926635499999975,
     "countryCode": "NL",
@@ -8091,7 +8091,7 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Toyohashi, Aichi @ Sozo Univ",
+    "name": "CoderDojo Toyohashi",
     "latitude": 34.7763410646082,
     "longitude": 137.40984678268433,
     "countryCode": "JP",
@@ -8681,7 +8681,7 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Pisa",
+    "name": "Pisa CoderDojo",
     "latitude": 43.7206170796062,
     "longitude": 10.408782766298904,
     "countryCode": "IT",
@@ -9001,7 +9001,7 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Brianza",
+    "name": "Coderdojo Brianza",
     "latitude": 45.6133507,
     "longitude": 9.370018200000004,
     "countryCode": "IT",
@@ -10341,7 +10341,7 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Mullingar",
+    "name": "CoderDojo Mullingar",
     "latitude": 53.514294,
     "longitude": -7.371775999999999,
     "countryCode": "IE",
@@ -13891,7 +13891,7 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Konya @ Genç Makers",
+    "name": "Genç Makers",
     "latitude": 37.8937659,
     "longitude": 32.5080303,
     "countryCode": "TR",

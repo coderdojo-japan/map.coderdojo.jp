@@ -3688,7 +3688,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-ebetsu.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/ebetsu.webp' alt='江別' loading='lazy' width='100px' /></a><br><b>江別</b><br>江別市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-ebetsu.connpass.com/event/346209/' target='_blank' rel='noopener'>4月19日</a><br><a href='https://coderdojo-ebetsu.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-ebetsu.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/ebetsu.webp' alt='江別' loading='lazy' width='100px' /></a><br><b>江別</b><br>江別市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-ebetsu.connpass.com/event/350015/' target='_blank' rel='noopener'>4月19日</a><br><a href='https://coderdojo-ebetsu.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -5263,7 +5263,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-iwata.connpass.com' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.png' alt='磐田' loading='lazy' width='100px' /></a><br><b>磐田</b><br>磐田市で毎月開催<br><a href='https://coderdojo-iwata.connpass.com' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-iwata.connpass.com' target='_blank' rel='noopener'>  <img src='/images/dojos/japan.png' alt='磐田' loading='lazy' width='100px' /></a><br><b>磐田</b><br>磐田市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-iwata.connpass.com/event/352318/' target='_blank' rel='noopener'>5月31日</a><br><a href='https://coderdojo-iwata.connpass.com' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -10843,7 +10843,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Oradea/Romania<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ro/judetul-bihor/oradea-bihor-county/oradea-romania'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>CoderDojo Oradea<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ro/judetul-bihor/oradea-bihor-county/oradea-romania'>連絡先を見る</a>"
       }
     },
     {
@@ -11008,7 +11008,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Baarle-Nassau @ CCBaarle.org<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/baarle-nassau/baarle-nassau-ccbaarle-org'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>CoderDojo Baarle<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/baarle-nassau/baarle-nassau-ccbaarle-org'>連絡先を見る</a>"
       }
     },
     {
@@ -11294,21 +11294,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Bratislava @ Campus City<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/sk/bratislava/bratislava-campus-city'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          137.40984678268433,
-          34.7763410646082
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>  <img src='/images/dojos/toyohashi.webp' alt='豊橋' loading='lazy' width='100px' /></a><br><b>豊橋</b><br>豊橋市で不定期開催<br>&rarr; 次回: <a href='https://coderdojo-toyohashi.doorkeeper.jp/events/183272' target='_blank' rel='noopener'>4月8日</a><br><a href='https://www.facebook.com/coderdojo.toyohashi/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -12103,7 +12088,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Pisa<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/toscana/pisa-province-of-pisa/pisa'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Pisa CoderDojo<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/toscana/pisa-province-of-pisa/pisa'>連絡先を見る</a>"
       }
     },
     {
@@ -12568,7 +12553,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Brianza<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/lombardia/vimercate-province-of-monza-and-brianza/brianza'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Coderdojo Brianza<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/lombardia/vimercate-province-of-monza-and-brianza/brianza'>連絡先を見る</a>"
       }
     },
     {
@@ -14398,7 +14383,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Mullingar<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/westmeath/mullingar/mullingar'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>CoderDojo Mullingar<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/westmeath/mullingar/mullingar'>連絡先を見る</a>"
       }
     },
     {
@@ -17923,7 +17908,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nakamozu.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nakamozu.webp' alt='なかもず' loading='lazy' width='100px' /></a><br><b>なかもず</b><br>堺市で毎月開催<br><a href='https://coderdojo-nakamozu.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nakamozu.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nakamozu.webp' alt='なかもず' loading='lazy' width='100px' /></a><br><b>なかもず</b><br>堺市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-nakamozu.connpass.com/event/352489/' target='_blank' rel='noopener'>5月11日</a><br><a href='https://coderdojo-nakamozu.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -19363,7 +19348,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Konya @ Genç Makers<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/tr/konya/konya-genc-makers'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Genç Makers<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/tr/konya/konya-genc-makers'>連絡先を見る</a>"
       }
     },
     {
