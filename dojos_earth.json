@@ -3231,16 +3231,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Malahide",
-    "latitude": 53.4507408,
-    "longitude": -6.15362970000001,
-    "countryCode": "IE",
-    "status": "PLANNING",
-    "urlSlug": "ie/dublin/malahide/malahide",
-    "id": "3828c1ef-721f-4400-8c40-93da5d53b16b"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Alkmaar @ Bibliotheek Kennemerwaard",
     "latitude": 52.6335189,
     "longitude": 4.743240300000025,
@@ -4148,6 +4138,16 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "gb/edinburgh/edinburgh-prewired-codebase",
     "id": "49e8d3d4-e54e-417b-9bca-de5354d027f4"
+  },
+  {
+    "brand": "CODE_CLUB",
+    "name": "Aoyama",
+    "latitude": 35.6597183,
+    "longitude": 139.7107648,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "4a2185e1-79ff-4b1c-a17b-9e66792036a1"
   },
   {
     "brand": "CODERDOJO",
