@@ -2961,6 +2961,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Henderson  Fox Pond Park NC @ CEtNetworkids Vance",
+    "latitude": 36.3190225,
+    "longitude": -78.3729094,
+    "countryCode": "US",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": "us/henderson-north-carolina/henderson-fox-pond-park-nc-cetnetworkids-vance",
+    "id": "3446b844-d674-4e36-97e9-e1fb3e8b17f3"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "muroran@kuru",
     "latitude": 42.352745,
     "longitude": 141.021264,
@@ -9528,16 +9538,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "jp/chong1-sheng2-xian4/miyakojima",
     "id": "a2777888-5a0e-489a-ab1d-3e9760f4a447"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Glasgow @ Hillhead Library",
-    "latitude": 55.8767624,
-    "longitude": -4.291539100000023,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/glasgow/glasgow-hillhead-library",
-    "id": "a282be2d-7cc6-48d4-b55d-d1cbc0885c99"
   },
   {
     "brand": "CODERDOJO",
