@@ -9021,16 +9021,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Pelt",
-    "latitude": 51.23047260000001,
-    "longitude": 5.432017599999995,
-    "countryCode": "BE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "be/pelt/pelt",
-    "id": "99a4a1a4-aec0-423c-ae06-6818379e12ec"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Plano Texas @ East Plano Islamic Center",
     "latitude": 33.0098533,
     "longitude": -96.6468505,
@@ -13481,16 +13471,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "De Panne",
-    "latitude": 51.094914,
-    "longitude": 2.587086999999997,
-    "countryCode": "BE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "be/de-panne/de-panne",
-    "id": "e1b9f9eb-7f5b-4f29-b016-adbb61029eb8"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Ashbourne",
     "latitude": 53.51173390642726,
     "longitude": -6.4001400284942065,
@@ -13898,16 +13878,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "be/zottegem/zottegem",
     "id": "e70608e3-7b62-40bb-91be-66ceb439087d"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Eeklo",
-    "latitude": 51.1852719,
-    "longitude": 3.5638899000000492,
-    "countryCode": "BE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "be/eeklo/eeklo",
-    "id": "e7814c26-7c61-4059-a345-dcfb5902823c"
   },
   {
     "brand": "CODERDOJO",

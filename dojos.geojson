@@ -2203,7 +2203,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/tachikawa.webp' alt='立川' loading='lazy' width='100px' /></a><br><b>立川</b><br>立川市で毎月開催<br>&rarr; 次回: <a href='https://coderdojotachikawa.doorkeeper.jp/events/183552' target='_blank' rel='noopener'>5月24日</a><br><a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/tachikawa.webp' alt='立川' loading='lazy' width='100px' /></a><br><b>立川</b><br>立川市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-tachikawa.connpass.com/event/351948/' target='_blank' rel='noopener'>5月24日</a><br><a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -10108,7 +10108,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-matsubara.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/matsubara.webp' alt='松原' loading='lazy' width='100px' /></a><br><b>松原</b><br>松原市で毎月開催<br><a href='https://coderdojo-matsubara.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-matsubara.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/matsubara.webp' alt='松原' loading='lazy' width='100px' /></a><br><b>松原</b><br>松原市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-matsubara.doorkeeper.jp/events/184457' target='_blank' rel='noopener'>5月17日</a><br><a href='https://coderdojo-matsubara.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -10633,7 +10633,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/coderdojoinagawa/' target='_blank' rel='noopener'>  <img src='/images/dojos/inagawa.webp' alt='猪名川' loading='lazy' width='100px' /></a><br><b>猪名川</b><br>猪名川町で毎月開催<br><a href='https://www.facebook.com/coderdojoinagawa/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/coderdojoinagawa/' target='_blank' rel='noopener'>  <img src='/images/dojos/inagawa.webp' alt='猪名川' loading='lazy' width='100px' /></a><br><b>猪名川</b><br>猪名川町で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-inagawa.connpass.com/event/355431/' target='_blank' rel='noopener'>5月24日</a><br><a href='https://www.facebook.com/coderdojoinagawa/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -12554,21 +12554,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Den Haag<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/the-hague/den-haag'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.432017599999995,
-          51.23047260000001
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Pelt<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/pelt/pelt'>連絡先を見る</a>"
       }
     },
     {
@@ -18771,21 +18756,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.587086999999997,
-          51.094914
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>De Panne<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/de-panne/de-panne'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.4001400284942065,
           53.51173390642726
         ]
@@ -19334,21 +19304,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Zottegem<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/zottegem/zottegem'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.5638899000000492,
-          51.1852719
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Eeklo<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/eeklo/eeklo'>連絡先を見る</a>"
       }
     },
     {
@@ -20998,7 +20953,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>  <img src='/images/dojos/hitachinaka.webp' alt='ひたちなか' loading='lazy' width='100px' /></a><br><b>ひたちなか</b><br>ひたちなか市で毎<br>月開催<br><a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>  <img src='/images/dojos/hitachinaka.webp' alt='ひたちなか' loading='lazy' width='100px' /></a><br><b>ひたちなか</b><br>ひたちなか市で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojo-hitachinaka.connpass.com/event/355317/' target='_blank' rel='noopener'>6月1日</a><br><a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
