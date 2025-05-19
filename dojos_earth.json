@@ -6541,16 +6541,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Dungarvan",
-    "latitude": 52.084989821941306,
-    "longitude": -7.621250152587891,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/waterford/dungarvan/dungarvan",
-    "id": "70129971-1b46-4272-ba3b-9c187b08133a"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Cusco @ C1B1",
     "latitude": -13.5242262,
     "longitude": -71.9476243,

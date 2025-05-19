@@ -9096,21 +9096,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.621250152587891,
-          52.084989821941306
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dungarvan<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/waterford/dungarvan/dungarvan'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -71.9476243,
           -13.5242262
         ]
