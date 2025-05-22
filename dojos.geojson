@@ -2203,7 +2203,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/tachikawa.webp' alt='立川' loading='lazy' width='100px' /></a><br><b>立川</b><br>立川市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-tachikawa.connpass.com/event/351948/' target='_blank' rel='noopener'>5月24日</a><br><a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/tachikawa.webp' alt='立川' loading='lazy' width='100px' /></a><br><b>立川</b><br>立川市で毎月開催<br>&rarr; 次回: <a href='https://coderdojotachikawa.doorkeeper.jp/events/183552' target='_blank' rel='noopener'>5月24日</a><br><a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -5436,7 +5436,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.229019165039062,
+          21.229019165039063,
           45.81447357869358
         ]
       },
@@ -12066,7 +12066,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          131.18262,
+          131.18261999999999,
           34.370856
         ]
       },
@@ -17488,7 +17488,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Noblesville<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/noblesville-in/noblesville'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Noblesville Code Club<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/noblesville-in/noblesville'>連絡先を見る</a>"
       }
     },
     {
@@ -20443,7 +20443,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-sakura.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/sakura.webp' alt='さくら' loading='lazy' width='100px' /></a><br><b>さくら</b><br>さくら市で毎月開催<br>&rarr; 次回: <a href='https://coderdojosakura.connpass.com/event/355023/' target='_blank' rel='noopener'>6月22日</a><br><a href='https://coderdojo-sakura.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-sakura.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/sakura.webp' alt='さくら' loading='lazy' width='100px' /></a><br><b>さくら</b><br>さくら市で毎月開催<br>&rarr; 次回: <a href='https://coderdojosakura.connpass.com/event/352425/' target='_blank' rel='noopener'>6月22日</a><br><a href='https://coderdojo-sakura.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
