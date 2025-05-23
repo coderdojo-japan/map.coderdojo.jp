@@ -111,16 +111,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Sallins and Naas",
-    "latitude": 53.21698629999999,
-    "longitude": -6.667578400000025,
-    "countryCode": "IE",
-    "status": "PLANNING",
-    "urlSlug": "ie/kildare/naas/sallins-and-amp-naas",
-    "id": "027cbd99-3d03-4d70-9f05-813665fe87ec"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Luxembourg Level2",
     "latitude": 49.5916067,
     "longitude": 6.140659299999999,
@@ -688,16 +678,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "ro/timisoara/timisoara-british-international-school-inactive",
     "id": "0cf2bd20-15d1-4005-9c8b-58b054eb742e"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Ijmuiden @ Velsen",
-    "latitude": 52.4611048,
-    "longitude": 4.6231494,
-    "countryCode": "NL",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "nl/ijmuiden/ijmuiden-velsen",
-    "id": "0d0f00f7-adc2-4e91-a0d4-f337324a6f54"
   },
   {
     "brand": "CODERDOJO",
@@ -10641,16 +10621,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Amsterdam, Zuidoost @ NoLimit",
-    "latitude": 52.323888,
-    "longitude": 4.9706974,
-    "countryCode": "NL",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "nl/amsterdam/amsterdam-zuidoost-nolimit",
-    "id": "b452974f-3dce-4fb3-96f7-9b3c3cbf69b4"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Padova",
     "latitude": 45.4147635,
     "longitude": 11.8764346,
@@ -11508,16 +11478,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "be/sint-pieters-leeuw/sint-pieters-leeuw",
     "id": "c29c7d4d-f880-4a44-8071-bb4af13685a8"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Tiel @ Bibliotheek Tiel",
-    "latitude": 51.8853744,
-    "longitude": 5.43680489999997,
-    "countryCode": "NL",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "nl/tiel/tiel-bibliotheek-tiel",
-    "id": "c2a6a6f8-5644-44fc-8eb7-e918a07f2bec"
   },
   {
     "brand": "CODERDOJO",

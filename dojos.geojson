@@ -141,21 +141,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.667578400000025,
-          53.21698629999999
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Sallins and Naas<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/kildare/naas/sallins-and-amp-naas'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.140659299999999,
           49.5916067
         ]
@@ -974,21 +959,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Timisoara @British International School INACTIVE<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ro/timisoara/timisoara-british-international-school-inactive'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6231494,
-          52.4611048
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Ijmuiden @ Velsen<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/ijmuiden/ijmuiden-velsen'>連絡先を見る</a>"
       }
     },
     {
@@ -2203,7 +2173,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/tachikawa.webp' alt='立川' loading='lazy' width='100px' /></a><br><b>立川</b><br>立川市で毎月開催<br>&rarr; 次回: <a href='https://coderdojotachikawa.doorkeeper.jp/events/183552' target='_blank' rel='noopener'>5月24日</a><br><a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/tachikawa.webp' alt='立川' loading='lazy' width='100px' /></a><br><b>立川</b><br>立川市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-tachikawa.connpass.com/event/351948/' target='_blank' rel='noopener'>5月24日</a><br><a href='https://coderdojotachikawa.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -14796,21 +14766,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.9706974,
-          52.323888
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Amsterdam, Zuidoost @ NoLimit<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/amsterdam/amsterdam-zuidoost-nolimit'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.8764346,
           45.4147635
         ]
@@ -16034,21 +15989,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Sint-Pieters-Leeuw<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/sint-pieters-leeuw/sint-pieters-leeuw'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.43680489999997,
-          51.8853744
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Tiel @ Bibliotheek Tiel<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/tiel/tiel-bibliotheek-tiel'>連絡先を見る</a>"
       }
     },
     {
@@ -20443,7 +20383,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-sakura.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/sakura.webp' alt='さくら' loading='lazy' width='100px' /></a><br><b>さくら</b><br>さくら市で毎月開催<br>&rarr; 次回: <a href='https://coderdojosakura.connpass.com/event/352425/' target='_blank' rel='noopener'>6月22日</a><br><a href='https://coderdojo-sakura.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-sakura.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/sakura.webp' alt='さくら' loading='lazy' width='100px' /></a><br><b>さくら</b><br>さくら市で毎月開催<br>&rarr; 次回: <a href='https://coderdojosakura.connpass.com/event/355023/' target='_blank' rel='noopener'>6月22日</a><br><a href='https://coderdojo-sakura.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
