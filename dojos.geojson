@@ -111,6 +111,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.2283527,
+          35.2928649
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://coderdojo-odawara.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/odawara.webp' alt='小田原' loading='lazy' width='100px' /></a><br><b>小田原</b><br>小田原市で不定期開催<br>&rarr; 次回: <a href='https://coderdojo-odawara.connpass.com/event/352813/' target='_blank' rel='noopener'>5月31日</a><br><a href='https://coderdojo-odawara.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           77.05487939999999,
           28.5341264
         ]
@@ -1289,6 +1304,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Oak Cliff Dallas @ Red Bird<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/dallas-tx/oak-cliff-dallas-red-bird'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.734191,
+          35.7004221
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://coderdojokagurazaka.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/kagurazaka.webp' alt='神楽坂' loading='lazy' width='100px' /></a><br><b>神楽坂</b><br>新宿区で毎月開催<br><a href='https://coderdojokagurazaka.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -5766,6 +5796,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7107648,
+          35.6597183
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://coderdojoaoyama.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='青山' loading='lazy' width='100px' /></a><br><b>青山</b><br>青山学院青山キャ<br>ンパスで毎月開催<br><a href='https://coderdojoaoyama.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           23.19819640000003,
           45.8378308
         ]
@@ -9051,6 +9096,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.9980443,
+          37.5592589
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://sites.google.com/view/coderdojo-bandai' target='_blank' rel='noopener'>  <img src='/images/dojos/bandai.webp' alt='磐梯' loading='lazy' width='100px' /></a><br><b>磐梯</b><br>磐梯町で毎月開催<br><a href='https://sites.google.com/view/coderdojo-bandai' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.9476243,
           -13.5242262
         ]
@@ -11489,6 +11549,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Zele<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/zele/zele'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.83078566419292,
+          26.461893320101343
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://coderdojo-nago.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='恩納@OIST' loading='lazy' width='100px' /></a><br><b>恩納@OIST</b><br>OIST（沖縄科<br>学技術大学院大学）で毎月開催<br><a href='https://coderdojo-nago.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
