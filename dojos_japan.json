@@ -210,7 +210,7 @@
     "logo": "https://coderdojo.jp/img/dojos/shibuya.webp",
     "order": "131130",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "東京",
     "created_at": "2020-01-30T00:00:00.000+09:00",
     "description": "青山学院大学にて毎月開催"
@@ -3826,5 +3826,17 @@
     "prefecture": "福島",
     "created_at": "2025-05-09T00:00:00.000+09:00",
     "description": "磐梯町で毎月開催"
+  },
+  {
+    "id": 338,
+    "url": "https://coderdojoaoyama.connpass.com/",
+    "name": "青山",
+    "logo": "https://coderdojo.jp/img/dojos/default.webp",
+    "order": "131130",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "東京",
+    "created_at": "2025-05-26T00:00:00.000+09:00",
+    "description": "青山学院青山キャンパスで毎月開催"
   }
 ]

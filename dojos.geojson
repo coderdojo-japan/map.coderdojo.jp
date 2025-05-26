@@ -7056,21 +7056,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7119,
-          35.66055
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojoshibuya.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/shibuya.webp' alt='渋谷' loading='lazy' width='100px' /></a><br><b>渋谷</b><br>青山学院大学にて<br>毎月開催<br><a href='https://coderdojoshibuya.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.3176876,
           40.6189813
         ]
