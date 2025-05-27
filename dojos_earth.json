@@ -95,7 +95,7 @@
     "latitude": -20.8089198,
     "longitude": 167.2266434,
     "countryCode": "NC",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "nc/nang/this-is-a-test-club-for-dev-and-example-purposes",
     "id": "022fbf70-c6a8-4b99-8834-b873db32b75a"
   },
@@ -3908,6 +3908,16 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "eg/aswan/aswan-al-salam-academy-school",
     "id": "457f550d-8056-4d15-889f-aa6695e515b9"
+  },
+  {
+    "brand": "CODE_CLUB",
+    "name": "CoderDojo川西",
+    "latitude": 34.8264154,
+    "longitude": 135.4125971,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "45e17a8f-8178-42e9-a7a1-dc678f3848cb"
   },
   {
     "brand": "CODERDOJO",
