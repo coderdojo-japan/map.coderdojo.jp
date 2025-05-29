@@ -3246,6 +3246,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.763215,
+          35.7081448
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://twitter.com/coderdojo_hongo' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='ほんごう' loading='lazy' width='100px' /></a><br><b>ほんごう</b><br>文京区本郷で毎月開催<br><a href='https://twitter.com/coderdojo_hongo' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           47.48366499818552,
           -18.851702573788412
         ]
@@ -4514,6 +4529,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<a href='https://coderdojo-matsuyama.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/matsuyama.webp' alt='松山' loading='lazy' width='100px' /></a><br><b>松山</b><br>松山市で月2回開催<br><a href='https://coderdojo-matsuyama.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.155606488043981,
+          53.45082206215972
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Malahide<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin/malahide/malahide'>連絡先を見る</a>"
       }
     },
     {
@@ -20443,7 +20473,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-sakura.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/sakura.webp' alt='さくら' loading='lazy' width='100px' /></a><br><b>さくら</b><br>さくら市で毎月開催<br>&rarr; 次回: <a href='https://coderdojosakura.connpass.com/event/355023/' target='_blank' rel='noopener'>6月22日</a><br><a href='https://coderdojo-sakura.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-sakura.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/sakura.webp' alt='さくら' loading='lazy' width='100px' /></a><br><b>さくら</b><br>さくら市で毎月開催<br>&rarr; 次回: <a href='https://coderdojosakura.connpass.com/event/352425/' target='_blank' rel='noopener'>6月22日</a><br><a href='https://coderdojo-sakura.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
