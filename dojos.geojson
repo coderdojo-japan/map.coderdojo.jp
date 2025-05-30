@@ -20316,21 +20316,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.2077615000000606,
-          53.2770772
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dublin @ Verizon Connect<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/sandyford-dublin/dublin-verizon-connect'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           77.73729920000005,
           12.9270133
         ]
