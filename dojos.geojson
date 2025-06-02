@@ -21066,21 +21066,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.508729078932447,
-          53.35405685070001
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Leixlip@LPTC<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/leixlip-county-kildare/leixlip-lptc'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.75746509999999,
           51.6062752
         ]
