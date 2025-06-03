@@ -3216,21 +3216,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.4994874,
-          40.502372
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-hachinohe.aomori.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/hachinohe.webp' alt='八戸@吹上' loading='lazy' width='100px' /></a><br><b>八戸@吹上</b><br>八戸市内で第1日<br>曜に開催<br>&rarr; 次回: <a href='https://coderdojo-hachinohe.doorkeeper.jp/events/184427' target='_blank' rel='noopener'>6月8日</a><br><a href='https://coderdojo-hachinohe.aomori.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           77.49654369999996,
           12.7836606
         ]
