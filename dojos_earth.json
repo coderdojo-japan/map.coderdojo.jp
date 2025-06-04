@@ -6731,16 +6731,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Dublin City @ Qualtrics",
-    "latitude": 53.34041621139893,
-    "longitude": -6.265820252670282,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/dublin/dublin-city-qualtrics",
-    "id": "7355d93d-a722-4740-890f-219bf7a5dc58"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "CoderDojo Giroc",
     "latitude": 45.69623259999999,
     "longitude": 21.237106,
@@ -11918,16 +11908,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "za/gugulethu/gugulethu-cape-town-khanyisa",
     "id": "c90e552f-a4d5-456d-8a3f-16a2101f6356"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Carrigeen NS",
-    "latitude": 52.270488953162854,
-    "longitude": -7.215108125237748,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/mooncoin/carrigeen-ns",
-    "id": "c952b34b-7b37-4869-8b67-25f18a3ab130"
   },
   {
     "brand": "CODERDOJO",
