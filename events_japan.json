@@ -9,7 +9,7 @@
     "event_end_at": "2025-06-14T11:30:00.000+09:00",
     "event_url": "https://coderdojo-mizuho.connpass.com/event/356349/",
     "prefecture": "愛知",
-    "participants": 1,
+    "participants": 2,
     "event_update_at": "2025-05-20T21:24:20.000+09:00",
     "address": "名古屋市瑞穂区佐渡町３丁目18番地",
     "place": "瑞穂区社会福祉協議会ボランティアセンター",
@@ -94,22 +94,6 @@
     "address": "〒617-0826 京都府長岡京市開田４丁目２−９ ヘルプビル3F",
     "place": "長岡京コワーキングスペース",
     "limit": 16
-  },
-  {
-    "id": 35,
-    "name": "奈良",
-    "url": "https://coderdojo-nara.github.io/",
-    "event_id": 8458,
-    "event_title": "【CoderDojo生駒】：子ども向けプログラミング道場（No.89）",
-    "event_date": "2025-06-07T13:00:00.000+09:00",
-    "event_end_at": "2025-06-07T16:00:00.000+09:00",
-    "event_url": "https://coderdojo-nara-ikoma.connpass.com/event/357599/",
-    "prefecture": "奈良",
-    "participants": 4,
-    "event_update_at": "2025-06-01T02:07:38.000+09:00",
-    "address": "奈良県生駒市元町1丁目7番6号",
-    "place": "市民活動センターららポート",
-    "limit": 20
   },
   {
     "id": 42,
@@ -432,38 +416,6 @@
     "limit": 9
   },
   {
-    "id": 200,
-    "name": "岐阜",
-    "url": "https://coderdojo-gifu.org/",
-    "event_id": 8466,
-    "event_title": "第73回 CoderDojo岐阜",
-    "event_date": "2025-06-07T09:30:00.000+09:00",
-    "event_end_at": "2025-06-07T11:30:00.000+09:00",
-    "event_url": "https://coderdojo-gifu.connpass.com/event/357420/",
-    "prefecture": "岐阜",
-    "participants": 9,
-    "event_update_at": "2025-05-30T08:46:14.000+09:00",
-    "address": "岐阜県岐阜市司町40番地5",
-    "place": "みんなの森 ぎふメディアコスモス「考えるスタジオ」",
-    "limit": 20
-  },
-  {
-    "id": 227,
-    "name": "戸田公園",
-    "url": "https://coderdojo-todakoen.com/",
-    "event_id": 8464,
-    "event_title": "第59回 CoderDojo 戸田公園",
-    "event_date": "2025-06-07T10:00:00.000+09:00",
-    "event_end_at": "2025-06-07T12:00:00.000+09:00",
-    "event_url": "https://corderdojo-todakoen.connpass.com/event/357562/",
-    "prefecture": "埼玉",
-    "participants": 3,
-    "event_update_at": "2025-05-31T13:51:35.000+09:00",
-    "address": "埼玉県戸田市本町1-3-3(ライオンズマンション戸田公園206)",
-    "place": "(有)ミネルバ内 会議室",
-    "limit": 8
-  },
-  {
     "id": 241,
     "name": "西尾",
     "url": "https://www.coderdojo-nishio.com/",
@@ -638,22 +590,6 @@
     "address": "東京都千代田区麹町3-1 麹町昭文社HDビル7階",
     "place": "株式会社アドバンスト・ソフト",
     "limit": 16
-  },
-  {
-    "id": 278,
-    "name": "武蔵小杉",
-    "url": "https://coderdojo-musashikosugi.connpass.com/",
-    "event_id": 8509,
-    "event_title": "第59回 CoderDojo武蔵小杉【レギュラー回】※初めての方歓迎",
-    "event_date": "2025-06-07T09:15:00.000+09:00",
-    "event_end_at": "2025-06-07T12:00:00.000+09:00",
-    "event_url": "https://coderdojo-musashikosugi.connpass.com/event/354701/",
-    "prefecture": "神奈川",
-    "participants": 15,
-    "event_update_at": "2025-05-15T07:55:13.000+09:00",
-    "address": "〒211-0004　川崎市中原区新丸子東3-1100-12　1階",
-    "place": "かわさき市民活動センター　会議室A/B",
-    "limit": 29
   },
   {
     "id": 280,
