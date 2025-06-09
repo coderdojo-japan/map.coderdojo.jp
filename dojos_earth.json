@@ -3230,6 +3230,16 @@
     "id": "38978761-19d5-41ef-830e-2014d7c22748"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": "早良",
+    "latitude": 33.5846345,
+    "longitude": 130.3478654,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "38abd14d-2633-4690-9bf4-601d86a8bfa9"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "Los Angeles",
     "latitude": 33.99525885212904,
