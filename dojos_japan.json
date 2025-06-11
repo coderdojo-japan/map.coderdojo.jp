@@ -3838,5 +3838,17 @@
     "prefecture": "東京",
     "created_at": "2025-05-26T00:00:00.000+09:00",
     "description": "青山学院青山キャンパスで毎月開催"
+  },
+  {
+    "id": 339,
+    "url": "https://coderdojosawara.connpass.com/",
+    "name": "早良",
+    "logo": "https://coderdojo.jp/img/dojos/default.webp",
+    "order": "401374",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "福岡",
+    "created_at": "2025-06-11T00:00:00.000+09:00",
+    "description": "福岡市早良区で毎月開催"
   }
 ]
