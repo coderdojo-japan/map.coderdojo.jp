@@ -1180,6 +1180,16 @@
     "id": "16609fdd-0d89-4c23-8d55-fe7f01416417"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": "テクノ@光都",
+    "latitude": 34.93497079999999,
+    "longitude": 134.4432876,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "1700a138-2909-4e4e-9e75-88ebcbbbc55a"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "Nashville @ WNCP",
     "latitude": 36.1312843,
