@@ -6651,21 +6651,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.452722199999999,
-          53.3487016
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Lucan @ Lucan Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/lucan-county-dublin/lucan-lucan-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           140.26659540000003,
           35.5088718
         ]
@@ -15628,7 +15613,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/CoderDojoFukuoka/' target='_blank' rel='noopener'>  <img src='/images/dojos/fukuoka.webp' alt='福岡' loading='lazy' width='100px' /></a><br><b>福岡</b><br>福岡市中央区天神<br>で毎月開催<br><a href='https://www.facebook.com/CoderDojoFukuoka/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/CoderDojoFukuoka/' target='_blank' rel='noopener'>  <img src='/images/dojos/fukuoka.webp' alt='福岡' loading='lazy' width='100px' /></a><br><b>福岡</b><br>福岡市中央区天神<br>で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-fukuoka.connpass.com/event/359554/' target='_blank' rel='noopener'>7月12日</a><br><a href='https://www.facebook.com/CoderDojoFukuoka/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -18283,7 +18268,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/kodaira.webp' alt='こだいら' loading='lazy' width='100px' /></a><br><b>こだいら</b><br>小平市で隔週開催<br>&rarr; 次回: <a href='https://coderdojo-jp-kodaira.connpass.com/event/354868/' target='_blank' rel='noopener'>6月18日</a><br><a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/kodaira.webp' alt='こだいら' loading='lazy' width='100px' /></a><br><b>こだいら</b><br>小平市で隔週開催<br>&rarr; 次回: <a href='https://coderdojo-jp-kodaira.connpass.com/event/354869/' target='_blank' rel='noopener'>6月25日</a><br><a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
