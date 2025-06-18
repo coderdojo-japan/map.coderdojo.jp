@@ -2915,7 +2915,7 @@
     "latitude": 53.32955,
     "longitude": -6.264062,
     "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "ie/dublin/rathmines-dublin-6-online",
     "id": "3374ce3f-0a4f-4414-b7bd-794e1a1fe0c3"
   },
@@ -4758,16 +4758,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "jp/japan-kanagawa/musashikosugi",
     "id": "53fdf401-51bd-401c-8260-4632e89326c8"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Lucan @ Lucan Library",
-    "latitude": 53.3487016,
-    "longitude": -6.452722199999999,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/lucan-county-dublin/lucan-lucan-library",
-    "id": "540b2edb-0785-4b89-8182-374098e36f45"
   },
   {
     "brand": "CODERDOJO",
@@ -7085,7 +7075,7 @@
     "latitude": 53.271797,
     "longitude": -6.202081000000021,
     "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "ie/leopardstown/mountainviewdublin-vodafoneireland",
     "id": "7ac46b82-ea99-41a7-8a5d-0fb2f9e87f43"
   },
@@ -12055,7 +12045,7 @@
     "latitude": 51.8858323,
     "longitude": -8.405049899999995,
     "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "ie/cork/mahon-cork-mcafee",
     "id": "cbb10f5e-9b55-435d-8fca-9b132faa548c"
   },
@@ -14805,7 +14795,7 @@
     "latitude": 53.669911,
     "longitude": -6.698629,
     "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "ie/meath/unity-centre-windtown-navan-co-meath/navan",
     "id": "f746ac2b-2f86-4133-a9c5-037cddb7e9d5"
   },
