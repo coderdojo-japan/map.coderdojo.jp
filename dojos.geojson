@@ -12321,21 +12321,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.2014473,
-          51.3790199
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Sutton, London @ Life Centre<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/sutton/sutton-london-life-centre'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           12.389444099999992,
           43.1077735
         ]
@@ -17534,21 +17519,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Cambridge, ON @ STEMOTICS<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ca/cambridge-on/cambridge-on-stemotics'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.4125158,
-          -29.6302319
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Hayfields, Pietermaritzburg @ SleepyHollowNinjaZone<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/za/pietermaritzburg/hayfields-pietermaritzburg-sleepyhollowninjazone'>連絡先を見る</a>"
       }
     },
     {

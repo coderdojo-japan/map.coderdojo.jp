@@ -8841,16 +8841,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Sutton, London @ Life Centre",
-    "latitude": 51.3790199,
-    "longitude": -0.2014473,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/sutton/sutton-london-life-centre",
-    "id": "97826fab-98c0-43b3-a806-fb815d5ee208"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Perugia",
     "latitude": 43.1077735,
     "longitude": 12.389444099999992,
@@ -12588,16 +12578,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "ca/cambridge-on/cambridge-on-stemotics",
     "id": "d35457cf-e160-4eec-88b1-33314ecaffbe"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Hayfields, Pietermaritzburg @ SleepyHollowNinjaZone",
-    "latitude": -29.6302319,
-    "longitude": 30.4125158,
-    "countryCode": "ZA",
-    "status": "PLANNING",
-    "urlSlug": "za/pietermaritzburg/hayfields-pietermaritzburg-sleepyhollowninjazone",
-    "id": "d36c67f1-cb09-448f-9d2f-ea6509d50d6e"
   },
   {
     "brand": "CODERDOJO",
