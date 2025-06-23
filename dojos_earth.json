@@ -3341,16 +3341,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Crossmolina @ Enterprise Centre",
-    "latitude": 54.09965779861702,
-    "longitude": -9.3178979518392,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/knockalegan-crossmolina-county-mayo/crossmolina-enterprise-centre",
-    "id": "39edb237-85db-4f72-a7ad-fb9acf13eedd"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Maebashi, Gunma",
     "latitude": 36.3813523,
     "longitude": 139.0725053,
@@ -3955,7 +3945,7 @@
     "latitude": 53.34305269999999,
     "longitude": -6.2505356,
     "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "ie/dublin/dublin-2-trinity-college-dublin",
     "id": "45f22ccc-f1c7-4015-be5a-2757a8670007"
   },
@@ -11341,16 +11331,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "National Technology Park, Limerick@LIT",
-    "latitude": 52.6748827,
-    "longitude": -8.64755450000007,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/limerick/national-technology-park-limerick-lit",
-    "id": "bfdd72b5-bba7-4047-91b9-f36e9a9d9c43"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Carabanchel,Madrid@Biblioteca Luis Rosales",
     "latitude": 40.3735211,
     "longitude": -3.747696499999961,
@@ -13301,16 +13281,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Cork, Ballincollig @ VMware",
-    "latitude": 51.8884419,
-    "longitude": -8.586546999999996,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/ballincollig/cork-ballincollig-vmware",
-    "id": "e0d1e4d9-f6f3-4df1-b968-49804ed20cb3"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Giarre",
     "latitude": 37.757646,
     "longitude": 15.1740564,
@@ -13902,8 +13872,8 @@
   {
     "brand": "CODERDOJO",
     "name": "Dublin 9, Ballymun @ Ballymun Child and Family Resource Centre",
-    "latitude": 53.3947495,
-    "longitude": -6.258071400000063,
+    "latitude": 53.39472425873269,
+    "longitude": -6.2580354223533545,
     "countryCode": "IE",
     "status": "RUNNING_SESSIONS",
     "urlSlug": "ie/ballymun-dublin-9/dublin-9-ballymun-ballymun-child-and-family-resource-centre",
@@ -13998,16 +13968,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "in/karimganj-assam/bvec-code-club",
     "id": "ea817005-0d48-4021-bb11-6056d54660cf"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Bishopstown Library",
-    "latitude": 51.88045746840136,
-    "longitude": -8.508720695972443,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/bishopstown/bishopstown-library",
-    "id": "ead65192-6a85-411b-a13f-ddb6511b2973"
   },
   {
     "brand": "CODERDOJO",
@@ -14248,16 +14208,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "be/sint-laureins/sint-laureins",
     "id": "efa5e585-1339-407b-bb9a-0e890f6dcdfb"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Deansrath Clondalkin Coder Dojo",
-    "latitude": 53.3251755,
-    "longitude": -6.413773,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/dublin/dublin/deansrath-clondalkin-coder-dojo",
-    "id": "efb7495b-fb71-42c2-80cf-5661e6bf2111"
   },
   {
     "brand": "CODERDOJO",
