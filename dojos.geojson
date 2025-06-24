@@ -4033,7 +4033,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='http://coderdojo-saitama.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/coderdojo.webp' alt='さいたま' loading='lazy' width='100px' /></a><br><b>さいたま</b><br>さいたま市で毎月開催<br><a href='http://coderdojo-saitama.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='http://coderdojo-saitama.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/coderdojo.webp' alt='さいたま' loading='lazy' width='100px' /></a><br><b>さいたま</b><br>さいたま市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-saitama.connpass.com/event/360259/' target='_blank' rel='noopener'>7月21日</a><br><a href='http://coderdojo-saitama.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -4288,7 +4288,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-kojimachi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='麹町@アドバンスト・ソフト' loading='lazy' width='100px' /></a><br><b>麹町@アドバンスト・ソフト</b><br>千代田区で毎月開催<br><a href='https://coderdojo-kojimachi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-kojimachi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='麹町@アドバンスト・ソフト' loading='lazy' width='100px' /></a><br><b>麹町@アドバンスト・ソフト</b><br>千代田区で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-kojimachi.connpass.com/event/360214/' target='_blank' rel='noopener'>7月20日</a><br><a href='https://coderdojo-kojimachi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -19859,21 +19859,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<a href='https://lovetonami.com/coderdojo/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='なんと@よってカフェ' loading='lazy' width='100px' /></a><br><b>なんと@よってカフェ</b><br>南砺市で毎月２回開催<br><a href='https://lovetonami.com/coderdojo/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.242074300000013,
-          53.33818249999999
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>CoderDojo Dublin<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin/dublin/coderdojo-dublin'>連絡先を見る</a>"
       }
     },
     {
