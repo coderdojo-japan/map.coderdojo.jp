@@ -14301,16 +14301,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "CoderDojo Dublin",
-    "latitude": 53.33818249999999,
-    "longitude": -6.242074300000013,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/dublin/dublin/coderdojo-dublin",
-    "id": "f1443162-d764-4013-b84e-395acea4a811"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "San Nicolas @ Biblioteca Nacional Aruba",
     "latitude": 12.4346049,
     "longitude": -69.91007379999999,
