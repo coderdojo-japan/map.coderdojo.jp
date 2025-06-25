@@ -3841,16 +3841,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Clara",
-    "latitude": 53.3423617,
-    "longitude": -7.613314799999999,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/clara-county-offaly/clara",
-    "id": "42e57091-551c-468b-b0a6-301bd32266ec"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Dublin 7 @An Siol CDP",
     "latitude": 53.35236140000001,
     "longitude": -6.2835386,
@@ -6250,6 +6240,16 @@
     "id": "6a4ed1d6-2934-4232-a744-e25c684ec8de"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": "Himi @ Big Berries",
+    "latitude": 36.8608572,
+    "longitude": 136.9855116,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "6a93d88f-6f44-4057-8a2a-d003896b0406"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "Roeselare",
     "latitude": 50.9521372,
@@ -7768,16 +7768,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "ro/judetul-bihor/oradea-bihor-county/oradea-romania",
     "id": "85f3d324-98ba-49d7-8209-5d615f67f8f8"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "CORK@UCC",
-    "latitude": 51.8929652,
-    "longitude": -8.489692600000012,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/university-college-cork/cork-ucc",
-    "id": "85ff00a5-dd36-4943-a92f-95819ae6c036"
   },
   {
     "brand": "CODERDOJO",
@@ -11668,16 +11658,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "be/vlaams-gewest/tielt/tielt",
     "id": "c67eeaf4-6f61-43a1-a452-6521ef6f80dd"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "ATA Killygarry",
-    "latitude": 53.988855,
-    "longitude": -7.3214249999999765,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/cavan/ata-killygarry",
-    "id": "c67f291f-7eee-4dfe-a30f-d194bf77ddbb"
   },
   {
     "brand": "CODERDOJO",
