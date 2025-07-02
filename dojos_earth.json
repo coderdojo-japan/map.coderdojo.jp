@@ -5411,16 +5411,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Waddinxveen @ Zonnig Zuid",
-    "latitude": 52.0307464,
-    "longitude": 4.659029099999998,
-    "countryCode": "NL",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "nl/waddinxveen/waddinxveen-zonnig-zuid",
-    "id": "5e80af9d-e525-4320-9cd4-e44420a1a722"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "大府共和",
     "latitude": 35.0117733,
     "longitude": 136.950887,
