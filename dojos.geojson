@@ -4446,6 +4446,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          130.30108958741354,
+          33.25481124223286
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://peatix.com/group/10488940' target='_blank' rel='noopener'>  <img src='/images/dojos/saga.webp' alt='さが' loading='lazy' width='100px' /></a><br><b>さが</b><br>佐賀市で毎月開催<br><a href='https://peatix.com/group/10488940' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.371703399999999,
           53.3296546
         ]
