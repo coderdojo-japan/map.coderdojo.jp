@@ -152,9 +152,62 @@ mcp__o3__o3-search "GitHub Actions Pages deploy Jekyll JEKYLL_ENV production 202
 2. **深堀り**: 使用している技術スタック（Jekyll 4.3, Ruby 3.4, Geolonia Maps）を含めて再検索
 3. **検証**: 公式ドキュメントや最新のGitHub Issuesを確認
 
+#### データ統合問題
+```bash
+# 複数データソース統合時の名前マッチング問題
+mcp__o3__o3-search "GeoJSON data integration name mapping mismatch multiple sources 2025"
+
+# CSVベースのマッピングファイル管理
+mcp__o3__o3-search "CSV mapping file data integration best practices version control 2025"
+
+# データ不整合のデバッグ手法
+mcp__o3__o3-search "multi-source data integration debugging missing records troubleshooting 2025"
+```
+
 ### 結果の批判的評価
 o3の検索結果を使用する際は必ず：
 1. 情報の日付を確認（2024年以降の情報を優先）
 2. Jekyll/Ruby/APIのバージョン互換性を確認
 3. DojoMapの制約条件（静的サイト、GitHub Pages）と照合
 4. 小規模な変更でテストしてから本実装
+
+## トラブルシューティング
+
+### データ統合で特定のDojoが地図に表示されない場合
+
+この問題は主にdojo2dojo.csvのマッピング不一致が原因です。以下の手順で調査・修正してください：
+
+1. **データソースの確認**
+   ```bash
+   # Clubs APIのデータ確認
+   grep "対象Dojo名" dojos_earth.json
+   
+   # Japan APIのデータ確認
+   grep "対象Dojo名" dojos_japan.json
+   ```
+
+2. **マッピングファイルの確認**
+   ```bash
+   # dojo2dojo.csvでのマッピング確認
+   grep "対象Dojo名" dojo2dojo.csv
+   ```
+
+3. **問題の特定と修正**
+   - Clubs APIでの登録名と完全一致するようにdojo2dojo.csvを修正
+   - 例：「Coderdojo Saga」vs「Saga」のような不一致を修正
+   
+4. **GeoJSONの再生成**
+   ```bash
+   bundle exec rake upsert_dojos_geojson
+   ```
+
+5. **結果の確認**
+   ```bash
+   grep "対象Dojo名" dojos.geojson
+   ```
+
+### よくあるマッピング問題
+- **プレフィックスの不一致**: "Coderdojo XXX" vs "XXX"
+- **スペースの不一致**: "CoderDojo" vs "Coderdojo"
+- **記号の不一致**: "@" や "、" の有無
+- **日本語・英語の混在**: 漢字・ひらがな・カタカナ・ローマ字の不一致
