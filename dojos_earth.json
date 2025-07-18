@@ -10690,6 +10690,16 @@
     "id": "b56ee7f1-4a20-45c8-b316-18ce10db3fcf"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": "Nonoichi @ ICTらぼらとりー",
+    "latitude": 36.53264420000001,
+    "longitude": 136.6184721,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "b56ff53e-a6a6-4245-9f34-5fcbb21c9ef9"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "IEEE IAS SBC  JCET",
     "latitude": 10.77859,
