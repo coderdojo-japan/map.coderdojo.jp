@@ -3862,5 +3862,17 @@
     "prefecture": "兵庫",
     "created_at": "2025-06-28T00:00:00.000+09:00",
     "description": "川西市で毎月開催"
+  },
+  {
+    "id": 341,
+    "url": "https://altairxiii.wixsite.com/cit-coder-dojo",
+    "name": "赤坂国際",
+    "logo": "https://coderdojo.jp/img/dojos/default.webp",
+    "order": "131032",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "東京",
+    "created_at": "2025-07-20T00:00:00.000+09:00",
+    "description": "港区赤坂で隔週開催"
   }
 ]
