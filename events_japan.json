@@ -16,22 +16,6 @@
     "limit": 19
   },
   {
-    "id": 9,
-    "name": "さいたま",
-    "url": "http://coderdojo-saitama.com/",
-    "event_id": 8562,
-    "event_title": "第103回CoderDojoさいたま",
-    "event_date": "2025-07-21T14:00:00.000+09:00",
-    "event_end_at": "2025-07-21T16:00:00.000+09:00",
-    "event_url": "https://coderdojo-saitama.connpass.com/event/360259/",
-    "prefecture": "埼玉",
-    "participants": 4,
-    "event_update_at": "2025-06-23T18:04:02.000+09:00",
-    "address": "埼玉県さいたま市大宮区宮町1-5 銀座ビル6階",
-    "place": "貸会議室６F",
-    "limit": 16
-  },
-  {
     "id": 13,
     "name": "こだいら",
     "url": "https://coderdojo-kodaira.github.io/",
@@ -105,7 +89,7 @@
     "event_end_at": "2025-07-27T12:00:00.000+09:00",
     "event_url": "https://coderdojo-sakai.connpass.com/event/362871/",
     "prefecture": "大阪",
-    "participants": 2,
+    "participants": 3,
     "event_update_at": "2025-07-15T18:58:26.000+09:00",
     "address": "〒590-0137 大阪府堺市南区城山台２−２−８",
     "place": "泉北BASE",
@@ -126,6 +110,22 @@
     "address": "〒673-0005 兵庫県明石市小久保１丁目３−３ AQUA西明石 103",
     "place": "ペイントワークハウスKNOT（ノット）",
     "limit": 3
+  },
+  {
+    "id": 64,
+    "name": "札幌",
+    "url": "https://coderdojo-sapporo.connpass.com/",
+    "event_id": 8633,
+    "event_title": "第１２７回 CoderDojo札幌(2025/7/27)",
+    "event_date": "2025-07-27T09:45:00.000+09:00",
+    "event_end_at": "2025-07-27T11:45:00.000+09:00",
+    "event_url": "https://coderdojo-sapporo.connpass.com/event/363256/",
+    "prefecture": "北海道",
+    "participants": 9,
+    "event_update_at": "2025-07-20T19:01:45.000+09:00",
+    "address": "札幌市北区北8条西3丁目札幌エルプラザ",
+    "place": "札幌エルプラザ",
+    "limit": 16
   },
   {
     "id": 66,
@@ -158,6 +158,22 @@
     "address": "愛知県岩倉市本町神明西２０",
     "place": "岩倉市生涯学習センター",
     "limit": null
+  },
+  {
+    "id": 73,
+    "name": "ひたちなか",
+    "url": "https://www.facebook.com/coderdojo.hitachinaka/",
+    "event_id": 8640,
+    "event_title": "第89回 CoderDojo Hitachinaka",
+    "event_date": "2025-08-11T13:30:00.000+09:00",
+    "event_end_at": "2025-08-11T15:30:00.000+09:00",
+    "event_url": "https://coderdojo-hitachinaka.connpass.com/event/363305/",
+    "prefecture": "茨城",
+    "participants": 1,
+    "event_update_at": "2025-07-20T09:29:21.000+09:00",
+    "address": "ひたちなか市石川町11-1",
+    "place": "ふぁみりこらぼ",
+    "limit": 12
   },
   {
     "id": 88,
@@ -240,22 +256,6 @@
     "limit": 21
   },
   {
-    "id": 110,
-    "name": "せんなん",
-    "url": "http://coderdojo-sennan.net/",
-    "event_id": 8614,
-    "event_title": "CoderDojoせんなん　第８２回道場",
-    "event_date": "2025-07-21T10:00:00.000+09:00",
-    "event_end_at": "2025-07-21T12:00:00.000+09:00",
-    "event_url": "https://coderdojo-sennan.connpass.com/event/362127/",
-    "prefecture": "大阪",
-    "participants": 0,
-    "event_update_at": "2025-07-18T16:23:33.000+09:00",
-    "address": "大阪府泉南市新家２９４９",
-    "place": "新家駅前さくらっこ広場",
-    "limit": 5
-  },
-  {
     "id": 123,
     "name": "池袋",
     "url": "https://coderdojo-ikebukuro.connpass.com/",
@@ -336,6 +336,22 @@
     "limit": null
   },
   {
+    "id": 156,
+    "name": "古河",
+    "url": "https://coderdojokoga.connpass.com/",
+    "event_id": 8641,
+    "event_title": "第94回CoderDojo Koga（コーダー道場 古河）",
+    "event_date": "2025-08-09T10:00:00.000+09:00",
+    "event_end_at": "2025-08-09T12:00:00.000+09:00",
+    "event_url": "https://coderdojokoga.connpass.com/event/363114/",
+    "prefecture": "茨城",
+    "participants": 2,
+    "event_update_at": "2025-07-20T07:14:57.000+09:00",
+    "address": "茨城県古河市鴻巣７５８",
+    "place": "三桜工業株式会社　古河事業所",
+    "limit": null
+  },
+  {
     "id": 181,
     "name": "猪名川",
     "url": "https://www.facebook.com/coderdojoinagawa/",
@@ -350,6 +366,22 @@
     "address": "兵庫県川辺郡猪名川町松尾台1-2-1",
     "place": "日生中央サピエ 2階 サピエギャラリー",
     "limit": 20
+  },
+  {
+    "id": 182,
+    "name": "瀬戸",
+    "url": "https://coderdojo-seto.jp/",
+    "event_id": 8637,
+    "event_title": "【無料】【見学OK】CoderDojo瀬戸(第147回) 子供プログラミングコミュニティ",
+    "event_date": "2025-08-17T10:00:00.000+09:00",
+    "event_end_at": "2025-08-17T12:30:00.000+09:00",
+    "event_url": "https://coderdojo-seto.connpass.com/event/363328/",
+    "prefecture": "愛知",
+    "participants": 11,
+    "event_update_at": "2025-07-20T12:32:18.000+09:00",
+    "address": "瀬戸市道泉町53番地の5",
+    "place": "ぐるっぺ道泉",
+    "limit": null
   },
   {
     "id": 184,
@@ -384,22 +416,6 @@
     "limit": null
   },
   {
-    "id": 189,
-    "name": "まちだ",
-    "url": "https://coderdojo-machida.connpass.com/",
-    "event_id": 8506,
-    "event_title": "CoderDojoまちだ　第７０回",
-    "event_date": "2025-07-21T13:30:00.000+09:00",
-    "event_end_at": "2025-07-21T16:30:00.000+09:00",
-    "event_url": "https://coderdojo-machida.connpass.com/event/355946/",
-    "prefecture": "東京",
-    "participants": 5,
-    "event_update_at": "2025-05-17T10:40:34.000+09:00",
-    "address": "東京都町田市原町田４丁目９−８ サウスフロントタワー町田内",
-    "place": "町田市民フォーラム",
-    "limit": null
-  },
-  {
     "id": 190,
     "name": "溝口",
     "url": "https://coderdojo-mizonokuchi.connpass.com/",
@@ -409,7 +425,7 @@
     "event_end_at": "2025-07-27T16:00:00.000+09:00",
     "event_url": "https://coderdojo-mizonokuchi.connpass.com/event/360118/",
     "prefecture": "神奈川",
-    "participants": 2,
+    "participants": 4,
     "event_update_at": "2025-06-22T18:13:24.000+09:00",
     "address": "〒213-0001 川崎市高津区溝口 2-20-1",
     "place": "すくらむ21",
@@ -457,7 +473,7 @@
     "event_end_at": "2025-08-10T15:00:00.000+09:00",
     "event_url": "https://coderdojo-ome.connpass.com/event/360977/",
     "prefecture": "東京",
-    "participants": 14,
+    "participants": 16,
     "event_update_at": "2025-07-10T12:21:56.000+09:00",
     "address": "東京都青梅市東青梅１丁目１７７−３ 青梅市福祉センター",
     "place": "青梅市福祉センター第１・２集会室",
@@ -490,7 +506,7 @@
     "event_url": "https://coderdojo-uji.connpass.com/event/360876/",
     "prefecture": "京都",
     "participants": 2,
-    "event_update_at": "2025-07-02T11:58:42.000+09:00",
+    "event_update_at": "2025-07-20T11:11:32.000+09:00",
     "address": "京都府宇治市小倉町久保106番地",
     "place": "京都信用金庫 西宇治支店",
     "limit": 8
@@ -512,6 +528,22 @@
     "limit": 19
   },
   {
+    "id": 274,
+    "name": "麹町@アドバンスト・ソフト",
+    "url": "https://coderdojo-kojimachi.connpass.com/",
+    "event_id": 8634,
+    "event_title": "第42回 CoderDojo麹町",
+    "event_date": "2025-08-17T14:00:00.000+09:00",
+    "event_end_at": "2025-08-17T16:00:00.000+09:00",
+    "event_url": "https://coderdojo-kojimachi.connpass.com/event/363345/",
+    "prefecture": "東京",
+    "participants": 7,
+    "event_update_at": "2025-07-20T16:37:35.000+09:00",
+    "address": "東京都千代田区麹町3-1 麹町昭文社HDビル7階",
+    "place": "株式会社アドバンスト・ソフト",
+    "limit": 13
+  },
+  {
     "id": 278,
     "name": "武蔵小杉",
     "url": "https://coderdojo-musashikosugi.connpass.com/",
@@ -526,6 +558,22 @@
     "address": "〒211-0004　川崎市中原区新丸子東3-1100-12　1階",
     "place": "かわさき市民活動センター　会議室A/B",
     "limit": 29
+  },
+  {
+    "id": 280,
+    "name": "西那須野",
+    "url": "https://coder-dojo-nishinasuno.connpass.com/",
+    "event_id": 8635,
+    "event_title": "第四十四回 CoderDojo西那須野",
+    "event_date": "2025-08-17T14:00:00.000+09:00",
+    "event_end_at": "2025-08-17T16:00:00.000+09:00",
+    "event_url": "https://coder-dojo-nishinasuno.connpass.com/event/359761/",
+    "prefecture": "栃木",
+    "participants": 1,
+    "event_update_at": "2025-07-20T13:01:40.000+09:00",
+    "address": "栃木県那須塩原市二区町401",
+    "place": "那須塩原市南公民館",
+    "limit": 20
   },
   {
     "id": 286,
@@ -713,7 +761,7 @@
     "event_end_at": "2025-08-03T12:00:00.000+09:00",
     "event_url": "https://coderdojo-harumi.connpass.com/event/360071/",
     "prefecture": "東京",
-    "participants": 5,
+    "participants": 6,
     "event_update_at": "2025-07-14T17:44:37.000+09:00",
     "address": "東京都中央区晴海４丁目８−１",
     "place": "晴海図書館",
@@ -736,6 +784,22 @@
     "limit": 6
   },
   {
+    "id": 335,
+    "name": "神楽坂",
+    "url": "https://coderdojokagurazaka.connpass.com/",
+    "event_id": 8639,
+    "event_title": "CoderDojo神楽坂 第5回",
+    "event_date": "2025-08-03T09:30:00.000+09:00",
+    "event_end_at": "2025-08-03T11:30:00.000+09:00",
+    "event_url": "https://coderdojokagurazaka.connpass.com/event/363320/",
+    "prefecture": "東京",
+    "participants": 1,
+    "event_update_at": "2025-07-20T10:35:20.000+09:00",
+    "address": "東京都新宿区箪笥町15番地",
+    "place": "牛込箪笥地域センター",
+    "limit": 15
+  },
+  {
     "id": 338,
     "name": "青山",
     "url": "https://coderdojoaoyama.connpass.com/",
@@ -745,7 +809,7 @@
     "event_end_at": "2025-08-23T16:00:00.000+09:00",
     "event_url": "https://coderdojoaoyama.connpass.com/event/360256/",
     "prefecture": "東京",
-    "participants": 1,
+    "participants": 8,
     "event_update_at": "2025-07-20T01:19:56.000+09:00",
     "address": "〒150-8366 東京都渋谷区渋谷4丁目4-25",
     "place": "青学つくまなラボ",
@@ -761,7 +825,7 @@
     "event_end_at": "2025-08-03T15:00:00.000+09:00",
     "event_url": "https://coderdojosawara.connpass.com/event/363199/",
     "prefecture": "福岡",
-    "participants": 0,
+    "participants": 1,
     "event_update_at": "2025-07-18T14:45:36.000+09:00",
     "address": "福岡県福岡市早良区百道3丁目1-2",
     "place": "百道公民館",
