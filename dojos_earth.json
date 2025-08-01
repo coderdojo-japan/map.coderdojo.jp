@@ -12101,16 +12101,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Hythe, Southampton CoderDojo",
-    "latitude": 50.86894950000002,
-    "longitude": -1.4000877674375567,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/hythe-southampton/hythe-southampton",
-    "id": "cdcd8486-d3c1-4363-82fe-293d460d19c3"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Corderdojo神保町@万葉",
     "latitude": 35.7289766,
     "longitude": 139.7094266,
