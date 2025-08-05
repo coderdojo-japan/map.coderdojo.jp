@@ -6598,7 +6598,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.coderdojokurume.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/kurume.webp' alt='久留米' loading='lazy' width='100px' /></a><br><b>久留米</b><br>久留米市で毎月開催<br><a href='https://www.coderdojokurume.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.coderdojokurume.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/kurume.webp' alt='久留米' loading='lazy' width='100px' /></a><br><b>久留米</b><br>久留米市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-kurume.connpass.com/event/364932/' target='_blank' rel='noopener'>8月23日</a><br><a href='https://www.coderdojokurume.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -9359,21 +9359,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Porsche Digital Lab | Berlin<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/de/berlin/porsche-digital-lab-or-berlin'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.0544475000000375,
-          52.98731919999999
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Wicklow @ East Glendalough School<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/wicklow/wicklow-east-glendalough-school'>連絡先を見る</a>"
       }
     },
     {
