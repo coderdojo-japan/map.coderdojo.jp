@@ -6741,16 +6741,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Wicklow @ East Glendalough School",
-    "latitude": 52.98731919999999,
-    "longitude": -6.0544475000000375,
-    "countryCode": "IE",
-    "status": "PLANNING",
-    "urlSlug": "ie/wicklow/wicklow-east-glendalough-school",
-    "id": "743df4bb-063e-47c3-931e-3fc8f0335ccf"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Galway City",
     "latitude": 53.28020867134314,
     "longitude": -9.058483452192718,
