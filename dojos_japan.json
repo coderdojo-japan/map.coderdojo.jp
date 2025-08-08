@@ -9,7 +9,8 @@
     "is_active": true,
     "prefecture": "愛知",
     "created_at": "2019-04-30T00:00:00.000+09:00",
-    "description": "名古屋市瑞穂区で月2回開催"
+    "description": "名古屋市瑞穂区で月2回開催",
+    "inactivated_at": null
   },
   {
     "id": 3,
@@ -21,7 +22,8 @@
     "is_active": true,
     "prefecture": "宮城",
     "created_at": "2014-01-23T00:00:00.000+09:00",
-    "description": "仙台市泉区で不定期開催"
+    "description": "仙台市泉区で不定期開催",
+    "inactivated_at": null
   },
   {
     "id": 4,
@@ -33,7 +35,8 @@
     "is_active": false,
     "prefecture": "宮城",
     "created_at": "2016-04-25T00:00:00.000+09:00",
-    "description": "登米市で毎月開催"
+    "description": "登米市で毎月開催",
+    "inactivated_at": "2023-10-26T14:06:02.000+09:00"
   },
   {
     "id": 5,
@@ -45,7 +48,8 @@
     "is_active": false,
     "prefecture": "新潟",
     "created_at": "2015-09-16T00:00:00.000+09:00",
-    "description": "新潟市で毎月開催"
+    "description": "新潟市で毎月開催",
+    "inactivated_at": "2022-03-16T18:02:33.000+09:00"
   },
   {
     "id": 6,
@@ -57,7 +61,8 @@
     "is_active": true,
     "prefecture": "石川",
     "created_at": "2016-11-24T00:00:00.000+09:00",
-    "description": "金沢市で毎週開催"
+    "description": "金沢市で毎週開催",
+    "inactivated_at": null
   },
   {
     "id": 7,
@@ -69,7 +74,8 @@
     "is_active": true,
     "prefecture": "群馬",
     "created_at": "2016-10-17T00:00:00.000+09:00",
-    "description": "前橋市で毎月開催"
+    "description": "前橋市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 8,
@@ -81,7 +87,8 @@
     "is_active": true,
     "prefecture": "茨城",
     "created_at": "2016-07-12T00:00:00.000+09:00",
-    "description": "守谷市で毎月開催"
+    "description": "守谷市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 9,
@@ -93,7 +100,8 @@
     "is_active": true,
     "prefecture": "埼玉",
     "created_at": "2014-05-26T00:00:00.000+09:00",
-    "description": "さいたま市で毎月開催"
+    "description": "さいたま市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 10,
@@ -105,7 +113,8 @@
     "is_active": true,
     "prefecture": "埼玉",
     "created_at": "2012-07-02T00:00:00.000+09:00",
-    "description": "新座市で月2回開催"
+    "description": "新座市で月2回開催",
+    "inactivated_at": null
   },
   {
     "id": 11,
@@ -117,7 +126,8 @@
     "is_active": true,
     "prefecture": "埼玉",
     "created_at": "2015-05-13T00:00:00.000+09:00",
-    "description": "飯能市で毎月開催"
+    "description": "飯能市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 12,
@@ -129,7 +139,8 @@
     "is_active": false,
     "prefecture": "埼玉",
     "created_at": "2015-12-01T00:00:00.000+09:00",
-    "description": "所沢市で不定期開催"
+    "description": "所沢市で不定期開催",
+    "inactivated_at": "2023-01-08T15:08:39.000+09:00"
   },
   {
     "id": 13,
@@ -141,7 +152,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2014-05-21T00:00:00.000+09:00",
-    "description": "小平市で隔週開催"
+    "description": "小平市で隔週開催",
+    "inactivated_at": null
   },
   {
     "id": 14,
@@ -153,7 +165,8 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2015-06-22T00:00:00.000+09:00",
-    "description": "八王子市で毎月開催"
+    "description": "八王子市で毎月開催",
+    "inactivated_at": "2023-10-26T15:09:44.000+09:00"
   },
   {
     "id": 15,
@@ -165,7 +178,8 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2016-07-20T00:00:00.000+09:00",
-    "description": "中野区で毎月開催"
+    "description": "中野区で毎月開催",
+    "inactivated_at": "2023-10-26T14:29:00.000+09:00"
   },
   {
     "id": 16,
@@ -177,7 +191,8 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2016-09-09T00:00:00.000+09:00",
-    "description": "杉並区で毎月開催"
+    "description": "杉並区で毎月開催",
+    "inactivated_at": "2022-03-16T17:29:45.000+09:00"
   },
   {
     "id": 17,
@@ -189,7 +204,8 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2012-03-12T00:00:00.000+09:00",
-    "description": "世田谷区で毎週開催"
+    "description": "世田谷区で毎週開催",
+    "inactivated_at": "2022-03-16T16:52:14.000+09:00"
   },
   {
     "id": 18,
@@ -201,7 +217,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2016-09-05T00:00:00.000+09:00",
-    "description": "調布市で毎月開催"
+    "description": "調布市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 19,
@@ -213,7 +230,8 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2020-01-30T00:00:00.000+09:00",
-    "description": "青山学院大学にて毎月開催"
+    "description": "青山学院大学にて毎月開催",
+    "inactivated_at": "2025-05-26T15:55:51.000+09:00"
   },
   {
     "id": 20,
@@ -225,7 +243,8 @@
     "is_active": false,
     "prefecture": "千葉",
     "created_at": "2016-11-08T00:00:00.000+09:00",
-    "description": "野田市で不定期開催"
+    "description": "野田市で不定期開催",
+    "inactivated_at": "2019-04-27T15:50:33.000+09:00"
   },
   {
     "id": 21,
@@ -237,7 +256,8 @@
     "is_active": true,
     "prefecture": "千葉",
     "created_at": "2016-11-08T00:00:00.000+09:00",
-    "description": "浦安市で毎月開催"
+    "description": "浦安市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 22,
@@ -249,7 +269,8 @@
     "is_active": false,
     "prefecture": "千葉",
     "created_at": "2013-07-30T00:00:00.000+09:00",
-    "description": "千葉市で毎月開催"
+    "description": "千葉市で毎月開催",
+    "inactivated_at": "2021-04-06T15:33:38.000+09:00"
   },
   {
     "id": 23,
@@ -261,7 +282,8 @@
     "is_active": true,
     "prefecture": "千葉",
     "created_at": "2014-09-22T00:00:00.000+09:00",
-    "description": "柏市で毎月3回開催"
+    "description": "柏市で毎月3回開催",
+    "inactivated_at": null
   },
   {
     "id": 24,
@@ -273,7 +295,8 @@
     "is_active": true,
     "prefecture": "千葉",
     "created_at": "2016-04-27T00:00:00.000+09:00",
-    "description": "流山市で毎月開催"
+    "description": "流山市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 25,
@@ -285,7 +308,8 @@
     "is_active": false,
     "prefecture": "千葉",
     "created_at": "2016-04-27T00:00:00.000+09:00",
-    "description": "千葉市若葉区みつわ台で毎月開催"
+    "description": "千葉市若葉区みつわ台で毎月開催",
+    "inactivated_at": "2025-03-01T14:24:27.000+09:00"
   },
   {
     "id": 26,
@@ -297,7 +321,8 @@
     "is_active": false,
     "prefecture": "神奈川",
     "created_at": "2016-12-14T00:00:00.000+09:00",
-    "description": "藤沢市で不定期開催"
+    "description": "藤沢市で不定期開催",
+    "inactivated_at": "2019-04-27T15:50:33.000+09:00"
   },
   {
     "id": 27,
@@ -309,7 +334,8 @@
     "is_active": true,
     "prefecture": "長野",
     "created_at": "2012-11-08T00:00:00.000+09:00",
-    "description": "塩尻市で毎月開催"
+    "description": "塩尻市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 28,
@@ -321,7 +347,8 @@
     "is_active": false,
     "prefecture": "福井",
     "created_at": "2013-08-14T00:00:00.000+09:00",
-    "description": "福井市で不定期開催"
+    "description": "福井市で不定期開催",
+    "inactivated_at": "2019-04-27T15:50:33.000+09:00"
   },
   {
     "id": 30,
@@ -333,7 +360,8 @@
     "is_active": true,
     "prefecture": "愛知",
     "created_at": "2016-06-03T00:00:00.000+09:00",
-    "description": "豊橋市で不定期開催"
+    "description": "豊橋市で不定期開催",
+    "inactivated_at": null
   },
   {
     "id": 31,
@@ -345,7 +373,8 @@
     "is_active": true,
     "prefecture": "愛知",
     "created_at": "2014-10-20T00:00:00.000+09:00",
-    "description": "名古屋市中区で月2回開催"
+    "description": "名古屋市中区で月2回開催",
+    "inactivated_at": null
   },
   {
     "id": 32,
@@ -357,7 +386,8 @@
     "is_active": true,
     "prefecture": "愛知",
     "created_at": "2014-12-08T00:00:00.000+09:00",
-    "description": "名古屋市天白区で月2回開催"
+    "description": "名古屋市天白区で月2回開催",
+    "inactivated_at": null
   },
   {
     "id": 33,
@@ -369,7 +399,8 @@
     "is_active": false,
     "prefecture": "愛知",
     "created_at": "2016-08-12T00:00:00.000+09:00",
-    "description": "大治町海部郡で毎月開催"
+    "description": "大治町海部郡で毎月開催",
+    "inactivated_at": "2019-04-27T15:50:33.000+09:00"
   },
   {
     "id": 34,
@@ -381,7 +412,8 @@
     "is_active": true,
     "prefecture": "京都",
     "created_at": "2014-10-14T00:00:00.000+09:00",
-    "description": "長岡京市で毎月開催"
+    "description": "長岡京市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 35,
@@ -393,7 +425,8 @@
     "is_active": true,
     "prefecture": "奈良",
     "created_at": "2014-10-26T00:00:00.000+09:00",
-    "description": "奈良市で毎月開催"
+    "description": "奈良市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 36,
@@ -405,7 +438,8 @@
     "is_active": true,
     "prefecture": "奈良",
     "created_at": "2016-04-25T00:00:00.000+09:00",
-    "description": "生駒市で毎月開催"
+    "description": "生駒市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 37,
@@ -417,7 +451,8 @@
     "is_active": false,
     "prefecture": "滋賀",
     "created_at": "2015-09-16T00:00:00.000+09:00",
-    "description": "大津市で毎月開催"
+    "description": "大津市で毎月開催",
+    "inactivated_at": "2022-03-16T18:28:38.000+09:00"
   },
   {
     "id": 38,
@@ -429,7 +464,8 @@
     "is_active": false,
     "prefecture": "和歌山",
     "created_at": "2012-11-08T00:00:00.000+09:00",
-    "description": "新宮市で不定期開催"
+    "description": "新宮市で不定期開催",
+    "inactivated_at": "2019-04-27T15:50:33.000+09:00"
   },
   {
     "id": 39,
@@ -441,7 +477,8 @@
     "is_active": false,
     "prefecture": "京都",
     "created_at": "2016-03-01T00:00:00.000+09:00",
-    "description": "京都市伏見区の小学校内で隔月開催"
+    "description": "京都市伏見区の小学校内で隔月開催",
+    "inactivated_at": "2023-01-08T14:39:30.000+09:00"
   },
   {
     "id": 40,
@@ -453,7 +490,8 @@
     "is_active": true,
     "prefecture": "大阪",
     "created_at": "2016-05-18T00:00:00.000+09:00",
-    "description": "枚方市で毎月開催"
+    "description": "枚方市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 41,
@@ -465,7 +503,8 @@
     "is_active": false,
     "prefecture": "大阪",
     "created_at": "2016-09-01T00:00:00.000+09:00",
-    "description": "東大阪市で隔月開催"
+    "description": "東大阪市で隔月開催",
+    "inactivated_at": "2022-03-16T18:33:31.000+09:00"
   },
   {
     "id": 42,
@@ -477,7 +516,8 @@
     "is_active": true,
     "prefecture": "大阪",
     "created_at": "2014-02-11T00:00:00.000+09:00",
-    "description": "西宮/梅田でそれぞれ毎月開催"
+    "description": "西宮/梅田でそれぞれ毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 43,
@@ -489,7 +529,8 @@
     "is_active": false,
     "prefecture": "大阪",
     "created_at": "2016-09-27T00:00:00.000+09:00",
-    "description": "大阪市なんばで毎月開催"
+    "description": "大阪市なんばで毎月開催",
+    "inactivated_at": "2019-04-28T10:25:26.000+09:00"
   },
   {
     "id": 44,
@@ -501,7 +542,8 @@
     "is_active": true,
     "prefecture": "大阪",
     "created_at": "2016-08-15T00:00:00.000+09:00",
-    "description": "大阪狭山で毎月開催"
+    "description": "大阪狭山で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 45,
@@ -513,7 +555,8 @@
     "is_active": false,
     "prefecture": "大阪",
     "created_at": "2016-07-13T00:00:00.000+09:00",
-    "description": "大阪市西成区で毎月開催"
+    "description": "大阪市西成区で毎月開催",
+    "inactivated_at": "2019-04-27T15:50:33.000+09:00"
   },
   {
     "id": 46,
@@ -525,7 +568,8 @@
     "is_active": true,
     "prefecture": "大阪",
     "created_at": "2016-03-22T00:00:00.000+09:00",
-    "description": "堺市で毎月開催"
+    "description": "堺市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 47,
@@ -537,7 +581,8 @@
     "is_active": true,
     "prefecture": "和歌山",
     "created_at": "2016-11-01T00:00:00.000+09:00",
-    "description": "和歌山市で毎月開催"
+    "description": "和歌山市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 48,
@@ -549,7 +594,8 @@
     "is_active": true,
     "prefecture": "兵庫",
     "created_at": "2016-09-28T00:00:00.000+09:00",
-    "description": "神戸市中央区で毎月開催"
+    "description": "神戸市中央区で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 49,
@@ -561,7 +607,8 @@
     "is_active": true,
     "prefecture": "兵庫",
     "created_at": "2016-04-04T00:00:00.000+09:00",
-    "description": "明石市で毎月開催"
+    "description": "明石市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 50,
@@ -573,7 +620,8 @@
     "is_active": false,
     "prefecture": "兵庫",
     "created_at": "2016-03-22T00:00:00.000+09:00",
-    "description": "姫路市で第3土曜に開催"
+    "description": "姫路市で第3土曜に開催",
+    "inactivated_at": "2023-10-26T15:11:42.000+09:00"
   },
   {
     "id": 51,
@@ -585,7 +633,8 @@
     "is_active": false,
     "prefecture": "広島",
     "created_at": "2016-06-01T00:00:00.000+09:00",
-    "description": "福山市で不定期開催"
+    "description": "福山市で不定期開催",
+    "inactivated_at": "2019-04-27T15:50:33.000+09:00"
   },
   {
     "id": 52,
@@ -597,7 +646,8 @@
     "is_active": true,
     "prefecture": "広島",
     "created_at": "2016-05-04T00:00:00.000+09:00",
-    "description": "広島市で毎月開催"
+    "description": "広島市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 53,
@@ -609,7 +659,8 @@
     "is_active": false,
     "prefecture": "広島",
     "created_at": "2016-09-29T00:00:00.000+09:00",
-    "description": "広島市で毎月開催"
+    "description": "広島市で毎月開催",
+    "inactivated_at": "2019-04-27T15:50:33.000+09:00"
   },
   {
     "id": 54,
@@ -621,7 +672,8 @@
     "is_active": true,
     "prefecture": "福岡",
     "created_at": "2016-10-06T00:00:00.000+09:00",
-    "description": "久留米市で毎月開催"
+    "description": "久留米市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 55,
@@ -633,7 +685,8 @@
     "is_active": true,
     "prefecture": "宮崎",
     "created_at": "2016-09-15T00:00:00.000+09:00",
-    "description": "西臼杵郡で毎月開催"
+    "description": "西臼杵郡で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 56,
@@ -645,7 +698,8 @@
     "is_active": true,
     "prefecture": "沖縄",
     "created_at": "2016-11-02T00:00:00.000+09:00",
-    "description": "宮古島市で不定期開催"
+    "description": "宮古島市で不定期開催",
+    "inactivated_at": null
   },
   {
     "id": 57,
@@ -657,7 +711,8 @@
     "is_active": true,
     "prefecture": "沖縄",
     "created_at": "2016-12-19T00:00:00.000+09:00",
-    "description": "中頭郡嘉手納町で毎月開催"
+    "description": "中頭郡嘉手納町で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 58,
@@ -669,7 +724,8 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2017-09-26T00:00:00.000+09:00",
-    "description": "新宿区高田馬場で毎月開催"
+    "description": "新宿区高田馬場で毎月開催",
+    "inactivated_at": "2020-08-20T15:15:33.000+09:00"
   },
   {
     "id": 59,
@@ -681,7 +737,8 @@
     "is_active": false,
     "prefecture": "宮城",
     "created_at": "2016-10-06T00:00:00.000+09:00",
-    "description": "加美町中新田で不定期開催"
+    "description": "加美町中新田で不定期開催",
+    "inactivated_at": "2022-03-16T16:58:18.000+09:00"
   },
   {
     "id": 60,
@@ -693,7 +750,8 @@
     "is_active": true,
     "prefecture": "千葉",
     "created_at": "2016-12-15T00:00:00.000+09:00",
-    "description": "市川市で毎月開催"
+    "description": "市川市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 61,
@@ -705,7 +763,8 @@
     "is_active": false,
     "prefecture": "沖縄",
     "created_at": "2012-07-09T00:00:00.000+09:00",
-    "description": "島尻郡南風原町で不定期開催（次の2024年の南風原とは別のDojo ID in Zen）"
+    "description": "島尻郡南風原町で不定期開催（次の2024年の南風原とは別のDojo ID in Zen）",
+    "inactivated_at": "2019-11-21T00:46:23.000+09:00"
   },
   {
     "id": 62,
@@ -717,7 +776,8 @@
     "is_active": true,
     "prefecture": "三重",
     "created_at": "2016-12-22T00:00:00.000+09:00",
-    "description": "伊勢市で毎月開催"
+    "description": "伊勢市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 64,
@@ -729,7 +789,8 @@
     "is_active": true,
     "prefecture": "北海道",
     "created_at": "2016-09-26T00:00:00.000+09:00",
-    "description": "札幌市で月2回開催"
+    "description": "札幌市で月2回開催",
+    "inactivated_at": null
   },
   {
     "id": 65,
@@ -741,7 +802,8 @@
     "is_active": true,
     "prefecture": "茨城",
     "created_at": "2017-01-03T00:00:00.000+09:00",
-    "description": "水戸市で毎月開催"
+    "description": "水戸市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 66,
@@ -753,7 +815,8 @@
     "is_active": true,
     "prefecture": "大阪",
     "created_at": "2017-01-04T00:00:00.000+09:00",
-    "description": "高槻市で不定期開催"
+    "description": "高槻市で不定期開催",
+    "inactivated_at": null
   },
   {
     "id": 67,
@@ -765,7 +828,8 @@
     "is_active": false,
     "prefecture": "兵庫",
     "created_at": "2016-09-12T00:00:00.000+09:00",
-    "description": "神戸市北区で毎月開催"
+    "description": "神戸市北区で毎月開催",
+    "inactivated_at": "2019-04-28T10:25:26.000+09:00"
   },
   {
     "id": 68,
@@ -777,7 +841,8 @@
     "is_active": false,
     "prefecture": "神奈川",
     "created_at": "2017-01-09T00:00:00.000+09:00",
-    "description": "横浜市港北区の新羽町で不定期開催"
+    "description": "横浜市港北区の新羽町で不定期開催",
+    "inactivated_at": "2022-03-16T17:47:40.000+09:00"
   },
   {
     "id": 69,
@@ -789,7 +854,8 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2017-01-23T00:00:00.000+09:00",
-    "description": "新宿区で毎月開催"
+    "description": "新宿区で毎月開催",
+    "inactivated_at": "2022-03-16T16:52:14.000+09:00"
   },
   {
     "id": 70,
@@ -801,7 +867,8 @@
     "is_active": false,
     "prefecture": "神奈川",
     "created_at": "2017-01-30T00:00:00.000+09:00",
-    "description": "横浜市神奈川区で毎月開催"
+    "description": "横浜市神奈川区で毎月開催",
+    "inactivated_at": "2022-03-16T17:40:26.000+09:00"
   },
   {
     "id": 71,
@@ -813,7 +880,8 @@
     "is_active": true,
     "prefecture": "愛知",
     "created_at": "2017-02-17T00:00:00.000+09:00",
-    "description": "岩倉市で毎月開催"
+    "description": "岩倉市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 72,
@@ -825,7 +893,8 @@
     "is_active": true,
     "prefecture": "大阪",
     "created_at": "2017-02-19T00:00:00.000+09:00",
-    "description": "富田林市で隔月開催"
+    "description": "富田林市で隔月開催",
+    "inactivated_at": null
   },
   {
     "id": 73,
@@ -837,7 +906,8 @@
     "is_active": true,
     "prefecture": "茨城",
     "created_at": "2017-03-28T00:00:00.000+09:00",
-    "description": "ひたちなか市で毎月開催"
+    "description": "ひたちなか市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 74,
@@ -849,7 +919,8 @@
     "is_active": false,
     "prefecture": "山形",
     "created_at": "2017-03-28T00:00:00.000+09:00",
-    "description": "山形市で毎月開催"
+    "description": "山形市で毎月開催",
+    "inactivated_at": "2023-01-08T14:33:49.000+09:00"
   },
   {
     "id": 75,
@@ -861,7 +932,8 @@
     "is_active": false,
     "prefecture": "秋田",
     "created_at": "2017-04-03T00:00:00.000+09:00",
-    "description": "秋田市で毎月1~2回開催"
+    "description": "秋田市で毎月1~2回開催",
+    "inactivated_at": "2025-03-19T17:51:05.000+09:00"
   },
   {
     "id": 76,
@@ -873,7 +945,8 @@
     "is_active": false,
     "prefecture": "神奈川",
     "created_at": "2017-04-03T00:00:00.000+09:00",
-    "description": "横浜市緑区で毎月開催"
+    "description": "横浜市緑区で毎月開催",
+    "inactivated_at": "2023-10-26T14:59:54.000+09:00"
   },
   {
     "id": 77,
@@ -885,7 +958,8 @@
     "is_active": false,
     "prefecture": "埼玉",
     "created_at": "2017-03-14T00:00:00.000+09:00",
-    "description": "所沢市小手指で毎月開催"
+    "description": "所沢市小手指で毎月開催",
+    "inactivated_at": "2019-04-27T15:50:33.000+09:00"
   },
   {
     "id": 78,
@@ -897,7 +971,8 @@
     "is_active": false,
     "prefecture": "島根",
     "created_at": "2017-03-10T00:00:00.000+09:00",
-    "description": "鹿足郡吉賀町で不定期開催"
+    "description": "鹿足郡吉賀町で不定期開催",
+    "inactivated_at": "2019-04-27T15:50:33.000+09:00"
   },
   {
     "id": 79,
@@ -909,7 +984,8 @@
     "is_active": true,
     "prefecture": "福島",
     "created_at": "2017-03-29T00:00:00.000+09:00",
-    "description": "会津若松市内で第3土曜に開催"
+    "description": "会津若松市内で第3土曜に開催",
+    "inactivated_at": null
   },
   {
     "id": 81,
@@ -921,7 +997,8 @@
     "is_active": true,
     "prefecture": "岡山",
     "created_at": "2017-03-20T00:00:00.000+09:00",
-    "description": "岡山市南区で第３日曜に開催"
+    "description": "岡山市南区で第３日曜に開催",
+    "inactivated_at": null
   },
   {
     "id": 82,
@@ -933,7 +1010,8 @@
     "is_active": true,
     "prefecture": "千葉",
     "created_at": "2017-03-28T00:00:00.000+09:00",
-    "description": "JR市川駅近辺で毎月1～2回開催"
+    "description": "JR市川駅近辺で毎月1～2回開催",
+    "inactivated_at": null
   },
   {
     "id": 83,
@@ -945,7 +1023,8 @@
     "is_active": true,
     "prefecture": "千葉",
     "created_at": "2017-04-27T00:00:00.000+09:00",
-    "description": "木更津市で隔月開催"
+    "description": "木更津市で隔月開催",
+    "inactivated_at": null
   },
   {
     "id": 84,
@@ -957,7 +1036,8 @@
     "is_active": false,
     "prefecture": "愛知",
     "created_at": "2017-05-16T00:00:00.000+09:00",
-    "description": "新城市で毎月開催"
+    "description": "新城市で毎月開催",
+    "inactivated_at": "2019-04-28T10:25:26.000+09:00"
   },
   {
     "id": 85,
@@ -969,7 +1049,8 @@
     "is_active": false,
     "prefecture": "宮城",
     "created_at": "2017-03-27T00:00:00.000+09:00",
-    "description": "名取市で第4土曜に開催"
+    "description": "名取市で第4土曜に開催",
+    "inactivated_at": "2019-04-28T10:25:26.000+09:00"
   },
   {
     "id": 86,
@@ -981,7 +1062,8 @@
     "is_active": true,
     "prefecture": "千葉",
     "created_at": "2017-05-16T00:00:00.000+09:00",
-    "description": "船橋市で毎月開催"
+    "description": "船橋市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 87,
@@ -993,7 +1075,8 @@
     "is_active": false,
     "prefecture": "長野",
     "created_at": "2017-05-11T00:00:00.000+09:00",
-    "description": "安曇野市で毎月開催"
+    "description": "安曇野市で毎月開催",
+    "inactivated_at": "2023-10-26T14:58:41.000+09:00"
   },
   {
     "id": 88,
@@ -1005,7 +1088,8 @@
     "is_active": true,
     "prefecture": "山梨",
     "created_at": "2017-05-29T00:00:00.000+09:00",
-    "description": "甲府市で毎月開催"
+    "description": "甲府市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 89,
@@ -1017,7 +1101,8 @@
     "is_active": true,
     "prefecture": "栃木",
     "created_at": "2017-06-21T00:00:00.000+09:00",
-    "description": "さくら市で毎月開催"
+    "description": "さくら市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 90,
@@ -1029,7 +1114,8 @@
     "is_active": false,
     "prefecture": "宮城",
     "created_at": "2017-07-01T00:00:00.000+09:00",
-    "description": "仙台市青葉区愛子で不定期開催"
+    "description": "仙台市青葉区愛子で不定期開催",
+    "inactivated_at": "2019-04-27T15:50:33.000+09:00"
   },
   {
     "id": 91,
@@ -1041,7 +1127,8 @@
     "is_active": false,
     "prefecture": "神奈川",
     "created_at": "2017-06-26T00:00:00.000+09:00",
-    "description": "海老名市で不定期開催"
+    "description": "海老名市で不定期開催",
+    "inactivated_at": "2022-03-16T18:02:33.000+09:00"
   },
   {
     "id": 92,
@@ -1053,7 +1140,8 @@
     "is_active": true,
     "prefecture": "山口",
     "created_at": "2017-06-19T00:00:00.000+09:00",
-    "description": "光市で毎月開催"
+    "description": "光市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 94,
@@ -1065,7 +1153,8 @@
     "is_active": false,
     "prefecture": "長野",
     "created_at": "2017-02-20T00:00:00.000+09:00",
-    "description": "諏訪地方で毎月開催"
+    "description": "諏訪地方で毎月開催",
+    "inactivated_at": "2023-02-02T13:42:56.000+09:00"
   },
   {
     "id": 96,
@@ -1077,7 +1166,8 @@
     "is_active": false,
     "prefecture": "岐阜",
     "created_at": "2017-09-26T00:00:00.000+09:00",
-    "description": "海津市で月2回開催"
+    "description": "海津市で月2回開催",
+    "inactivated_at": "2022-03-16T18:11:25.000+09:00"
   },
   {
     "id": 97,
@@ -1089,7 +1179,8 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2017-08-16T00:00:00.000+09:00",
-    "description": "千代田区で毎月開催"
+    "description": "千代田区で毎月開催",
+    "inactivated_at": "2023-08-24T19:45:08.000+09:00"
   },
   {
     "id": 98,
@@ -1101,7 +1192,8 @@
     "is_active": true,
     "prefecture": "静岡",
     "created_at": "2016-02-25T00:00:00.000+09:00",
-    "description": "浜松市で毎月開催"
+    "description": "浜松市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 99,
@@ -1113,7 +1205,8 @@
     "is_active": true,
     "prefecture": "和歌山",
     "created_at": "2017-09-06T00:00:00.000+09:00",
-    "description": "田辺市で毎月開催"
+    "description": "田辺市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 100,
@@ -1125,7 +1218,8 @@
     "is_active": true,
     "prefecture": "北海道",
     "created_at": "2017-09-20T00:00:00.000+09:00",
-    "description": "恵庭市で毎月最終日曜に開催"
+    "description": "恵庭市で毎月最終日曜に開催",
+    "inactivated_at": null
   },
   {
     "id": 101,
@@ -1137,7 +1231,8 @@
     "is_active": false,
     "prefecture": "大阪",
     "created_at": "2017-08-03T00:00:00.000+09:00",
-    "description": "八尾市で隔月開催"
+    "description": "八尾市で隔月開催",
+    "inactivated_at": "2022-03-16T18:33:31.000+09:00"
   },
   {
     "id": 102,
@@ -1149,7 +1244,8 @@
     "is_active": true,
     "prefecture": "福岡",
     "created_at": "2017-09-18T00:00:00.000+09:00",
-    "description": "福岡市中央区天神で毎月開催"
+    "description": "福岡市中央区天神で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 103,
@@ -1161,7 +1257,8 @@
     "is_active": true,
     "prefecture": "徳島",
     "created_at": "2017-10-02T00:00:00.000+09:00",
-    "description": "徳島市で不定期開催"
+    "description": "徳島市で不定期開催",
+    "inactivated_at": null
   },
   {
     "id": 104,
@@ -1173,7 +1270,8 @@
     "is_active": false,
     "prefecture": "北海道",
     "created_at": "2016-09-26T00:00:00.000+09:00",
-    "description": "札幌市で月2回開催"
+    "description": "札幌市で月2回開催",
+    "inactivated_at": "2023-09-12T20:25:52.000+09:00"
   },
   {
     "id": 105,
@@ -1185,7 +1283,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2017-09-06T00:00:00.000+09:00",
-    "description": "武蔵野市で毎月開催"
+    "description": "武蔵野市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 106,
@@ -1197,7 +1296,8 @@
     "is_active": true,
     "prefecture": "沖縄",
     "created_at": "2017-09-20T00:00:00.000+09:00",
-    "description": "宜野湾市で毎週開催"
+    "description": "宜野湾市で毎週開催",
+    "inactivated_at": null
   },
   {
     "id": 107,
@@ -1209,7 +1309,8 @@
     "is_active": false,
     "prefecture": "岩手",
     "created_at": "2017-06-20T00:00:00.000+09:00",
-    "description": "北上市で不定期開催"
+    "description": "北上市で不定期開催",
+    "inactivated_at": "2022-06-08T01:58:59.000+09:00"
   },
   {
     "id": 108,
@@ -1221,7 +1322,8 @@
     "is_active": false,
     "prefecture": "大阪",
     "created_at": "2017-09-06T00:00:00.000+09:00",
-    "description": "箕面市で毎月開催"
+    "description": "箕面市で毎月開催",
+    "inactivated_at": "2023-10-26T16:00:22.000+09:00"
   },
   {
     "id": 109,
@@ -1233,7 +1335,8 @@
     "is_active": true,
     "prefecture": "岩手",
     "created_at": "2017-09-25T00:00:00.000+09:00",
-    "description": "滝沢市で毎月開催"
+    "description": "滝沢市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 110,
@@ -1245,7 +1348,8 @@
     "is_active": true,
     "prefecture": "大阪",
     "created_at": "2017-05-26T00:00:00.000+09:00",
-    "description": "泉南市で毎月開催"
+    "description": "泉南市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 111,
@@ -1257,7 +1361,8 @@
     "is_active": true,
     "prefecture": "徳島",
     "created_at": "2017-09-26T00:00:00.000+09:00",
-    "description": "三好市で第2週に開催"
+    "description": "三好市で第2週に開催",
+    "inactivated_at": null
   },
   {
     "id": 112,
@@ -1269,7 +1374,8 @@
     "is_active": true,
     "prefecture": "千葉",
     "created_at": "2017-09-26T00:00:00.000+09:00",
-    "description": "柏市光ヶ丘で第3土曜に開催"
+    "description": "柏市光ヶ丘で第3土曜に開催",
+    "inactivated_at": null
   },
   {
     "id": 113,
@@ -1281,7 +1387,8 @@
     "is_active": true,
     "prefecture": "福岡",
     "created_at": "2017-10-06T00:00:00.000+09:00",
-    "description": "福岡市早良区百道で毎月開催"
+    "description": "福岡市早良区百道で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 114,
@@ -1293,7 +1400,8 @@
     "is_active": true,
     "prefecture": "千葉",
     "created_at": "2017-09-06T00:00:00.000+09:00",
-    "description": "松戸市で隔月開催"
+    "description": "松戸市で隔月開催",
+    "inactivated_at": null
   },
   {
     "id": 115,
@@ -1305,7 +1413,8 @@
     "is_active": false,
     "prefecture": "鳥取",
     "created_at": "2017-08-16T00:00:00.000+09:00",
-    "description": "大山周辺で毎月開催"
+    "description": "大山周辺で毎月開催",
+    "inactivated_at": "2019-12-17T10:19:31.000+09:00"
   },
   {
     "id": 116,
@@ -1317,7 +1426,8 @@
     "is_active": false,
     "prefecture": "大阪",
     "created_at": "2017-11-02T00:00:00.000+09:00",
-    "description": "大阪市阿倍野区で毎月開催"
+    "description": "大阪市阿倍野区で毎月開催",
+    "inactivated_at": "2022-03-16T18:28:38.000+09:00"
   },
   {
     "id": 117,
@@ -1329,7 +1439,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2017-11-18T00:00:00.000+09:00",
-    "description": "立川市で毎月開催"
+    "description": "立川市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 118,
@@ -1341,7 +1452,8 @@
     "is_active": true,
     "prefecture": "愛知",
     "created_at": "2017-11-13T00:00:00.000+09:00",
-    "description": "安城市で第3土曜に開催"
+    "description": "安城市で第3土曜に開催",
+    "inactivated_at": null
   },
   {
     "id": 119,
@@ -1353,7 +1465,8 @@
     "is_active": false,
     "prefecture": "兵庫",
     "created_at": "2017-11-08T00:00:00.000+09:00",
-    "description": "神戸市長田区で毎月開催"
+    "description": "神戸市長田区で毎月開催",
+    "inactivated_at": "2023-10-15T15:48:53.000+09:00"
   },
   {
     "id": 120,
@@ -1365,7 +1478,8 @@
     "is_active": false,
     "prefecture": "長崎",
     "created_at": "2017-11-14T00:00:00.000+09:00",
-    "description": "長崎市で毎月開催"
+    "description": "長崎市で毎月開催",
+    "inactivated_at": "2019-04-29T14:41:31.000+09:00"
   },
   {
     "id": 121,
@@ -1377,7 +1491,8 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2017-11-28T00:00:00.000+09:00",
-    "description": "千代田区で毎月開催"
+    "description": "千代田区で毎月開催",
+    "inactivated_at": "2024-07-30T23:38:59.000+09:00"
   },
   {
     "id": 122,
@@ -1389,7 +1504,8 @@
     "is_active": false,
     "prefecture": "佐賀",
     "created_at": "2017-12-15T00:00:00.000+09:00",
-    "description": "三養基郡基山町で毎月開催"
+    "description": "三養基郡基山町で毎月開催",
+    "inactivated_at": "2022-03-16T19:09:46.000+09:00"
   },
   {
     "id": 123,
@@ -1401,7 +1517,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2018-01-25T00:00:00.000+09:00",
-    "description": "豊島区で毎月開催"
+    "description": "豊島区で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 124,
@@ -1413,7 +1530,8 @@
     "is_active": true,
     "prefecture": "兵庫",
     "created_at": "2018-01-26T00:00:00.000+09:00",
-    "description": "神戸市東灘区で毎月開催"
+    "description": "神戸市東灘区で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 125,
@@ -1425,7 +1543,8 @@
     "is_active": false,
     "prefecture": "千葉",
     "created_at": "2018-01-27T00:00:00.000+09:00",
-    "description": "柏市沼南で第2土曜に開催"
+    "description": "柏市沼南で第2土曜に開催",
+    "inactivated_at": "2023-09-18T13:56:39.000+09:00"
   },
   {
     "id": 126,
@@ -1437,7 +1556,8 @@
     "is_active": false,
     "prefecture": "神奈川",
     "created_at": "2018-02-02T00:00:00.000+09:00",
-    "description": "横浜市西区で毎月開催"
+    "description": "横浜市西区で毎月開催",
+    "inactivated_at": "2024-06-24T11:52:16.000+09:00"
   },
   {
     "id": 127,
@@ -1449,7 +1569,8 @@
     "is_active": true,
     "prefecture": "新潟",
     "created_at": "2018-02-17T00:00:00.000+09:00",
-    "description": "新発田市で毎月開催"
+    "description": "新発田市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 128,
@@ -1461,7 +1582,8 @@
     "is_active": false,
     "prefecture": "奈良",
     "created_at": "2018-02-18T00:00:00.000+09:00",
-    "description": "三郷町で毎月開催"
+    "description": "三郷町で毎月開催",
+    "inactivated_at": "2019-04-27T15:50:33.000+09:00"
   },
   {
     "id": 129,
@@ -1473,7 +1595,8 @@
     "is_active": true,
     "prefecture": "静岡",
     "created_at": "2018-02-18T00:00:00.000+09:00",
-    "description": "静岡県立工科短期大学校で隔月開催"
+    "description": "静岡県立工科短期大学校で隔月開催",
+    "inactivated_at": null
   },
   {
     "id": 130,
@@ -1485,7 +1608,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2018-02-21T00:00:00.000+09:00",
-    "description": "北区で毎月開催"
+    "description": "北区で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 131,
@@ -1497,7 +1621,8 @@
     "is_active": true,
     "prefecture": "鳥取",
     "created_at": "2018-02-22T00:00:00.000+09:00",
-    "description": "鳥取市で毎月開催"
+    "description": "鳥取市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 132,
@@ -1509,7 +1634,8 @@
     "is_active": true,
     "prefecture": "岡山",
     "created_at": "2018-02-28T00:00:00.000+09:00",
-    "description": "津山市で第2土曜に開催"
+    "description": "津山市で第2土曜に開催",
+    "inactivated_at": null
   },
   {
     "id": 133,
@@ -1521,7 +1647,8 @@
     "is_active": false,
     "prefecture": "山梨",
     "created_at": "2018-03-02T00:00:00.000+09:00",
-    "description": "甲斐市で毎月開催"
+    "description": "甲斐市で毎月開催",
+    "inactivated_at": "2022-03-16T18:11:25.000+09:00"
   },
   {
     "id": 134,
@@ -1533,7 +1660,8 @@
     "is_active": true,
     "prefecture": "茨城",
     "created_at": "2017-03-28T00:00:00.000+09:00",
-    "description": "つくば市で毎月開催"
+    "description": "つくば市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 135,
@@ -1545,7 +1673,8 @@
     "is_active": false,
     "prefecture": "大阪",
     "created_at": "2018-03-13T00:00:00.000+09:00",
-    "description": "大東市で第1土曜に開催"
+    "description": "大東市で第1土曜に開催",
+    "inactivated_at": "2023-10-15T14:01:23.000+09:00"
   },
   {
     "id": 136,
@@ -1557,7 +1686,8 @@
     "is_active": true,
     "prefecture": "福岡",
     "created_at": "2018-03-19T00:00:00.000+09:00",
-    "description": "福岡市東区で毎月開催"
+    "description": "福岡市東区で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 137,
@@ -1569,7 +1699,8 @@
     "is_active": false,
     "prefecture": "神奈川",
     "created_at": "2018-03-24T00:00:00.000+09:00",
-    "description": "横浜市保土ヶ谷区で不定期開催"
+    "description": "横浜市保土ヶ谷区で不定期開催",
+    "inactivated_at": "2022-03-16T17:47:40.000+09:00"
   },
   {
     "id": 138,
@@ -1581,7 +1712,8 @@
     "is_active": false,
     "prefecture": "神奈川",
     "created_at": "2018-03-25T00:00:00.000+09:00",
-    "description": "鎌倉市で不定期開催"
+    "description": "鎌倉市で不定期開催",
+    "inactivated_at": "2019-04-29T14:41:31.000+09:00"
   },
   {
     "id": 139,
@@ -1593,7 +1725,8 @@
     "is_active": false,
     "prefecture": "秋田",
     "created_at": "2018-03-27T00:00:00.000+09:00",
-    "description": "横手市増田で毎月開催"
+    "description": "横手市増田で毎月開催",
+    "inactivated_at": "2022-03-16T16:58:18.000+09:00"
   },
   {
     "id": 140,
@@ -1605,7 +1738,8 @@
     "is_active": true,
     "prefecture": "神奈川",
     "created_at": "2018-03-29T00:00:00.000+09:00",
-    "description": "厚木市で不定期開催"
+    "description": "厚木市で不定期開催",
+    "inactivated_at": null
   },
   {
     "id": 141,
@@ -1617,7 +1751,8 @@
     "is_active": false,
     "prefecture": "広島",
     "created_at": "2018-04-11T00:00:00.000+09:00",
-    "description": "呉市で毎月開催"
+    "description": "呉市で毎月開催",
+    "inactivated_at": "2023-01-08T15:16:29.000+09:00"
   },
   {
     "id": 143,
@@ -1629,7 +1764,8 @@
     "is_active": true,
     "prefecture": "岩手",
     "created_at": "2018-04-21T00:00:00.000+09:00",
-    "description": "陸前高田市で毎月開催"
+    "description": "陸前高田市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 144,
@@ -1641,7 +1777,8 @@
     "is_active": false,
     "prefecture": "福岡",
     "created_at": "2018-04-22T00:00:00.000+09:00",
-    "description": "北九州市で不定期開催"
+    "description": "北九州市で不定期開催",
+    "inactivated_at": "2024-07-30T22:26:38.000+09:00"
   },
   {
     "id": 145,
@@ -1653,7 +1790,8 @@
     "is_active": true,
     "prefecture": "愛知",
     "created_at": "2018-04-22T00:00:00.000+09:00",
-    "description": "日進市で月2回開催"
+    "description": "日進市で月2回開催",
+    "inactivated_at": null
   },
   {
     "id": 146,
@@ -1665,7 +1803,8 @@
     "is_active": true,
     "prefecture": "兵庫",
     "created_at": "2018-04-24T00:00:00.000+09:00",
-    "description": "洲本市で毎月開催"
+    "description": "洲本市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 147,
@@ -1677,7 +1816,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2018-05-06T00:00:00.000+09:00",
-    "description": "稲城市若葉台で毎月開催"
+    "description": "稲城市若葉台で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 148,
@@ -1689,7 +1829,8 @@
     "is_active": true,
     "prefecture": "静岡",
     "created_at": "2016-02-25T00:00:00.000+09:00",
-    "description": "静岡市で毎月開催"
+    "description": "静岡市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 149,
@@ -1701,7 +1842,8 @@
     "is_active": true,
     "prefecture": "福島",
     "created_at": "2018-05-29T00:00:00.000+09:00",
-    "description": "白河市で毎月開催"
+    "description": "白河市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 150,
@@ -1713,7 +1855,8 @@
     "is_active": true,
     "prefecture": "岡山",
     "created_at": "2018-05-29T00:00:00.000+09:00",
-    "description": "倉敷市で毎月開催"
+    "description": "倉敷市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 151,
@@ -1725,7 +1868,8 @@
     "is_active": true,
     "prefecture": "千葉",
     "created_at": "2018-04-24T00:00:00.000+09:00",
-    "description": "千葉市若葉区若松で毎月開催"
+    "description": "千葉市若葉区若松で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 152,
@@ -1737,7 +1881,8 @@
     "is_active": false,
     "prefecture": "千葉",
     "created_at": "2018-06-30T00:00:00.000+09:00",
-    "description": "八街市で毎月開催"
+    "description": "八街市で毎月開催",
+    "inactivated_at": "2022-03-16T17:29:45.000+09:00"
   },
   {
     "id": 153,
@@ -1749,7 +1894,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2018-05-30T00:00:00.000+09:00",
-    "description": "多摩市で毎月開催"
+    "description": "多摩市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 154,
@@ -1761,7 +1907,8 @@
     "is_active": false,
     "prefecture": "神奈川",
     "created_at": "2017-04-03T00:00:00.000+09:00",
-    "description": "横浜市緑区東本郷で毎月開催"
+    "description": "横浜市緑区東本郷で毎月開催",
+    "inactivated_at": "2022-03-16T17:52:34.000+09:00"
   },
   {
     "id": 155,
@@ -1773,7 +1920,8 @@
     "is_active": true,
     "prefecture": "沖縄",
     "created_at": "2018-07-07T00:00:00.000+09:00",
-    "description": "うるま市で第2・第4土曜に開催"
+    "description": "うるま市で第2・第4土曜に開催",
+    "inactivated_at": null
   },
   {
     "id": 156,
@@ -1785,7 +1933,8 @@
     "is_active": true,
     "prefecture": "茨城",
     "created_at": "2018-07-09T00:00:00.000+09:00",
-    "description": "古河市で毎月開催"
+    "description": "古河市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 157,
@@ -1797,7 +1946,8 @@
     "is_active": false,
     "prefecture": "千葉",
     "created_at": "2018-11-25T00:00:00.000+09:00",
-    "description": "印旛郡酒々井町で毎月開催"
+    "description": "印旛郡酒々井町で毎月開催",
+    "inactivated_at": "2021-06-16T14:16:45.000+09:00"
   },
   {
     "id": 158,
@@ -1809,7 +1959,8 @@
     "is_active": true,
     "prefecture": "千葉",
     "created_at": "2018-11-17T00:00:00.000+09:00",
-    "description": "成田市で毎月開催"
+    "description": "成田市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 159,
@@ -1821,7 +1972,8 @@
     "is_active": true,
     "prefecture": "千葉",
     "created_at": "2018-12-02T00:00:00.000+09:00",
-    "description": "千葉市緑区で毎月開催"
+    "description": "千葉市緑区で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 165,
@@ -1833,7 +1985,8 @@
     "is_active": true,
     "prefecture": "福島",
     "created_at": "2018-08-13T00:00:00.000+09:00",
-    "description": "喜多方市で毎月開催"
+    "description": "喜多方市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 169,
@@ -1845,7 +1998,8 @@
     "is_active": false,
     "prefecture": "奈良",
     "created_at": "2018-07-31T00:00:00.000+09:00",
-    "description": "明日香村で毎月開催"
+    "description": "明日香村で毎月開催",
+    "inactivated_at": "2019-06-08T02:14:10.000+09:00"
   },
   {
     "id": 172,
@@ -1857,7 +2011,8 @@
     "is_active": false,
     "prefecture": "福岡",
     "created_at": "2018-08-25T00:00:00.000+09:00",
-    "description": "久留米市で月2回開催"
+    "description": "久留米市で月2回開催",
+    "inactivated_at": "2022-03-16T19:03:59.000+09:00"
   },
   {
     "id": 173,
@@ -1869,7 +2024,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2018-09-26T00:00:00.000+09:00",
-    "description": "品川区で不定期開催"
+    "description": "品川区で不定期開催",
+    "inactivated_at": null
   },
   {
     "id": 174,
@@ -1881,7 +2037,8 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2018-10-05T00:00:00.000+09:00",
-    "description": "三鷹周辺で毎月開催"
+    "description": "三鷹周辺で毎月開催",
+    "inactivated_at": "2022-03-16T17:34:16.000+09:00"
   },
   {
     "id": 175,
@@ -1893,7 +2050,8 @@
     "is_active": true,
     "prefecture": "長野",
     "created_at": "2018-10-05T00:00:00.000+09:00",
-    "description": "松本市で毎月開催"
+    "description": "松本市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 176,
@@ -1905,7 +2063,8 @@
     "is_active": false,
     "prefecture": "茨城",
     "created_at": "2018-10-08T00:00:00.000+09:00",
-    "description": "日立市で毎月開催"
+    "description": "日立市で毎月開催",
+    "inactivated_at": "2023-02-02T13:27:14.000+09:00"
   },
   {
     "id": 177,
@@ -1917,7 +2076,8 @@
     "is_active": false,
     "prefecture": "奈良",
     "created_at": "2018-07-31T00:00:00.000+09:00",
-    "description": "田原本町で毎月開催"
+    "description": "田原本町で毎月開催",
+    "inactivated_at": "2020-12-29T16:35:44.000+09:00"
   },
   {
     "id": 178,
@@ -1929,7 +2089,8 @@
     "is_active": true,
     "prefecture": "熊本",
     "created_at": "2018-08-05T00:00:00.000+09:00",
-    "description": "熊本市で毎月開催"
+    "description": "熊本市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 179,
@@ -1941,7 +2102,8 @@
     "is_active": false,
     "prefecture": "神奈川",
     "created_at": "2018-08-15T00:00:00.000+09:00",
-    "description": "横浜市都筑区の港北ニュータウンで毎月開催"
+    "description": "横浜市都筑区の港北ニュータウンで毎月開催",
+    "inactivated_at": "2025-03-19T18:07:54.000+09:00"
   },
   {
     "id": 180,
@@ -1953,7 +2115,8 @@
     "is_active": false,
     "prefecture": "群馬",
     "created_at": "2018-08-08T00:00:00.000+09:00",
-    "description": "館林市で不定期開催"
+    "description": "館林市で不定期開催",
+    "inactivated_at": "2019-04-29T14:41:31.000+09:00"
   },
   {
     "id": 181,
@@ -1965,7 +2128,8 @@
     "is_active": true,
     "prefecture": "兵庫",
     "created_at": "2018-10-18T00:00:00.000+09:00",
-    "description": "猪名川町で毎月開催"
+    "description": "猪名川町で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 182,
@@ -1977,7 +2141,8 @@
     "is_active": true,
     "prefecture": "愛知",
     "created_at": "2018-10-21T00:00:00.000+09:00",
-    "description": "瀬戸市で月2回開催"
+    "description": "瀬戸市で月2回開催",
+    "inactivated_at": null
   },
   {
     "id": 183,
@@ -1989,7 +2154,8 @@
     "is_active": false,
     "prefecture": "福岡",
     "created_at": "2018-11-03T00:00:00.000+09:00",
-    "description": "博多区で毎月開催"
+    "description": "博多区で毎月開催",
+    "inactivated_at": "2023-10-26T14:35:47.000+09:00"
   },
   {
     "id": 184,
@@ -2001,7 +2167,8 @@
     "is_active": true,
     "prefecture": "神奈川",
     "created_at": "2018-11-05T00:00:00.000+09:00",
-    "description": "横浜市青葉区で毎月開催"
+    "description": "横浜市青葉区で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 185,
@@ -2013,7 +2180,8 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2018-11-20T00:00:00.000+09:00",
-    "description": "品川区五反田で第3土曜に開催"
+    "description": "品川区五反田で第3土曜に開催",
+    "inactivated_at": "2023-10-15T11:39:02.000+09:00"
   },
   {
     "id": 186,
@@ -2025,7 +2193,8 @@
     "is_active": true,
     "prefecture": "沖縄",
     "created_at": "2018-12-02T00:00:00.000+09:00",
-    "description": "名護市で月2回開催"
+    "description": "名護市で月2回開催",
+    "inactivated_at": null
   },
   {
     "id": 187,
@@ -2037,7 +2206,8 @@
     "is_active": true,
     "prefecture": "鹿児島",
     "created_at": "2018-12-09T00:00:00.000+09:00",
-    "description": "鹿児島市で隔月開催"
+    "description": "鹿児島市で隔月開催",
+    "inactivated_at": null
   },
   {
     "id": 188,
@@ -2049,7 +2219,8 @@
     "is_active": true,
     "prefecture": "徳島",
     "created_at": "2018-12-13T00:00:00.000+09:00",
-    "description": "神山町で毎月開催"
+    "description": "神山町で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 189,
@@ -2061,7 +2232,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2018-12-21T00:00:00.000+09:00",
-    "description": "町田市で不定期開催"
+    "description": "町田市で不定期開催",
+    "inactivated_at": null
   },
   {
     "id": 190,
@@ -2073,7 +2245,8 @@
     "is_active": true,
     "prefecture": "神奈川",
     "created_at": "2018-12-27T00:00:00.000+09:00",
-    "description": "川崎市で毎月開催"
+    "description": "川崎市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 191,
@@ -2085,7 +2258,8 @@
     "is_active": false,
     "prefecture": "福岡",
     "created_at": "2019-01-04T00:00:00.000+09:00",
-    "description": "太宰府市で毎月開催"
+    "description": "太宰府市で毎月開催",
+    "inactivated_at": "2023-10-26T14:40:00.000+09:00"
   },
   {
     "id": 192,
@@ -2097,7 +2271,8 @@
     "is_active": false,
     "prefecture": "山口",
     "created_at": "2019-01-14T00:00:00.000+09:00",
-    "description": "宇部市で毎月開催"
+    "description": "宇部市で毎月開催",
+    "inactivated_at": "2024-07-30T23:37:29.000+09:00"
   },
   {
     "id": 193,
@@ -2109,7 +2284,8 @@
     "is_active": true,
     "prefecture": "大阪",
     "created_at": "2019-01-16T00:00:00.000+09:00",
-    "description": "豊中市で毎月開催"
+    "description": "豊中市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 194,
@@ -2121,7 +2297,8 @@
     "is_active": true,
     "prefecture": "広島",
     "created_at": "2019-01-18T00:00:00.000+09:00",
-    "description": "三次市で毎月開催"
+    "description": "三次市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 195,
@@ -2133,7 +2310,8 @@
     "is_active": false,
     "prefecture": "山梨",
     "created_at": "2019-02-03T00:00:00.000+09:00",
-    "description": "韮崎市で毎月開催"
+    "description": "韮崎市で毎月開催",
+    "inactivated_at": "2023-09-12T20:23:06.000+09:00"
   },
   {
     "id": 196,
@@ -2145,7 +2323,8 @@
     "is_active": false,
     "prefecture": "山梨",
     "created_at": "2019-02-03T00:00:00.000+09:00",
-    "description": "北杜市で毎月開催"
+    "description": "北杜市で毎月開催",
+    "inactivated_at": "2023-02-02T13:29:36.000+09:00"
   },
   {
     "id": 197,
@@ -2157,7 +2336,8 @@
     "is_active": false,
     "prefecture": "岐阜",
     "created_at": "2019-02-03T00:00:00.000+09:00",
-    "description": "多治見市まなびパークで第1・第3土曜に開催"
+    "description": "多治見市まなびパークで第1・第3土曜に開催",
+    "inactivated_at": "2021-09-28T10:22:53.000+09:00"
   },
   {
     "id": 198,
@@ -2169,7 +2349,8 @@
     "is_active": false,
     "prefecture": "沖縄",
     "created_at": "2019-02-03T00:00:00.000+09:00",
-    "description": "沖縄市で毎月開催"
+    "description": "沖縄市で毎月開催",
+    "inactivated_at": "2022-03-16T16:42:10.000+09:00"
   },
   {
     "id": 199,
@@ -2181,7 +2362,8 @@
     "is_active": false,
     "prefecture": "神奈川",
     "created_at": "2019-02-06T00:00:00.000+09:00",
-    "description": "茅ヶ崎市で不定期開催"
+    "description": "茅ヶ崎市で不定期開催",
+    "inactivated_at": "2022-03-16T17:55:10.000+09:00"
   },
   {
     "id": 200,
@@ -2193,7 +2375,8 @@
     "is_active": true,
     "prefecture": "岐阜",
     "created_at": "2019-02-06T00:00:00.000+09:00",
-    "description": "ぎふメディアコスモスで毎月開催"
+    "description": "ぎふメディアコスモスで毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 201,
@@ -2205,7 +2388,8 @@
     "is_active": false,
     "prefecture": "岩手",
     "created_at": "2019-02-14T00:00:00.000+09:00",
-    "description": "宮古市で毎月開催"
+    "description": "宮古市で毎月開催",
+    "inactivated_at": "2022-03-16T16:42:10.000+09:00"
   },
   {
     "id": 202,
@@ -2217,7 +2401,8 @@
     "is_active": true,
     "prefecture": "大阪",
     "created_at": "2019-02-18T00:00:00.000+09:00",
-    "description": "松原市で毎月開催"
+    "description": "松原市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 203,
@@ -2229,7 +2414,8 @@
     "is_active": false,
     "prefecture": "茨城",
     "created_at": "2019-02-23T00:00:00.000+09:00",
-    "description": "ひたちなか市で毎月開催"
+    "description": "ひたちなか市で毎月開催",
+    "inactivated_at": "2023-09-18T14:08:28.000+09:00"
   },
   {
     "id": 204,
@@ -2241,7 +2427,8 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2019-02-26T00:00:00.000+09:00",
-    "description": "武蔵村山市立第八小学校で毎月開催"
+    "description": "武蔵村山市立第八小学校で毎月開催",
+    "inactivated_at": "2023-10-26T15:19:19.000+09:00"
   },
   {
     "id": 205,
@@ -2253,7 +2440,8 @@
     "is_active": true,
     "prefecture": "沖縄",
     "created_at": "2019-02-28T00:00:00.000+09:00",
-    "description": "浦添市てだこホールで隔週開催"
+    "description": "浦添市てだこホールで隔週開催",
+    "inactivated_at": null
   },
   {
     "id": 206,
@@ -2265,7 +2453,8 @@
     "is_active": true,
     "prefecture": "大阪",
     "created_at": "2019-02-28T00:00:00.000+09:00",
-    "description": "吹田市で不定期開催"
+    "description": "吹田市で不定期開催",
+    "inactivated_at": null
   },
   {
     "id": 207,
@@ -2277,7 +2466,8 @@
     "is_active": false,
     "prefecture": "福岡",
     "created_at": "2019-03-05T00:00:00.000+09:00",
-    "description": "久留米市日吉校区で隔月開催"
+    "description": "久留米市日吉校区で隔月開催",
+    "inactivated_at": "2023-10-26T14:39:09.000+09:00"
   },
   {
     "id": 208,
@@ -2289,7 +2479,8 @@
     "is_active": false,
     "prefecture": "神奈川",
     "created_at": "2019-03-08T00:00:00.000+09:00",
-    "description": "横浜市港北区の小机町で毎月開催"
+    "description": "横浜市港北区の小机町で毎月開催",
+    "inactivated_at": "2023-10-26T14:45:37.000+09:00"
   },
   {
     "id": 209,
@@ -2301,7 +2492,8 @@
     "is_active": true,
     "prefecture": "沖縄",
     "created_at": "2019-03-15T00:00:00.000+09:00",
-    "description": "石垣市で毎月開催"
+    "description": "石垣市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 210,
@@ -2313,7 +2505,8 @@
     "is_active": false,
     "prefecture": "神奈川",
     "created_at": "2019-05-05T00:00:00.000+09:00",
-    "description": "川崎市高津区で毎月開催"
+    "description": "川崎市高津区で毎月開催",
+    "inactivated_at": "2024-03-30T19:51:55.000+09:00"
   },
   {
     "id": 211,
@@ -2325,7 +2518,8 @@
     "is_active": false,
     "prefecture": "島根",
     "created_at": "2019-06-11T00:00:00.000+09:00",
-    "description": "大田市仁摩町で月2回開催"
+    "description": "大田市仁摩町で月2回開催",
+    "inactivated_at": "2020-07-31T14:01:02.000+09:00"
   },
   {
     "id": 212,
@@ -2337,7 +2531,8 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2019-06-10T00:00:00.000+09:00",
-    "description": "調布市電気通信大学で毎月開催"
+    "description": "調布市電気通信大学で毎月開催",
+    "inactivated_at": "2022-03-16T17:34:16.000+09:00"
   },
   {
     "id": 214,
@@ -2349,7 +2544,8 @@
     "is_active": false,
     "prefecture": "愛知",
     "created_at": "2019-05-18T00:00:00.000+09:00",
-    "description": "一宮市新生で月2回開催"
+    "description": "一宮市新生で月2回開催",
+    "inactivated_at": "2022-03-16T18:28:38.000+09:00"
   },
   {
     "id": 215,
@@ -2361,7 +2557,8 @@
     "is_active": false,
     "prefecture": "山形",
     "created_at": "2019-04-24T00:00:00.000+09:00",
-    "description": "大石田町町民交流センター「虹のプラザ」で毎月開催"
+    "description": "大石田町町民交流センター「虹のプラザ」で毎月開催",
+    "inactivated_at": "2020-01-04T19:14:14.000+09:00"
   },
   {
     "id": 216,
@@ -2373,7 +2570,8 @@
     "is_active": true,
     "prefecture": "沖縄",
     "created_at": "2019-06-15T00:00:00.000+09:00",
-    "description": "那覇市で毎月開催"
+    "description": "那覇市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 217,
@@ -2385,7 +2583,8 @@
     "is_active": true,
     "prefecture": "愛知",
     "created_at": "2019-06-20T00:00:00.000+09:00",
-    "description": "北名古屋市で第2木曜に開催"
+    "description": "北名古屋市で第2木曜に開催",
+    "inactivated_at": null
   },
   {
     "id": 218,
@@ -2397,7 +2596,8 @@
     "is_active": true,
     "prefecture": "愛知",
     "created_at": "2019-06-23T00:00:00.000+09:00",
-    "description": "犬山市で毎月開催"
+    "description": "犬山市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 219,
@@ -2409,7 +2609,8 @@
     "is_active": false,
     "prefecture": "千葉",
     "created_at": "2019-06-26T00:00:00.000+09:00",
-    "description": "印西市で毎月開催"
+    "description": "印西市で毎月開催",
+    "inactivated_at": "2023-10-26T15:25:10.000+09:00"
   },
   {
     "id": 220,
@@ -2421,7 +2622,8 @@
     "is_active": false,
     "prefecture": "兵庫",
     "created_at": "2019-07-07T00:00:00.000+09:00",
-    "description": "芦屋市で毎月開催"
+    "description": "芦屋市で毎月開催",
+    "inactivated_at": "2022-03-16T16:42:10.000+09:00"
   },
   {
     "id": 221,
@@ -2433,7 +2635,8 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2019-07-08T00:00:00.000+09:00",
-    "description": "立川市たまがわ・みらいパークで毎月開催"
+    "description": "立川市たまがわ・みらいパークで毎月開催",
+    "inactivated_at": "2023-10-26T14:30:55.000+09:00"
   },
   {
     "id": 222,
@@ -2445,7 +2648,8 @@
     "is_active": false,
     "prefecture": "茨城",
     "created_at": "2019-07-23T00:00:00.000+09:00",
-    "description": "水戸市で毎月開催"
+    "description": "水戸市で毎月開催",
+    "inactivated_at": "2023-10-26T14:20:23.000+09:00"
   },
   {
     "id": 223,
@@ -2457,7 +2661,8 @@
     "is_active": true,
     "prefecture": "福島",
     "created_at": "2019-08-26T00:00:00.000+09:00",
-    "description": "田村郡三春町で毎月開催"
+    "description": "田村郡三春町で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 224,
@@ -2469,7 +2674,8 @@
     "is_active": true,
     "prefecture": "島根",
     "created_at": "2019-09-06T00:00:00.000+09:00",
-    "description": "島根県西部の各地で毎月開催"
+    "description": "島根県西部の各地で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 225,
@@ -2481,7 +2687,8 @@
     "is_active": false,
     "prefecture": "島根",
     "created_at": "2019-09-06T00:00:00.000+09:00",
-    "description": "浜田市で毎月開催"
+    "description": "浜田市で毎月開催",
+    "inactivated_at": "2023-01-08T14:26:58.000+09:00"
   },
   {
     "id": 226,
@@ -2493,7 +2700,8 @@
     "is_active": true,
     "prefecture": "愛媛",
     "created_at": "2019-10-02T00:00:00.000+09:00",
-    "description": "伊予市で毎月開催"
+    "description": "伊予市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 227,
@@ -2505,7 +2713,8 @@
     "is_active": true,
     "prefecture": "埼玉",
     "created_at": "2019-10-07T00:00:00.000+09:00",
-    "description": "戸田市で毎月開催"
+    "description": "戸田市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 228,
@@ -2517,7 +2726,8 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2019-10-11T00:00:00.000+09:00",
-    "description": "昭島市で毎月開催"
+    "description": "昭島市で毎月開催",
+    "inactivated_at": "2023-10-26T15:26:07.000+09:00"
   },
   {
     "id": 229,
@@ -2529,7 +2739,8 @@
     "is_active": false,
     "prefecture": "福岡",
     "created_at": "2019-10-26T00:00:00.000+09:00",
-    "description": "中間市で隔月開催"
+    "description": "中間市で隔月開催",
+    "inactivated_at": "2023-10-26T14:14:51.000+09:00"
   },
   {
     "id": 230,
@@ -2541,7 +2752,8 @@
     "is_active": false,
     "prefecture": "兵庫",
     "created_at": "2019-11-01T00:00:00.000+09:00",
-    "description": "三木市で毎月開催"
+    "description": "三木市で毎月開催",
+    "inactivated_at": "2023-02-02T13:25:48.000+09:00"
   },
   {
     "id": 231,
@@ -2553,7 +2765,8 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2019-10-30T00:00:00.000+09:00",
-    "description": "板橋区で毎月開催"
+    "description": "板橋区で毎月開催",
+    "inactivated_at": "2023-10-26T14:37:52.000+09:00"
   },
   {
     "id": 232,
@@ -2565,7 +2778,8 @@
     "is_active": false,
     "prefecture": "長野",
     "created_at": "2019-11-10T00:00:00.000+09:00",
-    "description": "上田市で毎月開催"
+    "description": "上田市で毎月開催",
+    "inactivated_at": "2023-10-26T14:41:11.000+09:00"
   },
   {
     "id": 233,
@@ -2577,7 +2791,8 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2019-11-19T00:00:00.000+09:00",
-    "description": "足立区で毎月開催"
+    "description": "足立区で毎月開催",
+    "inactivated_at": "2025-03-19T17:46:09.000+09:00"
   },
   {
     "id": 234,
@@ -2589,7 +2804,8 @@
     "is_active": false,
     "prefecture": "香川",
     "created_at": "2019-11-26T00:00:00.000+09:00",
-    "description": "三豊市豊中町本山周辺で毎月開催"
+    "description": "三豊市豊中町本山周辺で毎月開催",
+    "inactivated_at": "2023-10-26T14:44:26.000+09:00"
   },
   {
     "id": 235,
@@ -2601,7 +2817,8 @@
     "is_active": true,
     "prefecture": "愛知",
     "created_at": "2020-01-03T00:00:00.000+09:00",
-    "description": "稲沢市で毎月開催"
+    "description": "稲沢市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 236,
@@ -2613,7 +2830,8 @@
     "is_active": false,
     "prefecture": "奈良",
     "created_at": "2020-01-11T00:00:00.000+09:00",
-    "description": "生駒市班鳩町で毎月開催"
+    "description": "生駒市班鳩町で毎月開催",
+    "inactivated_at": "2022-03-16T18:44:37.000+09:00"
   },
   {
     "id": 237,
@@ -2625,7 +2843,8 @@
     "is_active": false,
     "prefecture": "長野",
     "created_at": "2020-01-19T00:00:00.000+09:00",
-    "description": "伊那市で第1・第3水曜に開催"
+    "description": "伊那市で第1・第3水曜に開催",
+    "inactivated_at": "2024-07-30T22:05:53.000+09:00"
   },
   {
     "id": 238,
@@ -2637,7 +2856,8 @@
     "is_active": false,
     "prefecture": "埼玉",
     "created_at": "2020-02-03T00:00:00.000+09:00",
-    "description": "新座市で毎月開催"
+    "description": "新座市で毎月開催",
+    "inactivated_at": "2023-10-26T14:47:39.000+09:00"
   },
   {
     "id": 239,
@@ -2649,7 +2869,8 @@
     "is_active": true,
     "prefecture": "愛媛",
     "created_at": "2020-02-03T00:00:00.000+09:00",
-    "description": "松山市で月2回開催"
+    "description": "松山市で月2回開催",
+    "inactivated_at": null
   },
   {
     "id": 240,
@@ -2661,7 +2882,8 @@
     "is_active": true,
     "prefecture": "京都",
     "created_at": "2020-02-09T00:00:00.000+09:00",
-    "description": "京都市下京区で毎月開催"
+    "description": "京都市下京区で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 241,
@@ -2673,7 +2895,8 @@
     "is_active": true,
     "prefecture": "愛知",
     "created_at": "2020-02-10T00:00:00.000+09:00",
-    "description": "西尾市で毎月開催"
+    "description": "西尾市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 242,
@@ -2685,7 +2908,8 @@
     "is_active": false,
     "prefecture": "栃木",
     "created_at": "2020-02-20T00:00:00.000+09:00",
-    "description": "大田原市で毎月開催"
+    "description": "大田原市で毎月開催",
+    "inactivated_at": "2023-10-26T15:31:15.000+09:00"
   },
   {
     "id": 243,
@@ -2697,7 +2921,8 @@
     "is_active": true,
     "prefecture": "愛知",
     "created_at": "2020-02-22T00:00:00.000+09:00",
-    "description": "大府市で毎月2回開催"
+    "description": "大府市で毎月2回開催",
+    "inactivated_at": null
   },
   {
     "id": 244,
@@ -2709,7 +2934,8 @@
     "is_active": true,
     "prefecture": "沖縄",
     "created_at": "2020-02-25T00:00:00.000+09:00",
-    "description": "沖縄市『補聴器のぴあ』で隔月開催"
+    "description": "沖縄市『補聴器のぴあ』で隔月開催",
+    "inactivated_at": null
   },
   {
     "id": 245,
@@ -2721,7 +2947,8 @@
     "is_active": true,
     "prefecture": "島根",
     "created_at": "2020-03-10T00:00:00.000+09:00",
-    "description": "鹿足郡津和野町で隔月開催"
+    "description": "鹿足郡津和野町で隔月開催",
+    "inactivated_at": null
   },
   {
     "id": 246,
@@ -2733,7 +2960,8 @@
     "is_active": false,
     "prefecture": "栃木",
     "created_at": "2020-03-11T00:00:00.000+09:00",
-    "description": "宇都宮市で毎月開催"
+    "description": "宇都宮市で毎月開催",
+    "inactivated_at": "2023-10-26T14:17:35.000+09:00"
   },
   {
     "id": 247,
@@ -2745,7 +2973,8 @@
     "is_active": false,
     "prefecture": "神奈川",
     "created_at": "2020-05-07T00:00:00.000+09:00",
-    "description": "中央林間/つきみ野近辺で月4回程度開催"
+    "description": "中央林間/つきみ野近辺で月4回程度開催",
+    "inactivated_at": "2023-03-15T09:09:32.000+09:00"
   },
   {
     "id": 248,
@@ -2757,7 +2986,8 @@
     "is_active": true,
     "prefecture": "福島",
     "created_at": "2020-06-20T00:00:00.000+09:00",
-    "description": "矢吹町で毎月開催"
+    "description": "矢吹町で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 249,
@@ -2769,7 +2999,8 @@
     "is_active": true,
     "prefecture": "兵庫",
     "created_at": "2020-06-21T00:00:00.000+09:00",
-    "description": "加西市で毎月開催"
+    "description": "加西市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 250,
@@ -2781,7 +3012,8 @@
     "is_active": false,
     "prefecture": "京都",
     "created_at": "2020-06-27T00:00:00.000+09:00",
-    "description": "京丹後市で不定期開催"
+    "description": "京丹後市で不定期開催",
+    "inactivated_at": "2023-10-26T15:29:45.000+09:00"
   },
   {
     "id": 251,
@@ -2793,7 +3025,8 @@
     "is_active": true,
     "prefecture": "千葉",
     "created_at": "2020-07-29T00:00:00.000+09:00",
-    "description": "鎌ケ谷市で毎月第4日曜に開催"
+    "description": "鎌ケ谷市で毎月第4日曜に開催",
+    "inactivated_at": null
   },
   {
     "id": 252,
@@ -2805,7 +3038,8 @@
     "is_active": true,
     "prefecture": "大阪",
     "created_at": "2020-07-30T00:00:00.000+09:00",
-    "description": "岸和田市で毎月開催"
+    "description": "岸和田市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 253,
@@ -2817,7 +3051,8 @@
     "is_active": false,
     "prefecture": "北海道",
     "created_at": "2020-09-10T00:00:00.000+09:00",
-    "description": "室蘭市で毎月開催"
+    "description": "室蘭市で毎月開催",
+    "inactivated_at": "2024-12-28T23:41:50.000+09:00"
   },
   {
     "id": 254,
@@ -2829,7 +3064,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2020-09-14T00:00:00.000+09:00",
-    "description": "青梅市で毎月開催"
+    "description": "青梅市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 255,
@@ -2841,7 +3077,8 @@
     "is_active": false,
     "prefecture": "三重",
     "created_at": "2020-11-02T00:00:00.000+09:00",
-    "description": "四日市市で毎月開催"
+    "description": "四日市市で毎月開催",
+    "inactivated_at": "2023-10-26T15:27:23.000+09:00"
   },
   {
     "id": 256,
@@ -2853,7 +3090,8 @@
     "is_active": false,
     "prefecture": "大阪",
     "created_at": "2020-11-07T00:00:00.000+09:00",
-    "description": "茨木市で毎月開催"
+    "description": "茨木市で毎月開催",
+    "inactivated_at": "2025-03-19T17:48:25.000+09:00"
   },
   {
     "id": 257,
@@ -2865,7 +3103,8 @@
     "is_active": true,
     "prefecture": "富山",
     "created_at": "2020-11-13T00:00:00.000+09:00",
-    "description": "砺波市で毎週開催"
+    "description": "砺波市で毎週開催",
+    "inactivated_at": null
   },
   {
     "id": 258,
@@ -2877,7 +3116,8 @@
     "is_active": false,
     "prefecture": "岡山",
     "created_at": "2020-12-07T00:00:00.000+09:00",
-    "description": "笠岡市で不定期開催"
+    "description": "笠岡市で不定期開催",
+    "inactivated_at": "2022-03-16T18:52:21.000+09:00"
   },
   {
     "id": 259,
@@ -2889,7 +3129,8 @@
     "is_active": false,
     "prefecture": "岩手",
     "created_at": "2020-12-15T00:00:00.000+09:00",
-    "description": "一関市で不定期開催"
+    "description": "一関市で不定期開催",
+    "inactivated_at": "2023-01-08T15:29:52.000+09:00"
   },
   {
     "id": 260,
@@ -2901,7 +3142,8 @@
     "is_active": true,
     "prefecture": "神奈川",
     "created_at": "2021-01-07T00:00:00.000+09:00",
-    "description": "伊勢原市で毎月開催"
+    "description": "伊勢原市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 261,
@@ -2913,7 +3155,8 @@
     "is_active": true,
     "prefecture": "北海道",
     "created_at": "2021-01-09T00:00:00.000+09:00",
-    "description": "江別市で毎月開催"
+    "description": "江別市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 262,
@@ -2925,7 +3168,8 @@
     "is_active": true,
     "prefecture": "京都",
     "created_at": "2021-01-12T00:00:00.000+09:00",
-    "description": "宇治市で不定期開催"
+    "description": "宇治市で不定期開催",
+    "inactivated_at": null
   },
   {
     "id": 263,
@@ -2937,7 +3181,8 @@
     "is_active": true,
     "prefecture": "埼玉",
     "created_at": "2021-01-16T00:00:00.000+09:00",
-    "description": "さいたま市浦和区で毎週日曜開催"
+    "description": "さいたま市浦和区で毎週日曜開催",
+    "inactivated_at": null
   },
   {
     "id": 264,
@@ -2949,7 +3194,8 @@
     "is_active": false,
     "prefecture": "大阪",
     "created_at": "2021-02-28T00:00:00.000+09:00",
-    "description": "藤井寺市で毎月開催"
+    "description": "藤井寺市で毎月開催",
+    "inactivated_at": "2021-07-19T18:19:37.000+09:00"
   },
   {
     "id": 265,
@@ -2961,7 +3207,8 @@
     "is_active": true,
     "prefecture": "青森",
     "created_at": "2021-02-28T00:00:00.000+09:00",
-    "description": "八戸市内で第1日曜に開催"
+    "description": "八戸市内で第1日曜に開催",
+    "inactivated_at": null
   },
   {
     "id": 266,
@@ -2973,7 +3220,8 @@
     "is_active": false,
     "prefecture": "大阪",
     "created_at": "2021-04-25T00:00:00.000+09:00",
-    "description": "大阪市東住吉区で不定期開催"
+    "description": "大阪市東住吉区で不定期開催",
+    "inactivated_at": "2023-10-26T14:33:00.000+09:00"
   },
   {
     "id": 267,
@@ -2985,7 +3233,8 @@
     "is_active": true,
     "prefecture": "富山",
     "created_at": "2021-04-29T00:00:00.000+09:00",
-    "description": "富山市で毎月開催"
+    "description": "富山市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 268,
@@ -2997,7 +3246,8 @@
     "is_active": true,
     "prefecture": "岡山",
     "created_at": "2021-05-01T00:00:00.000+09:00",
-    "description": "岡山市北区で毎月開催"
+    "description": "岡山市北区で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 269,
@@ -3009,7 +3259,8 @@
     "is_active": true,
     "prefecture": "佐賀",
     "created_at": "2021-05-03T00:00:00.000+09:00",
-    "description": "佐賀市で毎月開催"
+    "description": "佐賀市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 270,
@@ -3021,7 +3272,8 @@
     "is_active": true,
     "prefecture": "山口",
     "created_at": "2021-05-13T00:00:00.000+09:00",
-    "description": "長門市しごとセンターで第4土曜に開催"
+    "description": "長門市しごとセンターで第4土曜に開催",
+    "inactivated_at": null
   },
   {
     "id": 271,
@@ -3033,7 +3285,8 @@
     "is_active": false,
     "prefecture": "大阪",
     "created_at": "2021-06-20T00:00:00.000+09:00",
-    "description": "柏原市で毎月開催"
+    "description": "柏原市で毎月開催",
+    "inactivated_at": "2021-07-19T18:19:37.000+09:00"
   },
   {
     "id": 272,
@@ -3045,7 +3298,8 @@
     "is_active": true,
     "prefecture": "大阪",
     "created_at": "2021-02-28T00:00:00.000+09:00",
-    "description": "藤井寺市/柏原市で毎月開催"
+    "description": "藤井寺市/柏原市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 273,
@@ -3057,7 +3311,8 @@
     "is_active": true,
     "prefecture": "福岡",
     "created_at": "2021-08-16T00:00:00.000+09:00",
-    "description": "春日市で毎月開催"
+    "description": "春日市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 274,
@@ -3069,7 +3324,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2021-09-14T00:00:00.000+09:00",
-    "description": "千代田区で毎月開催"
+    "description": "千代田区で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 275,
@@ -3081,7 +3337,8 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2021-09-22T00:00:00.000+09:00",
-    "description": "国立市で不定期開催"
+    "description": "国立市で不定期開催",
+    "inactivated_at": "2022-03-16T17:34:16.000+09:00"
   },
   {
     "id": 276,
@@ -3093,7 +3350,8 @@
     "is_active": true,
     "prefecture": "富山",
     "created_at": "2021-10-08T00:00:00.000+09:00",
-    "description": "南砺市で毎月２回開催"
+    "description": "南砺市で毎月２回開催",
+    "inactivated_at": null
   },
   {
     "id": 277,
@@ -3105,7 +3363,8 @@
     "is_active": true,
     "prefecture": "宮城",
     "created_at": "2021-10-18T00:00:00.000+09:00",
-    "description": "富谷市で毎月開催"
+    "description": "富谷市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 278,
@@ -3117,7 +3376,8 @@
     "is_active": true,
     "prefecture": "神奈川",
     "created_at": "2022-01-04T00:00:00.000+09:00",
-    "description": "武蔵小杉、向河原周辺で毎月開催"
+    "description": "武蔵小杉、向河原周辺で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 279,
@@ -3129,7 +3389,8 @@
     "is_active": true,
     "prefecture": "富山",
     "created_at": "2022-03-01T00:00:00.000+09:00",
-    "description": "滑川市で毎月開催"
+    "description": "滑川市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 280,
@@ -3141,7 +3402,8 @@
     "is_active": true,
     "prefecture": "栃木",
     "created_at": "2022-03-09T00:00:00.000+09:00",
-    "description": "那須塩原市で毎月開催"
+    "description": "那須塩原市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 281,
@@ -3153,7 +3415,8 @@
     "is_active": true,
     "prefecture": "広島",
     "created_at": "2022-03-16T00:00:00.000+09:00",
-    "description": "福山市で毎月開催"
+    "description": "福山市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 282,
@@ -3165,7 +3428,8 @@
     "is_active": true,
     "prefecture": "長野",
     "created_at": "2022-03-17T00:00:00.000+09:00",
-    "description": "南木曽町で不定期開催"
+    "description": "南木曽町で不定期開催",
+    "inactivated_at": null
   },
   {
     "id": 283,
@@ -3177,7 +3441,8 @@
     "is_active": false,
     "prefecture": "千葉",
     "created_at": "2022-04-21T00:00:00.000+09:00",
-    "description": "野田市で毎月開催"
+    "description": "野田市で毎月開催",
+    "inactivated_at": "2023-10-26T15:53:42.000+09:00"
   },
   {
     "id": 284,
@@ -3189,7 +3454,8 @@
     "is_active": false,
     "prefecture": "千葉",
     "created_at": "2022-06-17T00:00:00.000+09:00",
-    "description": "八千代市で毎月開催"
+    "description": "八千代市で毎月開催",
+    "inactivated_at": "2025-03-19T17:52:34.000+09:00"
   },
   {
     "id": 285,
@@ -3201,7 +3467,8 @@
     "is_active": true,
     "prefecture": "岐阜",
     "created_at": "2022-08-12T00:00:00.000+09:00",
-    "description": "恵那市で毎月開催"
+    "description": "恵那市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 286,
@@ -3213,7 +3480,8 @@
     "is_active": true,
     "prefecture": "大阪",
     "created_at": "2022-08-28T00:00:00.000+09:00",
-    "description": "池田市石橋で毎月開催"
+    "description": "池田市石橋で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 287,
@@ -3225,7 +3493,8 @@
     "is_active": false,
     "prefecture": "埼玉",
     "created_at": "2022-09-20T00:00:00.000+09:00",
-    "description": "埼玉県所沢市新所沢で毎月開催"
+    "description": "埼玉県所沢市新所沢で毎月開催",
+    "inactivated_at": "2025-03-19T18:09:38.000+09:00"
   },
   {
     "id": 288,
@@ -3237,7 +3506,8 @@
     "is_active": true,
     "prefecture": "神奈川",
     "created_at": "2022-10-10T00:00:00.000+09:00",
-    "description": "横浜市港北区の師岡町で毎月開催"
+    "description": "横浜市港北区の師岡町で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 289,
@@ -3249,7 +3519,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2022-10-23T00:00:00.000+09:00",
-    "description": "港区JR田町駅周辺で毎月開催"
+    "description": "港区JR田町駅周辺で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 290,
@@ -3261,7 +3532,8 @@
     "is_active": true,
     "prefecture": "香川",
     "created_at": "2022-11-02T00:00:00.000+09:00",
-    "description": "高松市紫雲校区を中心に毎月開催"
+    "description": "高松市紫雲校区を中心に毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 291,
@@ -3269,11 +3541,12 @@
     "name": "八尾",
     "logo": "https://coderdojo.jp/img/dojos/yao-yotteco.webp",
     "order": "272124",
-    "counter": 2,
+    "counter": 1,
     "is_active": true,
     "prefecture": "大阪",
     "created_at": "2022-11-18T00:00:00.000+09:00",
-    "description": "八尾市で毎月開催"
+    "description": "八尾市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 292,
@@ -3285,7 +3558,8 @@
     "is_active": true,
     "prefecture": "福島",
     "created_at": "2022-11-27T00:00:00.000+09:00",
-    "description": "二本松市で毎月開催"
+    "description": "二本松市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 293,
@@ -3297,7 +3571,8 @@
     "is_active": true,
     "prefecture": "富山",
     "created_at": "2022-12-04T00:00:00.000+09:00",
-    "description": "舟橋村で毎月2回開催"
+    "description": "舟橋村で毎月2回開催",
+    "inactivated_at": null
   },
   {
     "id": 294,
@@ -3309,7 +3584,8 @@
     "is_active": true,
     "prefecture": "奈良",
     "created_at": "2022-12-12T00:00:00.000+09:00",
-    "description": "平群町で毎月開催"
+    "description": "平群町で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 295,
@@ -3321,7 +3597,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2022-12-16T00:00:00.000+09:00",
-    "description": "港区田町駅周辺で隔月開催"
+    "description": "港区田町駅周辺で隔月開催",
+    "inactivated_at": null
   },
   {
     "id": 296,
@@ -3333,7 +3610,8 @@
     "is_active": true,
     "prefecture": "神奈川",
     "created_at": "2022-12-28T00:00:00.000+09:00",
-    "description": "鎌倉市大船で毎月開催"
+    "description": "鎌倉市大船で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 297,
@@ -3345,7 +3623,8 @@
     "is_active": true,
     "prefecture": "大阪",
     "created_at": "2023-01-19T00:00:00.000+09:00",
-    "description": "大阪市住吉区で毎月開催"
+    "description": "大阪市住吉区で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 298,
@@ -3357,7 +3636,8 @@
     "is_active": true,
     "prefecture": "富山",
     "created_at": "2023-02-24T00:00:00.000+09:00",
-    "description": "新川郡上市町で毎月2回開催"
+    "description": "新川郡上市町で毎月2回開催",
+    "inactivated_at": null
   },
   {
     "id": 299,
@@ -3369,7 +3649,8 @@
     "is_active": true,
     "prefecture": "富山",
     "created_at": "2023-04-28T00:00:00.000+09:00",
-    "description": "高岡市で第2・第4日曜に開催"
+    "description": "高岡市で第2・第4日曜に開催",
+    "inactivated_at": null
   },
   {
     "id": 300,
@@ -3381,7 +3662,8 @@
     "is_active": true,
     "prefecture": "静岡",
     "created_at": "2023-05-16T00:00:00.000+09:00",
-    "description": "磐田市で毎月開催"
+    "description": "磐田市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 301,
@@ -3393,7 +3675,8 @@
     "is_active": true,
     "prefecture": "山口",
     "created_at": "2023-05-22T00:00:00.000+09:00",
-    "description": "岩国市で毎月開催"
+    "description": "岩国市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 302,
@@ -3405,7 +3688,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2023-06-08T00:00:00.000+09:00",
-    "description": "文京区本郷で毎月開催"
+    "description": "文京区本郷で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 303,
@@ -3417,7 +3701,8 @@
     "is_active": true,
     "prefecture": "山形",
     "created_at": "2023-07-12T00:00:00.000+09:00",
-    "description": "鶴岡市で毎月開催"
+    "description": "鶴岡市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 304,
@@ -3429,7 +3714,8 @@
     "is_active": true,
     "prefecture": "愛知",
     "created_at": "2023-07-28T00:00:00.000+09:00",
-    "description": "大府市で毎月1～2回開催"
+    "description": "大府市で毎月1～2回開催",
+    "inactivated_at": null
   },
   {
     "id": 305,
@@ -3441,7 +3727,8 @@
     "is_active": true,
     "prefecture": "兵庫",
     "created_at": "2023-08-02T00:00:00.000+09:00",
-    "description": "神戸市西区で毎月開催"
+    "description": "神戸市西区で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 306,
@@ -3453,7 +3740,8 @@
     "is_active": true,
     "prefecture": "栃木",
     "created_at": "2023-08-02T00:00:00.000+09:00",
-    "description": "足利市で毎月開催"
+    "description": "足利市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 307,
@@ -3465,7 +3753,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2023-08-23T00:00:00.000+09:00",
-    "description": "千代田区秋葉原・末広町駅周辺で毎月開催"
+    "description": "千代田区秋葉原・末広町駅周辺で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 308,
@@ -3477,7 +3766,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2023-08-31T00:00:00.000+09:00",
-    "description": "世田谷区で不定期開催"
+    "description": "世田谷区で不定期開催",
+    "inactivated_at": null
   },
   {
     "id": 309,
@@ -3489,7 +3779,8 @@
     "is_active": true,
     "prefecture": "富山",
     "created_at": "2023-09-07T00:00:00.000+09:00",
-    "description": "黒部市で隔週開催"
+    "description": "黒部市で隔週開催",
+    "inactivated_at": null
   },
   {
     "id": 310,
@@ -3501,7 +3792,8 @@
     "is_active": true,
     "prefecture": "大阪",
     "created_at": "2023-09-17T00:00:00.000+09:00",
-    "description": "豊中市大黒町で毎月開催"
+    "description": "豊中市大黒町で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 311,
@@ -3513,7 +3805,8 @@
     "is_active": true,
     "prefecture": "千葉",
     "created_at": "2023-09-18T00:00:00.000+09:00",
-    "description": "柏市で毎月開催"
+    "description": "柏市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 312,
@@ -3525,7 +3818,8 @@
     "is_active": true,
     "prefecture": "千葉",
     "created_at": "2023-11-01T00:00:00.000+09:00",
-    "description": "千葉市の稲毛海岸駅付近で毎月開催"
+    "description": "千葉市の稲毛海岸駅付近で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 313,
@@ -3537,7 +3831,8 @@
     "is_active": false,
     "prefecture": "東京",
     "created_at": "2023-11-07T00:00:00.000+09:00",
-    "description": "大田区平和島で毎月開催"
+    "description": "大田区平和島で毎月開催",
+    "inactivated_at": "2024-06-18T11:45:59.000+09:00"
   },
   {
     "id": 314,
@@ -3549,7 +3844,8 @@
     "is_active": true,
     "prefecture": "兵庫",
     "created_at": "2023-11-12T00:00:00.000+09:00",
-    "description": "明石市で不定期開催"
+    "description": "明石市で不定期開催",
+    "inactivated_at": null
   },
   {
     "id": 315,
@@ -3561,7 +3857,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2023-11-16T00:00:00.000+09:00",
-    "description": "新宿区で毎月開催"
+    "description": "新宿区で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 316,
@@ -3573,7 +3870,8 @@
     "is_active": true,
     "prefecture": "長野",
     "created_at": "2023-12-05T00:00:00.000+09:00",
-    "description": "飯田市で第2土曜開催"
+    "description": "飯田市で第2土曜開催",
+    "inactivated_at": null
   },
   {
     "id": 317,
@@ -3585,7 +3883,8 @@
     "is_active": true,
     "prefecture": "宮城",
     "created_at": "2024-05-01T00:00:00.000+09:00",
-    "description": "仙台市若林区で月2回開催"
+    "description": "仙台市若林区で月2回開催",
+    "inactivated_at": null
   },
   {
     "id": 318,
@@ -3597,7 +3896,8 @@
     "is_active": true,
     "prefecture": "沖縄",
     "created_at": "2024-05-19T00:00:00.000+09:00",
-    "description": "島尻郡南風原町で毎月3回開催"
+    "description": "島尻郡南風原町で毎月3回開催",
+    "inactivated_at": null
   },
   {
     "id": 319,
@@ -3609,7 +3909,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2024-06-02T00:00:00.000+09:00",
-    "description": "中央区で隔月開催"
+    "description": "中央区で隔月開催",
+    "inactivated_at": null
   },
   {
     "id": 320,
@@ -3621,7 +3922,8 @@
     "is_active": true,
     "prefecture": "長野",
     "created_at": "2024-06-17T00:00:00.000+09:00",
-    "description": "長野市で隔月で開催"
+    "description": "長野市で隔月で開催",
+    "inactivated_at": null
   },
   {
     "id": 321,
@@ -3633,7 +3935,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2024-06-10T00:00:00.000+09:00",
-    "description": "大田区蒲田で不定期開催"
+    "description": "大田区蒲田で不定期開催",
+    "inactivated_at": null
   },
   {
     "id": 322,
@@ -3645,7 +3948,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2024-07-09T00:00:00.000+09:00",
-    "description": "狛江市で毎月開催"
+    "description": "狛江市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 323,
@@ -3657,7 +3961,8 @@
     "is_active": true,
     "prefecture": "大阪",
     "created_at": "2024-07-30T00:00:00.000+09:00",
-    "description": "堺市で毎月開催"
+    "description": "堺市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 324,
@@ -3669,7 +3974,8 @@
     "is_active": true,
     "prefecture": "山形",
     "created_at": "2024-08-17T00:00:00.000+09:00",
-    "description": "山形市で毎月開催"
+    "description": "山形市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 325,
@@ -3681,7 +3987,8 @@
     "is_active": true,
     "prefecture": "山形",
     "created_at": "2024-08-17T00:00:00.000+09:00",
-    "description": "村山市で毎月開催"
+    "description": "村山市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 326,
@@ -3693,7 +4000,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2024-08-27T00:00:00.000+09:00",
-    "description": "中央区晴海で毎月開催"
+    "description": "中央区晴海で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 327,
@@ -3705,7 +4013,8 @@
     "is_active": true,
     "prefecture": "和歌山",
     "created_at": "2024-09-19T00:00:00.000+09:00",
-    "description": "有田市で毎月開催"
+    "description": "有田市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 328,
@@ -3717,7 +4026,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2024-10-29T00:00:00.000+09:00",
-    "description": "日野市で毎月開催"
+    "description": "日野市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 329,
@@ -3729,7 +4039,8 @@
     "is_active": true,
     "prefecture": "大阪",
     "created_at": "2024-11-17T00:00:00.000+09:00",
-    "description": "平野区で毎月開催"
+    "description": "平野区で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 330,
@@ -3741,7 +4052,8 @@
     "is_active": true,
     "prefecture": "静岡",
     "created_at": "2024-12-09T00:00:00.000+09:00",
-    "description": "富士宮市で毎月開催"
+    "description": "富士宮市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 331,
@@ -3753,7 +4065,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2024-12-19T00:00:00.000+09:00",
-    "description": "港区港南で毎月開催"
+    "description": "港区港南で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 332,
@@ -3765,7 +4078,8 @@
     "is_active": true,
     "prefecture": "高知",
     "created_at": "2025-01-22T00:00:00.000+09:00",
-    "description": "黒潮町で毎月開催"
+    "description": "黒潮町で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 333,
@@ -3777,7 +4091,8 @@
     "is_active": true,
     "prefecture": "長崎",
     "created_at": "2025-02-04T00:00:00.000+09:00",
-    "description": "長崎市野母崎で週1回、出張可"
+    "description": "長崎市野母崎で週1回、出張可",
+    "inactivated_at": null
   },
   {
     "id": 334,
@@ -3789,7 +4104,8 @@
     "is_active": true,
     "prefecture": "神奈川",
     "created_at": "2025-03-14T00:00:00.000+09:00",
-    "description": "小田原市で不定期開催"
+    "description": "小田原市で不定期開催",
+    "inactivated_at": null
   },
   {
     "id": 335,
@@ -3801,7 +4117,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2025-03-18T00:00:00.000+09:00",
-    "description": "新宿区で毎月開催"
+    "description": "新宿区で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 336,
@@ -3813,7 +4130,8 @@
     "is_active": true,
     "prefecture": "沖縄",
     "created_at": "2025-03-28T00:00:00.000+09:00",
-    "description": "OIST（沖縄科学技術大学院大学）で毎月開催"
+    "description": "OIST（沖縄科学技術大学院大学）で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 337,
@@ -3825,7 +4143,8 @@
     "is_active": true,
     "prefecture": "福島",
     "created_at": "2025-05-09T00:00:00.000+09:00",
-    "description": "磐梯町で毎月開催"
+    "description": "磐梯町で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 338,
@@ -3837,7 +4156,8 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2025-05-26T00:00:00.000+09:00",
-    "description": "青山学院青山キャンパスで毎月開催"
+    "description": "青山学院青山キャンパスで毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 339,
@@ -3849,7 +4169,8 @@
     "is_active": true,
     "prefecture": "福岡",
     "created_at": "2025-06-11T00:00:00.000+09:00",
-    "description": "福岡市早良区で毎月開催"
+    "description": "福岡市早良区で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 340,
@@ -3861,7 +4182,8 @@
     "is_active": true,
     "prefecture": "兵庫",
     "created_at": "2025-06-28T00:00:00.000+09:00",
-    "description": "川西市で毎月開催"
+    "description": "川西市で毎月開催",
+    "inactivated_at": null
   },
   {
     "id": 341,
@@ -3873,6 +4195,7 @@
     "is_active": true,
     "prefecture": "東京",
     "created_at": "2025-07-20T00:00:00.000+09:00",
-    "description": "港区赤坂で隔週開催"
+    "description": "港区赤坂で隔週開催",
+    "inactivated_at": null
   }
 ]
