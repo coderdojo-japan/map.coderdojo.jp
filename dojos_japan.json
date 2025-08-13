@@ -4197,5 +4197,31 @@
     "created_at": "2025-07-20T00:00:00.000+09:00",
     "description": "港区赤坂で隔週開催",
     "inactivated_at": null
+  },
+  {
+    "id": 342,
+    "url": "https://codeclub.org/ja/clubs/4e31fc13-205c-4738-9b62-2722d890f6ed",
+    "name": "砧",
+    "logo": "https://coderdojo.jp/img/dojos/default.webp",
+    "order": "131121",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "東京",
+    "created_at": "2025-08-12T00:00:00.000+09:00",
+    "description": "世田谷区で毎月開催",
+    "inactivated_at": null
+  },
+  {
+    "id": 343,
+    "url": "https://koto-ictclub.net/dojo/",
+    "name": "播磨科学公園都市",
+    "logo": "https://coderdojo.jp/img/dojos/default.webp",
+    "order": "284815",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "兵庫",
+    "created_at": "2025-08-13T20:44:46.360+09:00",
+    "description": "赤穂郡上郡町で毎月開催",
+    "inactivated_at": null
   }
 ]
