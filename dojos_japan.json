@@ -768,16 +768,16 @@
   },
   {
     "id": 62,
-    "url": "https://www.instagram.com/coderdojo.ise/",
+    "url": "https://coderdojo-ise.jimdofree.com/",
     "name": "伊勢",
     "logo": "https://coderdojo.jp/img/dojos/ise.webp",
     "order": "242039",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "三重",
     "created_at": "2016-12-22T00:00:00.000+09:00",
     "description": "伊勢市で毎月開催",
-    "inactivated_at": null
+    "inactivated_at": "2025-04-21T00:00:00.000+09:00"
   },
   {
     "id": 64,
