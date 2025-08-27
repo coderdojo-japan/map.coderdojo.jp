@@ -3495,7 +3495,7 @@
     "latitude": 39.8762472,
     "longitude": -86.0809972,
     "countryCode": "US",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "us/indianapolis-in/indy-damone-means-business",
     "id": "3d280fe9-e639-401d-bc88-ad738a046678"
   },
@@ -4838,6 +4838,16 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "us/huntersville-nc/lake-norman-charlotte",
     "id": "559a0595-7cb5-47d6-bb7f-0bccb3598eb8"
+  },
+  {
+    "brand": "CODERDOJO",
+    "name": "Wiveliscombe @ Digi +",
+    "latitude": 51.0395204,
+    "longitude": -3.3114052,
+    "countryCode": "GB",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": "gb/wiveliscombe-taunton/wiveliscombe-digi",
+    "id": "55b10634-5593-4c36-a16f-1b9fc2508cde"
   },
   {
     "brand": "CODERDOJO",
@@ -9275,7 +9285,7 @@
     "latitude": 38.2433181,
     "longitude": 21.73136450000004,
     "countryCode": "GR",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "gr/patras-achaea/patras",
     "id": "9f948093-92f6-412c-9e71-69a496183ce5"
   },
@@ -11285,7 +11295,7 @@
     "latitude": 35.3356225,
     "longitude": 25.1308276,
     "countryCode": "GR",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": null,
     "id": "bfa73680-76f9-43c4-add8-02f7c8850816"
   },
@@ -11735,7 +11745,7 @@
     "latitude": 51.5587644,
     "longitude": -0.2811517999999751,
     "countryCode": "GB",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "gb/wembley-middlesex/wembley-park",
     "id": "c7844bce-5df1-49be-aac3-7f2f24ece389"
   },
@@ -11885,7 +11895,7 @@
     "latitude": 11.579114502650777,
     "longitude": 104.88802626162419,
     "countryCode": "KH",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "kh/phnom-penh/phnom-penh-cambodia-can-code",
     "id": "c9d8015e-1f1f-44c5-80ad-56fe62bdc9b1"
   },
@@ -12085,7 +12095,7 @@
     "latitude": 44.3856395,
     "longitude": 28.38034730000004,
     "countryCode": "RO",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "ro/nicolae-balcescu/clubul-de-informatica",
     "id": "cdb3b3d8-eb7e-4470-b0c3-f489dba1d480"
   },
@@ -13508,6 +13518,16 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "gb/maidstone/maidstone-mggs",
     "id": "e4112ab3-2d0d-4d90-b51e-6f99ff97f538"
+  },
+  {
+    "brand": "CODERDOJO",
+    "name": "Ciberistas@AxtaTeen.Csoftmty",
+    "latitude": 25.7127348,
+    "longitude": -100.3471425,
+    "countryCode": "MX",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": "mx/monterrey-nuevo-leon/ciberistas-axtateen-csoftmty",
+    "id": "e422ad18-7fff-4028-b933-31c11c5321fe"
   },
   {
     "brand": "CODERDOJO",
