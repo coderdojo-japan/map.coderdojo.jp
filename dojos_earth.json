@@ -3231,6 +3231,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Accra @ Dominion Centre",
+    "latitude": 5.6518931,
+    "longitude": -0.09275000000002365,
+    "countryCode": "GH",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": "gh/spintex-accra-ghana/accra-dominion-centre",
+    "id": "386a0504-8c99-4358-ad53-4ff7e6695f68"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "Alkmaar @ Bibliotheek Kennemerwaard",
     "latitude": 52.6335189,
     "longitude": 4.743240300000025,
@@ -5215,7 +5225,7 @@
     "latitude": 50.2328856366582,
     "longitude": -5.227207846188912,
     "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "gb/redruth/redruth-library",
     "id": "5b14872f-abfb-4c4c-8f41-05de94c9a958"
   },
