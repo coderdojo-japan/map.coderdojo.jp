@@ -10491,16 +10491,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Isle of Man Code Club @ Eagle Lab",
-    "latitude": 54.1491659,
-    "longitude": -4.479261199999996,
-    "countryCode": "IM",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "im/douglas/isle-of-man-code-club-eagle-lab",
-    "id": "b24eced1-81aa-4c06-93b5-98f97da3c3a1"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Oxford@CSworks",
     "latitude": 51.77346739999999,
     "longitude": -1.2590535,
