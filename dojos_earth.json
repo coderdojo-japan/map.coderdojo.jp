@@ -1721,9 +1721,9 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Englewood, Florida@Envoi",
-    "latitude": 26.9737132,
-    "longitude": -82.3547351,
+    "name": "Englewood, Florida @ Mortner Labs",
+    "latitude": 26.948428666755373,
+    "longitude": -82.32432364473752,
     "countryCode": "US",
     "status": "RUNNING_SESSIONS",
     "urlSlug": "us/englewood-fl/englewood-florida-envoi",
@@ -3888,16 +3888,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "jp/higashinada-ward-hy-go-prefecture/nada-hyogo",
     "id": "43574426-3330-48b6-bba9-1a7f85e89f3e"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Dumbravita@SmartBees",
-    "latitude": 45.81447357869358,
-    "longitude": 21.229019165039063,
-    "countryCode": "RO",
-    "status": "PLANNING",
-    "urlSlug": "ro/dumbravita/dumbravita-smartbees",
-    "id": "436ece03-7534-4f89-a87c-e8c348e66be7"
   },
   {
     "brand": "CODERDOJO",
@@ -12332,8 +12322,8 @@
   {
     "brand": "CODERDOJO",
     "name": "Toyama Minami@ SHIN時代塾",
-    "latitude": 36.65680831032831,
-    "longitude": 137.2306252,
+    "latitude": 36.65371800684771,
+    "longitude": 137.24370787615578,
     "countryCode": "JP",
     "status": "RUNNING_SESSIONS",
     "urlSlug": null,
