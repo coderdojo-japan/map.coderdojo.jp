@@ -4231,21 +4231,11 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Dublin 18 @ Mastercard",
-    "latitude": 53.2720172,
-    "longitude": -6.1993426,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/dublin/dublin-18-mastercard",
-    "id": "4b671e77-88ca-4b13-8366-174e96d0c879"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Tralee@TomCreanCentre",
     "latitude": 52.2867239,
     "longitude": -9.669582799999999,
     "countryCode": "IE",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "ie/tralee-county-kerry/tralee-tomcreancentre",
     "id": "4b87084f-739b-40c1-a045-08c9914f3ea6"
   },
@@ -5825,7 +5815,7 @@
     "latitude": 48.76097129999999,
     "longitude": 16.8815304,
     "countryCode": "CZ",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "cz/breclav/breclav-mestska-knihovna-breclav",
     "id": "63cc1232-d393-467f-a891-82f9c6c650ef"
   },
