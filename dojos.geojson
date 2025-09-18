@@ -5946,21 +5946,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.1993426,
-          53.2720172
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dublin 18 @ Mastercard<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin/dublin-18-mastercard'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -9.669582799999999,
           52.2867239
         ]
