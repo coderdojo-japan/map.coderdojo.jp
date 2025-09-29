@@ -3171,16 +3171,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Dublin, Ireland @ Workhuman",
-    "latitude": 53.3296546,
-    "longitude": -6.371703399999999,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/dublin/dublin-ireland-workhuman",
-    "id": "376e69eb-d92d-49ac-9653-71985d865e73"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Claremont WA @ Freshwater Bay Primary School",
     "latitude": -31.985870168908992,
     "longitude": 115.78250080347061,
@@ -4561,16 +4551,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Dun Laoghaire",
-    "latitude": 53.279764310014826,
-    "longitude": -6.153137683868408,
-    "countryCode": "IE",
-    "status": "PLANNING",
-    "urlSlug": "ie/dublin/dublin/dun-laoghaire",
-    "id": "5120ae92-6473-4a6d-b32e-fff142be8cab"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Utrecht Overvecht",
     "latitude": 52.114879790890136,
     "longitude": 5.111110210418701,
@@ -4598,16 +4578,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "cd/western-region/ibanda/bukavu-dojo",
     "id": "51855389-5316-49fa-9907-9a2f688ca4f9"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Galway @ SolutionLion",
-    "latitude": 53.27056400000001,
-    "longitude": -9.0566819,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/galway/galway-solutionlion",
-    "id": "5193ad69-bca4-4a19-b720-cd342d67a29d"
   },
   {
     "brand": "CODERDOJO",
@@ -7080,6 +7050,16 @@
     "id": "7b00859a-d4c5-4ed0-bfbf-2cb8a36ad535"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": "CoderDojo新大阪",
+    "latitude": 34.7320639,
+    "longitude": 135.5036897,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "7b441779-c5ab-45af-8823-1a87e95e5d6a"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "Concord, North Carolina @ CodeNow",
     "latitude": 35.431148,
@@ -7088,16 +7068,6 @@
     "status": "PLANNING",
     "urlSlug": "us/concord-nc/concord-north-carolina-codenow",
     "id": "7b59f883-1f57-40da-97c7-9d11f87a3c3c"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Dublin @ Iveagh Club Coders Kevin Street",
-    "latitude": 53.3374633,
-    "longitude": -6.2698602,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/dublin/dublin-iveagh-club-coders-kevin-street",
-    "id": "7b62d27e-69cd-4b49-9845-4d89ba230e4b"
   },
   {
     "brand": "CODERDOJO",
@@ -12608,16 +12578,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "nl/deventer/deventer",
     "id": "d5bae928-9ac5-40f4-9d6b-ebba6a39ee6f"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Dublin @ Deanrath Family Centre",
-    "latitude": 53.31051427463035,
-    "longitude": -6.311417425319667,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/clondalkin-county-dublin/dublin-deanrath-family-centre",
-    "id": "d5eea74f-465a-4017-83a6-d55bdf09731f"
   },
   {
     "brand": "CODERDOJO",
