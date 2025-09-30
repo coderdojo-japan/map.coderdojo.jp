@@ -3935,7 +3935,7 @@
     "latitude": 53.34305269999999,
     "longitude": -6.2505356,
     "countryCode": "IE",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "ie/dublin/dublin-2-trinity-college-dublin",
     "id": "45f22ccc-f1c7-4015-be5a-2757a8670007"
   },
@@ -4221,9 +4221,9 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Tralee@TomCreanCentre",
-    "latitude": 52.2867239,
-    "longitude": -9.669582799999999,
+    "name": "Coderdojo Kerry",
+    "latitude": 52.28618247976489,
+    "longitude": -9.67294314689098,
     "countryCode": "IE",
     "status": "RUNNING_SESSIONS",
     "urlSlug": "ie/tralee-county-kerry/tralee-tomcreancentre",
@@ -7018,16 +7018,6 @@
     "status": "PLANNING",
     "urlSlug": "in/powai-mumbai/powai-makerghat",
     "id": "7aba0ea8-4aaf-43b1-bb7f-0c4ddfef6edb"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "MountainviewDublin@VodafoneIreland",
-    "latitude": 53.271797,
-    "longitude": -6.202081000000021,
-    "countryCode": "IE",
-    "status": "PLANNING",
-    "urlSlug": "ie/leopardstown/mountainviewdublin-vodafoneireland",
-    "id": "7ac46b82-ea99-41a7-8a5d-0fb2f9e87f43"
   },
   {
     "brand": "CODERDOJO",
