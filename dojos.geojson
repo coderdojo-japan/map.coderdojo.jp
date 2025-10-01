@@ -3943,7 +3943,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-komae.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/komae.webp' alt='狛江' loading='lazy' width='100px' /></a><br><b>狛江</b><br>狛江市で毎月開催<br><a href='https://coderdojo-komae.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-komae.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/komae.webp' alt='狛江' loading='lazy' width='100px' /></a><br><b>狛江</b><br>狛江市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-komae.connpass.com/event/370823/' target='_blank' rel='noopener'>10月12日</a><br><a href='https://coderdojo-komae.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -4033,7 +4033,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='http://coderdojo-saitama.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/coderdojo.webp' alt='さいたま' loading='lazy' width='100px' /></a><br><b>さいたま</b><br>さいたま市で毎月開催<br><a href='http://coderdojo-saitama.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='http://coderdojo-saitama.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/coderdojo.webp' alt='さいたま' loading='lazy' width='100px' /></a><br><b>さいたま</b><br>さいたま市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-saitama.connpass.com/event/370927/' target='_blank' rel='noopener'>10月18日</a><br><a href='http://coderdojo-saitama.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -15591,21 +15591,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.3361617,
-          51.9108157
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Glounthaune  @ Community Center<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/glounthaune-village-county-cork/glounthaune-community-center'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           77.5671423,
           13.0218597
         ]
@@ -16678,7 +16663,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojoyabuki.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/yabuki.webp' alt='矢吹' loading='lazy' width='100px' /></a><br><b>矢吹</b><br>矢吹町で毎月開催<br><a href='https://coderdojoyabuki.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojoyabuki.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/yabuki.webp' alt='矢吹' loading='lazy' width='100px' /></a><br><b>矢吹</b><br>矢吹町で毎月開催<br>&rarr; 次回: <a href='https://coderdojoyabuki.connpass.com/event/370915/' target='_blank' rel='noopener'>10月19日</a><br><a href='https://coderdojoyabuki.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -18028,7 +18013,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/kodaira.webp' alt='こだいら' loading='lazy' width='100px' /></a><br><b>こだいら</b><br>小平市で隔週開催<br>&rarr; 次回: <a href='https://coderdojo-jp-kodaira.connpass.com/event/366893/' target='_blank' rel='noopener'>10月1日</a><br><a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/kodaira.webp' alt='こだいら' loading='lazy' width='100px' /></a><br><b>こだいら</b><br>小平市で隔週開催<br>&rarr; 次回: <a href='https://coderdojo-jp-kodaira.connpass.com/event/366895/' target='_blank' rel='noopener'>10月15日</a><br><a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {

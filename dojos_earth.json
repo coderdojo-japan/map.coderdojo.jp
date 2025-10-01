@@ -11201,16 +11201,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Glounthaune  @ Community Center",
-    "latitude": 51.9108157,
-    "longitude": -8.3361617,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/glounthaune-village-county-cork/glounthaune-community-center",
-    "id": "bed2d89f-7888-497b-91a8-d32ac3394a9c"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Nahar Center for Robotics and Prototyping, IISc",
     "latitude": 13.0218597,
     "longitude": 77.5671423,
