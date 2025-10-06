@@ -4161,21 +4161,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.457287987367181,
-          51.89775066562675
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Cork @ Qualcomm<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/cork/cork-qualcomm-1'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           132.7014622,
           33.7576781
         ]
@@ -10693,7 +10678,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://sites.google.com/coderdojo.com/anjo/' target='_blank' rel='noopener'>  <img src='/images/dojos/anjo.webp' alt='安城' loading='lazy' width='100px' /></a><br><b>安城</b><br>安城市で第3土曜<br>に開催<br><a href='https://sites.google.com/coderdojo.com/anjo/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://sites.google.com/coderdojo.com/anjo/' target='_blank' rel='noopener'>  <img src='/images/dojos/anjo.webp' alt='安城' loading='lazy' width='100px' /></a><br><b>安城</b><br>安城市で第3土曜<br>に開催<br>&rarr; 次回: <a href='https://coderdojo-anjo.doorkeeper.jp/events/186828' target='_blank' rel='noopener'>10月18日</a><br><a href='https://sites.google.com/coderdojo.com/anjo/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -12643,7 +12628,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojotomiyajp.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/tomiya.webp' alt='富谷' loading='lazy' width='100px' /></a><br><b>富谷</b><br>富谷市で毎月開催<br><a href='https://coderdojotomiyajp.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojotomiyajp.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/tomiya.webp' alt='富谷' loading='lazy' width='100px' /></a><br><b>富谷</b><br>富谷市で毎月開催<br>&rarr; 次回: <a href='https://coderdojotomiya.doorkeeper.jp/events/191492' target='_blank' rel='noopener'>10月18日</a><br><a href='https://coderdojotomiyajp.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -16881,8 +16866,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.233839988708496,
-          53.304569786044546
+          -6.223354686844159,
+          53.30839548572857
         ]
       },
       "properties": {
@@ -20593,7 +20578,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>  <img src='/images/dojos/hitachinaka.webp' alt='ひたちなか' loading='lazy' width='100px' /></a><br><b>ひたちなか</b><br>ひたちなか市で毎<br>月開催<br><a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>  <img src='/images/dojos/hitachinaka.webp' alt='ひたちなか' loading='lazy' width='100px' /></a><br><b>ひたちなか</b><br>ひたちなか市で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojo-hitachinaka.connpass.com/event/371690/' target='_blank' rel='noopener'>11月3日</a><br><a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {

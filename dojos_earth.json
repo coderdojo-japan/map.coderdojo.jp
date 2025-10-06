@@ -2971,16 +2971,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Cork @ Qualcomm",
-    "latitude": 51.89775066562675,
-    "longitude": -8.457287987367181,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/cork/cork-qualcomm-1",
-    "id": "353099e3-9ebf-4471-821a-aecde37975a8"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Iyo, Ehime",
     "latitude": 33.7576781,
     "longitude": 132.7014622,
@@ -12142,10 +12132,10 @@
   {
     "brand": "CODERDOJO",
     "name": "Code Sprouts CoderDojo",
-    "latitude": 53.304569786044546,
-    "longitude": -6.233839988708496,
+    "latitude": 53.30839548572857,
+    "longitude": -6.223354686844159,
     "countryCode": "IE",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "ie/dublin/dublin-icci",
     "id": "cf050ae9-dfd0-4d73-9da4-ce4259c483e8"
   },
