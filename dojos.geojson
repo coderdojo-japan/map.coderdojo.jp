@@ -1918,7 +1918,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Olomouc@Vědecká knihovna v Olomouci<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/cz/olomouc/olomouc-vedecka-knihovna-v-olomouci'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Olomouc@SPŠE Olomouc<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/cz/olomouc/olomouc-vedecka-knihovna-v-olomouci'>連絡先を見る</a>"
       }
     },
     {
@@ -6043,7 +6043,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-ikeda.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='池田石橋' loading='lazy' width='100px' /></a><br><b>池田石橋</b><br>池田市石橋で毎月開催<br><a href='https://coderdojo-ikeda.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-ikeda.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='池田石橋' loading='lazy' width='100px' /></a><br><b>池田石橋</b><br>池田市石橋で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-ikeda.connpass.com/event/372552/' target='_blank' rel='noopener'>11月3日</a><br><a href='https://coderdojo-ikeda.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -9208,7 +9208,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojoshirakawa.hateblo.jp/entry/top' target='_blank' rel='noopener'>  <img src='/images/dojos/shirakawa.webp' alt='白河' loading='lazy' width='100px' /></a><br><b>白河</b><br>白河市で毎月開催<br><a href='https://coderdojoshirakawa.hateblo.jp/entry/top' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojoshirakawa.hateblo.jp/entry/top' target='_blank' rel='noopener'>  <img src='/images/dojos/shirakawa.webp' alt='白河' loading='lazy' width='100px' /></a><br><b>白河</b><br>白河市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-shirakawa.doorkeeper.jp/events/190921' target='_blank' rel='noopener'>11月1日</a><br><a href='https://coderdojoshirakawa.hateblo.jp/entry/top' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
