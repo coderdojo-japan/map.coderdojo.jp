@@ -8231,6 +8231,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Bethpage @ North Sumner Elementary Library",
+    "latitude": 36.595206,
+    "longitude": -86.36060710000001,
+    "countryCode": "US",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "8f9fe4c5-738e-4e8b-b847-43b8e7c74f9a"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "Morooka, Yokohama @ Morooka Community House",
     "latitude": 35.525441948991634,
     "longitude": 139.64577913284302,
