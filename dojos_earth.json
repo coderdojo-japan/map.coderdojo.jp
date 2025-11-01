@@ -10611,16 +10611,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Quantum Code Club",
-    "latitude": 53.56956810000001,
-    "longitude": -2.8955733999999893,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/ormskirk/quantum-code-club",
-    "id": "b55efc6c-7079-48ae-bca8-27d226fd4978"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "豊中南",
     "latitude": 34.7401963,
     "longitude": 135.470246,
