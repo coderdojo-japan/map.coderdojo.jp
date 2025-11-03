@@ -9885,7 +9885,7 @@
     "latitude": 53.201319217066086,
     "longitude": -8.129872191332993,
     "countryCode": "IE",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "ie/galway/eyrecourt-ns-eyrecourt-ballinasloe-co-galway/eyrecourt",
     "id": "aa3dd322-a55b-42e4-b649-286b18f59edb"
   },
@@ -14265,7 +14265,7 @@
     "latitude": 53.7717969,
     "longitude": -2.710726,
     "countryCode": "GB",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": null,
     "id": "f2149276-4444-487f-bdc5-b3108619a0b9"
   },
@@ -14648,6 +14648,16 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "jp/chuo-city-tokyo/tokyo-chuo-openness",
     "id": "f7c90845-33b4-4b3d-b8bf-ad021ddcbb74"
+  },
+  {
+    "brand": "CODERDOJO",
+    "name": "Clonskeagh, Ireland @ Inflight Dublin",
+    "latitude": 53.31215719999999,
+    "longitude": -6.233986400000049,
+    "countryCode": "IE",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": "ie/clonskeagh-county-dublin/clonskeagh-ireland-inflight-dublin",
+    "id": "f7fd5ae3-ff00-4e44-aac8-b581eb1ffeef"
   },
   {
     "brand": "CODERDOJO",
