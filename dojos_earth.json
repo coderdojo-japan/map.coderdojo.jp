@@ -5110,6 +5110,16 @@
     "id": "59d7af4e-302e-4c9c-afdb-e357e785b04c"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": "CoderDojo丸亀",
+    "latitude": 34.2892642,
+    "longitude": 133.7989169,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "5a08fd01-0aec-496c-a9ad-35092e90a00f"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "新宿(Shinjuku) @ Okubo Regional Center",
     "latitude": 35.701564,
