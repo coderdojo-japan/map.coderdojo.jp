@@ -4161,16 +4161,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Kőbánya, Budapest @ Vault 1337",
-    "latitude": 47.4888273,
-    "longitude": 19.132817499999987,
-    "countryCode": "HU",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "hu/budapest/kobanya-budapest-vault-1-33-7",
-    "id": "4aacf000-1299-4e46-a54e-03a95ba50556"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Sunshine Coast @ Noosa Library",
     "latitude": -26.401595211023555,
     "longitude": 153.05007576942444,
@@ -4628,16 +4618,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "ie/corrandulla-county-galway/corrandulla-national-school",
     "id": "528c38d8-180a-48a5-9dae-aeb178fc8f01"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Dojomxp (coderdojo Malpensa)",
-    "latitude": 45.68088539721451,
-    "longitude": 8.7114028111981,
-    "countryCode": "IT",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "it/gallarate-province-of-varese/dojomxp-coderdojo-malpensa",
-    "id": "52b623b0-53b3-47c6-893f-ebe0b38265f5"
   },
   {
     "brand": "CODERDOJO",
