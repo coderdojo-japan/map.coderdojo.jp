@@ -12540,6 +12540,16 @@
     "id": "d5bae928-9ac5-40f4-9d6b-ebba6a39ee6f"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": "CoderDojo南会津",
+    "latitude": 37.2004629,
+    "longitude": 139.7737687,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "d600a123-6181-418a-80ee-20a25d9af6e1"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "安曇野",
     "latitude": 36.3086135,
