@@ -4821,16 +4821,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Minneapolis, MN (Twin Cities) @ MCTC",
-    "latitude": 44.97243,
-    "longitude": -93.284446,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/minnesota/minneapolis-mn/minneapolis-mn-twin-cities-mctc",
-    "id": "560da0e5-c9f3-4cb2-abdd-91120e4c6aad"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Mizonokuchi",
     "latitude": 35.6045698,
     "longitude": 139.60909549999997,
@@ -9798,16 +9788,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "us/milpitas-ca/milpitas-california-milpitas-public-library",
     "id": "a96a251b-ab3c-42ba-ba84-d5ad40eee4e6"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Rebecca CoderDojo",
-    "latitude": 44.9724377,
-    "longitude": -93.28435360000003,
-    "countryCode": "US",
-    "status": "PLANNING",
-    "urlSlug": "us/minneapolis-mn/rebecca-coderdojo",
-    "id": "a9864189-719c-4b7c-8263-1be5716a1ac0"
   },
   {
     "brand": "CODERDOJO",
