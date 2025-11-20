@@ -8668,7 +8668,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojoiida.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='飯田' loading='lazy' width='100px' /></a><br><b>飯田</b><br>飯田市で第2土曜開催<br><a href='https://coderdojoiida.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojoiida.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='飯田' loading='lazy' width='100px' /></a><br><b>飯田</b><br>飯田市で第2土曜開催<br>&rarr; 次回: <a href='https://coderdojoiida.connpass.com/event/376547/' target='_blank' rel='noopener'>12月13日</a><br><a href='https://coderdojoiida.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -18283,7 +18283,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://twitter.com/CoderDojoSikatu' target='_blank' rel='noopener'>  <img src='/images/dojos/shikatsu.webp' alt='師勝' loading='lazy' width='100px' /></a><br><b>師勝</b><br>北名古屋市で第2<br>木曜に開催<br><a href='https://twitter.com/CoderDojoSikatu' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://twitter.com/CoderDojoSikatu' target='_blank' rel='noopener'>  <img src='/images/dojos/shikatsu.webp' alt='師勝' loading='lazy' width='100px' /></a><br><b>師勝</b><br>北名古屋市で第2<br>木曜に開催<br>&rarr; 次回: <a href='https://coderdojo-shikatsu.connpass.com/event/376541/' target='_blank' rel='noopener'>11月22日</a><br><a href='https://twitter.com/CoderDojoSikatu' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
