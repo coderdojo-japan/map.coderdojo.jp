@@ -1470,6 +1470,16 @@
     "id": "1a52a278-5ceb-4ca2-aca2-c76996c3393a"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": "CoderDojo八女",
+    "latitude": 33.20941641677492,
+    "longitude": 130.58926123030565,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "1a5ece9e-b149-4cd1-b05f-9a3b8b39bb7a"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "Bergen @ Bibliotheek Kennemerwaard",
     "latitude": 52.6696633,
