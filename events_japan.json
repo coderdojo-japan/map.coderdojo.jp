@@ -137,8 +137,8 @@
     "event_end_at": "2025-12-07T21:00:00.000+09:00",
     "event_url": "https://coderdojo-nishinomiya.doorkeeper.jp/events/190872",
     "prefecture": "大阪",
-    "participants": 23,
-    "event_update_at": "2025-11-26T21:09:00.442+09:00",
+    "participants": 22,
+    "event_update_at": "2025-11-27T20:17:37.297+09:00",
     "address": "大阪府大阪市北区大深江町3-1 グランフロント大阪 タワーC 16階",
     "place": "gusuku Ashibinaa OSAKA（アールスリーインスティテュート）",
     "limit": 0
@@ -154,10 +154,10 @@
     "event_url": "https://coderdojo-akashi.connpass.com/event/375571/",
     "prefecture": "兵庫",
     "participants": 1,
-    "event_update_at": "2025-11-18T16:40:26.000+09:00",
+    "event_update_at": "2025-11-27T14:15:50.000+09:00",
     "address": "〒673-0005 兵庫県明石市小久保１丁目３−３ AQUA西明石 103",
     "place": "ペイントワークハウスKNOT（ノット）",
-    "limit": 2
+    "limit": 1
   },
   {
     "id": 54,
@@ -377,7 +377,7 @@
     "event_end_at": "2025-12-14T12:00:00.000+09:00",
     "event_url": "https://coderdojo-kashii.connpass.com/event/375176/",
     "prefecture": "福岡",
-    "participants": 3,
+    "participants": 4,
     "event_update_at": "2025-11-22T10:01:05.000+09:00",
     "address": "福岡市東区千早4丁目21番45号",
     "place": "なみきスクエア　和室",
@@ -560,6 +560,22 @@
     "limit": null
   },
   {
+    "id": 216,
+    "name": "那覇",
+    "url": "https://coderdojo-naha.doorkeeper.jp/",
+    "event_id": 9202,
+    "event_title": "第60回 CoderDojo 那覇 (現地開催)",
+    "event_date": "2025-12-06T10:00:00.000+09:00",
+    "event_end_at": "2025-12-06T12:00:00.000+09:00",
+    "event_url": "https://coderdojo-naha.doorkeeper.jp/events/193191",
+    "prefecture": "沖縄",
+    "participants": 2,
+    "event_update_at": "2025-11-27T15:25:50.171+09:00",
+    "address": "〒900-0004 沖縄県那覇市銘苅2-3-6",
+    "place": "那覇市IT創造館、IT研修室",
+    "limit": 5
+  },
+  {
     "id": 218,
     "name": "犬山",
     "url": "https://coderdojo-inuyama.rgr.jp/",
@@ -585,8 +601,8 @@
     "event_end_at": "2025-11-30T17:00:00.000+09:00",
     "event_url": "https://coderdojo-matsuyama.doorkeeper.jp/events/193183",
     "prefecture": "愛媛",
-    "participants": 1,
-    "event_update_at": "2025-11-26T22:43:55.674+09:00",
+    "participants": 5,
+    "event_update_at": "2025-11-27T13:41:52.075+09:00",
     "address": "〒790-0012  愛媛県松山市湊町4丁目10−6 BLESSビル3F",
     "place": "コドモノイバショ",
     "limit": 8
@@ -762,10 +778,10 @@
     "event_url": "https://coderdojonagato.connpass.com/event/371689/",
     "prefecture": "山口",
     "participants": 11,
-    "event_update_at": "2025-11-22T18:01:12.000+09:00",
+    "event_update_at": "2025-11-27T17:41:15.000+09:00",
     "address": "山口県長門市仙崎312-1",
     "place": "長門市しごとセンター",
-    "limit": 21
+    "limit": 22
   },
   {
     "id": 274,
