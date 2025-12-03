@@ -3081,16 +3081,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Fiuggi",
-    "latitude": 41.804406044244935,
-    "longitude": 13.218883574008942,
-    "countryCode": "IT",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "it/fiuggi-province-of-frosinone/fiuggi",
-    "id": "35ee1e01-6e02-4916-bf61-6168a310091d"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Calw @ C-Hack",
     "latitude": 48.7134747,
     "longitude": 8.738272999999936,
@@ -3645,7 +3635,7 @@
     "latitude": 55.0062362,
     "longitude": -7.3236107000000175,
     "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "gb/derry/derry-university-of-ulster-magee-mf-building",
     "id": "3f28e68f-12c5-4908-960b-da00fc127d18"
   },
@@ -4568,16 +4558,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "cd/western-region/ibanda/bukavu-dojo",
     "id": "51855389-5316-49fa-9907-9a2f688ca4f9"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "South Brunswick, NJ @ SBPL",
-    "latitude": 40.3838573,
-    "longitude": -74.530399,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/south-brunswick-township-nj/south-brunswick-nj-sbpl",
-    "id": "51aee153-d943-4bfe-a429-da6716dd4ea6"
   },
   {
     "brand": "CODERDOJO",
