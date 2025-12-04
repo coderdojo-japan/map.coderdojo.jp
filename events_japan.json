@@ -57,8 +57,8 @@
     "event_end_at": "2025-12-25T18:00:00.000+09:00",
     "event_url": "https://coderdojo-toyohashi.doorkeeper.jp/events/193145",
     "prefecture": "愛知",
-    "participants": 7,
-    "event_update_at": "2025-12-02T15:30:27.639+09:00",
+    "participants": 8,
+    "event_update_at": "2025-12-03T09:16:00.037+09:00",
     "address": "〒440-0016 愛知県豊橋市牛川町松下２０−１",
     "place": "豊橋創造大学D22ゼミ室",
     "limit": 18
@@ -74,7 +74,7 @@
     "event_url": "https://tempaku.connpass.com/event/375551/",
     "prefecture": "愛知",
     "participants": 2,
-    "event_update_at": "2025-11-21T23:32:23.000+09:00",
+    "event_update_at": "2025-12-03T20:08:07.000+09:00",
     "address": "〒468-0027 愛知県名古屋市天白区天白町島田黒石4050",
     "place": "天白生涯学習センターIT室",
     "limit": 10
@@ -121,8 +121,8 @@
     "event_end_at": "2025-12-07T21:00:00.000+09:00",
     "event_url": "https://coderdojo-nishinomiya.doorkeeper.jp/events/190872",
     "prefecture": "大阪",
-    "participants": 26,
-    "event_update_at": "2025-12-02T10:16:34.620+09:00",
+    "participants": 27,
+    "event_update_at": "2025-12-03T20:06:19.519+09:00",
     "address": "大阪府大阪市北区大深江町3-1 グランフロント大阪 タワーC 16階",
     "place": "gusuku Ashibinaa OSAKA（アールスリーインスティテュート）",
     "limit": 0
@@ -249,8 +249,8 @@
     "event_end_at": "2025-12-13T12:00:00.000+09:00",
     "event_url": "https://coderdojo-takizawa.doorkeeper.jp/events/193317",
     "prefecture": "岩手",
-    "participants": 1,
-    "event_update_at": "2025-12-02T22:26:35.037+09:00",
+    "participants": 3,
+    "event_update_at": "2025-12-03T13:47:35.269+09:00",
     "address": "岩手県滝沢市巣子152-409",
     "place": "滝沢市IPU第二イノベーションセンター",
     "limit": null
@@ -537,8 +537,8 @@
     "event_end_at": "2025-12-06T12:00:00.000+09:00",
     "event_url": "https://coderdojo-naha.doorkeeper.jp/events/193191",
     "prefecture": "沖縄",
-    "participants": 4,
-    "event_update_at": "2025-12-01T00:44:57.248+09:00",
+    "participants": 5,
+    "event_update_at": "2025-12-03T17:24:44.497+09:00",
     "address": "〒900-0004 沖縄県那覇市銘苅2-3-6",
     "place": "那覇市IT創造館、IT研修室",
     "limit": 5
@@ -665,7 +665,7 @@
     "event_end_at": "2025-12-14T15:00:00.000+09:00",
     "event_url": "https://coderdojo-ome.connpass.com/event/375287/",
     "prefecture": "東京",
-    "participants": 22,
+    "participants": 23,
     "event_update_at": "2025-11-12T21:33:05.000+09:00",
     "address": "東京都青梅市東青梅１丁目１７７−３ 青梅市福祉センター",
     "place": "青梅市福祉センター第１・２集会室",
@@ -761,11 +761,11 @@
     "event_end_at": "2025-12-14T16:00:00.000+09:00",
     "event_url": "https://coderdojo-kojimachi.connpass.com/event/376329/",
     "prefecture": "東京",
-    "participants": 18,
-    "event_update_at": "2025-11-24T17:25:28.000+09:00",
+    "participants": 19,
+    "event_update_at": "2025-12-03T17:29:11.000+09:00",
     "address": "東京都千代田区麹町3-1 麹町昭文社HDビル7階",
     "place": "株式会社アドバンスト・ソフト",
-    "limit": 18
+    "limit": 19
   },
   {
     "id": 278,
@@ -862,6 +862,22 @@
     "address": "山口県岩国市周東町下久原1208-1",
     "place": "岩国市周東中央公民館",
     "limit": 26
+  },
+  {
+    "id": 303,
+    "name": "鶴岡",
+    "url": "http://www.coderdojo-tsuruoka.com/",
+    "event_id": 9225,
+    "event_title": "第30回 CoderDojo Tsuruoka",
+    "event_date": "2025-12-20T10:00:00.000+09:00",
+    "event_end_at": "2025-12-20T12:00:00.000+09:00",
+    "event_url": "https://coderdojo-tsuruoka.connpass.com/event/377956/",
+    "prefecture": "山形",
+    "participants": 0,
+    "event_update_at": "2025-12-03T20:08:05.000+09:00",
+    "address": "山形県鶴岡市山王町8-18 古今cocon",
+    "place": "古今cocon",
+    "limit": 12
   },
   {
     "id": 307,
@@ -970,7 +986,7 @@
     "event_url": "https://coderdojo-nakamozu.connpass.com/event/377015/",
     "prefecture": "大阪",
     "participants": 0,
-    "event_update_at": "2025-11-25T13:31:07.000+09:00",
+    "event_update_at": "2025-12-04T00:23:42.000+09:00",
     "address": "大阪府堺市中区学園町１ B12棟 (学生会館)",
     "place": "大阪公立大学なかもずC　B12棟",
     "limit": 10
