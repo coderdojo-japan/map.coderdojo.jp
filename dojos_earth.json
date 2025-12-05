@@ -14171,6 +14171,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Galway City @ NUIG",
+    "latitude": 53.2801983,
+    "longitude": -9.058586699999978,
+    "countryCode": "IE",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": "ie/galway/galway-city-nuig",
+    "id": "f16a6bab-1f0f-41b8-8d9c-b548108b1aa8"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "San Nicolas @ Biblioteca Nacional Aruba",
     "latitude": 12.4346049,
     "longitude": -69.91007379999999,
