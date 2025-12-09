@@ -91,16 +91,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "TEST **This is a test club for dev and example purposes** ",
-    "latitude": -20.8089198,
-    "longitude": 167.2266434,
-    "countryCode": "NC",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "nc/nang/this-is-a-test-club-for-dev-and-example-purposes",
-    "id": "022fbf70-c6a8-4b99-8834-b873db32b75a"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Naramachi, Nara @ TechForests",
     "latitude": 34.68069267511158,
     "longitude": 135.8264098291827,
@@ -1815,7 +1805,7 @@
     "latitude": 45.7653708,
     "longitude": 21.2299821,
     "countryCode": "RO",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "ro/timisoara-timis-county/timisoara-ntt-data",
     "id": "203a3ea0-fec2-4b96-a9b0-2d7454372d79"
   },
@@ -3428,6 +3418,16 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "it/cremona-province-of-cremona/torrazzo-cremona",
     "id": "3b838827-4a3a-446a-9ff8-ca5251fb41e8"
+  },
+  {
+    "brand": "CODERDOJO",
+    "name": "CodingClub @ HFCS Rathcoole",
+    "latitude": 53.27682129999999,
+    "longitude": -6.48001469999997,
+    "countryCode": "IE",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": "ie/rathcoole-county-dublin/codingclub-hfcs-rathcoole",
+    "id": "3c264ee5-89e1-4b55-8bee-15d8d972da94"
   },
   {
     "brand": "CODERDOJO",
