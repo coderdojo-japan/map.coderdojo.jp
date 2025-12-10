@@ -2895,7 +2895,7 @@
     "latitude": -8.1157846,
     "longitude": -79.0257381,
     "countryCode": "PE",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "pe/trujillo/trujillo",
     "id": "333e68e6-e035-41e7-9cca-ecb767eea58c"
   },
@@ -3438,6 +3438,16 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "be/zonnebeke/zonnebeke",
     "id": "3c28c7ce-c50e-4e8a-9eb6-fcd50e12b7ec"
+  },
+  {
+    "brand": "CODERDOJO",
+    "name": "Anyama @ Impactful Education Hub",
+    "latitude": 5.4877137,
+    "longitude": -4.0516619,
+    "countryCode": "CI",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "3c2a0356-f2de-47ad-ae8f-7fd20408429f"
   },
   {
     "brand": "CODERDOJO",

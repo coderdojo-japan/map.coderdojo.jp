@@ -748,7 +748,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nago.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nago.webp' alt='名護' loading='lazy' width='100px' /></a><br><b>名護</b><br>名護市で月2回開催<br>&rarr; 次回: <a href='https://coderdojo-nago.connpass.com/event/377537/' target='_blank' rel='noopener'>12月14日</a><br><a href='https://coderdojo-nago.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nago.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nago.webp' alt='名護' loading='lazy' width='100px' /></a><br><b>名護</b><br>名護市で月2回開催<br>&rarr; 次回: <a href='https://coderdojo-nago.connpass.com/event/374857/' target='_blank' rel='noopener'>12月14日</a><br><a href='https://coderdojo-nago.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -4814,6 +4814,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Zonnebeke<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/zonnebeke/zonnebeke'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0516619,
+          5.4877137
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Anyama @ Impactful Education Hub<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/'>連絡先を見る</a>"
       }
     },
     {
@@ -13078,7 +13093,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://twitter.com/CoderDojoSeisin' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='西神' loading='lazy' width='100px' /></a><br><b>西神</b><br>神戸市西区で毎月開催<br><a href='https://twitter.com/CoderDojoSeisin' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://twitter.com/CoderDojoSeisin' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='西神' loading='lazy' width='100px' /></a><br><b>西神</b><br>神戸市西区で毎月開催<br>&rarr; 次回: <a href='https://coderdojoseishin.connpass.com/event/378432/' target='_blank' rel='noopener'>12月21日</a><br><a href='https://twitter.com/CoderDojoSeisin' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -17893,7 +17908,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/kodaira.webp' alt='こだいら' loading='lazy' width='100px' /></a><br><b>こだいら</b><br>小平市で隔週開催<br>&rarr; 次回: <a href='https://coderdojo-jp-kodaira.connpass.com/event/374671/' target='_blank' rel='noopener'>12月10日</a><br><a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/kodaira.webp' alt='こだいら' loading='lazy' width='100px' /></a><br><b>こだいら</b><br>小平市で隔週開催<br>&rarr; 次回: <a href='https://coderdojo-jp-kodaira.connpass.com/event/374670/' target='_blank' rel='noopener'>12月17日</a><br><a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
