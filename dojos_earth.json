@@ -65,7 +65,7 @@
     "latitude": 51.5866468,
     "longitude": -0.3605362,
     "countryCode": "GB",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": null,
     "id": "01936f0d-abc7-43f5-b170-ef677af0c157"
   },
@@ -11688,16 +11688,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "gb/penzance/penzance-hds-coding-club",
     "id": "cce46128-b406-4d38-ae62-753905d2d718"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "KWYP @ Kilmore Recreation Centre",
-    "latitude": 53.3960891,
-    "longitude": -6.2173684,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/dublin/kwyp-kilmore-recreation-centre",
-    "id": "cd164f7e-24c6-4afe-b17e-0c0afc4314c4"
   },
   {
     "brand": "CODERDOJO",
