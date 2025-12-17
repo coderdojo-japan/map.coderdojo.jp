@@ -870,6 +870,16 @@
     "id": "116f95d3-ba16-4c89-bb3c-3ef37994d39f"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": "CoderDojo SAGA@駅前中央",
+    "latitude": 33.2625159,
+    "longitude": 130.2969361,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "1178be6f-f652-4dd1-bf95-3a8b9300b7a3"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "Suginami",
     "latitude": 35.7060572417102,
