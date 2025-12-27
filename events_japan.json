@@ -16,22 +16,6 @@
     "limit": 19
   },
   {
-    "id": 9,
-    "name": "さいたま",
-    "url": "http://coderdojo-saitama.com/",
-    "event_id": 9193,
-    "event_title": "第108回CoderDojoさいたま",
-    "event_date": "2025-12-27T14:00:00.000+09:00",
-    "event_end_at": "2025-12-27T16:00:00.000+09:00",
-    "event_url": "https://coderdojo-saitama.connpass.com/event/375647/",
-    "prefecture": "埼玉",
-    "participants": 6,
-    "event_update_at": "2025-11-25T17:50:34.000+09:00",
-    "address": "埼玉県さいたま市大宮区宮町1-5 銀座ビル6階",
-    "place": "貸会議室６F",
-    "limit": 16
-  },
-  {
     "id": 13,
     "name": "こだいら",
     "url": "https://coderdojo-kodaira.github.io/",
@@ -57,8 +41,8 @@
     "event_end_at": "2025-12-28T12:30:00.000+09:00",
     "event_url": "https://coderdojo-chofu.doorkeeper.jp/events/193477",
     "prefecture": "東京",
-    "participants": 6,
-    "event_update_at": "2025-12-24T23:59:36.291+09:00",
+    "participants": 8,
+    "event_update_at": "2025-12-26T17:02:53.151+09:00",
     "address": "東京都調布市国領町２丁目５−１５",
     "place": "あくろす会場",
     "limit": 12
@@ -158,22 +142,6 @@
     "address": "〒673-0005 兵庫県明石市小久保１丁目３−３ AQUA西明石 103",
     "place": "ペイントワークハウスKNOT（ノット）",
     "limit": 3
-  },
-  {
-    "id": 54,
-    "name": "久留米",
-    "url": "https://www.coderdojokurume.com/",
-    "event_id": 9257,
-    "event_title": "第110回CoderDojo久留米",
-    "event_date": "2025-12-27T14:00:00.000+09:00",
-    "event_end_at": "2025-12-27T16:30:00.000+09:00",
-    "event_url": "https://coderdojo-kurume.connpass.com/event/378706/",
-    "prefecture": "福岡",
-    "participants": 10,
-    "event_update_at": "2025-12-14T16:46:15.000+09:00",
-    "address": "福岡県久留米市中央町11-1(第一田中ビル2階)",
-    "place": "Mekuruto",
-    "limit": null
   },
   {
     "id": 71,
@@ -297,8 +265,8 @@
     "event_end_at": "2026-01-17T11:30:00.000+09:00",
     "event_url": "https://coderdojotachikawa.doorkeeper.jp/events/193553",
     "prefecture": "東京",
-    "participants": 0,
-    "event_update_at": "2025-12-10T14:28:02.137+09:00",
+    "participants": 1,
+    "event_update_at": "2025-12-26T11:42:12.363+09:00",
     "address": "立川市錦町3丁目2番26号",
     "place": "立川市子ども未来センター",
     "limit": 16
@@ -448,20 +416,20 @@
     "limit": 10
   },
   {
-    "id": 181,
-    "name": "猪名川",
-    "url": "https://www.facebook.com/coderdojoinagawa/",
-    "event_id": 9252,
-    "event_title": "第76回 CoderDojo猪名川 2025/12/27（土） 14:00～16:30",
-    "event_date": "2025-12-27T14:00:00.000+09:00",
-    "event_end_at": "2025-12-27T16:30:00.000+09:00",
-    "event_url": "https://coderdojo-inagawa.connpass.com/event/378814/",
-    "prefecture": "兵庫",
-    "participants": 3,
-    "event_update_at": "2025-12-26T01:00:59.000+09:00",
-    "address": "兵庫県川辺郡猪名川町松尾台1-2-1",
-    "place": "日生中央サピエ 2階 サピエギャラリー",
-    "limit": 20
+    "id": 182,
+    "name": "瀬戸",
+    "url": "https://coderdojo-seto.jp/",
+    "event_id": 9298,
+    "event_title": "【無料】【見学OK】CoderDojo瀬戸(第151回) 子供プログラミングコミュニティ",
+    "event_date": "2026-01-18T10:00:00.000+09:00",
+    "event_end_at": "2026-01-18T12:30:00.000+09:00",
+    "event_url": "https://coderdojo-seto.connpass.com/event/379504/",
+    "prefecture": "愛知",
+    "participants": 1,
+    "event_update_at": "2025-12-26T16:32:00.000+09:00",
+    "address": "瀬戸市道泉町53番地の5",
+    "place": "ぐるっぺ道泉",
+    "limit": null
   },
   {
     "id": 184,
@@ -560,22 +528,6 @@
     "limit": null
   },
   {
-    "id": 241,
-    "name": "西尾",
-    "url": "https://www.coderdojo-nishio.com/",
-    "event_id": 9137,
-    "event_title": "【日程変更12/27】12月度 CoderDojo Nishio(こーだーどうじょうにしお）",
-    "event_date": "2025-12-27T10:00:00.000+09:00",
-    "event_end_at": "2025-12-27T11:30:00.000+09:00",
-    "event_url": "https://coderdojo-nishio.doorkeeper.jp/events/192719",
-    "prefecture": "愛知",
-    "participants": 8,
-    "event_update_at": "2025-12-25T19:57:45.094+09:00",
-    "address": "〒445-0852 愛知県西尾市花ノ木町2丁目1番地",
-    "place": "西尾市総合福祉センター 3F 第4・第5集会室",
-    "limit": 19
-  },
-  {
     "id": 243,
     "name": "大府",
     "url": "https://coderdojo-obu.connpass.com/",
@@ -585,11 +537,11 @@
     "event_end_at": "2025-12-28T11:30:00.000+09:00",
     "event_url": "https://coderdojo-obu.connpass.com/event/374549/",
     "prefecture": "愛知",
-    "participants": 17,
-    "event_update_at": "2025-12-22T20:52:56.000+09:00",
+    "participants": 19,
+    "event_update_at": "2025-12-26T22:01:14.000+09:00",
     "address": "〒474-0053 愛知県大府市柊山町６丁目１５０−１",
     "place": "おおぶ文化交流の杜 allobu",
-    "limit": 31
+    "limit": 33
   },
   {
     "id": 248,
@@ -675,17 +627,17 @@
     "id": 270,
     "name": "長門",
     "url": "https://sites.google.com/view/coderdojonagato",
-    "event_id": 9182,
-    "event_title": "子どもたちのためのプログラミング初心者/未経験者向け【CoderDojo長門】53回",
-    "event_date": "2025-12-27T14:00:00.000+09:00",
-    "event_end_at": "2025-12-27T16:00:00.000+09:00",
-    "event_url": "https://coderdojonagato.connpass.com/event/371689/",
+    "event_id": 9139,
+    "event_title": "第4回ｍBotコンテスト【CoderDojo長門】54回",
+    "event_date": "2026-01-11T10:00:00.000+09:00",
+    "event_end_at": "2026-01-11T17:00:00.000+09:00",
+    "event_url": "https://coderdojonagato.connpass.com/event/375354/",
     "prefecture": "山口",
-    "participants": 12,
-    "event_update_at": "2025-11-27T17:41:15.000+09:00",
+    "participants": 0,
+    "event_update_at": "2025-11-08T10:06:20.000+09:00",
     "address": "山口県長門市仙崎312-1",
     "place": "長門市しごとセンター",
-    "limit": 22
+    "limit": 20
   },
   {
     "id": 274,
@@ -800,22 +752,6 @@
     "limit": 10
   },
   {
-    "id": 307,
-    "name": "末広町@アミュレット",
-    "url": "https://coderdojosuehirocho.connpass.com/",
-    "event_id": 9184,
-    "event_title": "CoderDojo末広町 第82回 (プレゼンテーションデイ)",
-    "event_date": "2025-12-27T10:00:00.000+09:00",
-    "event_end_at": "2025-12-27T12:00:00.000+09:00",
-    "event_url": "https://coderdojosuehirocho.connpass.com/event/376810/",
-    "prefecture": "東京",
-    "participants": 4,
-    "event_update_at": "2025-12-13T06:11:58.000+09:00",
-    "address": "東京都千代田区外神田３ー５ー１１",
-    "place": "神田キリスト教会　１階ホール",
-    "limit": 29
-  },
-  {
     "id": 308,
     "name": "新代田",
     "url": "https://coder-dojo-shindaita.connpass.com/",
@@ -928,22 +864,6 @@
     "limit": 5
   },
   {
-    "id": 346,
-    "name": "南会津",
-    "url": "https://coderdojo-minamiaizu.doorkeeper.jp/",
-    "event_id": 9205,
-    "event_title": "第1回CoderDojo 南会津（最寄駅：会津田島駅）",
-    "event_date": "2025-12-27T13:30:00.000+09:00",
-    "event_end_at": "2025-12-27T16:00:00.000+09:00",
-    "event_url": "https://coderdojo-minamiaizu.doorkeeper.jp/events/193082",
-    "prefecture": "福島",
-    "participants": 4,
-    "event_update_at": "2025-12-25T21:48:25.537+09:00",
-    "address": "福島県南会津郡南会津町田島字後原甲3531番地1",
-    "place": "南会津町役場本庁舎多目的ホール",
-    "limit": null
-  },
-  {
     "id": 347,
     "name": "八女",
     "url": "https://coderdojo-yame.connpass.com/",
@@ -953,7 +873,7 @@
     "event_end_at": "2026-01-24T11:30:00.000+09:00",
     "event_url": "https://coderdojo-yame.connpass.com/event/377954/",
     "prefecture": "福岡",
-    "participants": 7,
+    "participants": 8,
     "event_update_at": "2025-12-03T20:06:41.000+09:00",
     "address": "福岡県八女市原島95-1",
     "place": "八女市立花公民館",
