@@ -53,7 +53,7 @@ jobs:
 
     - name: ☯️ Cache dojo logos in Japan
       run: |
-        bundle exec ruby cache_dojo_logos.rb
+        bundle exec rake cache_dojo_logos
 
     - name: 📍 Generate DojoMap from Earth/Japan data
       run: |
@@ -93,7 +93,7 @@ jobs:
     - name: 🔧 Build & Test
       run: |
         # Convert human-readable Geojson file into computer-friendly one
-        bundle exec ruby compact_geojson.rb
+        bundle exec rake compact_geojson
         JEKYLL_ENV=production bundle exec jekyll build
         JEKYLL_ENV=production bundle exec jekyll doctor
         SKIP_BUILD=true       bundle exec rake test
