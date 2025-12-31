@@ -7,9 +7,6 @@ require 'fileutils'
 # Earth data: from RasPi's Clubs API: https://clubs-api.raspberrypi.org
 EARTH_YAML_PATH = '_data/earth.yml'
 
-# Ensure _data directory exists
-FileUtils.mkdir_p('_data')
-
 # Load Earth data (use string keys, not symbols)
 dojos_earth = JSON.load(File.read('dojos_earth.json'),
                    nil,
