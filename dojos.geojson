@@ -12816,21 +12816,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.29137830000002,
-          24.7923027
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-miyakojima.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/miyakojima.webp' alt='宮古島' loading='lazy' width='100px' /></a><br><b>宮古島</b><br>宮古島市で不定期開催<br><a href='https://coderdojo-miyakojima.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.513953830458513,
           52.45405131800873
         ]
