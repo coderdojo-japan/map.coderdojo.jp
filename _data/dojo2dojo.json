@@ -1,6 +1,6 @@
 [
   {
-    "id": "014a81c0-515a-4a9d-b71b-469fb72253df",
+    "global_club_id": "014a81c0-515a-4a9d-b71b-469fb72253df",
     "name_japan": "赤羽",
     "name_earth": "Akabane, Tokyo",
     "countryCode": "JP",
@@ -8,7 +8,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "01df8836-8a93-4e6d-9f49-594b461e500b",
+    "global_club_id": "01df8836-8a93-4e6d-9f49-594b461e500b",
     "name_japan": "小田原",
     "name_earth": " CoderDojo 小田原",
     "countryCode": "JP",
@@ -16,7 +16,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "054617de-6f0a-4cb8-804c-f9b1ef95d3ea",
+    "global_club_id": "054617de-6f0a-4cb8-804c-f9b1ef95d3ea",
     "name_japan": "吉備",
     "name_earth": "Kibi, Okayama",
     "countryCode": "JP",
@@ -24,7 +24,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "054e135a-c8f1-4f57-ba2e-1be96a5ae49c",
+    "global_club_id": "054e135a-c8f1-4f57-ba2e-1be96a5ae49c",
     "name_japan": "八尾",
     "name_earth": "八尾@yotteco",
     "countryCode": "JP",
@@ -32,7 +32,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "05886113-3319-4a05-a79d-ac249cd00e9e",
+    "global_club_id": "05886113-3319-4a05-a79d-ac249cd00e9e",
     "name_japan": "仙台若林",
     "name_earth": "仙台若林 (SendaiWakabayashi)",
     "countryCode": "JP",
@@ -40,7 +40,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "08b15c21-cbb4-4939-958a-59774c5a60eb",
+    "global_club_id": "08b15c21-cbb4-4939-958a-59774c5a60eb",
     "name_japan": "滑川",
     "name_earth": "滑川",
     "countryCode": "JP",
@@ -48,7 +48,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "09718f70-1a91-41de-bea3-a5d09ef099c4",
+    "global_club_id": "09718f70-1a91-41de-bea3-a5d09ef099c4",
     "name_japan": "札幌",
     "name_earth": "Sapporo",
     "countryCode": "JP",
@@ -56,7 +56,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "09a8ed76-403b-4833-b254-f7da95831b0a",
+    "global_club_id": "09a8ed76-403b-4833-b254-f7da95831b0a",
     "name_japan": "津和野",
     "name_earth": "津和野",
     "countryCode": "JP",
@@ -64,7 +64,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "0a7bb96c-9cd6-4d96-b052-096186a0e012",
+    "global_club_id": "0a7bb96c-9cd6-4d96-b052-096186a0e012",
     "name_japan": "名護",
     "name_earth": "Nago",
     "countryCode": "JP",
@@ -72,7 +72,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "0b208aca-b939-4ad0-b2ef-286dacd9fc19",
+    "global_club_id": "0b208aca-b939-4ad0-b2ef-286dacd9fc19",
     "name_japan": "舟橋",
     "name_earth": "舟橋",
     "countryCode": "JP",
@@ -80,7 +80,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "0c422d07-3cd2-4cdb-a8fe-a54eec5c3605",
+    "global_club_id": "0c422d07-3cd2-4cdb-a8fe-a54eec5c3605",
     "name_japan": "大田・邑南、他",
     "name_earth": "Shimane @ Gotsu",
     "countryCode": "JP",
@@ -88,7 +88,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "0dc27210-c03a-4c3e-a819-0b5266a51654",
+    "global_club_id": "0dc27210-c03a-4c3e-a819-0b5266a51654",
     "name_japan": "奈良",
     "name_earth": "Nara, Nara",
     "countryCode": "JP",
@@ -96,7 +96,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "0f582494-c6ad-4b88-ad8a-dc18567a825e",
+    "global_club_id": "0f582494-c6ad-4b88-ad8a-dc18567a825e",
     "name_japan": "成田",
     "name_earth": "Narita",
     "countryCode": "JP",
@@ -104,7 +104,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "116f95d3-ba16-4c89-bb3c-3ef37994d39f",
+    "global_club_id": "116f95d3-ba16-4c89-bb3c-3ef37994d39f",
     "name_japan": "村山",
     "name_earth": "Murayama",
     "countryCode": "JP",
@@ -112,7 +112,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "1237536f-44cf-44a7-8fb6-464fb12f3865",
+    "global_club_id": "1237536f-44cf-44a7-8fb6-464fb12f3865",
     "name_japan": "神楽坂",
     "name_earth": "CoderDojo Kagurazaka",
     "countryCode": "JP",
@@ -120,7 +120,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "13edfe3d-53f3-486b-a4c7-835b294f52e4",
+    "global_club_id": "13edfe3d-53f3-486b-a4c7-835b294f52e4",
     "name_japan": "春日",
     "name_earth": "Kasuga@春日市ふれあい文化センター",
     "countryCode": "JP",
@@ -128,7 +128,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "141b1722-5423-41e3-ac16-ab46c5c82dc0",
+    "global_club_id": "141b1722-5423-41e3-ac16-ab46c5c82dc0",
     "name_japan": "瑞穂",
     "name_earth": "瑞穂",
     "countryCode": "JP",
@@ -136,7 +136,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "14bf5604-1ca8-4d10-8187-b33fb5c2443f",
+    "global_club_id": "14bf5604-1ca8-4d10-8187-b33fb5c2443f",
     "name_japan": "京都四条",
     "name_earth": "KyotoShijo",
     "countryCode": "JP",
@@ -144,7 +144,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "14ced3ef-6b38-4ba1-9be5-112c834c0bf9",
+    "global_club_id": "14ced3ef-6b38-4ba1-9be5-112c834c0bf9",
     "name_japan": "大府",
     "name_earth": "大府",
     "countryCode": "JP",
@@ -152,7 +152,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "15f4c828-2c65-4c86-a6e2-67cd9659b45d",
+    "global_club_id": "15f4c828-2c65-4c86-a6e2-67cd9659b45d",
     "name_japan": "紙屋町",
     "name_earth": "Kamiyacho",
     "countryCode": "JP",
@@ -160,7 +160,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "16037357-c116-4d42-a580-6c0011d7da52",
+    "global_club_id": "16037357-c116-4d42-a580-6c0011d7da52",
     "name_japan": "淡路島",
     "name_earth": "Awajishima,Hyogo",
     "countryCode": "JP",
@@ -168,7 +168,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "16609fdd-0d89-4c23-8d55-fe7f01416417",
+    "global_club_id": "16609fdd-0d89-4c23-8d55-fe7f01416417",
     "name_japan": "つくば",
     "name_earth": "Tsukuba, Ibrakaki",
     "countryCode": "JP",
@@ -176,7 +176,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "18704b53-1042-4464-9d49-8820c6ff8c97",
+    "global_club_id": "18704b53-1042-4464-9d49-8820c6ff8c97",
     "name_japan": "黒潮町",
     "name_earth": "黒潮町",
     "countryCode": "JP",
@@ -184,7 +184,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "193e95b4-c71f-43cf-a663-7a5dc179beb8",
+    "global_club_id": "193e95b4-c71f-43cf-a663-7a5dc179beb8",
     "name_japan": "岐阜",
     "name_earth": "Gifu",
     "countryCode": "JP",
@@ -192,7 +192,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "19ae9948-e778-49b9-bbd7-ef3d895518f9",
+    "global_club_id": "19ae9948-e778-49b9-bbd7-ef3d895518f9",
     "name_japan": "鎌ケ谷",
     "name_earth": "Kamagaya, Chiba",
     "countryCode": "JP",
@@ -200,7 +200,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "1c8ab0f9-e1ab-4874-b364-d620a84ea0dc",
+    "global_club_id": "1c8ab0f9-e1ab-4874-b364-d620a84ea0dc",
     "name_japan": "立川",
     "name_earth": "立川",
     "countryCode": "JP",
@@ -208,7 +208,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "1d5eaad4-447f-4397-b80b-356a76c4146b",
+    "global_club_id": "1d5eaad4-447f-4397-b80b-356a76c4146b",
     "name_japan": "市川",
     "name_earth": "Ichikawa,Chiba",
     "countryCode": "JP",
@@ -216,7 +216,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "1e10bdbc-8d55-438b-8714-380b073378b9",
+    "global_club_id": "1e10bdbc-8d55-438b-8714-380b073378b9",
     "name_japan": "西宮・梅田",
     "name_earth": "Umeda, Osaka, @ Cybozu",
     "countryCode": "JP",
@@ -224,7 +224,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "1e2e7ad6-06b7-46bc-adfe-28c616826d86",
+    "global_club_id": "1e2e7ad6-06b7-46bc-adfe-28c616826d86",
     "name_japan": "岸和田",
     "name_earth": "Kishiwada, Osaka",
     "countryCode": "JP",
@@ -232,7 +232,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "1edba530-593e-454c-aaec-1a591193a876",
+    "global_club_id": "1edba530-593e-454c-aaec-1a591193a876",
     "name_japan": "富田林",
     "name_earth": "Tondabayashi, Osaka",
     "countryCode": "JP",
@@ -240,7 +240,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "23eb0988-9d02-48ce-90dd-1b471a9f7556",
+    "global_club_id": "23eb0988-9d02-48ce-90dd-1b471a9f7556",
     "name_japan": "厚木",
     "name_earth": "Atsugi, Kanagawa",
     "countryCode": "JP",
@@ -248,7 +248,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "288a173c-626f-4079-b5e3-3d09ef17764f",
+    "global_club_id": "288a173c-626f-4079-b5e3-3d09ef17764f",
     "name_japan": "ほんごう",
     "name_earth": "Hongo",
     "countryCode": "JP",
@@ -256,7 +256,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "28f70fe5-4f18-45e5-8fbc-7718bfd4415b",
+    "global_club_id": "28f70fe5-4f18-45e5-8fbc-7718bfd4415b",
     "name_japan": "とよなか",
     "name_earth": "Toyonaka",
     "countryCode": "JP",
@@ -264,7 +264,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "29b2f7f6-b147-4650-9e9c-d5bb49bf5922",
+    "global_club_id": "29b2f7f6-b147-4650-9e9c-d5bb49bf5922",
     "name_japan": "浦添",
     "name_earth": "浦添（沖縄）",
     "countryCode": "JP",
@@ -272,7 +272,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "2b19b06b-d9f1-4594-94d6-f2b40d4c1371",
+    "global_club_id": "2b19b06b-d9f1-4594-94d6-f2b40d4c1371",
     "name_japan": "生駒",
     "name_earth": "Ikoma, Nara",
     "countryCode": "JP",
@@ -280,7 +280,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "2bb8fdc7-3fdf-4287-a2af-be967439e4e8",
+    "global_club_id": "2bb8fdc7-3fdf-4287-a2af-be967439e4e8",
     "name_japan": "日野",
     "name_earth": "日野",
     "countryCode": "JP",
@@ -288,7 +288,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "2fbba227-6a47-4d61-86df-62f059df6da2",
+    "global_club_id": "2fbba227-6a47-4d61-86df-62f059df6da2",
     "name_japan": "江別",
     "name_earth": "Ebetsu, Hokkaido",
     "countryCode": "JP",
@@ -296,7 +296,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "31f9b905-27c3-4fce-b047-ca958acb62ad",
+    "global_club_id": "31f9b905-27c3-4fce-b047-ca958acb62ad",
     "name_japan": "狛江",
     "name_earth": "CoderDojo Komae",
     "countryCode": "JP",
@@ -304,7 +304,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "327a7fd8-a875-4504-b294-59875e1c9e0b",
+    "global_club_id": "327a7fd8-a875-4504-b294-59875e1c9e0b",
     "name_japan": "ももち",
     "name_earth": "Momochi",
     "countryCode": "JP",
@@ -312,7 +312,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "32b5a941-46ce-4d8d-ace0-6bfb0e113adb",
+    "global_club_id": "32b5a941-46ce-4d8d-ace0-6bfb0e113adb",
     "name_japan": "さいたま",
     "name_earth": "Saitama",
     "countryCode": "JP",
@@ -320,7 +320,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "35341a53-ce39-450e-a56d-27a5607e24dd",
+    "global_club_id": "35341a53-ce39-450e-a56d-27a5607e24dd",
     "name_japan": "伊予",
     "name_earth": "Iyo, Ehime",
     "countryCode": "JP",
@@ -328,7 +328,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "35c73302-7e19-47a8-9dca-4a5340a10749",
+    "global_club_id": "35c73302-7e19-47a8-9dca-4a5340a10749",
     "name_japan": "麹町@アドバンスト・ソフト",
     "name_earth": "麹町@アドバンスト・ソフト",
     "countryCode": "JP",
@@ -336,7 +336,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "36a062a1-1a8c-4e04-aec1-c06308b1440e",
+    "global_club_id": "36a062a1-1a8c-4e04-aec1-c06308b1440e",
     "name_japan": "静岡",
     "name_earth": "Shizuoka",
     "countryCode": "JP",
@@ -344,7 +344,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "373cd200-f8b3-49fd-bbcd-ff72186a5e18",
+    "global_club_id": "373cd200-f8b3-49fd-bbcd-ff72186a5e18",
     "name_japan": "さが",
     "name_earth": "Coderdojo Saga",
     "countryCode": "JP",
@@ -352,7 +352,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "3812509c-ead6-43b0-810f-e1ad4773bdeb",
+    "global_club_id": "3812509c-ead6-43b0-810f-e1ad4773bdeb",
     "name_japan": "松山",
     "name_earth": "CoderDojoMatsuyama",
     "countryCode": "JP",
@@ -360,7 +360,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "38abd14d-2633-4690-9bf4-601d86a8bfa9",
+    "global_club_id": "38abd14d-2633-4690-9bf4-601d86a8bfa9",
     "name_japan": "早良",
     "name_earth": "早良",
     "countryCode": "JP",
@@ -368,7 +368,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "3a1ef147-d9e7-4398-8c36-7ddf7036e343",
+    "global_club_id": "3a1ef147-d9e7-4398-8c36-7ddf7036e343",
     "name_japan": "前橋",
     "name_earth": "Maebashi, Gunma",
     "countryCode": "JP",
@@ -376,7 +376,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "3b543ede-20e5-4283-a0a6-c342fcb3ffc8",
+    "global_club_id": "3b543ede-20e5-4283-a0a6-c342fcb3ffc8",
     "name_japan": "新発田",
     "name_earth": "Shibata@TINKERKIDS",
     "countryCode": "JP",
@@ -384,7 +384,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "3d037ab0-1ba5-4c94-97ef-2898a37bdb68",
+    "global_club_id": "3d037ab0-1ba5-4c94-97ef-2898a37bdb68",
     "name_japan": "多摩センター",
     "name_earth": "Tama Center @ Tokyo",
     "countryCode": "JP",
@@ -392,7 +392,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "3d1dc877-932f-4e0d-a160-7ef254e5dbd7",
+    "global_club_id": "3d1dc877-932f-4e0d-a160-7ef254e5dbd7",
     "name_japan": "吹田",
     "name_earth": "Suita, Osaka @ 6Vox",
     "countryCode": "JP",
@@ -400,7 +400,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "3ebac46c-b078-4322-b74a-89ddb7aa9c3e",
+    "global_club_id": "3ebac46c-b078-4322-b74a-89ddb7aa9c3e",
     "name_japan": "藤井寺・柏原",
     "name_earth": "Fujiidera",
     "countryCode": "JP",
@@ -408,7 +408,7 @@
     "status": "PLANNING"
   },
   {
-    "id": "3ff02374-2857-4a61-9df2-325fa13c020f",
+    "global_club_id": "3ff02374-2857-4a61-9df2-325fa13c020f",
     "name_japan": "加西",
     "name_earth": "加西",
     "countryCode": "JP",
@@ -416,7 +416,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "4189b559-90c7-45ce-9f23-8df62e8b331a",
+    "global_club_id": "4189b559-90c7-45ce-9f23-8df62e8b331a",
     "name_japan": "磐田",
     "name_earth": "磐田",
     "countryCode": "JP",
@@ -424,7 +424,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "426b6d19-e524-40c0-b898-ab0240c61de3",
+    "global_club_id": "426b6d19-e524-40c0-b898-ab0240c61de3",
     "name_japan": "富山",
     "name_earth": "富山@長江",
     "countryCode": "JP",
@@ -432,7 +432,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "43574426-3330-48b6-bba9-1a7f85e89f3e",
+    "global_club_id": "43574426-3330-48b6-bba9-1a7f85e89f3e",
     "name_japan": "灘",
     "name_earth": "Nada, Hyogo",
     "countryCode": "JP",
@@ -440,7 +440,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "46a7f225-d92b-49a3-b70e-652fa51bc23d",
+    "global_club_id": "46a7f225-d92b-49a3-b70e-652fa51bc23d",
     "name_japan": "流山",
     "name_earth": "Nagareyama",
     "countryCode": "JP",
@@ -448,7 +448,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "48dad885-33d5-441d-960e-d5cb860ccbb8",
+    "global_club_id": "48dad885-33d5-441d-960e-d5cb860ccbb8",
     "name_japan": "戸田公園",
     "name_earth": "戸田公園",
     "countryCode": "JP",
@@ -456,7 +456,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "4a2185e1-79ff-4b1c-a17b-9e66792036a1",
+    "global_club_id": "4a2185e1-79ff-4b1c-a17b-9e66792036a1",
     "name_japan": "青山",
     "name_earth": "Aoyama",
     "countryCode": "JP",
@@ -464,7 +464,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "4d6fb9e4-831c-48f0-9ba3-4d8fcd64ca36",
+    "global_club_id": "4d6fb9e4-831c-48f0-9ba3-4d8fcd64ca36",
     "name_japan": "池田石橋",
     "name_earth": "Ishibashi, Ikeda @ Shoufukuji",
     "countryCode": "JP",
@@ -472,7 +472,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "4d7fe211-4b93-4e9a-98a6-9e4ac9ccf944",
+    "global_club_id": "4d7fe211-4b93-4e9a-98a6-9e4ac9ccf944",
     "name_japan": "新代田",
     "name_earth": "Shindaita",
     "countryCode": "JP",
@@ -480,7 +480,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "4dd95628-213e-4127-a370-687fac33e94d",
+    "global_club_id": "4dd95628-213e-4127-a370-687fac33e94d",
     "name_japan": "池袋",
     "name_earth": "Ikebukuro,Tokyo @ Unique-inet",
     "countryCode": "JP",
@@ -488,7 +488,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "4f1bc4c3-4bde-47f7-9d84-b8c0038f8c06",
+    "global_club_id": "4f1bc4c3-4bde-47f7-9d84-b8c0038f8c06",
     "name_japan": "滝沢",
     "name_earth": "Takizawa,Iwate@codeMo",
     "countryCode": "JP",
@@ -496,7 +496,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "4fc8ca2d-3786-4194-a07c-7ab2be3579f2",
+    "global_club_id": "4fc8ca2d-3786-4194-a07c-7ab2be3579f2",
     "name_japan": "船橋",
     "name_earth": "funabashi",
     "countryCode": "JP",
@@ -504,7 +504,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "521e293f-abb9-4750-b5bd-275a4367fd08",
+    "global_club_id": "521e293f-abb9-4750-b5bd-275a4367fd08",
     "name_japan": "日進",
     "name_earth": "日進",
     "countryCode": "JP",
@@ -512,7 +512,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "53703176-6fa2-40b8-b796-e97aa73de1bb",
+    "global_club_id": "53703176-6fa2-40b8-b796-e97aa73de1bb",
     "name_japan": "久留米",
     "name_earth": "Kurume",
     "countryCode": "JP",
@@ -520,7 +520,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "53fdf401-51bd-401c-8260-4632e89326c8",
+    "global_club_id": "53fdf401-51bd-401c-8260-4632e89326c8",
     "name_japan": "武蔵小杉",
     "name_earth": "MusashiKosugi",
     "countryCode": "JP",
@@ -528,7 +528,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "542b0936-d7f7-49ef-9675-e352c3e5281c",
+    "global_club_id": "542b0936-d7f7-49ef-9675-e352c3e5281c",
     "name_japan": "土気",
     "name_earth": "土気",
     "countryCode": "JP",
@@ -536,7 +536,7 @@
     "status": "PLANNING"
   },
   {
-    "id": "543b619c-b1a8-48f5-b5f0-f9fe5bd1bfb2",
+    "global_club_id": "543b619c-b1a8-48f5-b5f0-f9fe5bd1bfb2",
     "name_japan": "三好",
     "name_earth": "Miyoshi, Tokushima @ Microsoft",
     "countryCode": "JP",
@@ -544,7 +544,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "54fb4603-de0d-4de1-9fd9-518c5127caaa",
+    "global_club_id": "54fb4603-de0d-4de1-9fd9-518c5127caaa",
     "name_japan": "枚方",
     "name_earth": "Hirakata, Osaka",
     "countryCode": "JP",
@@ -552,7 +552,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "55f5d988-38b6-4ede-97d6-5da2a1d87ebb",
+    "global_club_id": "55f5d988-38b6-4ede-97d6-5da2a1d87ebb",
     "name_japan": "せんなん",
     "name_earth": "Sennan, Osaka",
     "countryCode": "JP",
@@ -560,7 +560,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "5652aca9-cdb6-4181-9569-48928e28e5ac",
+    "global_club_id": "5652aca9-cdb6-4181-9569-48928e28e5ac",
     "name_japan": "溝口",
     "name_earth": "Mizonokuchi",
     "countryCode": "JP",
@@ -568,7 +568,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "569a61a2-f793-4921-961e-df92e9dde294",
+    "global_club_id": "569a61a2-f793-4921-961e-df92e9dde294",
     "name_japan": "石垣",
     "name_earth": "Ishigaki",
     "countryCode": "JP",
@@ -576,7 +576,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "57efa1ba-4c02-4e9e-8419-d47d2f3c32d6",
+    "global_club_id": "57efa1ba-4c02-4e9e-8419-d47d2f3c32d6",
     "name_japan": "野母崎",
     "name_earth": "CoderDojo 野母崎（長崎）",
     "countryCode": "JP",
@@ -584,7 +584,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "5a299787-5fa0-42c3-a73d-63ea0e956c0f",
+    "global_club_id": "5a299787-5fa0-42c3-a73d-63ea0e956c0f",
     "name_japan": "新宿",
     "name_earth": "新宿(Shinjuku) @ Okubo Regional Center",
     "countryCode": "JP",
@@ -592,7 +592,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "5b475bc8-cc83-4824-a0da-cd5000325eee",
+    "global_club_id": "5b475bc8-cc83-4824-a0da-cd5000325eee",
     "name_japan": "蒲田",
     "name_earth": "蒲田@ユニークアイネット",
     "countryCode": "JP",
@@ -600,7 +600,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "5b77f3b2-0e07-4884-8242-691f7acf5b44",
+    "global_club_id": "5b77f3b2-0e07-4884-8242-691f7acf5b44",
     "name_japan": "堺",
     "name_earth": "Sakai, Osaka @ Pangea Café",
     "countryCode": "JP",
@@ -608,7 +608,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "5f1057ff-473d-4380-8e1c-5b4d46ab7bd3",
+    "global_club_id": "5f1057ff-473d-4380-8e1c-5b4d46ab7bd3",
     "name_japan": "大府共和",
     "name_earth": "大府共和",
     "countryCode": "JP",
@@ -616,7 +616,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "618fbd6c-540e-4192-b9b6-45de228f3318",
+    "global_club_id": "618fbd6c-540e-4192-b9b6-45de228f3318",
     "name_japan": "伊勢原",
     "name_earth": "Isehara @ Civic Support Center",
     "countryCode": "JP",
@@ -624,7 +624,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "6241b746-c101-43b4-ac7d-e0319f43a5dc",
+    "global_club_id": "6241b746-c101-43b4-ac7d-e0319f43a5dc",
     "name_japan": "となみ",
     "name_earth": "となみ",
     "countryCode": "JP",
@@ -632,7 +632,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "65d4e363-dec4-490c-ae97-c2018f844422",
+    "global_club_id": "65d4e363-dec4-490c-ae97-c2018f844422",
     "name_japan": "木更津",
     "name_earth": "木更津",
     "countryCode": "JP",
@@ -640,7 +640,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "662f23bc-e2c7-4365-a3be-d7f29c1156b9",
+    "global_club_id": "662f23bc-e2c7-4365-a3be-d7f29c1156b9",
     "name_japan": "天白",
     "name_earth": "天白,名古屋,愛知",
     "countryCode": "JP",
@@ -648,7 +648,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "67cbaaab-e71e-4f98-aefc-6dc62d5ef197",
+    "global_club_id": "67cbaaab-e71e-4f98-aefc-6dc62d5ef197",
     "name_japan": "宇治",
     "name_earth": "Uji, Kyoto",
     "countryCode": "JP",
@@ -656,7 +656,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "6bf2fa03-261c-4326-bfe2-da91b6824399",
+    "global_club_id": "6bf2fa03-261c-4326-bfe2-da91b6824399",
     "name_japan": "稲毛海岸",
     "name_earth": "inagekaigan",
     "countryCode": "JP",
@@ -664,7 +664,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "6cd39679-f6e9-4d01-8b9c-d77c844e13e0",
+    "global_club_id": "6cd39679-f6e9-4d01-8b9c-d77c844e13e0",
     "name_japan": "飯田",
     "name_earth": "IIDA@logicaland",
     "countryCode": "JP",
@@ -672,7 +672,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "700c3760-6d11-44d8-8d36-c501e03c028f",
+    "global_club_id": "700c3760-6d11-44d8-8d36-c501e03c028f",
     "name_japan": "磐梯",
     "name_earth": "BANDAI@BandaiCommunityCenter",
     "countryCode": "JP",
@@ -680,7 +680,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "71008d87-7849-4be0-8868-578642d24718",
+    "global_club_id": "71008d87-7849-4be0-8868-578642d24718",
     "name_japan": "大阪狭山",
     "name_earth": "Osakasayama, Osaka",
     "countryCode": "JP",
@@ -688,7 +688,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "71c8496c-c24d-4ea9-b6aa-b65585c531ba",
+    "global_club_id": "71c8496c-c24d-4ea9-b6aa-b65585c531ba",
     "name_japan": "徳島",
     "name_earth": "Tokushima @ Tokushima University",
     "countryCode": "JP",
@@ -696,7 +696,7 @@
     "status": "PLANNING"
   },
   {
-    "id": "71cf13bc-446f-482e-8581-3b50795d3528",
+    "global_club_id": "71cf13bc-446f-482e-8581-3b50795d3528",
     "name_japan": "白河",
     "name_earth": "Shirakawa",
     "countryCode": "JP",
@@ -704,7 +704,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "74c41f4f-2854-4c18-b81f-7f3ef9befcca",
+    "global_club_id": "74c41f4f-2854-4c18-b81f-7f3ef9befcca",
     "name_japan": "たまち",
     "name_earth": "たまち",
     "countryCode": "JP",
@@ -712,7 +712,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "7767c56f-358e-4bb8-bd47-c9d326d4f7d4",
+    "global_club_id": "7767c56f-358e-4bb8-bd47-c9d326d4f7d4",
     "name_japan": "稲沢正明寺",
     "name_earth": "稲沢正明寺",
     "countryCode": "JP",
@@ -720,7 +720,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "7c0ca939-b98e-4fa5-aa6c-dcdf2cffd280",
+    "global_club_id": "7c0ca939-b98e-4fa5-aa6c-dcdf2cffd280",
     "name_japan": "浦和@Urawa Minecraft Club",
     "name_earth": "Urawa @ Urawa Minecraft Club",
     "countryCode": "JP",
@@ -728,7 +728,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "7c0e84fa-9e60-4190-829d-44af85c313d6",
+    "global_club_id": "7c0e84fa-9e60-4190-829d-44af85c313d6",
     "name_japan": "黒部",
     "name_earth": "黒部",
     "countryCode": "JP",
@@ -736,7 +736,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "7c909980-9cf5-4f27-a98d-1f4454519333",
+    "global_club_id": "7c909980-9cf5-4f27-a98d-1f4454519333",
     "name_japan": "長野",
     "name_earth": "長野",
     "countryCode": "JP",
@@ -744,7 +744,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "7cf9aa56-37d2-4deb-8b75-29793ede6d3d",
+    "global_club_id": "7cf9aa56-37d2-4deb-8b75-29793ede6d3d",
     "name_japan": "名古屋",
     "name_earth": "Nagoya",
     "countryCode": "JP",
@@ -752,7 +752,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "7d105d74-f935-4648-b223-2a8452adcd26",
+    "global_club_id": "7d105d74-f935-4648-b223-2a8452adcd26",
     "name_japan": "松原",
     "name_earth": "松原",
     "countryCode": "JP",
@@ -760,7 +760,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "7dc24b24-8560-4b5e-92c1-031aa2fa13db",
+    "global_club_id": "7dc24b24-8560-4b5e-92c1-031aa2fa13db",
     "name_japan": "陸前高田",
     "name_earth": "Rikuzentakata @ Iwate",
     "countryCode": "JP",
@@ -768,7 +768,7 @@
     "status": "PLANNING"
   },
   {
-    "id": "7ef14ebb-522a-4763-89b9-994f04219d51",
+    "global_club_id": "7ef14ebb-522a-4763-89b9-994f04219d51",
     "name_japan": "大船",
     "name_earth": "Ofuna",
     "countryCode": "JP",
@@ -776,7 +776,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "7ff3f2ee-0c75-4443-a9ac-d602618512af",
+    "global_club_id": "7ff3f2ee-0c75-4443-a9ac-d602618512af",
     "name_japan": "西那須野",
     "name_earth": "Nishinasuno@Minami comunity center",
     "countryCode": "JP",
@@ -784,7 +784,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "818b53de-9308-47ef-9767-6da77a052074",
+    "global_club_id": "818b53de-9308-47ef-9767-6da77a052074",
     "name_japan": "塩尻",
     "name_earth": "Shiojiri / 塩尻",
     "countryCode": "JP",
@@ -792,7 +792,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "831a556f-4f1a-49d4-bd2d-240e3378af1b",
+    "global_club_id": "831a556f-4f1a-49d4-bd2d-240e3378af1b",
     "name_japan": "若葉若松",
     "name_earth": "Wakaba Wakamatsu",
     "countryCode": "JP",
@@ -800,7 +800,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "838ad4e4-bcd1-4f22-8ae4-742c22579103",
+    "global_club_id": "838ad4e4-bcd1-4f22-8ae4-742c22579103",
     "name_japan": "猪名川",
     "name_earth": "Inagawa, Hyogo",
     "countryCode": "JP",
@@ -808,7 +808,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "85796abb-f777-4edd-886d-af0345e8fde8",
+    "global_club_id": "85796abb-f777-4edd-886d-af0345e8fde8",
     "name_japan": "安城",
     "name_earth": "Anjo",
     "countryCode": "JP",
@@ -816,7 +816,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "859b0f40-230c-4a90-ad9f-4e536f33ff9a",
+    "global_club_id": "859b0f40-230c-4a90-ad9f-4e536f33ff9a",
     "name_japan": "三春",
     "name_earth": "三春",
     "countryCode": "JP",
@@ -824,7 +824,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "86794277-80b2-4add-9d48-dad501c81642",
+    "global_club_id": "86794277-80b2-4add-9d48-dad501c81642",
     "name_japan": "南風原",
     "name_earth": "南風原 ",
     "countryCode": "JP",
@@ -832,7 +832,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "87acaba4-6eb9-4700-b652-e62928593578",
+    "global_club_id": "87acaba4-6eb9-4700-b652-e62928593578",
     "name_japan": "喜多方",
     "name_earth": "Kitakata",
     "countryCode": "JP",
@@ -840,7 +840,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "8820005d-91ad-4db3-9f1b-3a32dec6c387",
+    "global_club_id": "8820005d-91ad-4db3-9f1b-3a32dec6c387",
     "name_japan": "倉敷",
     "name_earth": "Kurashiki, Okayama prefecture",
     "countryCode": "JP",
@@ -848,7 +848,7 @@
     "status": "PLANNING"
   },
   {
-    "id": "8e4a0410-56d9-4ded-bdd2-e4334dc94f2c",
+    "global_club_id": "8e4a0410-56d9-4ded-bdd2-e4334dc94f2c",
     "name_japan": "恩納@OIST",
     "name_earth": "CoderDojo Onna @OIST",
     "countryCode": "JP",
@@ -856,7 +856,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "8fccc724-3930-4245-a96f-2f38650d8471",
+    "global_club_id": "8fccc724-3930-4245-a96f-2f38650d8471",
     "name_japan": "横浜師岡",
     "name_earth": "Morooka, Yokohama @ Morooka Community House",
     "countryCode": "JP",
@@ -864,7 +864,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "901f6e5c-f3de-4bb6-9279-825505872b41",
+    "global_club_id": "901f6e5c-f3de-4bb6-9279-825505872b41",
     "name_japan": "宜野湾",
     "name_earth": "Ginowan, Okinawa",
     "countryCode": "JP",
@@ -872,7 +872,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "91e15c61-549a-486c-9827-178a324c689f",
+    "global_club_id": "91e15c61-549a-486c-9827-178a324c689f",
     "name_japan": "ひばりヶ丘",
     "name_earth": "Hibarigaoka",
     "countryCode": "JP",
@@ -880,7 +880,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "94cc35b3-5efa-4835-8dd8-de3b5f534ead",
+    "global_club_id": "94cc35b3-5efa-4835-8dd8-de3b5f534ead",
     "name_japan": "犬山",
     "name_earth": "犬山",
     "countryCode": "JP",
@@ -888,7 +888,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "959721ca-a351-4263-bb85-1f430b04b093",
+    "global_club_id": "959721ca-a351-4263-bb85-1f430b04b093",
     "name_japan": "長門",
     "name_earth": "Nagato @ non profit organization TSUNAGU",
     "countryCode": "JP",
@@ -896,7 +896,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "9ac4d7e9-db9d-4914-8841-24f61c2cc5c1",
+    "global_club_id": "9ac4d7e9-db9d-4914-8841-24f61c2cc5c1",
     "name_japan": "藤江",
     "name_earth": "藤江",
     "countryCode": "JP",
@@ -904,7 +904,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "9b277d37-b4d6-4e27-8dbb-e8726fcff766",
+    "global_club_id": "9b277d37-b4d6-4e27-8dbb-e8726fcff766",
     "name_japan": "あざみ野",
     "name_earth": "Azamino, Yokohama",
     "countryCode": "JP",
@@ -912,7 +912,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "9b61788b-50cb-45bd-8160-c64a39e15111",
+    "global_club_id": "9b61788b-50cb-45bd-8160-c64a39e15111",
     "name_japan": "三次",
     "name_earth": "Miyoshi",
     "countryCode": "JP",
@@ -920,7 +920,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "9cff3729-57e5-4f58-ae92-d655538d0530",
+    "global_club_id": "9cff3729-57e5-4f58-ae92-d655538d0530",
     "name_japan": "富谷",
     "name_earth": "富谷",
     "countryCode": "JP",
@@ -928,7 +928,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "9da287ec-f150-4a68-b4bf-cb735421a764",
+    "global_club_id": "9da287ec-f150-4a68-b4bf-cb735421a764",
     "name_japan": "南紀田辺",
     "name_earth": "Nanki-Tanabe, Wakayama",
     "countryCode": "JP",
@@ -936,7 +936,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "9f02bd31-4392-44fe-8a09-d7267b1a1991",
+    "global_club_id": "9f02bd31-4392-44fe-8a09-d7267b1a1991",
     "name_japan": "金沢",
     "name_earth": "Kanazawa, Ishikawa @ HackforPlay",
     "countryCode": "JP",
@@ -944,7 +944,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "a127c893-cb9e-4564-b69f-9877f107c08a",
+    "global_club_id": "a127c893-cb9e-4564-b69f-9877f107c08a",
     "name_japan": "津山",
     "name_earth": "津山",
     "countryCode": "JP",
@@ -952,7 +952,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "a23e305c-493e-4738-b46e-48a8a9e86987",
+    "global_club_id": "a23e305c-493e-4738-b46e-48a8a9e86987",
     "name_japan": "住吉",
     "name_earth": "住吉",
     "countryCode": "JP",
@@ -960,7 +960,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "a273ea5c-2998-448e-8d61-b48de632d9af",
+    "global_club_id": "a273ea5c-2998-448e-8d61-b48de632d9af",
     "name_japan": "西神",
     "name_earth": "Seishin",
     "countryCode": "JP",
@@ -968,7 +968,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "a2777888-5a0e-489a-ab1d-3e9760f4a447",
+    "global_club_id": "a2777888-5a0e-489a-ab1d-3e9760f4a447",
     "name_japan": "宮古島",
     "name_earth": "Miyakojima",
     "countryCode": "JP",
@@ -976,7 +976,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "a3925e95-810e-4bd0-bfcf-f498884c51c4",
+    "global_club_id": "a3925e95-810e-4bd0-bfcf-f498884c51c4",
     "name_japan": "高槻",
     "name_earth": "Takatsuki",
     "countryCode": "JP",
@@ -984,7 +984,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "a889512c-8a4a-48bb-8100-c07cb514a931",
+    "global_club_id": "a889512c-8a4a-48bb-8100-c07cb514a931",
     "name_japan": "柏",
     "name_earth": "Kashiwa",
     "countryCode": "JP",
@@ -992,7 +992,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "a99f7d3a-203d-4858-9f39-b0ebb720d2f5",
+    "global_club_id": "a99f7d3a-203d-4858-9f39-b0ebb720d2f5",
     "name_japan": "山形",
     "name_earth": "Yamagata",
     "countryCode": "JP",
@@ -1000,7 +1000,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "ac3f82c7-1505-49e1-b92b-e0cf86a3ecfb",
+    "global_club_id": "ac3f82c7-1505-49e1-b92b-e0cf86a3ecfb",
     "name_japan": "西尾",
     "name_earth": "Nishio, Aichi",
     "countryCode": "JP",
@@ -1008,7 +1008,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "adf6ea8c-9a1b-4d91-9263-23f70155577e",
+    "global_club_id": "adf6ea8c-9a1b-4d91-9263-23f70155577e",
     "name_japan": "足利",
     "name_earth": "足利＠マチノテ",
     "countryCode": "JP",
@@ -1016,7 +1016,7 @@
     "status": "PLANNING"
   },
   {
-    "id": "af4cbdbe-95b1-4ec1-b74e-f3eb7d44be64",
+    "global_club_id": "af4cbdbe-95b1-4ec1-b74e-f3eb7d44be64",
     "name_japan": "水戸",
     "name_earth": "Mito",
     "countryCode": "JP",
@@ -1024,7 +1024,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "b0fd6944-6630-4440-ae2b-1c1423df6cd4",
+    "global_club_id": "b0fd6944-6630-4440-ae2b-1c1423df6cd4",
     "name_japan": "調布",
     "name_earth": "Chofu",
     "countryCode": "JP",
@@ -1032,7 +1032,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "b21b22ed-00d7-4d2c-a90e-919a70b2b634",
+    "global_club_id": "b21b22ed-00d7-4d2c-a90e-919a70b2b634",
     "name_japan": "品川御殿山",
     "name_earth": "Shinagawa Gotenyama",
     "countryCode": "JP",
@@ -1040,7 +1040,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "b4fefae6-214f-4afd-b404-20a6062e83ba",
+    "global_club_id": "b4fefae6-214f-4afd-b404-20a6062e83ba",
     "name_japan": "末広町@アミュレット",
     "name_earth": "Suehirocho@AMULET",
     "countryCode": "JP",
@@ -1048,7 +1048,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "b5614bc7-6348-4fed-be22-4831bdefae5a",
+    "global_club_id": "b5614bc7-6348-4fed-be22-4831bdefae5a",
     "name_japan": "豊中南",
     "name_earth": "豊中南",
     "countryCode": "JP",
@@ -1056,7 +1056,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "b638526d-bae5-4d13-aa16-1d4461cbc3ee",
+    "global_club_id": "b638526d-bae5-4d13-aa16-1d4461cbc3ee",
     "name_japan": "松本",
     "name_earth": "松本@松本大学",
     "countryCode": "JP",
@@ -1064,7 +1064,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "b68673dd-6ad2-4c26-b3be-c2c5b1fd6685",
+    "global_club_id": "b68673dd-6ad2-4c26-b3be-c2c5b1fd6685",
     "name_japan": "柏の葉",
     "name_earth": "Kashiwa-no-ha",
     "countryCode": "JP",
@@ -1072,7 +1072,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "b7038c6b-1ded-4772-ad66-9dd3ff914390",
+    "global_club_id": "b7038c6b-1ded-4772-ad66-9dd3ff914390",
     "name_japan": "宮崎",
     "name_earth": "Miyazaki",
     "countryCode": "JP",
@@ -1080,7 +1080,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "b791f2e8-7cc1-4398-ae86-c8bdc2c14168",
+    "global_club_id": "b791f2e8-7cc1-4398-ae86-c8bdc2c14168",
     "name_japan": "うるま",
     "name_earth": "Uruma, Okinawa @ Hiramiya",
     "countryCode": "JP",
@@ -1088,7 +1088,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "b939046d-a3b0-486a-bc88-09679fe800fe",
+    "global_club_id": "b939046d-a3b0-486a-bc88-09679fe800fe",
     "name_japan": "三島・沼津",
     "name_earth": "Mishima/Numazu @ Shizuoka",
     "countryCode": "JP",
@@ -1096,7 +1096,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "bba216fc-b2af-49b9-98f3-a5ba46579da6",
+    "global_club_id": "bba216fc-b2af-49b9-98f3-a5ba46579da6",
     "name_japan": "品川港南",
     "name_earth": "CoderDojo 品川港南",
     "countryCode": "JP",
@@ -1104,7 +1104,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "bcb999f5-9b59-4b21-a88b-b66b90aafecf",
+    "global_club_id": "bcb999f5-9b59-4b21-a88b-b66b90aafecf",
     "name_japan": "福岡",
     "name_earth": "Fukuoka",
     "countryCode": "JP",
@@ -1112,7 +1112,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "bcf764a4-0650-4a2b-8176-9c478d635632",
+    "global_club_id": "bcf764a4-0650-4a2b-8176-9c478d635632",
     "name_japan": "泉",
     "name_earth": "Izumi",
     "countryCode": "JP",
@@ -1120,7 +1120,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "bd0c0cdc-d14a-4f2a-8c2b-18bf7c933105",
+    "global_club_id": "bd0c0cdc-d14a-4f2a-8c2b-18bf7c933105",
     "name_japan": "岡南",
     "name_earth": "Konan, Okayama",
     "countryCode": "JP",
@@ -1128,7 +1128,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "bf17672b-d791-499e-8954-ed65b145f9aa",
+    "global_club_id": "bf17672b-d791-499e-8954-ed65b145f9aa",
     "name_japan": "青梅",
     "name_earth": "OME, Tokyo @ City Welfare Council",
     "countryCode": "JP",
@@ -1136,7 +1136,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "c4e6ae34-51c9-4e25-95e2-c498cf84fc9a",
+    "global_club_id": "c4e6ae34-51c9-4e25-95e2-c498cf84fc9a",
     "name_japan": "まちだ",
     "name_earth": "Machida",
     "countryCode": "JP",
@@ -1144,7 +1144,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "c6d9f5ed-23c5-43ae-90fb-20e6edc02599",
+    "global_club_id": "c6d9f5ed-23c5-43ae-90fb-20e6edc02599",
     "name_japan": "和歌山",
     "name_earth": "Wakayama",
     "countryCode": "JP",
@@ -1152,7 +1152,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "c7894750-2362-43f8-8336-1167a1c914e7",
+    "global_club_id": "c7894750-2362-43f8-8336-1167a1c914e7",
     "name_japan": "香椎",
     "name_earth": "Kashii, Fukuoka",
     "countryCode": "JP",
@@ -1160,7 +1160,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "c8fd50c6-0145-44d5-8d93-161168b177e2",
+    "global_club_id": "c8fd50c6-0145-44d5-8d93-161168b177e2",
     "name_japan": "富士宮",
     "name_earth": "富士宮",
     "countryCode": "JP",
@@ -1168,7 +1168,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "c9729663-2c23-48bd-ae45-071a5e54291a",
+    "global_club_id": "c9729663-2c23-48bd-ae45-071a5e54291a",
     "name_japan": "鶴岡",
     "name_earth": "Tsuruoka",
     "countryCode": "JP",
@@ -1176,7 +1176,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "c9841a4d-e977-49f6-b3d4-9a9b3d72e391",
+    "global_club_id": "c9841a4d-e977-49f6-b3d4-9a9b3d72e391",
     "name_japan": "浜松",
     "name_earth": "Hamamatsu @ Shizuoka",
     "countryCode": "JP",
@@ -1184,7 +1184,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "cb5e54eb-717b-42ee-88a3-fa7eb1b66fc5",
+    "global_club_id": "cb5e54eb-717b-42ee-88a3-fa7eb1b66fc5",
     "name_japan": "恵那",
     "name_earth": "Ena",
     "countryCode": "JP",
@@ -1192,7 +1192,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "ccc1a8fc-3e37-4f32-a4a0-36862f85bb76",
+    "global_club_id": "ccc1a8fc-3e37-4f32-a4a0-36862f85bb76",
     "name_japan": "矢吹",
     "name_earth": "Yabuki",
     "countryCode": "JP",
@@ -1200,7 +1200,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "ce5cc9fd-59c6-4e11-863e-17218face5fc",
+    "global_club_id": "ce5cc9fd-59c6-4e11-863e-17218face5fc",
     "name_japan": "晴海",
     "name_earth": "CoderDojo HARUMI",
     "countryCode": "JP",
@@ -1208,7 +1208,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "ce8d569c-a704-428d-a0ed-5d0bf8beff48",
+    "global_club_id": "ce8d569c-a704-428d-a0ed-5d0bf8beff48",
     "name_japan": "沖縄@ぴあ",
     "name_earth": "沖縄@ぴあ",
     "countryCode": "JP",
@@ -1216,7 +1216,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "ce99d5a6-645f-4c08-9edc-f5660553a35e",
+    "global_club_id": "ce99d5a6-645f-4c08-9edc-f5660553a35e",
     "name_japan": "二本松",
     "name_earth": "二本松@市民交流センター",
     "countryCode": "JP",
@@ -1224,7 +1224,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "d6a7d7e6-6043-4efd-bba4-db5abf0d6372",
+    "global_club_id": "d6a7d7e6-6043-4efd-bba4-db5abf0d6372",
     "name_japan": "嘉手納",
     "name_earth": "Kadena, Okinawa",
     "countryCode": "JP",
@@ -1232,7 +1232,7 @@
     "status": "PLANNING"
   },
   {
-    "id": "d7178c1a-1372-4314-aee9-bb9444a2364a",
+    "global_club_id": "d7178c1a-1372-4314-aee9-bb9444a2364a",
     "name_japan": "なかもず",
     "name_earth": "Nakamozu @ S-Cube",
     "countryCode": "JP",
@@ -1240,7 +1240,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "d7563ebf-f2d6-491e-9be8-8b0bd856ed4f",
+    "global_club_id": "d7563ebf-f2d6-491e-9be8-8b0bd856ed4f",
     "name_japan": "浦安",
     "name_earth": "Urayasu",
     "countryCode": "JP",
@@ -1248,7 +1248,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "d9a2266b-d2c3-4541-9ff2-0a665a76be00",
+    "global_club_id": "d9a2266b-d2c3-4541-9ff2-0a665a76be00",
     "name_japan": "紫雲",
     "name_earth": "Shiun, Kagawa",
     "countryCode": "JP",
@@ -1256,7 +1256,7 @@
     "status": "PLANNING"
   },
   {
-    "id": "da06459a-8b91-459b-8c2c-a81b46c791d7",
+    "global_club_id": "da06459a-8b91-459b-8c2c-a81b46c791d7",
     "name_japan": "たかおか",
     "name_earth": "たかおか@Fablab",
     "countryCode": "JP",
@@ -1264,7 +1264,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "ddfc605d-5cb8-49f6-a0ac-82884577f70e",
+    "global_club_id": "ddfc605d-5cb8-49f6-a0ac-82884577f70e",
     "name_japan": "こだいら",
     "name_earth": "CoderDojo Kodaira",
     "countryCode": "JP",
@@ -1272,7 +1272,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "deb9b382-737b-492e-83c1-9c1ac77098ac",
+    "global_club_id": "deb9b382-737b-492e-83c1-9c1ac77098ac",
     "name_japan": "日本橋",
     "name_earth": "日本橋",
     "countryCode": "JP",
@@ -1280,7 +1280,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "dee0c196-91ca-446d-86e6-7fb30a47b83a",
+    "global_club_id": "dee0c196-91ca-446d-86e6-7fb30a47b83a",
     "name_japan": "市川真間",
     "name_earth": "Ichikawa-Mama, Chiba",
     "countryCode": "JP",
@@ -1288,7 +1288,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "e00d3a01-0620-4ac7-a9c6-508e9ef361ad",
+    "global_club_id": "e00d3a01-0620-4ac7-a9c6-508e9ef361ad",
     "name_japan": "木曽",
     "name_earth": "Kiso @ Mintsuku",
     "countryCode": "JP",
@@ -1296,7 +1296,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "e03205bc-4467-4431-9fa7-5b12b6cf3b7e",
+    "global_club_id": "e03205bc-4467-4431-9fa7-5b12b6cf3b7e",
     "name_japan": "熊本",
     "name_earth": "Kumamoto @ Kyusyu",
     "countryCode": "JP",
@@ -1304,7 +1304,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "e1447ba8-ba14-4350-927e-334fce62a24a",
+    "global_club_id": "e1447ba8-ba14-4350-927e-334fce62a24a",
     "name_japan": "神戸",
     "name_earth": "Kobe, Hyogo",
     "countryCode": "JP",
@@ -1312,7 +1312,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "e15893b1-7d2d-484e-a8ba-31f3197d5cf1",
+    "global_club_id": "e15893b1-7d2d-484e-a8ba-31f3197d5cf1",
     "name_japan": "師勝",
     "name_earth": "shikatsu",
     "countryCode": "JP",
@@ -1320,7 +1320,7 @@
     "status": "PLANNING"
   },
   {
-    "id": "e211e285-a6bb-46e3-b147-0edb45b18744",
+    "global_club_id": "e211e285-a6bb-46e3-b147-0edb45b18744",
     "name_japan": "上市",
     "name_earth": "Kamiichi@Ultinet",
     "countryCode": "JP",
@@ -1328,7 +1328,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "e30947bb-ee5d-4960-973d-bb5d97d931d4",
+    "global_club_id": "e30947bb-ee5d-4960-973d-bb5d97d931d4",
     "name_japan": "岩国",
     "name_earth": "岩国",
     "countryCode": "JP",
@@ -1336,7 +1336,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "e3973157-00f6-435e-b34b-043f7a8dc767",
+    "global_club_id": "e3973157-00f6-435e-b34b-043f7a8dc767",
     "name_japan": "古河",
     "name_earth": "Koga, Ibaraki",
     "countryCode": "JP",
@@ -1344,7 +1344,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "e50545a6-eafa-4841-8829-a018ba18a721",
+    "global_club_id": "e50545a6-eafa-4841-8829-a018ba18a721",
     "name_japan": "福山大門",
     "name_earth": "Fukuyama Daimon@ Community Center",
     "countryCode": "JP",
@@ -1352,7 +1352,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "e527094d-5525-4188-a239-5b1c568a8495",
+    "global_club_id": "e527094d-5525-4188-a239-5b1c568a8495",
     "name_japan": "恵庭",
     "name_earth": "Eniwa",
     "countryCode": "JP",
@@ -1360,7 +1360,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "e82f29a3-25dd-4d4c-b2cf-1ba6f87f46d4",
+    "global_club_id": "e82f29a3-25dd-4d4c-b2cf-1ba6f87f46d4",
     "name_japan": "松戸",
     "name_earth": "Matsudo",
     "countryCode": "JP",
@@ -1368,7 +1368,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "e8ff33b5-4140-4d25-b924-91bc22f06a96",
+    "global_club_id": "e8ff33b5-4140-4d25-b924-91bc22f06a96",
     "name_japan": "鹿児島",
     "name_earth": "Kagoshima@GenbaSupport",
     "countryCode": "JP",
@@ -1376,7 +1376,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "ea49c09a-2c90-47c8-a11d-6764efbc2d47",
+    "global_club_id": "ea49c09a-2c90-47c8-a11d-6764efbc2d47",
     "name_japan": "会津",
     "name_earth": "Aizu",
     "countryCode": "JP",
@@ -1384,7 +1384,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "ebc0a31a-bbc2-45d3-a844-4fad410f2191",
+    "global_club_id": "ebc0a31a-bbc2-45d3-a844-4fad410f2191",
     "name_japan": "南柏",
     "name_earth": "Minami-Kashiwa",
     "countryCode": "JP",
@@ -1392,7 +1392,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "ee13db6f-0ffc-441c-bf7b-dea550233bd0",
+    "global_club_id": "ee13db6f-0ffc-441c-bf7b-dea550233bd0",
     "name_japan": "平野@YOZORA LABO",
     "name_earth": "平野@ YOZORA LABO",
     "countryCode": "JP",
@@ -1400,7 +1400,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "ee79a38d-ab3f-43e6-b933-6b444fb3c8c2",
+    "global_club_id": "ee79a38d-ab3f-43e6-b933-6b444fb3c8c2",
     "name_japan": "尾張",
     "name_earth": "Owari",
     "countryCode": "JP",
@@ -1408,7 +1408,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "eecbd90a-0fdb-41dc-94e5-d3e9f6d6d57e",
+    "global_club_id": "eecbd90a-0fdb-41dc-94e5-d3e9f6d6d57e",
     "name_japan": "神山",
     "name_earth": "Kamiyama, Tokushima @ JA uetsuno",
     "countryCode": "JP",
@@ -1416,7 +1416,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "f126911d-5a5e-4fbe-89ef-de2feb46a232",
+    "global_club_id": "f126911d-5a5e-4fbe-89ef-de2feb46a232",
     "name_japan": "なんと@よってカフェ",
     "name_earth": "なんと@よってカフェ",
     "countryCode": "JP",
@@ -1424,7 +1424,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "f18cb267-047a-4885-bb6d-2cf154d54300",
+    "global_club_id": "f18cb267-047a-4885-bb6d-2cf154d54300",
     "name_japan": "稲城",
     "name_earth": "Inagi",
     "countryCode": "JP",
@@ -1432,7 +1432,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "f1c974d7-24c1-487b-b2b4-923c9468e6aa",
+    "global_club_id": "f1c974d7-24c1-487b-b2b4-923c9468e6aa",
     "name_japan": "和歌山有田",
     "name_earth": "和歌山有田",
     "countryCode": "JP",
@@ -1440,7 +1440,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "f3a379c1-46c5-4a9f-9f9f-6469f0aa05d3",
+    "global_club_id": "f3a379c1-46c5-4a9f-9f9f-6469f0aa05d3",
     "name_japan": "鳥取",
     "name_earth": "Tottori",
     "countryCode": "JP",
@@ -1448,7 +1448,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "f5f518e4-4239-4b4a-8d15-735885ae1afc",
+    "global_club_id": "f5f518e4-4239-4b4a-8d15-735885ae1afc",
     "name_japan": "さくら",
     "name_earth": "Sakura",
     "countryCode": "JP",
@@ -1456,7 +1456,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "f8a7ac3b-2b70-4a8b-a310-2f8ee127a9b9",
+    "global_club_id": "f8a7ac3b-2b70-4a8b-a310-2f8ee127a9b9",
     "name_japan": "飯能",
     "name_earth": "Hanno",
     "countryCode": "JP",
@@ -1464,7 +1464,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "f9a2e202-8ef0-4b7a-96e8-07b61451fcc0",
+    "global_club_id": "f9a2e202-8ef0-4b7a-96e8-07b61451fcc0",
     "name_japan": "瀬戸",
     "name_earth": "瀬戸",
     "countryCode": "JP",
@@ -1472,7 +1472,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "fa0ae0bf-b6b3-4d57-975b-6f095ab89c7a",
+    "global_club_id": "fa0ae0bf-b6b3-4d57-975b-6f095ab89c7a",
     "name_japan": "長岡京",
     "name_earth": "Nagaokakyo, Kyoto",
     "countryCode": "JP",
@@ -1480,7 +1480,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "fa322844-dcb5-465a-be41-269f17dbe6e7",
+    "global_club_id": "fa322844-dcb5-465a-be41-269f17dbe6e7",
     "name_japan": "光",
     "name_earth": "Hikari @ HiKARiBA",
     "countryCode": "JP",
@@ -1488,7 +1488,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "fc1fb126-fe99-4ef6-b8db-46f348869369",
+    "global_club_id": "fc1fb126-fe99-4ef6-b8db-46f348869369",
     "name_japan": "ひたちなか",
     "name_earth": "Hitachinaka",
     "countryCode": "JP",
@@ -1496,7 +1496,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "fcfec8ee-b0d5-442a-bdb1-1ec12c467bb2",
+    "global_club_id": "fcfec8ee-b0d5-442a-bdb1-1ec12c467bb2",
     "name_japan": "守谷",
     "name_earth": "Moriya",
     "countryCode": "JP",
@@ -1504,7 +1504,7 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "id": "fdd3304b-486d-495f-b53e-0de47102dc6d",
+    "global_club_id": "fdd3304b-486d-495f-b53e-0de47102dc6d",
     "name_japan": "甲府",
     "name_earth": "甲府 @ 山梨県立青少年センター",
     "countryCode": "JP",
