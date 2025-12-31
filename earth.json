@@ -1,4 +1,4 @@
 ---
 layout: none
 ---
-{{ site.data.earth | jsonify }}
+{{ site.data.dojos_earth | jsonify }}

@@ -126,7 +126,7 @@ puts " (Total: #{@dojo_data.count})"
 
 # API から取得した結果を JSON にしてファイルに書き込む
 File.write('tmp/number_of_dojos', @dojo_data.length)
-File.open('dojos_earth.json', 'w') do |file|
+File.open('_data/dojos_earth.json', 'w') do |file|
   file.puts JSON.pretty_generate(@dojo_data.sort_by{|dojo| dojo[:id]})
 end
 
@@ -136,5 +136,5 @@ puts ''
 puts 'Fetched number of dojos: ' + File.read('tmp/number_of_dojos')
 puts ''
 puts 'Check out its details by:'
-puts '$ cat dojos_earth.json'
+puts '$ cat _data/dojos_earth.json'
 puts ''

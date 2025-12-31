@@ -54,7 +54,6 @@ jobs:
     - name: ☯️ Cache dojo logos in Japan
       run: |
         bundle exec ruby cache_dojo_logos.rb
-        bundle exec rake cache_data_as_yaml
 
     - name: 📍 Generate DojoMap from Earth/Japan data
       run: |
@@ -72,11 +71,10 @@ jobs:
           git add Gemfile.lock
 
           # Cache responses from Japan/Clubs APIs
-          git add dojos_earth.json
+          git add _data/dojos_earth.json
           git add dojos_japan.json
           git add events_japan.json
           git add images/dojos
-          git add _data/earth.yml
 
           # Save GeoJSON data to render DojoMap
           git add dojos.geojson
