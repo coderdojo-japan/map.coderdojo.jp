@@ -135,12 +135,12 @@ dojos_earth.each do |dojo|
 
     # 名寄せ用に ID と日本語名を控える
     japan_dojos << {
-      id:          dojo[:id],
-      name_japan:  dojo[:name],
-      name_earth:  dojo[:name_earth],
-      countryCode: dojo[:countryCode],
-      urlSlug:     dojo[:urlSlug],
-      status:      dojo[:status],
+      global_club_id: dojo[:id],
+      name_japan:     dojo[:name],
+      name_earth:     dojo[:name_earth],
+      countryCode:    dojo[:countryCode],
+      urlSlug:        dojo[:urlSlug],
+      status:         dojo[:status],
      } if dojo[:countryCode] == "JP"
 
     # 地図上に配置するため GeoJSON 形式に変換する
