@@ -38,12 +38,12 @@ https://map.coderdojo.jp/
    $ bundle install
    ```
 
-1. [CoderDojo Zen](https://zen.coderdojo.com/) から Dojo 情報一覧を取得する（[`dojos_earth.json`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/dojos_earth.json)が更新されます）
+1. [Clubs API](https://clubs-api.raspberrypi.org/) から Dojo 情報一覧を取得する（[`dojos_earth.json`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/_data/dojos_earth.json)が更新されます）
    ```
    $ bundle exec rake get_data_from_earth
    ```
 
-1. [CoderDojo Japan](http://coderdojo.jp/) から Dojo 情報一覧を取得する（[`dojos_japan.json`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/dojos_japan.json)が更新されます）
+1. [CoderDojo Japan](https://coderdojo.jp/dojos.json) から Dojo 情報一覧を取得する（[`dojos_japan.json`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/_data/dojos_japan.json)が更新されます）
    ```
    # Japan's API からデータを取得し、ロゴ画像をキャッシュする
    $ bundle exec rake get_data_from_japan
