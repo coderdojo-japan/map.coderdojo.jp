@@ -2,11 +2,11 @@ task default: 'test'
 
 # These tasks are executed in GitHub Actions
 desc 'Get CoderDojo data on the Earth via Raspberry Pi Clubs API'
-task(:get_data_from_earth)  { ruby 'get_data_from_earth.rb'  }
-task(:get_data_from_japan)  { ruby 'get_data_from_japan.rb'  }
-task(:cache_dojo_logos)     { ruby 'cache_dojo_logos.rb'     }
-task(:upsert_dojos_geojson) { ruby 'upsert_dojos_geojson.rb' }
-task(:compact_geojson)      { ruby 'compact_geojson.rb'      }
+task(:get_data_from_earth)  { ruby '_tasks/get_data_from_earth.rb'  }
+task(:get_data_from_japan)  { ruby '_tasks/get_data_from_japan.rb'  }
+task(:cache_dojo_logos)     { ruby '_tasks/cache_dojo_logos.rb'     }
+task(:upsert_dojos_geojson) { ruby '_tasks/upsert_dojos_geojson.rb' }
+task(:compact_geojson)      { ruby '_tasks/compact_geojson.rb'      }
 
 # GitHub - gjtorikian/html-proofer
 # https://github.com/gjtorikian/html-proofer
