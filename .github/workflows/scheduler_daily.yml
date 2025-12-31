@@ -76,7 +76,6 @@ jobs:
 
           # Save GeoJSON data to render DojoMap
           git add dojos.geojson
-          git add dojos.min.geojson
 
           # Commit changed files above
           git commit -m '🤖 Upsert Earth/Japan data for DojoMap'

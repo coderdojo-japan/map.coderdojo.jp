@@ -7,3 +7,6 @@ tmp/
 vendor/
 
 .DS_Store
+
+# Generated files
+dojos.min.geojson
