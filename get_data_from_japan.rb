@@ -10,7 +10,7 @@ EVENTS_DATA = JSON.parse Net::HTTP.get(URI.parse "#{BASE_URL}/events.json"), sym
 EVENTS_JSON = JSON.pretty_generate EVENTS_DATA.sort_by{|dojo| dojo[:id]}
 
 File.open("_data/dojos_japan.json",  "w") { |file| file.write(DOJOS_JSON)  }
-File.open("events_japan.json", "w") { |file| file.write(EVENTS_JSON) }
+File.open("_data/events_japan.json", "w") { |file| file.write(EVENTS_JSON) }
 
 # Show next step for developers
 puts DOJOS_JSON
@@ -21,5 +21,5 @@ puts ''
 puts EVENTS_JSON
 puts ''
 puts 'Check out JSON data you fetched by:'
-puts '$ cat events_japan.json'
+puts '$ cat _data/events_japan.json'
 puts ''
