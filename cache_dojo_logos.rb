@@ -4,7 +4,7 @@ require 'open-uri'
 
 # Caching images from coderdojo.jp to local filesystem
 dojos_japan = []
-File.open('dojos_japan.json') do |file|
+File.open('_data/dojos_japan.json') do |file|
   dojos_japan = JSON.load(file, nil, symbolize_names: true, create_additions: false)
 end
 
