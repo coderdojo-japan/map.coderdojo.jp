@@ -7,6 +7,7 @@ task(:get_data_from_japan)  { ruby 'get_data_from_japan.rb'  }
 task(:cache_dojo_logos)     { ruby 'cache_dojo_logos.rb'     }
 task(:cache_data_as_yaml)   { ruby 'cache_data_as_yaml.rb'   }
 task(:upsert_dojos_geojson) { ruby 'upsert_dojos_geojson.rb' }
+task(:compact_geojson)      { ruby 'compact_geojson.rb'      }
 
 # GitHub - gjtorikian/html-proofer
 # https://github.com/gjtorikian/html-proofer
