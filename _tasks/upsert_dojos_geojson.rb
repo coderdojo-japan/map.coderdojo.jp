@@ -62,6 +62,7 @@ end
 features    = []
 description = ''
 japan_count = 0
+japan_dojos = []
 marked_dojos = []
 dojos_earth.each do |dojo|
   # 緯度または経度データが無いクラブはスキップ（地図上に配置できないため）
@@ -96,7 +97,8 @@ dojos_earth.each do |dojo|
       # Japan DB 上で Inactive ならスキップ (Clubs DB より厳密に管理されているため)
       next if name2is_active[zen2japan[dojo[:name]]] == false
 
-      # Clubs API 上のクラブ名を Japan DB 上のクラブ前に変換する by Hash
+      # Clubs API 上のクラブ名を Japan DB 上のクラブ名に変換する
+      dojo[:name_earth] = dojo[:name]
       dojo[:name] = zen2japan[dojo[:name]] if zen2japan[dojo[:name]]
 
       # デバッグ用: 地図上に配置したクラブ数をコンソールに出力する
@@ -131,6 +133,16 @@ dojos_earth.each do |dojo|
       HTML
     end
 
+    # 名寄せ用に ID と日本語名を控える
+    japan_dojos << {
+      id:          dojo[:id],
+      name_japan:  dojo[:name],
+      name_earth:  dojo[:name_earth],
+      countryCode: dojo[:countryCode],
+      urlSlug:     dojo[:urlSlug],
+      status:      dojo[:status],
+     } if dojo[:countryCode] == "JP"
+
     # 地図上に配置するため GeoJSON 形式に変換する
     # https://ja.wikipedia.org/wiki/GeoJSON
     features << {
@@ -159,3 +171,7 @@ File.open("dojos.geojson", "w") do |file|
   file.write(DOJOS_GEOJSON)
   #JSON.dump(geojson, file)
 end
+
+# 名寄せ前/名寄せ後の比較用データを保存
+IO.write "_data/dojo2dojo.json", JSON.pretty_generate(japan_dojos)
+
