@@ -59,6 +59,7 @@ jobs:
     - name: 📍 Generate DojoMap from Earth/Japan data
       run: |
         bundle exec rake upsert_dojos_geojson
+        bundle exec rake compact_geojson
 
     - name: 🆙 Commit latest data to update DojoMap (if any)
       run: |
@@ -79,6 +80,7 @@ jobs:
 
           # Save GeoJSON data to render DojoMap
           git add dojos.geojson
+          git add dojos.min.geojson
 
           # Commit changed files above
           git commit -m '🤖 Upsert Earth/Japan data for DojoMap'
