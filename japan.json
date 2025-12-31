@@ -1,4 +1,4 @@
 ---
 layout: none
 ---
-{{ site.data.earth | where: "countryCode", "JP" | jsonify }}
+{{ site.data.dojos_earth | where: "countryCode", "JP" | jsonify }}
