@@ -166,12 +166,7 @@ geojson = {
   features: features
 }
 
-DOJOS_GEOJSON = JSON.pretty_generate(geojson)
-File.open("dojos.geojson", "w") do |file|
-  file.write(DOJOS_GEOJSON)
-  #JSON.dump(geojson, file)
-end
-
-# 名寄せ前/名寄せ後の比較用データを保存
+# 描画に使う GeoJSON データと、デバッグ用の比較データを保存
+IO.write "dojos.geojson",        JSON.pretty_generate(geojson)
 IO.write "_data/dojo2dojo.json", JSON.pretty_generate(japan_dojos)
 
