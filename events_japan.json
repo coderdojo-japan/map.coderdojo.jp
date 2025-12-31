@@ -89,8 +89,8 @@
     "event_end_at": "2026-01-18T16:00:00.000+09:00",
     "event_url": "https://coderdojo-nagaokakyo.doorkeeper.jp/events/193693",
     "prefecture": "京都",
-    "participants": 10,
-    "event_update_at": "2025-12-29T14:01:43.702+09:00",
+    "participants": 11,
+    "event_update_at": "2025-12-31T00:18:46.579+09:00",
     "address": "〒617-0826 京都府長岡京市開田４丁目２−９ ヘルプビル3F",
     "place": "長岡京コワーキングスペース",
     "limit": 16
@@ -265,8 +265,8 @@
     "event_end_at": "2026-01-10T12:00:00.000+09:00",
     "event_url": "https://coderdojo-takizawa.doorkeeper.jp/events/194086",
     "prefecture": "岩手",
-    "participants": 1,
-    "event_update_at": "2025-12-29T23:01:16.520+09:00",
+    "participants": 2,
+    "event_update_at": "2025-12-30T16:47:34.786+09:00",
     "address": "岩手県滝沢市巣子152-409",
     "place": "滝沢市IPU第二イノベーションセンター",
     "limit": null
@@ -894,6 +894,22 @@
     "address": "大阪府堺市北区長曽根町130-42 (S-Cube)",
     "place": "S-Cube",
     "limit": 25
+  },
+  {
+    "id": 328,
+    "name": "日野",
+    "url": "https://coderdojo-hino.connpass.com/",
+    "event_id": 9313,
+    "event_title": "子どものためのプログラミング道場【CoderDojo日野】第14回",
+    "event_date": "2026-01-18T10:00:00.000+09:00",
+    "event_end_at": "2026-01-18T12:00:00.000+09:00",
+    "event_url": "https://coderdojo-hino.connpass.com/event/379864/",
+    "prefecture": "東京",
+    "participants": 9,
+    "event_update_at": "2025-12-30T12:12:47.000+09:00",
+    "address": "〒191-0062 日野市多摩平1-14-95",
+    "place": "日野市立ひの市民活動支援センター分館",
+    "limit": 14
   },
   {
     "id": 334,
