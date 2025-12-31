@@ -72,7 +72,7 @@ jobs:
 
           # Cache responses from Japan/Clubs APIs
           git add _data/dojos_earth.json
-          git add dojos_japan.json
+          git add _data/dojos_japan.json
           git add events_japan.json
           git add images/dojos
 

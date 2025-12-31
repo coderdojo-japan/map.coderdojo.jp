@@ -9,7 +9,7 @@ zen2japan    = {}
 
 json_load_options = { symbolize_names: true, create_additions: false }
 File.open("_data/dojos_earth.json") {|file| dojos_earth  = JSON.load(file, nil, json_load_options) }
-File.open("dojos_japan.json") {|file| dojos_japan  = JSON.load(file, nil, json_load_options) }
+File.open("_data/dojos_japan.json") {|file| dojos_japan  = JSON.load(file, nil, json_load_options) }
 File.open("events_japan.json"){|file| events_japan = JSON.load(file, nil, json_load_options) }
 #pp dojos_earth.first, dojos_japan.first, events_japan.first
 
