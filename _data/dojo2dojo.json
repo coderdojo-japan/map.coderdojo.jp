@@ -376,14 +376,6 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "global_club_id": "3b543ede-20e5-4283-a0a6-c342fcb3ffc8",
-    "name_japan": "新発田",
-    "name_earth": "Shibata@TINKERKIDS",
-    "countryCode": "JP",
-    "urlSlug": "jp/shibata-niigata-prefecture/shibata-tinkerkids",
-    "status": "RUNNING_SESSIONS"
-  },
-  {
     "global_club_id": "3d037ab0-1ba5-4c94-97ef-2898a37bdb68",
     "name_japan": "多摩センター",
     "name_earth": "Tama Center @ Tokyo",
@@ -1229,14 +1221,6 @@
     "name_earth": "Nakamozu @ S-Cube",
     "countryCode": "JP",
     "urlSlug": null,
-    "status": "RUNNING_SESSIONS"
-  },
-  {
-    "global_club_id": "d7563ebf-f2d6-491e-9be8-8b0bd856ed4f",
-    "name_japan": "浦安",
-    "name_earth": "Urayasu",
-    "countryCode": "JP",
-    "urlSlug": "jp/urayasu-chiba-prefecture/urayasu",
     "status": "RUNNING_SESSIONS"
   },
   {

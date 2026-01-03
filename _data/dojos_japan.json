@@ -253,11 +253,11 @@
     "logo": "https://coderdojo.jp/img/dojos/urayasu.webp",
     "order": "122271",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "千葉",
     "created_at": "2016-11-08T00:00:00.000+09:00",
     "description": "浦安市で毎月開催",
-    "inactivated_at": null
+    "inactivated_at": "2025-02-24T00:00:00.000+09:00"
   },
   {
     "id": 22,
@@ -699,7 +699,7 @@
     "prefecture": "沖縄",
     "created_at": "2016-11-02T00:00:00.000+09:00",
     "description": "宮古島市で不定期開催",
-    "inactivated_at": "2025-12-31T00:00:00.000+09:00"
+    "inactivated_at": "2023-04-26T00:00:00.000+09:00"
   },
   {
     "id": 57,
@@ -1566,11 +1566,11 @@
     "logo": "https://coderdojo.jp/img/dojos/default.webp",
     "order": "152064",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "新潟",
     "created_at": "2018-02-17T00:00:00.000+09:00",
     "description": "新発田市で毎月開催",
-    "inactivated_at": null
+    "inactivated_at": "2023-01-10T00:00:00.000+09:00"
   },
   {
     "id": 128,
