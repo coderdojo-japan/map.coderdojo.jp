@@ -11011,16 +11011,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "FOSDEM Junior",
-    "latitude": 50.81291,
-    "longitude": 4.38069,
-    "countryCode": "BE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "nl/oisterwijk/oisterwijk",
-    "id": "c0468f47-a1a4-43b6-b7f0-170a7d98b30c"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Amritsar @ Red Tree Coders",
     "latitude": 31.6815896,
     "longitude": 74.9057141,

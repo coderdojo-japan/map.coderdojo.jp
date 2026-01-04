@@ -520,14 +520,6 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "global_club_id": "542b0936-d7f7-49ef-9675-e352c3e5281c",
-    "name_japan": "土気",
-    "name_earth": "土気",
-    "countryCode": "JP",
-    "urlSlug": "jp/chiba-chiba-prefecture/tu3-qi4",
-    "status": "PLANNING"
-  },
-  {
     "global_club_id": "543b619c-b1a8-48f5-b5f0-f9fe5bd1bfb2",
     "name_japan": "三好",
     "name_earth": "Miyoshi, Tokushima @ Microsoft",
@@ -752,14 +744,6 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "global_club_id": "7dc24b24-8560-4b5e-92c1-031aa2fa13db",
-    "name_japan": "陸前高田",
-    "name_earth": "Rikuzentakata @ Iwate",
-    "countryCode": "JP",
-    "urlSlug": "jp/japan-iwate-prefecture/rikuzentakata-iwate",
-    "status": "PLANNING"
-  },
-  {
     "global_club_id": "7ef14ebb-522a-4763-89b9-994f04219d51",
     "name_japan": "大船",
     "name_earth": "Ofuna",
@@ -784,14 +768,6 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "global_club_id": "831a556f-4f1a-49d4-bd2d-240e3378af1b",
-    "name_japan": "若葉若松",
-    "name_earth": "Wakaba Wakamatsu",
-    "countryCode": "JP",
-    "urlSlug": "jp/japan-qian1-ye4-xian4-chiba/wakaba-wakamatsu",
-    "status": "RUNNING_SESSIONS"
-  },
-  {
     "global_club_id": "838ad4e4-bcd1-4f22-8ae4-742c22579103",
     "name_japan": "猪名川",
     "name_earth": "Inagawa, Hyogo",
@@ -805,14 +781,6 @@
     "name_earth": "Anjo",
     "countryCode": "JP",
     "urlSlug": "jp/anjo-aichi-prefecture/anjo",
-    "status": "RUNNING_SESSIONS"
-  },
-  {
-    "global_club_id": "859b0f40-230c-4a90-ad9f-4e536f33ff9a",
-    "name_japan": "三春",
-    "name_earth": "三春",
-    "countryCode": "JP",
-    "urlSlug": "jp/fu2-dao3-xian4-tian2-cun1-jun4/san1-chun1",
     "status": "RUNNING_SESSIONS"
   },
   {
@@ -1064,14 +1032,6 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "global_club_id": "b791f2e8-7cc1-4398-ae86-c8bdc2c14168",
-    "name_japan": "うるま",
-    "name_earth": "Uruma, Okinawa @ Hiramiya",
-    "countryCode": "JP",
-    "urlSlug": "jp/uruma-okinawa-prefecture/uruma-okinawa-hiramiya-1",
-    "status": "RUNNING_SESSIONS"
-  },
-  {
     "global_club_id": "b939046d-a3b0-486a-bc88-09679fe800fe",
     "name_japan": "三島・沼津",
     "name_earth": "Mishima/Numazu @ Shizuoka",
@@ -1189,14 +1149,6 @@
     "name_earth": "CoderDojo HARUMI",
     "countryCode": "JP",
     "urlSlug": null,
-    "status": "RUNNING_SESSIONS"
-  },
-  {
-    "global_club_id": "ce8d569c-a704-428d-a0ed-5d0bf8beff48",
-    "name_japan": "沖縄@ぴあ",
-    "name_earth": "沖縄@ぴあ",
-    "countryCode": "JP",
-    "urlSlug": "jp/japan-okinawa/pia",
     "status": "RUNNING_SESSIONS"
   },
   {
