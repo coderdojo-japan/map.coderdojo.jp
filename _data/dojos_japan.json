@@ -3173,7 +3173,7 @@
   },
   {
     "id": 263,
-    "url": "https://www.urawa-minecraftclub.com/",
+    "url": "https://www.facebook.com/urawaminecraftclub",
     "name": "浦和@Urawa Minecraft Club",
     "logo": "https://coderdojo.jp/img/dojos/urawa.webp",
     "order": "111074",
@@ -3295,11 +3295,11 @@
     "logo": "https://coderdojo.jp/img/dojos/fujiidera-kashiwara.webp",
     "order": "272264",
     "counter": 2,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "大阪",
     "created_at": "2021-02-28T00:00:00.000+09:00",
     "description": "藤井寺市/柏原市で毎月開催",
-    "inactivated_at": null
+    "inactivated_at": "2022-07-25T00:00:00.000+09:00"
   },
   {
     "id": 273,
@@ -3349,7 +3349,7 @@
     "counter": 1,
     "is_active": true,
     "prefecture": "富山",
-    "created_at": "2021-10-08T00:00:00.000+09:00",
+    "created_at": "2025-10-14T00:00:00.000+09:00",
     "description": "南砺市で毎月２回開催",
     "inactivated_at": null
   },
