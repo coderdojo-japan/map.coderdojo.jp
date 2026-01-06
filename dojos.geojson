@@ -358,7 +358,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-sendai-wakabayashi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/sendai-wakabayashi.webp' alt='仙台若林' loading='lazy' width='100px' /></a><br><b>仙台若林</b><br>仙台市若林区で月<br>2回開催<br><a href='https://coderdojo-sendai-wakabayashi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-sendai-wakabayashi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/sendai-wakabayashi.webp' alt='仙台若林' loading='lazy' width='100px' /></a><br><b>仙台若林</b><br>仙台市若林区で月<br>2回開催<br>&rarr; 次回: <a href='https://coderdojo-sendai-wakabayashi.connpass.com/event/380408/' target='_blank' rel='noopener'>1月18日</a><br><a href='https://coderdojo-sendai-wakabayashi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -4063,7 +4063,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-iyo.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/iyo.webp' alt='伊予' loading='lazy' width='100px' /></a><br><b>伊予</b><br>伊予市で毎月開催<br><a href='https://coderdojo-iyo.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-iyo.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/iyo.webp' alt='伊予' loading='lazy' width='100px' /></a><br><b>伊予</b><br>伊予市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-iyo.connpass.com/event/380533/' target='_blank' rel='noopener'>1月17日</a><br><a href='https://coderdojo-iyo.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -4438,7 +4438,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojosawara.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='早良' loading='lazy' width='100px' /></a><br><b>早良</b><br>福岡市早良区で毎<br>月開催<br><a href='https://coderdojosawara.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojosawara.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='早良' loading='lazy' width='100px' /></a><br><b>早良</b><br>福岡市早良区で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojosawara.connpass.com/event/380431/' target='_blank' rel='noopener'>1月11日</a><br><a href='https://coderdojosawara.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -8818,7 +8818,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-osakasayama.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/osakasayama.webp' alt='大阪狭山' loading='lazy' width='100px' /></a><br><b>大阪狭山</b><br>大阪狭山で毎月開催<br><a href='https://coderdojo-osakasayama.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-osakasayama.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/osakasayama.webp' alt='大阪狭山' loading='lazy' width='100px' /></a><br><b>大阪狭山</b><br>大阪狭山で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-osakasayama.doorkeeper.jp/events/194187' target='_blank' rel='noopener'>1月18日</a><br><a href='https://coderdojo-osakasayama.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -13408,7 +13408,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.coderdojo-nishio.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='西尾' loading='lazy' width='100px' /></a><br><b>西尾</b><br>西尾市で毎月開催<br><a href='https://www.coderdojo-nishio.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.coderdojo-nishio.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='西尾' loading='lazy' width='100px' /></a><br><b>西尾</b><br>西尾市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-nishio.doorkeeper.jp/events/194183' target='_blank' rel='noopener'>1月10日</a><br><a href='https://www.coderdojo-nishio.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -15134,6 +15134,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Oradea @ Cantemir<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ro/stefan-zweig-str-no-10a/oradea-cantemir'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.38069,
+          50.81291
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>FOSDEM Junior<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/oisterwijk/oisterwijk'>連絡先を見る</a>"
       }
     },
     {
@@ -17353,7 +17368,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nihonbashi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nihonbashi.webp' alt='日本橋' loading='lazy' width='100px' /></a><br><b>日本橋</b><br>中央区で隔月開催<br><a href='https://coderdojo-nihonbashi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nihonbashi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nihonbashi.webp' alt='日本橋' loading='lazy' width='100px' /></a><br><b>日本橋</b><br>中央区で隔月開催<br>&rarr; 次回: <a href='https://coderdojo-nihonbashi.connpass.com/event/379990/' target='_blank' rel='noopener'>2月21日</a><br><a href='https://coderdojo-nihonbashi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -18658,7 +18673,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-hirano.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/hirano.webp' alt='平野@YOZORA LABO' loading='lazy' width='100px' /></a><br><b>平野@YOZORA LABO</b><br>平野区で毎月開催<br><a href='https://coderdojo-hirano.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-hirano.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/hirano.webp' alt='平野@YOZORA LABO' loading='lazy' width='100px' /></a><br><b>平野@YOZORA LABO</b><br>平野区で毎月開催<br>&rarr; 次回: <a href='https://yozoralabo.connpass.com/event/380530/' target='_blank' rel='noopener'>1月24日</a><br><a href='https://coderdojo-hirano.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
