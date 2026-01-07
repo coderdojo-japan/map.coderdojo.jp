@@ -14081,6 +14081,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "London @ Richmond upon Thames Libraries",
+    "latitude": 51.45891349999999,
+    "longitude": -0.3063912000000073,
+    "countryCode": "GB",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": "gb/london/london-richmond-upon-thames-libraries",
+    "id": "f5141390-727b-4ba7-86d6-ccecab45ebf7"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "BienHoa @ Papa's Lab",
     "latitude": 10.9598424,
     "longitude": 106.8486399,
