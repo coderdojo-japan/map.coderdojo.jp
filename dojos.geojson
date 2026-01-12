@@ -658,7 +658,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-sapporo.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/sapporo.webp' alt='札幌' loading='lazy' width='100px' /></a><br><b>札幌</b><br>札幌市で月2回開催<br><a href='https://coderdojo-sapporo.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-sapporo.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/sapporo.webp' alt='札幌' loading='lazy' width='100px' /></a><br><b>札幌</b><br>札幌市で月2回開催<br>&rarr; 次回: <a href='https://coderdojo-sapporo.connpass.com/event/380892/' target='_blank' rel='noopener'>1月18日</a><br><a href='https://coderdojo-sapporo.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -1288,7 +1288,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojokagurazaka.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/kagurazaka.webp' alt='神楽坂' loading='lazy' width='100px' /></a><br><b>神楽坂</b><br>新宿区で毎月開催<br>&rarr; 次回: <a href='https://coderdojokagurazaka.connpass.com/event/378841/' target='_blank' rel='noopener'>1月12日</a><br><a href='https://coderdojokagurazaka.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojokagurazaka.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/kagurazaka.webp' alt='神楽坂' loading='lazy' width='100px' /></a><br><b>神楽坂</b><br>新宿区で毎月開催<br><a href='https://coderdojokagurazaka.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -1903,7 +1903,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-gifu.org/' target='_blank' rel='noopener'>  <img src='/images/dojos/gifu.webp' alt='岐阜' loading='lazy' width='100px' /></a><br><b>岐阜</b><br>ぎふメディアコス<br>モスで毎月開催<br><a href='https://coderdojo-gifu.org/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-gifu.org/' target='_blank' rel='noopener'>  <img src='/images/dojos/gifu.webp' alt='岐阜' loading='lazy' width='100px' /></a><br><b>岐阜</b><br>ぎふメディアコス<br>モスで毎月開催<br>&rarr; 次回: <a href='https://coderdojo-gifu.connpass.com/event/381164/' target='_blank' rel='noopener'>2月7日</a><br><a href='https://coderdojo-gifu.org/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -5458,7 +5458,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='http://www.code-for-nagareyama.org/?cat=11' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='流山' loading='lazy' width='100px' /></a><br><b>流山</b><br>流山市で毎月開催<br><a href='http://www.code-for-nagareyama.org/?cat=11' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='http://www.code-for-nagareyama.org/?cat=11' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='流山' loading='lazy' width='100px' /></a><br><b>流山</b><br>流山市で毎月開催<br>&rarr; 次回: <a href='https://codefornagareyama.connpass.com/event/381175/' target='_blank' rel='noopener'>2月8日</a><br><a href='http://www.code-for-nagareyama.org/?cat=11' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -11578,7 +11578,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://sites.google.com/view/coderdojonagato' target='_blank' rel='noopener'>  <img src='/images/dojos/coderdojo.webp' alt='長門' loading='lazy' width='100px' /></a><br><b>長門</b><br>長門市しごとセン<br>ターで第4土曜に開催<br><a href='https://sites.google.com/view/coderdojonagato' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://sites.google.com/view/coderdojonagato' target='_blank' rel='noopener'>  <img src='/images/dojos/coderdojo.webp' alt='長門' loading='lazy' width='100px' /></a><br><b>長門</b><br>長門市しごとセン<br>ターで第4土曜に開催<br>&rarr; 次回: <a href='https://coderdojonagato.connpass.com/event/381086/' target='_blank' rel='noopener'>2月28日</a><br><a href='https://sites.google.com/view/coderdojonagato' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -17893,7 +17893,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojokoga.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/koga.webp' alt='古河' loading='lazy' width='100px' /></a><br><b>古河</b><br>古河市で毎月開催<br><a href='https://coderdojokoga.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojokoga.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/koga.webp' alt='古河' loading='lazy' width='100px' /></a><br><b>古河</b><br>古河市で毎月開催<br>&rarr; 次回: <a href='https://coderdojokoga.connpass.com/event/381161/' target='_blank' rel='noopener'>2月14日</a><br><a href='https://coderdojokoga.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -18523,7 +18523,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojoaizu.mystrikingly.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/aizu.webp' alt='会津' loading='lazy' width='100px' /></a><br><b>会津</b><br>会津若松市内で第<br>3土曜に開催<br>&rarr; 次回: <a href='https://coderdojo-aizu.doorkeeper.jp/events/193470' target='_blank' rel='noopener'>1月12日</a><br><a href='https://coderdojoaizu.mystrikingly.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojoaizu.mystrikingly.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/aizu.webp' alt='会津' loading='lazy' width='100px' /></a><br><b>会津</b><br>会津若松市内で第<br>3土曜に開催<br>&rarr; 次回: <a href='https://coderdojo-aizu.doorkeeper.jp/events/194223' target='_blank' rel='noopener'>1月17日</a><br><a href='https://coderdojoaizu.mystrikingly.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -19843,7 +19843,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>  <img src='/images/dojos/hitachinaka.webp' alt='ひたちなか' loading='lazy' width='100px' /></a><br><b>ひたちなか</b><br>ひたちなか市で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojo-hitachinaka.connpass.com/event/379458/' target='_blank' rel='noopener'>1月12日</a><br><a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>  <img src='/images/dojos/hitachinaka.webp' alt='ひたちなか' loading='lazy' width='100px' /></a><br><b>ひたちなか</b><br>ひたちなか市で毎<br>月開催<br><a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
