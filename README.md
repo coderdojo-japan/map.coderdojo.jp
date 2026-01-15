@@ -45,24 +45,17 @@ https://map.coderdojo.jp/
 
 1. [CoderDojo Japan](https://coderdojo.jp/dojos.json) から Dojo 情報一覧を取得する（[`dojos_japan.json`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/_data/dojos_japan.json)が更新されます）
    ```
-   # Japan's API からデータを取得し、ロゴ画像をキャッシュする
    $ bundle exec rake get_data_from_japan
-   $ bundle exec rake cache_dojo_logos
-   ```
-
-1. 上記２つの取得結果を組み合わせて [`dojos.geojson`](https://github.com/coderdojo-japan/map.coderdojo.jp/blob/main/dojos.geojson) ファイルを生成する
-   ```
-   $ bundle exec rake upsert_dojos_geojson
    ```
 
 1. ローカル環境で生成された DojoMap を確認する
    ```
-   # 必要なライブラリをインストール
-   $ bundle install
-   
-   # ローカルサーバーを立ち上げる
+   # ローカルサーバーを立ち上げる（Jekyllプラグインが自動的に以下を実行します）
+   # - ロゴ画像のキャッシュ (cache_dojo_logos)
+   # - GeoJSON の生成 (upsert_dojos_geojson)
+   # - GeoJSON の圧縮 (compact_geojson)
    $ bundle exec jekyll server
-   
+
    # ブラウザでローカルサーバーにアクセス
    $ open http://localhost:4000
    ```
