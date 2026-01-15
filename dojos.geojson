@@ -1251,6 +1251,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          130.2969361,
+          33.2625159
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://coderdojosaga-ekimaechuo.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/saga-ekimae-chuo.webp' alt='SAGA@駅前中央' loading='lazy' width='100px' /></a><br><b>SAGA@駅前中央</b><br>佐賀市で毎月土曜開催<br>&rarr; 次回: <a href='https://coderdojosaga-ekimaechuo.connpass.com/event/380000/' target='_blank' rel='noopener'>2月7日</a><br><a href='https://coderdojosaga-ekimaechuo.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -84.12722819999999,
           33.4429741
         ]
@@ -2039,6 +2054,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Douala @ Mbcode<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/cm/douala/douala-mbcode'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.58926123030565,
+          33.20941641677492
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://coderdojo-yame.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='八女' loading='lazy' width='100px' /></a><br><b>八女</b><br>八女市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-yame.connpass.com/event/377954/' target='_blank' rel='noopener'>1月24日</a><br><a href='https://coderdojo-yame.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -4611,6 +4641,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          136.84652696727548,
+          34.467252707825104
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://ict.toba.city/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='鳥羽@竹田住設' loading='lazy' width='100px' /></a><br><b>鳥羽@竹田住設</b><br>鳥羽市で隔週開催<br><a href='https://ict.toba.city/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           44.91742224885461,
           31.98337641289415
         ]
@@ -5999,6 +6044,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Valbelluna<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/belluno-province-of-belluno/valbelluna'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6005872,
+          35.6411816
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://codeclub.org/ja/clubs/4e31fc13-205c-4738-9b62-2722d890f6ed' target='_blank' rel='noopener'>  <img src='/images/dojos/kinuta.webp' alt='砧' loading='lazy' width='100px' /></a><br><b>砧</b><br>世田谷区で毎月開催<br><a href='https://codeclub.org/ja/clubs/4e31fc13-205c-4738-9b62-2722d890f6ed' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -9501,6 +9561,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.5036897,
+          34.7320639
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://coderdojo-shin-osaka.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/shin-osaka.webp' alt='新大阪' loading='lazy' width='100px' /></a><br><b>新大阪</b><br>大阪市東淀川区で<br>毎月開催<br>&rarr; 次回: <a href='https://coderdojo-shin-osaka.connpass.com/event/378697/' target='_blank' rel='noopener'>1月17日</a><br><a href='https://coderdojo-shin-osaka.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.633856,
           35.431148
         ]
@@ -9658,7 +9733,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagoya.webp' alt='名古屋' loading='lazy' width='100px' /></a><br><b>名古屋</b><br>名古屋市中区で月<br>2回開催<br><a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagoya.webp' alt='名古屋' loading='lazy' width='100px' /></a><br><b>名古屋</b><br>名古屋市中区で月<br>2回開催<br>&rarr; 次回: <a href='https://coderdojo-nagoya.connpass.com/event/381457/' target='_blank' rel='noopener'>1月18日</a><br><a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -10274,6 +10349,21 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>CoderDojo@Najaf<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/iq/najaf/coderdojo-najaf'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.73212228447724,
+          35.668044491047944
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://altairxiii.wixsite.com/cit-coder-dojo' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='赤坂国際' loading='lazy' width='100px' /></a><br><b>赤坂国際</b><br>港区赤坂で隔週開催<br><a href='https://altairxiii.wixsite.com/cit-coder-dojo' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -16851,6 +16941,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7737687,
+          37.2004629
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://coderdojo-minamiaizu.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='南会津' loading='lazy' width='100px' /></a><br><b>南会津</b><br>南会津で不定期開催<br>&rarr; 次回: <a href='https://coderdojo-minamiaizu.doorkeeper.jp/events/194071' target='_blank' rel='noopener'>1月31日</a><br><a href='https://coderdojo-minamiaizu.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.1688534,
           45.45843199999999
         ]
@@ -19843,7 +19948,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>  <img src='/images/dojos/hitachinaka.webp' alt='ひたちなか' loading='lazy' width='100px' /></a><br><b>ひたちなか</b><br>ひたちなか市で毎<br>月開催<br><a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>  <img src='/images/dojos/hitachinaka.webp' alt='ひたちなか' loading='lazy' width='100px' /></a><br><b>ひたちなか</b><br>ひたちなか市で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojo-hitachinaka.connpass.com/event/381211/' target='_blank' rel='noopener'>2月11日</a><br><a href='https://www.facebook.com/coderdojo.hitachinaka/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
