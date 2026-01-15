@@ -51,14 +51,10 @@ jobs:
       run: |
         bundle exec rake get_data_from_japan
 
-    - name: ☯️ Cache dojo logos in Japan
+    - name: 📍 Prepare DojoMap data for commit
       run: |
-        bundle exec rake cache_dojo_logos
-
-    - name: 📍 Generate DojoMap from Earth/Japan data
-      run: |
-        bundle exec rake upsert_dojos_geojson
-        bundle exec rake compact_geojson
+        # Jekyll plugin automatically runs cache_dojo_logos, upsert_dojos_geojson, and compact_geojson
+        bundle exec jekyll build
 
     - name: 🆙 Commit latest data to update DojoMap (if any)
       run: |
