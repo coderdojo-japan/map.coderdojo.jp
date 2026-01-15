@@ -112,6 +112,14 @@
     "status": "RUNNING_SESSIONS"
   },
   {
+    "global_club_id": "1178be6f-f652-4dd1-bf95-3a8b9300b7a3",
+    "name_japan": "SAGA@駅前中央",
+    "name_earth": "CoderDojo SAGA@駅前中央",
+    "countryCode": "JP",
+    "urlSlug": null,
+    "status": "RUNNING_SESSIONS"
+  },
+  {
     "global_club_id": "1237536f-44cf-44a7-8fb6-464fb12f3865",
     "name_japan": "神楽坂",
     "name_earth": "CoderDojo Kagurazaka",
@@ -197,6 +205,14 @@
     "name_earth": "Kamagaya, Chiba",
     "countryCode": "JP",
     "urlSlug": "jp/qian1-ye4-xian4/kamagaya-chiba",
+    "status": "RUNNING_SESSIONS"
+  },
+  {
+    "global_club_id": "1a5ece9e-b149-4cd1-b05f-9a3b8b39bb7a",
+    "name_japan": "八女",
+    "name_earth": "CoderDojo八女",
+    "countryCode": "JP",
+    "urlSlug": null,
     "status": "RUNNING_SESSIONS"
   },
   {
@@ -376,6 +392,14 @@
     "status": "RUNNING_SESSIONS"
   },
   {
+    "global_club_id": "3a2f68c8-b54a-412b-bf28-915df1563b85",
+    "name_japan": "鳥羽@竹田住設",
+    "name_earth": "鳥羽 @ 竹田住設",
+    "countryCode": "JP",
+    "urlSlug": null,
+    "status": "RUNNING_SESSIONS"
+  },
+  {
     "global_club_id": "3d037ab0-1ba5-4c94-97ef-2898a37bdb68",
     "name_japan": "多摩センター",
     "name_earth": "Tama Center @ Tokyo",
@@ -469,6 +493,14 @@
     "name_earth": "Ikebukuro,Tokyo @ Unique-inet",
     "countryCode": "JP",
     "urlSlug": "jp/ri4-ben3-dong1-jing1-du1-li3-dao3-qu1/ikebukuro-tokyo-unique-inet",
+    "status": "RUNNING_SESSIONS"
+  },
+  {
+    "global_club_id": "4e31fc13-205c-4738-9b62-2722d890f6ed",
+    "name_japan": "砧",
+    "name_earth": "CoderDojo砧",
+    "countryCode": "JP",
+    "urlSlug": null,
     "status": "RUNNING_SESSIONS"
   },
   {
@@ -696,6 +728,14 @@
     "status": "RUNNING_SESSIONS"
   },
   {
+    "global_club_id": "7b441779-c5ab-45af-8823-1a87e95e5d6a",
+    "name_japan": "新大阪",
+    "name_earth": "CoderDojo新大阪",
+    "countryCode": "JP",
+    "urlSlug": null,
+    "status": "RUNNING_SESSIONS"
+  },
+  {
     "global_club_id": "7c0ca939-b98e-4fa5-aa6c-dcdf2cffd280",
     "name_japan": "浦和@Urawa Minecraft Club",
     "name_earth": "Urawa @ Urawa Minecraft Club",
@@ -765,6 +805,14 @@
     "name_earth": "Inagawa, Hyogo",
     "countryCode": "JP",
     "urlSlug": "jp/japan/inagawa-hyogo",
+    "status": "RUNNING_SESSIONS"
+  },
+  {
+    "global_club_id": "84f71084-cbb9-4712-b0fc-1e15cd47f90f",
+    "name_japan": "赤坂国際",
+    "name_earth": "Coders International Tokyo",
+    "countryCode": "JP",
+    "urlSlug": null,
     "status": "RUNNING_SESSIONS"
   },
   {
@@ -1149,6 +1197,14 @@
     "name_earth": "二本松@市民交流センター",
     "countryCode": "JP",
     "urlSlug": "jp/nihonmatsu-fukushima/sent",
+    "status": "RUNNING_SESSIONS"
+  },
+  {
+    "global_club_id": "d600a123-6181-418a-80ee-20a25d9af6e1",
+    "name_japan": "南会津",
+    "name_earth": "CoderDojo南会津",
+    "countryCode": "JP",
+    "urlSlug": null,
     "status": "RUNNING_SESSIONS"
   },
   {
