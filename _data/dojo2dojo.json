@@ -120,6 +120,14 @@
     "status": "RUNNING_SESSIONS"
   },
   {
+    "global_club_id": "11ca87f3-426f-4d27-8421-cd0d5cf835e7",
+    "name_japan": "すぎなみ",
+    "name_earth": "Suginami",
+    "countryCode": "JP",
+    "urlSlug": "jp/suginami-tokyo/suginami",
+    "status": "RUNNING_SESSIONS"
+  },
+  {
     "global_club_id": "1237536f-44cf-44a7-8fb6-464fb12f3865",
     "name_japan": "神楽坂",
     "name_earth": "CoderDojo Kagurazaka",
