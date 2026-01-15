@@ -1266,6 +1266,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.65178325772285,
+          35.7060572417102
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://coderdojo-suginami.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/suginami.webp' alt='すぎなみ' loading='lazy' width='100px' /></a><br><b>すぎなみ</b><br>杉並区で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-suginami.doorkeeper.jp/events/194353' target='_blank' rel='noopener'>2月7日</a><br><a href='https://coderdojo-suginami.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -84.12722819999999,
           33.4429741
         ]
