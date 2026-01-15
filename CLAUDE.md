@@ -15,18 +15,23 @@ bundle install
 ```
 
 ### データ更新
+
+**重要**: Jekyll 4.3以降、`jekyll build`実行時に自動的にデータ更新タスクが実行されます（`_plugins/build_hooks.rb`）。
+
 ```bash
-# 全世界のDojoデータを取得（Clubs APIから）
-bundle exec rake get_data_from_earth
+# 推奨: jekyll buildで全て自動実行
+bundle exec jekyll build
+# → 自動的に以下が実行されます:
+#    - cache_dojo_logos
+#    - upsert_dojos_geojson
+#    - compact_geojson
 
-# 日本のDojoとイベントデータを取得（CoderDojo Japan APIから）
-bundle exec rake get_data_from_japan
-
-# ロゴ画像をダウンロードしてWebP形式でキャッシュ
-bundle exec rake cache_dojo_logos
-
-# GeoJSONファイルを生成（全データを統合）
-bundle exec rake upsert_dojos_geojson
+# または個別実行（必要な場合のみ）
+bundle exec rake get_data_from_earth      # 全世界のDojoデータ取得
+bundle exec rake get_data_from_japan      # 日本のDojoとイベントデータ取得
+bundle exec rake cache_dojo_logos         # ロゴ画像キャッシュ
+bundle exec rake upsert_dojos_geojson     # GeoJSON生成
+bundle exec rake compact_geojson          # GeoJSON圧縮
 ```
 
 ### 開発・ビルド・テスト
@@ -55,11 +60,53 @@ bundle exec rake test
 3. **画像最適化**: ロゴ画像を効率的に配信
    - `cache_dojo_logos.rb`: ロゴ画像をダウンロードしてWebP形式に変換
 
+### Jekyllビルドフック（自動データ更新）
+
+`_plugins/build_hooks.rb`により、`jekyll build`または`jekyll server`実行時に自動的に以下のタスクが実行されます：
+
+```ruby
+# Jekyll::Hooks.register :site, :after_init
+1. upsert_dojos_geojson  # GeoJSON生成
+2. compact_geojson       # GeoJSON圧縮（22.9%削減）
+3. cache_dojo_logos      # Dojoロゴキャッシュ
+```
+
+**メリット**:
+- ✅ ローカル開発でも本番環境でも一貫した動作
+- ✅ `dojo2dojo.csv`更新後、`jekyll build`だけで自動反映
+- ✅ 手動でのRakeタスク実行が不要
+
+**実行ログ例**:
+```
+🔄 Running pre-build tasks...
+  → Updating dojos.geojson...
+  → Creating dojos.min.geojson...
+  ✅ Created dojos.min.geojson (22.9% reduction)
+  → Caching dojo logos...
+  ✅ Pre-build tasks completed
+```
+
 ### 自動更新システム
+
 GitHub Actionsで毎日自動更新（日本時間 5:59）:
 1. データ取得スクリプトを実行
-2. 変更があれば自動コミット
-3. GitHub Pagesへ自動デプロイ
+2. Jekyllビルド（プラグインが自動的にGeoJSON生成・圧縮）
+3. テスト実行（安全性確認）
+4. 変更があれば自動コミット
+5. GitHub Pagesへ自動デプロイ
+
+**ワークフローの手動実行**:
+```bash
+# scheduler_daily.yml（データ更新＋デプロイ）
+gh workflow run scheduler_daily.yml
+
+# deploy_to_pages.yml（デプロイのみ）
+gh workflow run deploy_to_pages.yml
+
+# 実行状況確認
+gh run list --workflow=scheduler_daily.yml --limit 3
+gh run watch  # リアルタイム監視
+```
 
 ### 地図表示
 - **Geolonia Maps**: 日本に最適化された地図タイルサービス
@@ -68,10 +115,14 @@ GitHub Actionsで毎日自動更新（日本時間 5:59）:
 - マーカークリックでポップアップ表示（名前、説明、連絡先、イベント情報）
 
 ### 主要ファイル
-- `dojos_earth.json`: Clubs APIから取得した全世界のDojoデータ
-- `dojos_japan.json`: CoderDojo Japan APIから取得した日本のDojoデータ
-- `events_japan.json`: 日本のイベントデータ
-- `dojos.geojson`: 地図表示用の統合データ（GeoJSON形式）
+- `_data/dojos_earth.json`: Clubs APIから取得した全世界のDojoデータ
+- `_data/dojos_japan.json`: CoderDojo Japan APIから取得した日本のDojoデータ
+- `_data/events_japan.json`: 日本のイベントデータ
+- `_data/dojo2dojo.json`: dojo2dojo.csvから生成されたマッピングデータ
+- `dojo2dojo.csv`: Japan APIとClubs APIの名前マッピング（編集可能）
+- `dojos.geojson`: 地図表示用の統合データ（GeoJSON形式、人間が読める形式）
+- `dojos.min.geojson`: 圧縮版GeoJSON（本番環境で使用、22.9%削減）
+- `_plugins/build_hooks.rb`: Jekyllビルド時の自動データ更新フック
 - `images/dojos/*.webp`: 各Dojoのロゴ画像（WebP形式で最適化）
 
 ### テスト戦略
@@ -195,15 +246,35 @@ o3の検索結果を使用する際は必ず：
 3. **問題の特定と修正**
    - Clubs APIでの登録名と完全一致するようにdojo2dojo.csvを修正
    - 例：「Coderdojo Saga」vs「Saga」のような不一致を修正
-   
-4. **GeoJSONの再生成**
+
+4. **マッピング追加とGeoJSON再生成**
    ```bash
+   # dojo2dojo.csvに追加（例: すぎなみ）
+   echo "すぎなみ	Suginami" >> dojo2dojo.csv
+
+   # jekyll buildで自動的にGeoJSON再生成（推奨）
+   bundle exec jekyll build
+
+   # または個別実行
    bundle exec rake upsert_dojos_geojson
+   bundle exec rake compact_geojson
    ```
 
 5. **結果の確認**
    ```bash
+   # GeoJSONに含まれているか確認
    grep "対象Dojo名" dojos.geojson
+
+   # ローカルで地図表示確認
+   bundle exec jekyll server
+   # http://localhost:4000/ で確認
+   ```
+
+6. **変更をコミット**
+   ```bash
+   git add dojo2dojo.csv _data/dojo2dojo.json dojos.geojson
+   git commit -m "CoderDojo XXXのマッピングを追加"
+   git push origin main
    ```
 
 ### よくあるマッピング問題
