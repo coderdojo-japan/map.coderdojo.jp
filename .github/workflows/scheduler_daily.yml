@@ -51,14 +51,16 @@ jobs:
       run: |
         bundle exec rake get_data_from_japan
 
-    - name: ☯️ Cache dojo logos in Japan
+    - name: 🔧 Build data to render DojoMap
       run: |
-        bundle exec rake cache_dojo_logos
+        # Jekyll plugin automatically runs cache_dojo_logos, upsert_dojos_geojson, and compact_geojson
+        JEKYLL_ENV=production bundle exec jekyll build
 
-    - name: 📍 Generate DojoMap from Earth/Japan data
+    - name: ✅ Test
       run: |
-        bundle exec rake upsert_dojos_geojson
-        bundle exec rake compact_geojson
+        # _site is already built in previous step
+        JEKYLL_ENV=production bundle exec jekyll doctor
+        SKIP_BUILD=true       bundle exec rake test
 
     - name: 🆙 Commit latest data to update DojoMap (if any)
       run: |
@@ -86,14 +88,6 @@ jobs:
         fi
       env:
         GITHUB_TOKEN:
-
-    - name: 🔧 Build & Test
-      run: |
-        # Convert human-readable Geojson file into computer-friendly one
-        bundle exec rake compact_geojson
-        JEKYLL_ENV=production bundle exec jekyll build
-        JEKYLL_ENV=production bundle exec jekyll doctor
-        SKIP_BUILD=true       bundle exec rake test
 
     # This is NOT for security reason but for others, especially who fork,
     # to easier find out which API key they need to replace with their own.

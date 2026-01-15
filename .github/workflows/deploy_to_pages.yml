@@ -26,8 +26,7 @@ jobs:
 
     - name: 🔧 Build & Test
       run: |
-        # Convert human-readable Geojson file into computer-friendly one
-        bundle exec rake compact_geojson
+        # Jekyll plugin automatically runs upsert_dojos_geojson, compact_geojson, and cache_dojo_logos
         JEKYLL_ENV=production bundle exec jekyll build
         JEKYLL_ENV=production bundle exec jekyll doctor
         SKIP_BUILD=true       bundle exec rake test
