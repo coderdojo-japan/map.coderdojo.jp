@@ -188,11 +188,11 @@
     "logo": "https://coderdojo.jp/img/dojos/suginami.webp",
     "order": "131156",
     "counter": 1,
-    "is_active": false,
+    "is_active": true,
     "prefecture": "東京",
     "created_at": "2016-09-09T00:00:00.000+09:00",
     "description": "杉並区で毎月開催",
-    "inactivated_at": "2022-03-16T00:00:00.000+09:00"
+    "inactivated_at": null
   },
   {
     "id": 17,
