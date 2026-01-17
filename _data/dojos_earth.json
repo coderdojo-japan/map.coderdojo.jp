@@ -8361,16 +8361,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Orange Country, CA (Irvine) @ Amazon",
-    "latitude": 33.6491466,
-    "longitude": -117.7649014,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/irvine-ca/orange-country-ca-irvine-amazon",
-    "id": "94bf8880-f780-47b4-9137-72f445a2a6bc"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "犬山",
     "latitude": 35.3786468,
     "longitude": 136.94448020000004,
@@ -13768,16 +13758,6 @@
     "status": "PLANNING",
     "urlSlug": "jp/hygo-ken/himeji-hyogo-prefecture/himeji-himeji-dokkyo-satellite-campus",
     "id": "efb872c2-560c-49ab-b27b-d8e42ceb375b"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Saratoga @ Saratoga Library",
-    "latitude": 37.2701161,
-    "longitude": -122.015105,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/saratoga-ca/saratoga-saratoga-library",
-    "id": "eff3737e-6b34-4e0b-86d5-2793fbd30d1a"
   },
   {
     "brand": "CODERDOJO",
