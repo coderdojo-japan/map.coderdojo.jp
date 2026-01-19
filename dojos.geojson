@@ -9718,7 +9718,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nagano.connpass.com' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='長野' loading='lazy' width='100px' /></a><br><b>長野</b><br>長野市で隔月で開催<br><a href='https://coderdojo-nagano.connpass.com' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nagano.connpass.com' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='長野' loading='lazy' width='100px' /></a><br><b>長野</b><br>長野市で隔月で開催<br>&rarr; 次回: <a href='https://coderdojo-nagano.connpass.com/event/381840/' target='_blank' rel='noopener'>3月8日</a><br><a href='https://coderdojo-nagano.connpass.com' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -9748,7 +9748,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagoya.webp' alt='名古屋' loading='lazy' width='100px' /></a><br><b>名古屋</b><br>名古屋市中区で月<br>2回開催<br><a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagoya.webp' alt='名古屋' loading='lazy' width='100px' /></a><br><b>名古屋</b><br>名古屋市中区で月<br>2回開催<br>&rarr; 次回: <a href='https://coderdojo-nagoya.connpass.com/event/381879/' target='_blank' rel='noopener'>1月25日</a><br><a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -15246,21 +15246,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.38069,
-          50.81291
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>FOSDEM Junior<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/oisterwijk/oisterwijk'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           74.9057141,
           31.6815896
         ]
@@ -19753,7 +19738,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nagaokakyo.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagaokakyo.webp' alt='長岡京' loading='lazy' width='100px' /></a><br><b>長岡京</b><br>長岡京市で毎月開催<br><a href='https://coderdojo-nagaokakyo.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nagaokakyo.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagaokakyo.webp' alt='長岡京' loading='lazy' width='100px' /></a><br><b>長岡京</b><br>長岡京市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-nagaokakyo.doorkeeper.jp/events/194529' target='_blank' rel='noopener'>2月8日</a><br><a href='https://coderdojo-nagaokakyo.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -20008,7 +19993,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/coderdojo.kofu/' target='_blank' rel='noopener'>  <img src='/images/dojos/kofu.webp' alt='甲府' loading='lazy' width='100px' /></a><br><b>甲府</b><br>甲府市で毎月開催<br><a href='https://www.facebook.com/coderdojo.kofu/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/coderdojo.kofu/' target='_blank' rel='noopener'>  <img src='/images/dojos/kofu.webp' alt='甲府' loading='lazy' width='100px' /></a><br><b>甲府</b><br>甲府市で毎月開催<br>&rarr; 次回: <a href='https://coderdojokofu.connpass.com/event/381839/' target='_blank' rel='noopener'>2月15日</a><br><a href='https://www.facebook.com/coderdojo.kofu/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
