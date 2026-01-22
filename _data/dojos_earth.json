@@ -91,16 +91,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "TEST **This is a test club for dev and example purposes** ",
-    "latitude": -20.8089198,
-    "longitude": 167.2266434,
-    "countryCode": "NC",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "nc/nang/this-is-a-test-club-for-dev-and-example-purposes",
-    "id": "022fbf70-c6a8-4b99-8834-b873db32b75a"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Naramachi, Nara @ TechForests",
     "latitude": 34.68069267511158,
     "longitude": 135.8264098291827,
