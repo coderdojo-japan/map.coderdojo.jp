@@ -3973,7 +3973,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='http://coderdojo-saitama.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/coderdojo.webp' alt='さいたま' loading='lazy' width='100px' /></a><br><b>さいたま</b><br>さいたま市で毎月開催<br><a href='http://coderdojo-saitama.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='http://coderdojo-saitama.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/coderdojo.webp' alt='さいたま' loading='lazy' width='100px' /></a><br><b>さいたま</b><br>さいたま市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-saitama.connpass.com/event/383093/' target='_blank' rel='noopener'>2月28日</a><br><a href='http://coderdojo-saitama.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -6118,7 +6118,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/CoderDojoTakizawa/' target='_blank' rel='noopener'>  <img src='/images/dojos/takizawa.webp' alt='滝沢' loading='lazy' width='100px' /></a><br><b>滝沢</b><br>滝沢市で毎月開催<br><a href='https://www.facebook.com/CoderDojoTakizawa/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/CoderDojoTakizawa/' target='_blank' rel='noopener'>  <img src='/images/dojos/takizawa.webp' alt='滝沢' loading='lazy' width='100px' /></a><br><b>滝沢</b><br>滝沢市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-takizawa.doorkeeper.jp/events/194861' target='_blank' rel='noopener'>2月14日</a><br><a href='https://www.facebook.com/CoderDojoTakizawa/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -18598,7 +18598,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojoaizu.mystrikingly.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/aizu.webp' alt='会津' loading='lazy' width='100px' /></a><br><b>会津</b><br>会津若松市内で第<br>3土曜に開催<br>&rarr; 次回: <a href='https://coderdojo-aizu.doorkeeper.jp/events/194794' target='_blank' rel='noopener'>2月23日</a><br><a href='https://coderdojoaizu.mystrikingly.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojoaizu.mystrikingly.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/aizu.webp' alt='会津' loading='lazy' width='100px' /></a><br><b>会津</b><br>会津若松市内で第<br>3土曜に開催<br>&rarr; 次回: <a href='https://coderdojo-aizu.doorkeeper.jp/events/194855' target='_blank' rel='noopener'>2月21日</a><br><a href='https://coderdojoaizu.mystrikingly.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -19634,21 +19634,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Pontevedra @ Game Over IES A Basella<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/es/vilanova-de-arousa/pontevedra-game-over-ies-a-basella'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4354864,
-          34.1008363
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Fontana @ Lewis Library + Technology Center<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/fontana-ca/fontana-lewis-library-technology-center'>連絡先を見る</a>"
       }
     },
     {
