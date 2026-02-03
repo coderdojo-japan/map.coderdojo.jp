@@ -6890,6 +6890,16 @@
     "id": "7b441779-c5ab-45af-8823-1a87e95e5d6a"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": "CoderDojo Saijo",
+    "latitude": 34.4030899,
+    "longitude": 132.714904,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "7b4f1b66-ee56-47c4-bb00-b5079b9742d4"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "Concord, North Carolina @ CodeNow",
     "latitude": 35.431148,
