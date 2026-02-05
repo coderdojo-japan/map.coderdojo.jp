@@ -141,21 +141,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.140659299999999,
-          49.5916067
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Luxembourg Level2<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/lu/luxembourg/luxembourg-level2'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           8.5877272,
           11.9900528
         ]

@@ -101,16 +101,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Luxembourg Level2",
-    "latitude": 49.5916067,
-    "longitude": 6.140659299999999,
-    "countryCode": "LU",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "lu/luxembourg/luxembourg-level2",
-    "id": "028bcf8f-0203-4fb8-9f06-312eecf04204"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Tech90 Training Centre",
     "latitude": 11.9900528,
     "longitude": 8.5877272,
