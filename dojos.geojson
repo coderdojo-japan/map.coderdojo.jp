@@ -9561,6 +9561,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          132.714904,
+          34.4030899
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://kiriem.github.io/coderdojo.saijo/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='西条' loading='lazy' width='100px' /></a><br><b>西条</b><br>東広島市で毎月開催<br><a href='https://kiriem.github.io/coderdojo.saijo/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.633856,
           35.431148
         ]
