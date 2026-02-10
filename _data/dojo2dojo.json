@@ -744,6 +744,14 @@
     "status": "RUNNING_SESSIONS"
   },
   {
+    "global_club_id": "7b4f1b66-ee56-47c4-bb00-b5079b9742d4",
+    "name_japan": "西条",
+    "name_earth": "CoderDojo Saijo",
+    "countryCode": "JP",
+    "urlSlug": null,
+    "status": "RUNNING_SESSIONS"
+  },
+  {
     "global_club_id": "7c0ca939-b98e-4fa5-aa6c-dcdf2cffd280",
     "name_japan": "浦和@Urawa Minecraft Club",
     "name_earth": "Urawa @ Urawa Minecraft Club",
