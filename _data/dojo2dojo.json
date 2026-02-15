@@ -528,6 +528,14 @@
     "status": "RUNNING_SESSIONS"
   },
   {
+    "global_club_id": "50b83e42-8f59-451a-804f-334c5911f399",
+    "name_japan": "新居浜",
+    "name_earth": "CoderDojo愛媛新居浜",
+    "countryCode": "JP",
+    "urlSlug": null,
+    "status": "RUNNING_SESSIONS"
+  },
+  {
     "global_club_id": "521e293f-abb9-4750-b5bd-275a4367fd08",
     "name_japan": "日進",
     "name_earth": "日進",
