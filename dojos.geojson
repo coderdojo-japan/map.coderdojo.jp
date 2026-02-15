@@ -6216,6 +6216,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          133.28605901719732,
+          33.954012789689756
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>新居浜<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.111110210418701,
           52.114879790890136
         ]
