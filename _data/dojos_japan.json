@@ -4314,5 +4314,18 @@
     "created_at": "2026-02-05T00:00:00.000+09:00",
     "description": "東広島市で毎月開催",
     "inactivated_at": null
+  },
+  {
+    "id": 351,
+    "url": "https://www.facebook.com/CoderDojoEhimeNiihama",
+    "name": "新居浜",
+    "logo": "https://coderdojo.jp/img/dojos/niihama.webp",
+    "order": "382051",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "愛媛",
+    "created_at": "2025-02-14T00:00:00.000+09:00",
+    "description": "新居浜市で毎月開催",
+    "inactivated_at": null
   }
 ]
