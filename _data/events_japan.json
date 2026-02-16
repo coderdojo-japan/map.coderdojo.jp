@@ -336,6 +336,22 @@
     "limit": null
   },
   {
+    "id": 102,
+    "name": "福岡",
+    "url": "https://www.facebook.com/CoderDojoFukuoka/",
+    "event_id": 9826,
+    "event_title": "第102回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）",
+    "event_date": "2026-03-14T14:00:00.000+09:00",
+    "event_end_at": "2026-03-14T16:00:00.000+09:00",
+    "event_url": "https://coderdojo-fukuoka.connpass.com/event/384853/",
+    "prefecture": "福岡",
+    "participants": 3,
+    "event_update_at": "2026-02-16T08:10:32.000+09:00",
+    "address": "福岡県福岡市中央区大名2-6-11",
+    "place": "オンライン + Fukuoka Growth Next",
+    "limit": 22
+  },
+  {
     "id": 117,
     "name": "立川",
     "url": "https://coderdojotachikawa.doorkeeper.jp/",
@@ -618,7 +634,7 @@
     "event_url": "https://coderdojo-matsubara.doorkeeper.jp/events/193157",
     "prefecture": "大阪",
     "participants": 3,
-    "event_update_at": "2026-02-15T08:39:11.267+09:00",
+    "event_update_at": "2026-02-16T09:27:01.232+09:00",
     "address": "〒580-0044 大阪府松原市田井城３丁目１０４−２",
     "place": "まつばらテラス（輝）",
     "limit": null
@@ -832,6 +848,22 @@
     "limit": 28
   },
   {
+    "id": 274,
+    "name": "麹町@アドバンスト・ソフト",
+    "url": "https://coderdojo-kojimachi.connpass.com/",
+    "event_id": 9827,
+    "event_title": "第49回 CoderDojo麹町",
+    "event_date": "2026-03-29T14:00:00.000+09:00",
+    "event_end_at": "2026-03-29T16:00:00.000+09:00",
+    "event_url": "https://coderdojo-kojimachi.connpass.com/event/384860/",
+    "prefecture": "東京",
+    "participants": 5,
+    "event_update_at": "2026-02-16T09:21:27.000+09:00",
+    "address": "東京都千代田区麹町3-1 麹町昭文社HDビル7階",
+    "place": "株式会社アドバンスト・ソフト",
+    "limit": 21
+  },
+  {
     "id": 277,
     "name": "富谷",
     "url": "https://coderdojotomiyajp.github.io/",
@@ -938,7 +970,7 @@
     "event_url": "https://coderdojoseishin.connpass.com/event/383225/",
     "prefecture": "兵庫",
     "participants": 0,
-    "event_update_at": "2026-01-31T13:26:19.000+09:00",
+    "event_update_at": "2026-02-16T12:33:37.000+09:00",
     "address": "兵庫県神戸市西区学園西町1-1",
     "place": "ユニバープラザビル2F",
     "limit": 10
@@ -1134,5 +1166,37 @@
     "address": "大阪市東淀川区東中島1-13-13",
     "place": "大阪市立青少年センターKOKOPLAZA（和室702）",
     "limit": 24
+  },
+  {
+    "id": 350,
+    "name": "西条",
+    "url": "https://kiriem.github.io/coderdojo.saijo/",
+    "event_id": 9829,
+    "event_title": "第2回 CoderDojo 西条 @広島大学",
+    "event_date": "2026-03-28T10:00:00.000+09:00",
+    "event_end_at": "2026-03-28T12:00:00.000+09:00",
+    "event_url": "https://coderdojo-saijo.doorkeeper.jp/events/195245",
+    "prefecture": "広島",
+    "participants": 0,
+    "event_update_at": "2026-02-15T19:09:55.623+09:00",
+    "address": "広島県東広島市鏡山１丁目１−１",
+    "place": "広島大学教育学部 C棟 C825教室",
+    "limit": 10
+  },
+  {
+    "id": 351,
+    "name": "新居浜",
+    "url": "https://www.facebook.com/CoderDojoEhimeNiihama",
+    "event_id": 9828,
+    "event_title": "CoderDojo愛媛新居浜 #1",
+    "event_date": "2026-04-05T14:00:00.000+09:00",
+    "event_end_at": "2026-04-05T16:00:00.000+09:00",
+    "event_url": "https://corderdojo-ehimeniihama.connpass.com/event/384848/",
+    "prefecture": "愛媛",
+    "participants": 0,
+    "event_update_at": "2026-02-16T10:52:46.000+09:00",
+    "address": "愛媛県新居浜市高木町２−６０ 3F　福祉団体室",
+    "place": "愛媛県新居浜市ボランティアセンター",
+    "limit": null
   }
 ]

@@ -4198,7 +4198,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-kojimachi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='麹町@アドバンスト・ソフト' loading='lazy' width='100px' /></a><br><b>麹町@アドバンスト・ソフト</b><br>千代田区で毎月開催<br><a href='https://coderdojo-kojimachi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-kojimachi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='麹町@アドバンスト・ソフト' loading='lazy' width='100px' /></a><br><b>麹町@アドバンスト・ソフト</b><br>千代田区で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-kojimachi.connpass.com/event/384860/' target='_blank' rel='noopener'>3月29日</a><br><a href='https://coderdojo-kojimachi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -4558,7 +4558,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dieren @ de Bundel<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/dieren/dieren-de-bundel'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dieren @ Zoomerij<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/nl/dieren/dieren-de-bundel'>連絡先を見る</a>"
       }
     },
     {
@@ -6223,7 +6223,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/CoderDojoEhimeNiihama' target='_blank' rel='noopener'>  <img src='/images/dojos/niihama.webp' alt='新居浜' loading='lazy' width='100px' /></a><br><b>新居浜</b><br>新居浜市で毎月開催<br><a href='https://www.facebook.com/CoderDojoEhimeNiihama' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/CoderDojoEhimeNiihama' target='_blank' rel='noopener'>  <img src='/images/dojos/niihama.webp' alt='新居浜' loading='lazy' width='100px' /></a><br><b>新居浜</b><br>新居浜市で毎月開催<br>&rarr; 次回: <a href='https://corderdojo-ehimeniihama.connpass.com/event/384848/' target='_blank' rel='noopener'>4月5日</a><br><a href='https://www.facebook.com/CoderDojoEhimeNiihama' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -9051,21 +9051,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.232834000000025,
-          53.3438095
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>SiliconDocks @ Accenture The Dock<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin-2/silicondocks-accenture-the-dock'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           21.237106,
           45.69623259999999
         ]
@@ -9583,7 +9568,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://kiriem.github.io/coderdojo.saijo/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='西条' loading='lazy' width='100px' /></a><br><b>西条</b><br>東広島市で毎月開催<br><a href='https://kiriem.github.io/coderdojo.saijo/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://kiriem.github.io/coderdojo.saijo/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='西条' loading='lazy' width='100px' /></a><br><b>西条</b><br>東広島市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-saijo.doorkeeper.jp/events/195245' target='_blank' rel='noopener'>3月28日</a><br><a href='https://kiriem.github.io/coderdojo.saijo/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -14998,7 +14983,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/CoderDojoFukuoka/' target='_blank' rel='noopener'>  <img src='/images/dojos/fukuoka.webp' alt='福岡' loading='lazy' width='100px' /></a><br><b>福岡</b><br>福岡市中央区天神<br>で毎月開催<br><a href='https://www.facebook.com/CoderDojoFukuoka/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/CoderDojoFukuoka/' target='_blank' rel='noopener'>  <img src='/images/dojos/fukuoka.webp' alt='福岡' loading='lazy' width='100px' /></a><br><b>福岡</b><br>福岡市中央区天神<br>で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-fukuoka.connpass.com/event/384853/' target='_blank' rel='noopener'>3月14日</a><br><a href='https://www.facebook.com/CoderDojoFukuoka/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {

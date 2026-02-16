@@ -3231,7 +3231,7 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Dieren @ de Bundel",
+    "name": "Dieren @ Zoomerij",
     "latitude": 52.0519762,
     "longitude": 6.101993299999999,
     "countryCode": "NL",
@@ -6538,16 +6538,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "ie/galway/athenry-county-galway/athenry",
     "id": "72f70e26-4af0-4a58-aff9-95cb933a2ccf"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "SiliconDocks @ Accenture The Dock",
-    "latitude": 53.3438095,
-    "longitude": -6.232834000000025,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/dublin-2/silicondocks-accenture-the-dock",
-    "id": "731d7415-98d0-40ce-8db5-fe371285f206"
   },
   {
     "brand": "CODERDOJO",
