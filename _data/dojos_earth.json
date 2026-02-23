@@ -7221,6 +7221,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "CODE313 Detroit",
+    "latitude": 42.482391,
+    "longitude": -83.14265,
+    "countryCode": "US",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": "us/royal-oak-mi/code-31-3-detroit",
+    "id": "80663428-a71c-462c-9991-bcca5869044d"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "Tullamore",
     "latitude": 53.27589039999999,
     "longitude": -7.487928199999942,
@@ -11552,8 +11562,8 @@
   {
     "brand": "CODERDOJO",
     "name": "Kells, Meath @ Kells People's Resource Centre",
-    "latitude": 53.729521,
-    "longitude": -6.880895900000041,
+    "latitude": 53.73001353514367,
+    "longitude": -6.880289351668384,
     "countryCode": "IE",
     "status": "RUNNING_SESSIONS",
     "urlSlug": "ie/kells-co-meath/kells-meath-kells-peoples-resource-centre",
