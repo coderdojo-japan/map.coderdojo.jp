@@ -5841,6 +5841,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Boise, ID @ Ada Library, Victory Branch",
+    "latitude": 43.5760325,
+    "longitude": -116.314614,
+    "countryCode": "US",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": "us/boise-id/boise-id-ada-library-victory-branch",
+    "id": "66a1a34f-f533-4167-9255-402c59bc208d"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "Nagatsuta",
     "latitude": 35.518163,
     "longitude": 139.49648739999998,
@@ -11548,6 +11558,16 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "tt/mt-hope/mt-hope-arthur-lok-jack-global-school-of-business",
     "id": "ca45ffe6-4878-49ea-88cb-f35c9f5b969c"
+  },
+  {
+    "brand": "CODERDOJO",
+    "name": "Michigan, Onsted @ Onsted High School",
+    "latitude": 42.000313,
+    "longitude": -84.1911591,
+    "countryCode": "US",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": "us/onsted-mi/michigan-onsted-onsted-high-school",
+    "id": "ca4a12fc-2c23-4e7b-8b0b-7751538db4ed"
   },
   {
     "brand": "CODERDOJO",
