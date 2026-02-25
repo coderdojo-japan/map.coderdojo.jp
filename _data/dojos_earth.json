@@ -8941,6 +8941,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Los Alamos Makers",
+    "latitude": 35.88786143860436,
+    "longitude": -106.31566286087036,
+    "countryCode": "US",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": "us/los-alamos-nm/los-alamos",
+    "id": "9e187b50-c266-439c-acb7-d1d088a721f0"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "Hakilantagal Orkadiérè",
     "latitude": 15.2834814,
     "longitude": -12.96327169999995,
