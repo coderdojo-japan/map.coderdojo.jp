@@ -91,6 +91,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "TEST **This is a test club for dev and example purposes** ",
+    "latitude": -20.8089198,
+    "longitude": 167.2266434,
+    "countryCode": "ZA",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": "nc/nang/this-is-a-test-club-for-dev-and-example-purposes",
+    "id": "022fbf70-c6a8-4b99-8834-b873db32b75a"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "Naramachi, Nara @ TechForests",
     "latitude": 34.68069267511158,
     "longitude": 135.8264098291827,
@@ -9698,6 +9708,16 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "gr/rhodes/rhodes-idryma-stamatiou",
     "id": "aac04393-8c9c-49b6-9ece-b6f1ce2d3a54"
+  },
+  {
+    "brand": "CODERDOJO",
+    "name": "Cape Girardeau, Missouri @ Semohs",
+    "latitude": 37.313388,
+    "longitude": -89.5583693,
+    "countryCode": "US",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": "us/cape-girardeau-township-mo/cape-girardeau-missouri-semohs",
+    "id": "aadc288e-e410-4bf1-aa04-9c64003284d5"
   },
   {
     "brand": "CODERDOJO",
