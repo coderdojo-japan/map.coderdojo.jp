@@ -10191,6 +10191,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -93.4723543,
+          37.1198723
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Republic, MO @ Elevate - Destiny Church<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/republic-mo/republic-mo-elevate-destiny-church'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.479507300000023,
           41.816041
         ]
@@ -13828,7 +13843,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-mito.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/mito.webp' alt='水戸' loading='lazy' width='100px' /></a><br><b>水戸</b><br>水戸市で毎月開催<br><a href='https://coderdojo-mito.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-mito.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/mito.webp' alt='水戸' loading='lazy' width='100px' /></a><br><b>水戸</b><br>水戸市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-mito.connpass.com/event/386338/' target='_blank' rel='noopener'>3月15日</a><br><a href='https://coderdojo-mito.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {

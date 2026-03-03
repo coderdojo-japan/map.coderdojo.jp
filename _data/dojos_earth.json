@@ -7341,6 +7341,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Republic, MO @ Elevate - Destiny Church",
+    "latitude": 37.1198723,
+    "longitude": -93.4723543,
+    "countryCode": "US",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": "us/republic-mo/republic-mo-elevate-destiny-church",
+    "id": "82e30697-6ed3-4e8f-a69f-fb6440a85b7b"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "Roma EUR @HPE",
     "latitude": 41.816041,
     "longitude": 12.479507300000023,
