@@ -4181,6 +4181,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "BedStuy, NYC @ IBOM LLC",
+    "latitude": 42.0526114,
+    "longitude": -124.28398190000001,
+    "countryCode": "US",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": "us/brooklyn-ny/bedstuy-nyc-ibom-llc",
+    "id": "4c35a2a5-7214-41b3-a357-60d07a5244bd"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "TiburonDojo @beltiblibrary",
     "latitude": 37.87701830292504,
     "longitude": -122.46159445866692,
@@ -5808,6 +5818,16 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "jp/aichi-ken/ai4-zhi1-xian4-ming2-gu3-wu1-shi4-tian1-bai2-qu1-yuan2-ding1-mu4/tian1-bai2-ming2-gu3-wu1-ai4-zhi1",
     "id": "662f23bc-e2c7-4365-a3be-d7f29c1156b9"
+  },
+  {
+    "brand": "CODERDOJO",
+    "name": "Metuchen, NJ @ Metuchen Public Library",
+    "latitude": 40.5449879,
+    "longitude": -74.3614665,
+    "countryCode": "US",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": "us/new-jersey/4-8-0-middlesex-avenue-metuchen-nj-0-884-0/metuchen-nj-metuchen-public-library",
+    "id": "66356444-3cbb-42b7-af71-802fc0b87359"
   },
   {
     "brand": "CODERDOJO",
