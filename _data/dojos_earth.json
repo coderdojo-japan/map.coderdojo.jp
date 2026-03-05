@@ -10951,6 +10951,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "Groton Public Library Robotics and Coding Club",
+    "latitude": 42.6050894,
+    "longitude": -71.5683224,
+    "countryCode": "US",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": "us/groton-ma/groton-public-library-robotics-and-coding-club",
+    "id": "bd3423df-0108-4c33-9c3d-862e825f6101"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "Maaseik",
     "latitude": 51.0940112,
     "longitude": 5.795722699999942,
@@ -13641,7 +13651,7 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Sammamish @ Beaver Lake Lodge",
+    "name": "Young Coders of Sammamish",
     "latitude": 47.5873326,
     "longitude": -122.0042983,
     "countryCode": "US",

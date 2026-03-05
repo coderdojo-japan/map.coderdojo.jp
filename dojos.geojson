@@ -9043,7 +9043,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojoshirakawa.hateblo.jp/entry/top' target='_blank' rel='noopener'>  <img src='/images/dojos/shirakawa.webp' alt='白河' loading='lazy' width='100px' /></a><br><b>白河</b><br>白河市で毎月開催<br><a href='https://coderdojoshirakawa.hateblo.jp/entry/top' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojoshirakawa.hateblo.jp/entry/top' target='_blank' rel='noopener'>  <img src='/images/dojos/shirakawa.webp' alt='白河' loading='lazy' width='100px' /></a><br><b>白河</b><br>白河市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-shirakawa.doorkeeper.jp/events/195581' target='_blank' rel='noopener'>4月25日</a><br><a href='https://coderdojoshirakawa.hateblo.jp/entry/top' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -15186,6 +15186,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.5683224,
+          42.6050894
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Groton Public Library Robotics and Coding Club<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/groton-ma/groton-public-library-robotics-and-coding-club'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.795722699999942,
           51.0940112
         ]
@@ -18823,7 +18838,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Sammamish @ Beaver Lake Lodge<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/sammamish-wa/sammamish-beaver-lake-lodge'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Young Coders of Sammamish<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/sammamish-wa/sammamish-beaver-lake-lodge'>連絡先を見る</a>"
       }
     },
     {
