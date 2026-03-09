@@ -4695,7 +4695,7 @@
     "latitude": 28.0604001,
     "longitude": -80.66897469999999,
     "countryCode": "US",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": null,
     "id": "54fc4354-5eb3-4f47-9cd4-56cdb40242c0"
   },
@@ -14005,7 +14005,7 @@
     "latitude": 51.8527102,
     "longitude": -8.299161999999999,
     "countryCode": "IE",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "ie/cobh/cobh-coderdojo",
     "id": "f2c6ce35-1aad-4911-bc7e-217287dfb8a6"
   },
