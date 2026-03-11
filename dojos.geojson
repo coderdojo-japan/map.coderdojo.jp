@@ -13101,21 +13101,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.2915731000000505,
-          53.342512
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Dublin 8 @ Canal Way Educate Together National School<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin/dublin-8-canal-way-educate-together-national-school'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           14.8723803,
           48.1210432
         ]
