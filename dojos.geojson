@@ -988,7 +988,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nara.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/nara.webp' alt='奈良' loading='lazy' width='100px' /></a><br><b>奈良</b><br>奈良市で毎月開催<br><a href='https://coderdojo-nara.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nara.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/nara.webp' alt='奈良' loading='lazy' width='100px' /></a><br><b>奈良</b><br>奈良市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-nara-ikoma.connpass.com/event/387287/' target='_blank' rel='noopener'>3月21日</a><br><a href='https://coderdojo-nara.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -1004,21 +1004,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Pomezia<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/pomezia-metropolitan-city-of-rome/pomezia'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6333824,
-          -23.5506507
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>São Paulo<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/br/sao-paulo'>連絡先を見る</a>"
       }
     },
     {
