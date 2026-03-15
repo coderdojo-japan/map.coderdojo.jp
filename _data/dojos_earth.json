@@ -7871,16 +7871,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Bratislava @ Campus City",
-    "latitude": 48.1465899,
-    "longitude": 17.105664899999965,
-    "countryCode": "SK",
-    "status": "PLANNING",
-    "urlSlug": "sk/bratislava/bratislava-campus-city",
-    "id": "8916f47c-7cf1-4437-b8f8-3cc27bd34309"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "CoderDojo Toyohashi",
     "latitude": 34.7763410646082,
     "longitude": 137.40984678268433,
