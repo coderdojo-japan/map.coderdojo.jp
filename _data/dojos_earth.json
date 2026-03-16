@@ -6351,7 +6351,7 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Bratislava @ Campus Mlyny",
+    "name": "Bratislava ",
     "latitude": 48.1559622,
     "longitude": 17.072157199999992,
     "countryCode": "SK",
@@ -9908,16 +9908,6 @@
     "status": "PLANNING",
     "urlSlug": "gb/london-borough-of-southwark/southwark-london-brandon-library",
     "id": "ae3161bd-f54f-4fd2-909d-81a4b1209fcf"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Ealing Central Library",
-    "latitude": 51.5129739,
-    "longitude": -0.3033462999999301,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/london-borough-of-ealing/ealing-central-library",
-    "id": "ae3fc2e2-521c-445e-b7dd-4a1255f08a03"
   },
   {
     "brand": "CODERDOJO",
