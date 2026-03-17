@@ -137,8 +137,8 @@
     "event_end_at": "2026-03-21T18:00:00.000+09:00",
     "event_url": "https://coderdojo-nishinomiya.doorkeeper.jp/events/193652",
     "prefecture": "大阪",
-    "participants": 13,
-    "event_update_at": "2026-03-15T23:15:16.598+09:00",
+    "participants": 14,
+    "event_update_at": "2026-03-16T14:11:51.107+09:00",
     "address": "大阪府大阪市北区大深江町3-1 グランフロント大阪 タワーC 16階",
     "place": "gusuku Ashibinaa OSAKA（アールスリーインスティテュート）",
     "limit": 0
@@ -217,8 +217,8 @@
     "event_end_at": "2026-03-21T16:00:00.000+09:00",
     "event_url": "https://coderdojo-aizu.doorkeeper.jp/events/195508",
     "prefecture": "福島",
-    "participants": 6,
-    "event_update_at": "2026-03-15T18:28:37.273+09:00",
+    "participants": 7,
+    "event_update_at": "2026-03-17T05:59:27.085+09:00",
     "address": "生涯学習センター会津稽古堂",
     "place": "１F　美術工芸室",
     "limit": 21
@@ -270,6 +270,22 @@
     "address": "静岡県浜松市中区鴨江町1番地",
     "place": "浜松市鴨江アートセンター(201号室)",
     "limit": null
+  },
+  {
+    "id": 102,
+    "name": "福岡",
+    "url": "https://www.facebook.com/CoderDojoFukuoka/",
+    "event_id": 10297,
+    "event_title": "第103回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）",
+    "event_date": "2026-04-11T14:00:00.000+09:00",
+    "event_end_at": "2026-04-11T16:00:00.000+09:00",
+    "event_url": "https://coderdojo-fukuoka.connpass.com/event/387897/",
+    "prefecture": "福岡",
+    "participants": 0,
+    "event_update_at": "2026-03-17T08:21:01.000+09:00",
+    "address": "福岡県福岡市中央区大名2-6-11",
+    "place": "オンライン + Fukuoka Growth Next",
+    "limit": 22
   },
   {
     "id": 117,
@@ -441,7 +457,7 @@
     "event_end_at": "2026-04-11T12:00:00.000+09:00",
     "event_url": "https://coderdojokoga.connpass.com/event/387785/",
     "prefecture": "茨城",
-    "participants": 0,
+    "participants": 1,
     "event_update_at": "2026-03-16T01:53:48.000+09:00",
     "address": "茨城県古河市鴻巣７５８",
     "place": "三桜工業株式会社　さくらキャンパス",
@@ -462,6 +478,22 @@
     "address": "兵庫県川辺郡猪名川町松尾台1-2-1",
     "place": "日生中央サピエ 2階 サピエギャラリー",
     "limit": 20
+  },
+  {
+    "id": 182,
+    "name": "瀬戸",
+    "url": "https://coderdojo-seto.jp/",
+    "event_id": 10292,
+    "event_title": "【無料】【1F小会議室】CoderDojo瀬戸(第155回) 子供プログラミングコミュニティ",
+    "event_date": "2026-04-04T10:00:00.000+09:00",
+    "event_end_at": "2026-04-04T12:30:00.000+09:00",
+    "event_url": "https://coderdojo-seto.connpass.com/event/387698/",
+    "prefecture": "愛知",
+    "participants": 3,
+    "event_update_at": "2026-03-16T21:50:20.000+09:00",
+    "address": "瀬戸市道泉町53番地の5",
+    "place": "ぐるっぺ道泉",
+    "limit": null
   },
   {
     "id": 184,
@@ -745,7 +777,7 @@
     "event_end_at": "2026-04-19T16:00:00.000+09:00",
     "event_url": "https://coder-dojo-nishinasuno.connpass.com/event/384965/",
     "prefecture": "栃木",
-    "participants": 2,
+    "participants": 3,
     "event_update_at": "2026-03-15T21:18:57.000+09:00",
     "address": "栃木県那須塩原市二区町401",
     "place": "那須塩原市南公民館",
@@ -793,7 +825,7 @@
     "event_end_at": "2026-04-11T16:30:00.000+09:00",
     "event_url": "https://coderdojo-iwata.connpass.com/event/387697/",
     "prefecture": "静岡",
-    "participants": 1,
+    "participants": 2,
     "event_update_at": "2026-03-15T06:56:03.000+09:00",
     "address": "〒438-0831 静岡県磐田市上新屋678番地1",
     "place": "磐田市民文化会館 創作活動室1",
@@ -810,10 +842,10 @@
     "event_url": "https://coderdojo-iwakuni.connpass.com/event/359278/",
     "prefecture": "山口",
     "participants": 0,
-    "event_update_at": "2026-03-01T20:10:15.000+09:00",
+    "event_update_at": "2026-03-16T20:44:21.000+09:00",
     "address": "山口県岩国市周東町下久原1208-1",
     "place": "岩国市周東中央公民館",
-    "limit": 26
+    "limit": 28
   },
   {
     "id": 303,
@@ -880,6 +912,22 @@
     "limit": 14
   },
   {
+    "id": 316,
+    "name": "飯田",
+    "url": "https://coderdojoiida.github.io/",
+    "event_id": 10293,
+    "event_title": "CoderDojo飯田#44",
+    "event_date": "2026-04-11T13:30:00.000+09:00",
+    "event_end_at": "2026-04-11T15:30:00.000+09:00",
+    "event_url": "https://coderdojoiida.connpass.com/event/387799/",
+    "prefecture": "長野",
+    "participants": 0,
+    "event_update_at": "2026-03-16T09:59:32.000+09:00",
+    "address": "飯田市上郷別府２６８９−１",
+    "place": "ロジカランド株式会社",
+    "limit": 15
+  },
+  {
     "id": 317,
     "name": "仙台若林",
     "url": "https://coderdojo-sendai-wakabayashi.connpass.com/",
@@ -937,7 +985,7 @@
     "event_end_at": "2026-03-28T12:00:00.000+09:00",
     "event_url": "https://coderdojo-harumi.connpass.com/event/386209/",
     "prefecture": "東京",
-    "participants": 6,
+    "participants": 7,
     "event_update_at": "2026-03-01T08:03:24.000+09:00",
     "address": "東京都中央区晴海",
     "place": "晴海フラッグSUNビレッジT棟（タワー棟）コミュニティルーム",
@@ -974,6 +1022,22 @@
     "address": "〒150-8366 東京都渋谷区渋谷4丁目4-25",
     "place": "青学つくまなラボ",
     "limit": 7
+  },
+  {
+    "id": 340,
+    "name": "川西",
+    "url": "https://coderdojo-takaraduka.connpass.com/",
+    "event_id": 10294,
+    "event_title": "第8回 CoderDojo川西(宝塚) 2026/4/05(日)　14:00～16:40",
+    "event_date": "2026-04-05T14:00:00.000+09:00",
+    "event_end_at": "2026-04-05T16:30:00.000+09:00",
+    "event_url": "https://coderdojo-takaraduka.connpass.com/event/387821/",
+    "prefecture": "兵庫",
+    "participants": 0,
+    "event_update_at": "2026-03-16T13:05:32.000+09:00",
+    "address": "兵庫県川西市栄町25-1",
+    "place": "アステ川西6階 市民プラザ",
+    "limit": 14
   },
   {
     "id": 346,
