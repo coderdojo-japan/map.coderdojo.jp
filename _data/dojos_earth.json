@@ -1545,7 +1545,7 @@
     "latitude": 39.7955341,
     "longitude": -75.52437309999999,
     "countryCode": "US",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "us/wilmington-de/digital-clubhouse-for-kids-wilmington-delaware-brandywine-hundred-library",
     "id": "1cbdd454-a13e-433a-be2c-55a0892e5423"
   },
@@ -10568,16 +10568,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "jp/ri4-ben3-qi2-yu4-xian4-suo3-ze2-shi4/shintokorozawa",
     "id": "b7047446-18b0-4821-a49e-a11543098677"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Cambridge @ Central Library",
-    "latitude": 52.2045684,
-    "longitude": 0.1205313,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/cambridge/cambridge-central-library",
-    "id": "b71baffa-e0e0-4a91-baca-9a7424165246"
   },
   {
     "brand": "CODERDOJO",

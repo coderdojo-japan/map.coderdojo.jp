@@ -3373,7 +3373,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-hino.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/hino.webp' alt='日野' loading='lazy' width='100px' /></a><br><b>日野</b><br>日野市で毎月開催<br><a href='https://coderdojo-hino.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-hino.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/hino.webp' alt='日野' loading='lazy' width='100px' /></a><br><b>日野</b><br>日野市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-hino.connpass.com/event/387885/' target='_blank' rel='noopener'>4月19日</a><br><a href='https://coderdojo-hino.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -4468,7 +4468,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojosawara.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='早良' loading='lazy' width='100px' /></a><br><b>早良</b><br>福岡市早良区で毎<br>月開催<br><a href='https://coderdojosawara.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojosawara.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='早良' loading='lazy' width='100px' /></a><br><b>早良</b><br>福岡市早良区で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojosawara.connpass.com/event/388474/' target='_blank' rel='noopener'>3月23日</a><br><a href='https://coderdojosawara.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -4798,7 +4798,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-tamacent.wixsite.com/main' target='_blank' rel='noopener'>  <img src='/images/dojos/tama-center.webp' alt='多摩センター' loading='lazy' width='100px' /></a><br><b>多摩センター</b><br>多摩市で毎月開催<br><a href='https://coderdojo-tamacent.wixsite.com/main' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-tamacent.wixsite.com/main' target='_blank' rel='noopener'>  <img src='/images/dojos/tama-center.webp' alt='多摩センター' loading='lazy' width='100px' /></a><br><b>多摩センター</b><br>多摩市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-tamacenter.doorkeeper.jp/events/195962' target='_blank' rel='noopener'>4月26日</a><br><a href='https://coderdojo-tamacent.wixsite.com/main' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -6643,7 +6643,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>  <img src='/images/dojos/sennan.webp' alt='せんなん' loading='lazy' width='100px' /></a><br><b>せんなん</b><br>泉南市で毎月開催<br><a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>  <img src='/images/dojos/sennan.webp' alt='せんなん' loading='lazy' width='100px' /></a><br><b>せんなん</b><br>泉南市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-sennan.connpass.com/event/388473/' target='_blank' rel='noopener'>3月29日</a><br><a href='http://coderdojo-sennan.net/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -14639,21 +14639,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<a href='https://lmlab.net/coderdojo/' target='_blank' rel='noopener'>  <img src='/images/dojos/miyazaki.webp' alt='宮崎' loading='lazy' width='100px' /></a><br><b>宮崎</b><br>宮崎市で隔月開催<br><a href='https://lmlab.net/coderdojo/' target='_blank' rel='noopener'>Webサイトを見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.1205313,
-          52.2045684
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Cambridge @ Central Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/cambridge/cambridge-central-library'>連絡先を見る</a>"
       }
     },
     {
