@@ -6310,6 +6310,16 @@
     "id": "6ee80b7f-fb23-4b25-89ad-ca9f8e3fc6fe"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": "CoderDojo大和西大寺",
+    "latitude": 34.68614816448817,
+    "longitude": 135.78125164232776,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "6ef9b413-4803-4fc2-995d-bf4da9c32863"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "Majadahonda @ Centro Juvenil Príncipe de Asturias",
     "latitude": 40.4740828,
