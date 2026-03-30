@@ -1171,7 +1171,7 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Cedar Rapids, Iowa",
+    "name": "Cedar Rapids, Iowa CoderDojo",
     "latitude": 41.971044,
     "longitude": -91.65610700000002,
     "countryCode": "US",
@@ -6291,16 +6291,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Safety Harbor CoderDojo",
-    "latitude": 27.991786695512477,
-    "longitude": -82.68851280212402,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/florida/safety-harbor-florida/safety-harbor-coderdojo",
-    "id": "6ec1abce-120a-4921-8a66-f8d157c6a66a"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Úsov",
     "latitude": 49.802822,
     "longitude": 17.013492000000042,
@@ -6362,8 +6352,8 @@
   {
     "brand": "CODERDOJO",
     "name": "Bratislava ",
-    "latitude": 48.1559622,
-    "longitude": 17.072157199999992,
+    "latitude": 48.151323853221676,
+    "longitude": 17.070075813491634,
     "countryCode": "SK",
     "status": "RUNNING_SESSIONS",
     "urlSlug": "sk/bratislava/bratislava-campus-mlyny",
@@ -9338,16 +9328,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "ro/brasov/brasov-scoala-30",
     "id": "a36f186b-efe7-40fc-bd4e-8c0cfc37ec93"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Columbus @ Bartholomew County Public Library",
-    "latitude": 39.2040127,
-    "longitude": -85.91871530000003,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/columbus-in/columbus-bartholomew-county-public-library",
-    "id": "a3838a90-c7f5-4a38-8ba6-1b8d2f5df2e2"
   },
   {
     "brand": "CODERDOJO",
