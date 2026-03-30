@@ -1663,7 +1663,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Cedar Rapids, Iowa<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/cedar-rapids-ia/cedar-rapids-iowa'>連絡先を見る</a>"
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Cedar Rapids, Iowa CoderDojo<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/cedar-rapids-ia/cedar-rapids-iowa'>連絡先を見る</a>"
       }
     },
     {
@@ -8706,21 +8706,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.68851280212402,
-          27.991786695512477
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Safety Harbor CoderDojo<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/florida/safety-harbor-florida/safety-harbor-coderdojo'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           17.013492000000042,
           49.802822
         ]
@@ -8796,8 +8781,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.072157199999992,
-          48.1559622
+          17.070075813491634,
+          48.151323853221676
         ]
       },
       "properties": {
@@ -12981,21 +12966,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.91871530000003,
-          39.2040127
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Columbus @ Bartholomew County Public Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/columbus-in/columbus-bartholomew-county-public-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           135.6192383,
           34.8521043
         ]
@@ -15973,7 +15943,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-hamamatsu.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/hamamatsu.webp' alt='浜松' loading='lazy' width='100px' /></a><br><b>浜松</b><br>浜松市で毎月開催<br><a href='https://coderdojo-hamamatsu.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-hamamatsu.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/hamamatsu.webp' alt='浜松' loading='lazy' width='100px' /></a><br><b>浜松</b><br>浜松市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-hamamatsu.connpass.com/event/388824/' target='_blank' rel='noopener'>4月19日</a><br><a href='https://coderdojo-hamamatsu.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
