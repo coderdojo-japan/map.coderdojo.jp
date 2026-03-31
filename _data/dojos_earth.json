@@ -3781,16 +3781,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Dublin 7 @An Siol CDP",
-    "latitude": 53.35236140000001,
-    "longitude": -6.2835386,
-    "countryCode": "IE",
-    "status": "PLANNING",
-    "urlSlug": "ie/dublin/dublin-7-an-siol-cdp",
-    "id": "42ec6720-5a7d-45f2-b08d-b46cde6f7c59"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "South Chennai @ Corezi",
     "latitude": 12.9043708,
     "longitude": 80.20581849999996,
@@ -11641,16 +11631,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Mahon, Cork @ McAfee",
-    "latitude": 51.8858323,
-    "longitude": -8.405049899999995,
-    "countryCode": "IE",
-    "status": "PLANNING",
-    "urlSlug": "ie/cork/mahon-cork-mcafee",
-    "id": "cbb10f5e-9b55-435d-8fca-9b132faa548c"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Bangalore@Adarsh Palm Retreat",
     "latitude": 12.9234947,
     "longitude": 77.68510689999994,
@@ -12208,16 +12188,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "jp/ise-mie-prefecture/ise",
     "id": "d465a50b-79f5-4c46-ba37-084aaad17b74"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Oughterard",
-    "latitude": 53.4277424,
-    "longitude": -9.3212233,
-    "countryCode": "IE",
-    "status": "PLANNING",
-    "urlSlug": "ie/oughterard/oughterard",
-    "id": "d4d4eb4f-d873-4543-b26f-b28d575c422e"
   },
   {
     "brand": "CODERDOJO",
