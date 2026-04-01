@@ -5931,16 +5931,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Plantation Dojo",
-    "latitude": 26.1215938,
-    "longitude": -80.26172459999998,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/plantation-fl/plantation-dojo",
-    "id": "682c08cc-04d5-46e0-9f1f-955e9eae7a8d"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Prague @ Accenture",
     "latitude": 50.1077009,
     "longitude": 14.4429052,
@@ -7261,16 +7251,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Lafayette, IN @ Imagination Station",
-    "latitude": 40.4229419,
-    "longitude": -86.89334939999998,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/lafayette-in/lafayette-in-imagination-station",
-    "id": "809ce739-a325-48c2-860d-f66074fe7943"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Bundaberg @ IMPACT",
     "latitude": -24.85535,
     "longitude": 152.37552800000003,
@@ -7848,16 +7828,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "it/carbonia-province-of-carbonia-iglesias/carbonia-emmevcoder",
     "id": "88cc05f9-a693-4537-bfb3-d8269886c9b0"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Waterloo @ UrbanDevelopers",
-    "latitude": 42.4916118,
-    "longitude": -92.3789132,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/waterloo-ia/waterloo-urbandevelopers",
-    "id": "88d4ae32-c4f0-4808-a2ee-ec7b8b73f81d"
   },
   {
     "brand": "CODERDOJO",
@@ -12071,16 +12041,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "CoderDojo @ DCU (Dublin North)",
-    "latitude": 53.3844753,
-    "longitude": -6.258404400000018,
-    "countryCode": "IE",
-    "status": "PLANNING",
-    "urlSlug": "ie/dublin/dublin/coderdojo-dcu-dublin-north",
-    "id": "d22c6ff7-9150-40e7-9b98-84d47a17bca8"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Polytech @ Montpellier",
     "latitude": 43.632809943155934,
     "longitude": 3.862598240375519,
@@ -12578,16 +12538,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "gb/redhill-surrey/code-club-redhill-library",
     "id": "dc63ed11-1dcd-4906-8778-e31356544385"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Loughrea",
-    "latitude": 53.19510709272769,
-    "longitude": -8.559411764144897,
-    "countryCode": "IE",
-    "status": "PLANNING",
-    "urlSlug": "ie/galway/loughrea/loughrea",
-    "id": "dcd62d10-a23b-4c3a-b1c6-ba0d315e7dfd"
   },
   {
     "brand": "CODERDOJO",
@@ -13901,16 +13851,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Cobh CoderDojo",
-    "latitude": 51.8527102,
-    "longitude": -8.299161999999999,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/cobh/cobh-coderdojo",
-    "id": "f2c6ce35-1aad-4911-bc7e-217287dfb8a6"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "San Nicolas @ YMCA",
     "latitude": 12.43781532848709,
     "longitude": -69.90968307690925,
@@ -14248,16 +14188,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "jp/chuo-city-tokyo/tokyo-chuo-openness",
     "id": "f7c90845-33b4-4b3d-b8bf-ad021ddcbb74"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Clonskeagh, Ireland @ Inflight Dublin",
-    "latitude": 53.31215719999999,
-    "longitude": -6.233986400000049,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/clonskeagh-county-dublin/clonskeagh-ireland-inflight-dublin",
-    "id": "f7fd5ae3-ff00-4e44-aac8-b581eb1ffeef"
   },
   {
     "brand": "CODERDOJO",

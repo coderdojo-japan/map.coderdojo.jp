@@ -118,7 +118,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-odawara.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/odawara.webp' alt='小田原' loading='lazy' width='100px' /></a><br><b>小田原</b><br>小田原市で不定期開催<br><a href='https://coderdojo-odawara.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-odawara.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/odawara.webp' alt='小田原' loading='lazy' width='100px' /></a><br><b>小田原</b><br>小田原市で不定期開催<br>&rarr; 次回: <a href='https://coderdojo-odawara.connpass.com/event/389358/' target='_blank' rel='noopener'>4月26日</a><br><a href='https://coderdojo-odawara.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -313,7 +313,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojokibi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='吉備' loading='lazy' width='100px' /></a><br><b>吉備</b><br>岡山市北区で毎月開催<br><a href='https://coderdojokibi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojokibi.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='吉備' loading='lazy' width='100px' /></a><br><b>吉備</b><br>岡山市北区で毎月開催<br>&rarr; 次回: <a href='https://coderdojokibi.connpass.com/event/387806/' target='_blank' rel='noopener'>4月18日</a><br><a href='https://coderdojokibi.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -3868,7 +3868,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-komae.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/komae.webp' alt='狛江' loading='lazy' width='100px' /></a><br><b>狛江</b><br>狛江市で毎月開催<br><a href='https://coderdojo-komae.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-komae.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/komae.webp' alt='狛江' loading='lazy' width='100px' /></a><br><b>狛江</b><br>狛江市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-komae.connpass.com/event/389331/' target='_blank' rel='noopener'>4月19日</a><br><a href='https://coderdojo-komae.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -8211,21 +8211,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.26172459999998,
-          26.1215938
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Plantation Dojo<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/plantation-fl/plantation-dojo'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           14.4429052,
           50.1077009
         ]
@@ -10056,21 +10041,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.89334939999998,
-          40.4229419
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Lafayette, IN @ Imagination Station<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/lafayette-in/lafayette-in-imagination-station'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           152.37552800000003,
           -24.85535
         ]
@@ -10874,21 +10844,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Carbonia@EmmeVCoder<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/carbonia-province-of-carbonia-iglesias/carbonia-emmevcoder'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.3789132,
-          42.4916118
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Waterloo @ UrbanDevelopers<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/waterloo-ia/waterloo-urbandevelopers'>連絡先を見る</a>"
       }
     },
     {
@@ -12838,7 +12793,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://twitter.com/CoderDojoSeisin' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='西神' loading='lazy' width='100px' /></a><br><b>西神</b><br>神戸市西区で毎月開催<br><a href='https://twitter.com/CoderDojoSeisin' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://twitter.com/CoderDojoSeisin' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='西神' loading='lazy' width='100px' /></a><br><b>西神</b><br>神戸市西区で毎月開催<br>&rarr; 次回: <a href='https://coderdojoseishin.connpass.com/event/389406/' target='_blank' rel='noopener'>4月19日</a><br><a href='https://twitter.com/CoderDojoSeisin' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -16671,21 +16626,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.258404400000018,
-          53.3844753
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>CoderDojo @ DCU (Dublin North)<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin/dublin/coderdojo-dcu-dublin-north'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.862598240375519,
           43.632809943155934
         ]
@@ -17316,21 +17256,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.559411764144897,
-          53.19510709272769
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Loughrea<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/galway/loughrea/loughrea'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.824866899999961,
           52.6643354
         ]
@@ -17413,7 +17338,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/kodaira.webp' alt='こだいら' loading='lazy' width='100px' /></a><br><b>こだいら</b><br>小平市で隔週開催<br>&rarr; 次回: <a href='https://coderdojo-jp-kodaira.connpass.com/event/385730/' target='_blank' rel='noopener'>4月1日</a><br><a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/kodaira.webp' alt='こだいら' loading='lazy' width='100px' /></a><br><b>こだいら</b><br>小平市で隔週開催<br>&rarr; 次回: <a href='https://coderdojo-jp-kodaira.connpass.com/event/385731/' target='_blank' rel='noopener'>4月15日</a><br><a href='https://coderdojo-kodaira.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -19116,21 +19041,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.299161999999999,
-          51.8527102
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Cobh CoderDojo<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/cobh/cobh-coderdojo'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -69.90968307690925,
           12.43781532848709
         ]
@@ -19514,21 +19424,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Sto Rox Dojo @ Community Resource Center<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/mckees-rocks-pa/sto-rox-dojo-community-resource-center'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.233986400000049,
-          53.31215719999999
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Clonskeagh, Ireland @ Inflight Dublin<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/clonskeagh-county-dublin/clonskeagh-ireland-inflight-dublin'>連絡先を見る</a>"
       }
     },
     {

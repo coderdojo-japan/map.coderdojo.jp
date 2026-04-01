@@ -4327,5 +4327,18 @@
     "created_at": "2025-02-14T00:00:00.000+09:00",
     "description": "新居浜市で毎月開催",
     "inactivated_at": null
+  },
+  {
+    "id": 352,
+    "url": "https://coderdojo-nara-ikoma.connpass.com/",
+    "name": "大和西大寺",
+    "logo": "https://coderdojo.jp/img/dojos/yamato-saidaiji.webp",
+    "order": "292010",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "奈良",
+    "created_at": "2026-03-29T00:00:00.000+09:00",
+    "description": "奈良市で不定期開催",
+    "inactivated_at": null
   }
 ]
