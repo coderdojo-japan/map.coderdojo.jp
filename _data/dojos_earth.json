@@ -5401,16 +5401,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "CoderDojo @ Mallow Cork",
-    "latitude": 52.12238740000001,
-    "longitude": -8.65094590000001,
-    "countryCode": "IE",
-    "status": "PLANNING",
-    "urlSlug": "ie/mallow-cork/coderdojo-mallow-cork",
-    "id": "60813a67-5f9e-4a5e-922f-d6edc7ae219b"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Accenture PH",
     "latitude": 14.5794443,
     "longitude": 121.03591740000002,
@@ -6228,16 +6218,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "be/zwalm/zwalm",
     "id": "6de98ca2-c5f5-4322-9976-9973acd8272b"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Greystones",
-    "latitude": 53.1491175,
-    "longitude": -6.079341399999976,
-    "countryCode": "IE",
-    "status": "PLANNING",
-    "urlSlug": "ie/wicklow/greystones-wicklow/greystones",
-    "id": "6e39e105-4e7a-4680-97f2-1a1b21fd2bec"
   },
   {
     "brand": "CODERDOJO",
@@ -8628,16 +8608,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "in/faridabad-haryana/faridabad-haryana-mriirs",
     "id": "987a3f4a-37e1-4108-bc33-aae5731e8be7"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Scariff, Co. Clare @ Scariff Library",
-    "latitude": 52.910728,
-    "longitude": -8.530123799999956,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/scariff-county-clare/scariff-co-clare-scariff-library",
-    "id": "98a16257-de0f-4899-a76a-405b26b35b13"
   },
   {
     "brand": "CODERDOJO",
