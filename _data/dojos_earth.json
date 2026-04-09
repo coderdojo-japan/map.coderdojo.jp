@@ -3521,16 +3521,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Fujiidera",
-    "latitude": 34.5716495,
-    "longitude": 135.6155257,
-    "countryCode": "JP",
-    "status": "PLANNING",
-    "urlSlug": "jp/fujiidera-osaka/fujiidera",
-    "id": "3ebac46c-b078-4322-b74a-89ddb7aa9c3e"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Washington @ Winlock High School",
     "latitude": 46.4903068,
     "longitude": -122.8934707,
@@ -5558,16 +5548,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "au/perth-wa/mirrabooka-library",
     "id": "62a491b3-e749-42c6-8654-cc73ca191500"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Kashiwara",
-    "latitude": 34.5857321,
-    "longitude": 135.617836,
-    "countryCode": "JP",
-    "status": "PLANNING",
-    "urlSlug": "jp/kashiwara-city-osaka/kashiwara",
-    "id": "62a69551-d084-4efd-bafe-ceda97ea83ca"
   },
   {
     "brand": "CODERDOJO",
