@@ -3031,16 +3031,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Philly CoderDojo @ Bright Hope Baptist Church",
-    "latitude": 39.9778807,
-    "longitude": -75.15388189999999,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/philadelphia-pa/philly-coderdojo-bright-hope-baptist-church",
-    "id": "36bc16a3-5ed5-4701-850f-db9acb1c5fff"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Quetice@Glory to God School",
     "latitude": 6.457330400000001,
     "longitude": 3.5661685000000034,
