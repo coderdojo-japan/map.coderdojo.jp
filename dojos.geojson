@@ -4266,21 +4266,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.15388189999999,
-          39.9778807
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Philly CoderDojo @ Bright Hope Baptist Church<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/philadelphia-pa/philly-coderdojo-bright-hope-baptist-church'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.5661685000000034,
           6.457330400000001
         ]
@@ -9508,7 +9493,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-shin-osaka.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/shin-osaka.webp' alt='新大阪' loading='lazy' width='100px' /></a><br><b>新大阪</b><br>大阪市東淀川区で<br>毎月開催<br>&rarr; 次回: <a href='https://coderdojo-shin-osaka.connpass.com/event/389896/' target='_blank' rel='noopener'>4月11日</a><br><a href='https://coderdojo-shin-osaka.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-shin-osaka.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/shin-osaka.webp' alt='新大阪' loading='lazy' width='100px' /></a><br><b>新大阪</b><br>大阪市東淀川区で<br>毎月開催<br>&rarr; 次回: <a href='https://coderdojo-shin-osaka.connpass.com/event/389896/' target='_blank' rel='noopener'>5月16日</a><br><a href='https://coderdojo-shin-osaka.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
