@@ -3426,21 +3426,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.07257620000001,
-          49.27680669999999
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Vancouver, BC @ Vancouver Hack Space<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ca/vancouver-bc/vancouver-bc-vancouver-hack-space'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.2893658,
           37.8154231
         ]
@@ -4341,21 +4326,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.85635769999999,
-          43.25334609999999
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Steelcity Dojo @ Afro-Canadian Caribbean Association <br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.568148400000041,
           53.1927087
         ]
@@ -4378,7 +4348,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-matsuyama.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/matsuyama.webp' alt='松山' loading='lazy' width='100px' /></a><br><b>松山</b><br>松山市で月2回開催<br><a href='https://coderdojo-matsuyama.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-matsuyama.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/matsuyama.webp' alt='松山' loading='lazy' width='100px' /></a><br><b>松山</b><br>松山市で月2回開催<br>&rarr; 次回: <a href='https://coderdojo-matsuyama.doorkeeper.jp/events/196670' target='_blank' rel='noopener'>4月26日</a><br><a href='https://coderdojo-matsuyama.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -7851,21 +7821,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.5929708,
-          43.4715058
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>KWCODECLUB,Waterloo@StemLabRobotics<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ca/waterloo-on/kwcodeclub-waterloo-stemlabrobotics'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.1826868823029457,
           52.03424896521776
         ]
@@ -8039,21 +7994,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Sunshine Coast @ University of the Sunshine Coast<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/au/sippy-downs-queensland/sunshine-coast-university-of-the-sunshine-coast'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.9609936,
-          42.3118845
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Rose City, Windsor, Ontario  @ RCIC<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ca/windsor-on/rose-city-windsor-ontario-rcic'>連絡先を見る</a>"
       }
     },
     {
@@ -13071,21 +13011,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.67984139919281,
-          43.99872280491188
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>York Region North @ Schomberg Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ca/schomberg-on/york-region-north-schomberg-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -6.697551400000066,
           53.6525025
         ]
@@ -14001,21 +13926,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.7163246,
-          43.559817
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>GTA @ Online<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ca/mississauga-on/gta-online'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.307982700000025,
           51.6889171
         ]
@@ -14474,21 +14384,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Lahore @ Just Imagine Labs<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/pk/lahore-punjab/lahore-just-imagine-labs'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.71737639999998,
-          43.5563441
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Erin Meadows, Mississauga @ STEMlabs.ca<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ca/mississauga-on/erin-meadows-mississauga-stemlabs-ca'>連絡先を見る</a>"
       }
     },
     {
