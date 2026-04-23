@@ -1885,7 +1885,7 @@
     "latitude": 45.575479,
     "longitude": -73.585729,
     "countryCode": "CA",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "ca/montreal-qc/st-leonard-montreal-lmac-high-school",
     "id": "22529599-f82b-4fc8-9457-4138d4a4431a"
   },
@@ -2428,16 +2428,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": null,
     "id": "2ce78efa-a3d1-4451-bbde-c1a98057c143"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Vancouver, BC @ Vancouver Hack Space",
-    "latitude": 49.27680669999999,
-    "longitude": -123.07257620000001,
-    "countryCode": "CA",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ca/vancouver-bc/vancouver-bc-vancouver-hack-space",
-    "id": "2d2e7cb1-aa4f-41d6-952c-23055fe5d483"
   },
   {
     "brand": "CODERDOJO",
@@ -3078,16 +3068,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "au/perth-wa/claremont-wa-freshwater-bay-primary-school",
     "id": "378c3b3e-55e9-4aa3-bfba-162674d7b159"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Steelcity Dojo @ Afro-Canadian Caribbean Association ",
-    "latitude": 43.25334609999999,
-    "longitude": -79.85635769999999,
-    "countryCode": "CA",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": null,
-    "id": "37c7969d-e27a-4eff-a0f0-9e044c71d94f"
   },
   {
     "brand": "CODERDOJO",
@@ -5641,16 +5621,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "KWCODECLUB,Waterloo@StemLabRobotics",
-    "latitude": 43.4715058,
-    "longitude": -80.5929708,
-    "countryCode": "CA",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ca/waterloo-on/kwcodeclub-waterloo-stemlabrobotics",
-    "id": "64055b10-5d72-48ec-9f88-7ae078d22940"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Ipswich @ Ipswich Makerspace",
     "latitude": 52.03424896521776,
     "longitude": 1.1826868823029457,
@@ -5778,16 +5748,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "au/sippy-downs-queensland/sunshine-coast-university-of-the-sunshine-coast",
     "id": "66395612-d65b-4e4b-9b35-e12ba4c71cac"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Rose City, Windsor, Ontario  @ RCIC",
-    "latitude": 42.3118845,
-    "longitude": -82.9609936,
-    "countryCode": "CA",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ca/windsor-on/rose-city-windsor-ontario-rcic",
-    "id": "663989d6-6956-4b92-b672-208185fa726e"
   },
   {
     "brand": "CODERDOJO",
@@ -9411,16 +9371,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "York Region North @ Schomberg Library",
-    "latitude": 43.99872280491188,
-    "longitude": -79.67984139919281,
-    "countryCode": "CA",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ca/schomberg-on/york-region-north-schomberg-library",
-    "id": "a790400d-92b7-4d75-a6d3-395c8bddb6e4"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Navan @ St. Patricks",
     "latitude": 53.6525025,
     "longitude": -6.697551400000066,
@@ -10101,16 +10051,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "GTA @ Online",
-    "latitude": 43.559817,
-    "longitude": -79.7163246,
-    "countryCode": "CA",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ca/mississauga-on/gta-online",
-    "id": "b32170a5-5a1c-4408-bfc6-f8a32a3ed05c"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Den Bosch Bibliotheek",
     "latitude": 51.6889171,
     "longitude": 5.307982700000025,
@@ -10448,16 +10388,6 @@
     "status": "PLANNING",
     "urlSlug": "pk/lahore-punjab/lahore-just-imagine-labs",
     "id": "b737f12c-5a5f-4a03-b1a4-f59723f5f00f"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Erin Meadows, Mississauga @ STEMlabs.ca",
-    "latitude": 43.5563441,
-    "longitude": -79.71737639999998,
-    "countryCode": "CA",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ca/mississauga-on/erin-meadows-mississauga-stemlabs-ca",
-    "id": "b7409dc5-fe9f-4a10-af10-83127154f1b7"
   },
   {
     "brand": "CODERDOJO",
