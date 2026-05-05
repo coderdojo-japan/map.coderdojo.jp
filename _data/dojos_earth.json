@@ -6451,6 +6451,16 @@
   },
   {
     "brand": "CODERDOJO",
+    "name": "SiliconDocks @ Accenture The Dock",
+    "latitude": 53.3438095,
+    "longitude": -6.232834000000025,
+    "countryCode": "IE",
+    "status": "PLANNING",
+    "urlSlug": "ie/dublin-2/silicondocks-accenture-the-dock",
+    "id": "731d7415-98d0-40ce-8db5-fe371285f206"
+  },
+  {
+    "brand": "CODERDOJO",
     "name": "CoderDojo Giroc",
     "latitude": 45.69623259999999,
     "longitude": 21.237106,
