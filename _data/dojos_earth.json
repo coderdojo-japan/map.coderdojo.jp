@@ -9920,6 +9920,16 @@
     "id": "b0fd6944-6630-4440-ae2b-1c1423df6cd4"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": "CoderDojo南城",
+    "latitude": 26.1631734,
+    "longitude": 127.7706815,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "b115e722-3f39-4306-9041-3d323844182e"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "Fontaine",
     "latitude": 50.4084945,
@@ -11911,7 +11921,7 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Polytech @ Montpellier",
+    "name": "CoderDojo Montpellier",
     "latitude": 43.632809943155934,
     "longitude": 3.862598240375519,
     "countryCode": "FR",
@@ -14401,7 +14411,7 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Tome",
+    "name": "CoderDojo Tome",
     "latitude": 38.6919173,
     "longitude": 141.18758589999993,
     "countryCode": "JP",
