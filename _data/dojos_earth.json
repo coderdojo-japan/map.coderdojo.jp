@@ -4211,16 +4211,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Ignite Hubs Canada Water",
-    "latitude": 51.49783189999999,
-    "longitude": -0.0491632,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/london/ignite-hubs-canada-water",
-    "id": "4d881f9c-1b23-456d-8b1b-df98f71312a9"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Sambava @ Antanifotsy",
     "latitude": -14.2713338,
     "longitude": 50.1678121,
