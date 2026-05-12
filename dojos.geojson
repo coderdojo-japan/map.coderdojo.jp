@@ -6163,7 +6163,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/CoderDojoEhimeNiihama' target='_blank' rel='noopener'>  <img src='/images/dojos/niihama.webp' alt='新居浜' loading='lazy' width='100px' /></a><br><b>新居浜</b><br>新居浜市で毎月開催<br><a href='https://www.facebook.com/CoderDojoEhimeNiihama' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/CoderDojoEhimeNiihama' target='_blank' rel='noopener'>  <img src='/images/dojos/niihama.webp' alt='新居浜' loading='lazy' width='100px' /></a><br><b>新居浜</b><br>新居浜市で毎月開催<br>&rarr; 次回: <a href='https://corderdojo-ehimeniihama.connpass.com/event/393534/' target='_blank' rel='noopener'>6月21日</a><br><a href='https://www.facebook.com/CoderDojoEhimeNiihama' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -6343,7 +6343,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.coderdojokurume.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/kurume.webp' alt='久留米' loading='lazy' width='100px' /></a><br><b>久留米</b><br>久留米市で毎月開催<br><a href='https://www.coderdojokurume.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.coderdojokurume.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/kurume.webp' alt='久留米' loading='lazy' width='100px' /></a><br><b>久留米</b><br>久留米市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-kurume.connpass.com/event/393584/' target='_blank' rel='noopener'>5月30日</a><br><a href='https://www.coderdojokurume.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -8909,21 +8909,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Athenry<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/galway/athenry-county-galway/athenry'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.232834000000025,
-          53.3438095
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>SiliconDocks @ Accenture The Dock<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ie/dublin-2/silicondocks-accenture-the-dock'>連絡先を見る</a>"
       }
     },
     {
@@ -12336,6 +12321,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.38695089999999,
+          43.64725809999999
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Toronto<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ca/ontario/2-2-0-king-st-w-toronto-on-m-5-h-1k-4-canada/toronto'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           136.65620509999997,
           36.56132540000001
         ]
@@ -14893,7 +14893,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojoome.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/ome.webp' alt='青梅' loading='lazy' width='100px' /></a><br><b>青梅</b><br>青梅市で毎月開催<br><a href='https://coderdojoome.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojoome.github.io/' target='_blank' rel='noopener'>  <img src='/images/dojos/ome.webp' alt='青梅' loading='lazy' width='100px' /></a><br><b>青梅</b><br>青梅市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-ome.connpass.com/event/393413/' target='_blank' rel='noopener'>6月14日</a><br><a href='https://coderdojoome.github.io/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
