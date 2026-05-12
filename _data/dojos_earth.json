@@ -4700,6 +4700,16 @@
     "id": "55f5d988-38b6-4ede-97d6-5da2a1d87ebb"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": "城の西",
+    "latitude": 34.8403119,
+    "longitude": 134.6847651,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "560e587f-9fdb-454d-a8c9-4ad2ae11035a"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "Mizonokuchi",
     "latitude": 35.6045698,
@@ -6438,16 +6448,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "ie/galway/athenry-county-galway/athenry",
     "id": "72f70e26-4af0-4a58-aff9-95cb933a2ccf"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "SiliconDocks @ Accenture The Dock",
-    "latitude": 53.3438095,
-    "longitude": -6.232834000000025,
-    "countryCode": "IE",
-    "status": "PLANNING",
-    "urlSlug": "ie/dublin-2/silicondocks-accenture-the-dock",
-    "id": "731d7415-98d0-40ce-8db5-fe371285f206"
   },
   {
     "brand": "CODERDOJO",
@@ -8858,6 +8858,16 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "nl/bladel/bladel-piusx-college",
     "id": "9ea32931-154d-44fd-aa3e-14b0aa681851"
+  },
+  {
+    "brand": "CODERDOJO",
+    "name": "Toronto",
+    "latitude": 43.64725809999999,
+    "longitude": -79.38695089999999,
+    "countryCode": "CA",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": "ca/ontario/2-2-0-king-st-w-toronto-on-m-5-h-1k-4-canada/toronto",
+    "id": "9ec1ab8d-c9f4-43cb-a9a3-e30032729e18"
   },
   {
     "brand": "CODERDOJO",
@@ -13168,6 +13178,16 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "ng/ekiti/ado-ekiti-ekiti",
     "id": "e7fae74f-a80d-41ef-b916-c27ae57c6c8a"
+  },
+  {
+    "brand": "CODE_CLUB",
+    "name": "CoderDojo姫路 ",
+    "latitude": 34.8312529,
+    "longitude": 134.6939956,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "e81586b2-f136-4468-b47f-a64f4f39c3b5"
   },
   {
     "brand": "CODERDOJO",
