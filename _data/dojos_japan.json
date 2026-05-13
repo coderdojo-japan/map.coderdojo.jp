@@ -613,7 +613,7 @@
   {
     "id": 50,
     "url": "https://www.facebook.com/groups/himeji.coderdojo/",
-    "name": "姫路",
+    "name": "姫路@2016",
     "logo": "https://coderdojo.jp/img/dojos/himeji.webp",
     "order": "282014",
     "counter": 1,
@@ -4339,6 +4339,19 @@
     "prefecture": "奈良",
     "created_at": "2026-03-29T00:00:00.000+09:00",
     "description": "奈良市で不定期開催",
+    "inactivated_at": null
+  },
+  {
+    "id": 353,
+    "url": "https://x.com/CoderDojoHimeji",
+    "name": "姫路",
+    "logo": "https://coderdojo.jp/img/dojos/himeji.webp",
+    "order": "282014",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "兵庫",
+    "created_at": "2026-05-13T12:01:59.286+09:00",
+    "description": "姫路市で毎月開催",
     "inactivated_at": null
   }
 ]
