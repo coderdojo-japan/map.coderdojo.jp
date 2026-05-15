@@ -1483,7 +1483,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-kyoto-shijo.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='京都四条' loading='lazy' width='100px' /></a><br><b>京都四条</b><br>京都市下京区で毎<br>月開催<br><a href='https://coderdojo-kyoto-shijo.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-kyoto-shijo.doorkeeper.jp/' target='_blank' rel='noopener'>  <img src='/images/dojos/default.webp' alt='京都四条' loading='lazy' width='100px' /></a><br><b>京都四条</b><br>京都市下京区で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojo-kyoto-shijo.doorkeeper.jp/events/197097' target='_blank' rel='noopener'>5月31日</a><br><a href='https://coderdojo-kyoto-shijo.doorkeeper.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -10108,7 +10108,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/coderdojoinagawa/' target='_blank' rel='noopener'>  <img src='/images/dojos/inagawa.webp' alt='猪名川' loading='lazy' width='100px' /></a><br><b>猪名川</b><br>猪名川町で毎月開催<br><a href='https://www.facebook.com/coderdojoinagawa/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/coderdojoinagawa/' target='_blank' rel='noopener'>  <img src='/images/dojos/inagawa.webp' alt='猪名川' loading='lazy' width='100px' /></a><br><b>猪名川</b><br>猪名川町で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-inagawa.connpass.com/event/393927/' target='_blank' rel='noopener'>5月23日</a><br><a href='https://www.facebook.com/coderdojoinagawa/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
