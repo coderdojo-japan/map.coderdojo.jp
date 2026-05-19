@@ -3221,16 +3221,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Donaghmede",
-    "latitude": 53.396621079700665,
-    "longitude": -6.161228772491427,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/dublin/holy-trinity-senior-national-school-donaghmede-dublin-13/donaghmede",
-    "id": "39d0b4fb-625c-4458-8d95-4748f21a24a5"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Maebashi, Gunma",
     "latitude": 36.3813523,
     "longitude": 139.0725053,
@@ -6448,6 +6438,16 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "ie/galway/athenry-county-galway/athenry",
     "id": "72f70e26-4af0-4a58-aff9-95cb933a2ccf"
+  },
+  {
+    "brand": "CODE_CLUB",
+    "name": "CoderDojo　長島",
+    "latitude": 32.1636808,
+    "longitude": 130.111038,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "73615e90-965b-4084-bc16-850dd212ca18"
   },
   {
     "brand": "CODERDOJO",
