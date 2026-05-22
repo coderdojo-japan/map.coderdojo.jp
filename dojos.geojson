@@ -9583,7 +9583,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagoya.webp' alt='名古屋' loading='lazy' width='100px' /></a><br><b>名古屋</b><br>名古屋市中区で月<br>2回開催<br><a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/nagoya.webp' alt='名古屋' loading='lazy' width='100px' /></a><br><b>名古屋</b><br>名古屋市中区で月<br>2回開催<br>&rarr; 次回: <a href='https://coderdojo-nagoya.connpass.com/event/394736/' target='_blank' rel='noopener'>5月24日</a><br><a href='https://coderdojo-nagoya.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -17736,21 +17736,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.9028462,
-          41.71896530000001
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Ninja Camp @ MCPL<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/michigan-city-in/ninja-camp-mcpl'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.8151587,
           54.91929150000001
         ]
@@ -19648,7 +19633,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://www.facebook.com/coderdojo.kofu/' target='_blank' rel='noopener'>  <img src='/images/dojos/kofu.webp' alt='甲府' loading='lazy' width='100px' /></a><br><b>甲府</b><br>甲府市で毎月開催<br><a href='https://www.facebook.com/coderdojo.kofu/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.facebook.com/coderdojo.kofu/' target='_blank' rel='noopener'>  <img src='/images/dojos/kofu.webp' alt='甲府' loading='lazy' width='100px' /></a><br><b>甲府</b><br>甲府市で毎月開催<br>&rarr; 次回: <a href='https://coderdojokofu.connpass.com/event/394619/' target='_blank' rel='noopener'>6月21日</a><br><a href='https://www.facebook.com/coderdojo.kofu/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
