@@ -591,16 +591,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Castletroy, Limerick @ ACI Worldwide",
-    "latitude": 52.6705317,
-    "longitude": -8.5546039,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/limerick/castletroy-limerick-aci-worldwide",
-    "id": "0bcd18b1-ba09-401a-8d5d-34d41d68e4c0"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Peterborough CoderDojo @ Orton Library",
     "latitude": 52.5453678,
     "longitude": -0.30201,
@@ -1368,16 +1358,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "gb/clitheroe/clitheroe-clitheroe-library",
     "id": "197c8a8f-dd89-48ec-bf2b-c1a16343aded"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Woodpark, Dublin @ TheGreen",
-    "latitude": 53.2743232,
-    "longitude": -6.2483697,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/ballinteer-county-dublin/woodpark-dublin-thegreen",
-    "id": "198decd6-65ba-42db-9108-e03622331ddc"
   },
   {
     "brand": "CODERDOJO",
