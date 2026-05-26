@@ -3431,16 +3431,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Limerick @ LIT",
-    "latitude": 52.67500298472753,
-    "longitude": -8.648107051849365,
-    "countryCode": "IE",
-    "status": "PLANNING",
-    "urlSlug": "ie/limerick/limerick/limerick-lit",
-    "id": "3e388cea-f7f3-40ac-89a0-e33601d131df"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Coder Dojo Fürstenwalde",
     "latitude": 52.3575325,
     "longitude": 14.0657205,
@@ -11388,16 +11378,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "us/onsted-mi/michigan-onsted-onsted-high-school",
     "id": "ca4a12fc-2c23-4e7b-8b0b-7751538db4ed"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Dublin 15",
-    "latitude": 53.4047486,
-    "longitude": -6.378062699999987,
-    "countryCode": "IE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ie/dublin/blanchardstown/dublin-15",
-    "id": "ca8be66b-ee96-4162-937a-6d506f8bb08f"
   },
   {
     "brand": "CODERDOJO",
