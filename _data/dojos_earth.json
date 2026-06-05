@@ -5110,6 +5110,16 @@
     "id": "5d49b142-f1b6-4519-a899-82672a242547"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": "伊佐 @ 本城",
+    "latitude": 31.9886525,
+    "longitude": 130.6320872,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "5d8ca3ef-a771-4459-9bf7-184a5d3784ea"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "Surabaya @ Nola Learning Center",
     "latitude": -7.2832225977918394,
