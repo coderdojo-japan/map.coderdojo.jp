@@ -835,7 +835,7 @@
     "latitude": 26.43896,
     "longitude": 80.2934854,
     "countryCode": "IN",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "in/kanpur-uttar-pradesh/kanpur-asrsbot-code-ninja",
     "id": "115ebb1c-d3f4-4553-b26f-98eef13cc0c5"
   },
@@ -2095,7 +2095,7 @@
     "latitude": 28.641777,
     "longitude": 77.124359,
     "countryCode": "IN",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "in/new-delhi-delhi/new-delhi-abhyast",
     "id": "26315e2e-cdad-416a-b91b-5e39965faea6"
   },
@@ -3635,7 +3635,7 @@
     "latitude": 13.027846597476328,
     "longitude": 77.538155588418,
     "countryCode": "IN",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "in/bengaluru-karnataka/yeshwanthpur-bengaluru-toshan",
     "id": "41bdeb00-1e5a-49dd-8197-c877fd0ce80a"
   },
@@ -6735,7 +6735,7 @@
     "latitude": 19.1254378,
     "longitude": 72.919834,
     "countryCode": "IN",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "in/powai-mumbai/powai-makerghat",
     "id": "7aba0ea8-4aaf-43b1-bb7f-0c4ddfef6edb"
   },
@@ -9025,7 +9025,7 @@
     "latitude": 28.3935691,
     "longitude": 77.0217843,
     "countryCode": "IN",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "in/gurgaon-haryana/gurgaon-gpl",
     "id": "a1bfe00b-ce80-4c8d-bef3-5d839502dc71"
   },
@@ -13575,7 +13575,7 @@
     "latitude": 19.223726,
     "longitude": 82.54715759999999,
     "countryCode": "IN",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "in/nabarangpur-odisha/nabarangpur-odisha",
     "id": "f0aabf3c-f7ec-456e-b0b4-9341de99eff4"
   },
