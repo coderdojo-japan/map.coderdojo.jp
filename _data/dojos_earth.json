@@ -12631,16 +12631,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Greek Incubator",
-    "latitude": 37.9760654,
-    "longitude": 23.7038101,
-    "countryCode": "GR",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gr/athens/greek-incubator",
-    "id": "e0a40e16-795a-43c1-a1ae-806bd0c1cab8"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Giarre",
     "latitude": 37.757646,
     "longitude": 15.1740564,
@@ -12668,16 +12658,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "nl/heerhugowaard/heerhugowaard-bibliotheek-kennemerwaard",
     "id": "e0e40319-14dd-4277-92aa-a5c31e83b8ae"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "CoderDojo Votanikos",
-    "latitude": 37.9760654,
-    "longitude": 23.7038101,
-    "countryCode": "GR",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gr/central-athens/votanikos-63-gymath",
-    "id": "e0e6418b-3f65-4791-ba0a-56eb786f3789"
   },
   {
     "brand": "CODERDOJO",
