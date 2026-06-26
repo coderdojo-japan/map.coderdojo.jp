@@ -11953,7 +11953,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojo-azamino.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/azamino.webp' alt='あざみ野' loading='lazy' width='100px' /></a><br><b>あざみ野</b><br>横浜市青葉区で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojo-azamino.connpass.com/event/398091/' target='_blank' rel='noopener'>7月12日</a><br><a href='https://coderdojo-azamino.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-azamino.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/azamino.webp' alt='あざみ野' loading='lazy' width='100px' /></a><br><b>あざみ野</b><br>横浜市青葉区で毎<br>月開催<br>&rarr; 次回: <a href='https://coderdojo-azamino.connpass.com/event/398091/' target='_blank' rel='noopener'>7月19日</a><br><a href='https://coderdojo-azamino.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -18456,8 +18456,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          134.36910009999997,
-          33.9738737
+          134.36121814613088,
+          33.97088734489963
         ]
       },
       "properties": {
