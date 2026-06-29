@@ -4,6 +4,7 @@ git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
 gem 'rake'         # Enable to run 'rake' commands in Rakefile
 gem 'html-proofer' # Enable to run 'rake test' command for testing
+gem 'minitest'     # Enable to run 'rake test_markers' data integrity tests
 gem 'jekyll'       # Enable to build/serve static site for DojoMap
 group :jekyll_plugins do
   gem 'jekyll-sitemap'

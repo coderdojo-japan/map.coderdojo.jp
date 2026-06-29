@@ -20,6 +20,7 @@ GEM
       fiber-local (~> 1.1)
       json
     csv (3.3.4)
+    drb (2.2.3)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -111,6 +112,9 @@ GEM
     logger (1.7.0)
     mercenary (0.4.0)
     metrics (0.12.2)
+    minitest (6.0.6)
+      drb (~> 2.0)
+      prism (~> 1.5)
     nokogiri (1.18.8-aarch64-linux-gnu)
       racc (~> 1.4)
     nokogiri (1.18.8-aarch64-linux-musl)
@@ -135,6 +139,7 @@ GEM
       hashery (~> 2.0)
       ruby-rc4
       ttfunk
+    prism (1.9.0)
     public_suffix (6.0.2)
     racc (1.8.1)
     rainbow (3.1.1)
@@ -192,6 +197,7 @@ DEPENDENCIES
   jekyll
   jekyll-sitemap
   logger
+  minitest
   rake
 
 BUNDLED WITH
