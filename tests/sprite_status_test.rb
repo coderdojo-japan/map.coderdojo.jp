@@ -3,6 +3,8 @@
 
 # Geolonia スプライト サーバの健全性を手動で確認するためのテスト。
 #
+# 関連 PR: https://github.com/coderdojo-japan/map.coderdojo.jp/pull/28
+#
 # == 用途 ==
 # マーカーは Geolonia のスプライト サーバ
 # (https://api.geolonia.com/v1/sprites/...) からアイコン画像を取得して描画する。

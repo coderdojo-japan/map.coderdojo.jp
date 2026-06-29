@@ -3,6 +3,8 @@
 
 # 地図にマーカーが表示されなくなる回帰を防ぐためのテスト。
 #
+# 関連 PR: https://github.com/coderdojo-japan/map.coderdojo.jp/pull/28
+#
 # == 不具合の経緯（2026/06）==
 # 「地図にマーカーが表示されない」不具合が発生。GeoJSON 破損を疑ったが、
 # dojos.geojson は 1310 件すべて妥当な FeatureCollection / Point だった。
