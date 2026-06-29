@@ -1,0 +1,65 @@
+<!-- テストページ: default マーカー（circle / marker-color, スプライト非依存）を
+     プレビューする。本番 index.html と同じ Geolonia 設定で data-geojson のみ差し替え。
+     生成: _tasks/upsert_dojos_geojson.rb / 関連: tests/markers_integrity_test.rb -->
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>[テスト] default マーカー - DojoMap</title>
+    <meta name="robots" content="noindex">
+    <link href="/images/icons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+    <style>
+      body, html {
+        width:  100%;
+        height: 100%;
+        margin:  0;
+        padding: 0;
+      }
+      .geolonia {
+        width:  100%;
+        height: 100%;
+      }
+      .maplibregl-popup-content a:visited {
+	color: blue;
+      }
+      #mode-badge {
+        position:   fixed;
+        top:        8px;
+        left:       8px;
+        z-index:    1000;
+        background: rgba(0, 0, 0, 0.7);
+        color:      #fff;
+        font:       12px/1.4 sans-serif;
+        padding:    4px 8px;
+        border-radius: 4px;
+      }
+      #mode-badge a {
+        color: #9cf;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="mode-badge">テストページ: default マーカー (circle) · <a href="/test.html">比較</a></div>
+    <div
+      class="geolonia"
+      data-geojson="./dojos.default.min.geojson"
+      data-lat="35.6809591"
+      data-lng="139.7673068"
+      data-zoom="5"
+      data-marker="off"
+      data-custom-marker="#custom-marker"
+      data-custom-marker-offset="0, 0"
+      data-geolocate-control="on"
+      data-cluster="off"
+      data-cluster-color="rgba(46, 154, 217, 0.8)"
+    ></div>
+
+    <script
+      type="text/javascript"
+      
+      src="https://cdn.geolonia.com/v1/embed?geolonia-api-key=YOUR-API-KEY"
+      
+    ></script>
+  </body>
+</html>
