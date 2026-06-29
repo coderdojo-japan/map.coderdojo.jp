@@ -11,14 +11,17 @@ require 'yaml'
 #                  必要で、スプライト サーバ障害時はマーカーが全滅する。
 # 背景: 2026/06 に 'coderdojo' がスプライト サーバ 502 で読めずマーカー全滅した。
 #       詳細は tests/markers_integrity_test.rb 参照。
+#
+# 各モードの GeoJSON を常に生成し、テストページ /default.html /coderdojo.html で
+# モード別にプレビューできるようにする（本番 index.html は marker_mode を使用）。
+MARKER_PROPS = {
+  'default'   => { 'marker-color'  => '#2e9ad9' }, # CoderDojo blue (rgb 46,154,217)
+  'coderdojo' => { 'marker-symbol' => 'coderdojo' },
+}.freeze
+
 config      = File.exist?('_config.yml') ? (YAML.load_file('_config.yml') || {}) : {}
 marker_mode = config['marker'].to_s.empty? ? 'default' : config['marker'].to_s
-marker_props =
-  if marker_mode == 'coderdojo'
-    { 'marker-symbol' => 'coderdojo' }
-  else
-    { 'marker-color'  => '#2e9ad9' } # CoderDojo blue (rgb 46,154,217)
-  end
+marker_mode = 'default' unless MARKER_PROPS.key?(marker_mode)
 
 dojos_earth  = []
 dojos_japan  = []
@@ -171,19 +174,33 @@ dojos_earth.each do |dojo|
       },
       properties: {
         'marker-size'   => 'small', # small, medium, large
-        **marker_props,             # marker-color or marker-symbol (see top of file)
+        # marker-color / marker-symbol はモード別に書き出し時に付与する（下部参照）
         description: description.delete!("\n"),
       }
     }
   end
 end
 
-geojson = {
-  type: "FeatureCollection",
-  features: features
-}
+# 指定モードのマーカー属性を付与した FeatureCollection を組み立てる。
+# プロパティ順序は marker-size → マーカー属性 → description を維持する。
+def build_geojson(features, mode)
+  feats = features.map do |f|
+    base  = f[:properties]
+    props = { 'marker-size' => base['marker-size'] }
+            .merge(MARKER_PROPS.fetch(mode))
+            .merge(description: base[:description])
+    f.merge(properties: props)
+  end
+  { type: "FeatureCollection", features: feats }
+end
 
-# 描画に使う GeoJSON データと、デバッグ用の比較データを保存
-IO.write "dojos.geojson",        JSON.pretty_generate(geojson)
+# 本番用 dojos.geojson は _config.yml の選択モードで書き出す
+IO.write "dojos.geojson", JSON.pretty_generate(build_geojson(features, marker_mode))
+
+# モード別 dojos.#{mode}.geojson も生成（テストページ /#{mode}.html 用）
+MARKER_PROPS.each_key do |mode|
+  IO.write "dojos.#{mode}.geojson", JSON.pretty_generate(build_geojson(features, mode))
+end
+
 IO.write "_data/dojo2dojo.json", JSON.pretty_generate(japan_dojos)
 
