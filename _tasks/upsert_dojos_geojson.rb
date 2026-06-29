@@ -1,6 +1,24 @@
 #!/usr/bin/env ruby
 require 'json'
 require 'time'
+require 'yaml'
+
+# マーカーの描画方式を _config.yml の `marker` 設定で切り替える。
+#   'default'   => circle マーカー（marker-color）。Geolonia スプライト サーバに
+#                  依存せず、障害(502)時もマーカーが消えない。堅牢なため既定値。
+#   'coderdojo' => marker-symbol: 'coderdojo'。CoderDojo ロゴを表示できるが、
+#                  Geolonia アカウントのカスタム スプライトに 'coderdojo' 画像が
+#                  必要で、スプライト サーバ障害時はマーカーが全滅する。
+# 背景: 2026/06 に 'coderdojo' がスプライト サーバ 502 で読めずマーカー全滅した。
+#       詳細は tests/markers_integrity_test.rb 参照。
+config      = File.exist?('_config.yml') ? (YAML.load_file('_config.yml') || {}) : {}
+marker_mode = config['marker'].to_s.empty? ? 'default' : config['marker'].to_s
+marker_props =
+  if marker_mode == 'coderdojo'
+    { 'marker-symbol' => 'coderdojo' }
+  else
+    { 'marker-color'  => '#2e9ad9' } # CoderDojo blue (rgb 46,154,217)
+  end
 
 dojos_earth  = []
 dojos_japan  = []
@@ -153,8 +171,7 @@ dojos_earth.each do |dojo|
       },
       properties: {
         'marker-size'   => 'small', # small, medium, large
-        #'marker-color'  => 'rgba(46,154,217, 0.5)',
-        'marker-symbol' => 'coderdojo', # MEMO: Set YOUR-API-KEY in index.html to enable this.
+        **marker_props,             # marker-color or marker-symbol (see top of file)
         description: description.delete!("\n"),
       }
     }
