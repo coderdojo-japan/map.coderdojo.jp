@@ -1,0 +1,66 @@
+---
+sitemap: false
+---
+
+<!-- マーカー方式のテスト用ハブ。/default.html と /coderdojo.html を横並びで
+     同時表示し、両方式を一目で見比べられる。Geolonia スプライト復旧後に
+     coderdojo 側にロゴが出れば PR #30（marker: coderdojo 切替）をマージ可。
+     関連: default.html / coderdojo.html / tests/markers_integrity_test.rb -->
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>[テスト] マーカー方式 - DojoMap</title>
+    <meta name="robots" content="noindex">
+    <link href="/images/icons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+    <style>
+      body, html {
+        margin:  0;
+        padding: 0;
+        height:  100%;
+        font-family: sans-serif;
+      }
+      .panes {
+        display: flex;
+        height:  100%;
+      }
+      .pane {
+        flex:           1;
+        display:        flex;
+        flex-direction: column;
+        border-right:   1px solid #ccc;
+      }
+      .pane:last-child {
+        border-right: 0;
+      }
+      .pane h1 {
+        margin:     0;
+        padding:    8px 12px;
+        font-size:  14px;
+        background: #2e9ad9;
+        color:      #fff;
+      }
+      .pane h1 a {
+        color: #cdeafb;
+      }
+      .pane iframe {
+        flex:   1;
+        width:  100%;
+        border: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="panes">
+      <div class="pane">
+        <h1>default (circle・スプライト非依存) — <a href="/default.html" target="_blank" rel="noopener">全画面</a></h1>
+        <iframe src="/default.html" title="default マーカー"></iframe>
+      </div>
+      <div class="pane">
+        <h1>coderdojo (logo・スプライト依存) — <a href="/coderdojo.html" target="_blank" rel="noopener">全画面</a></h1>
+        <iframe src="/coderdojo.html" title="coderdojo マーカー"></iframe>
+      </div>
+    </div>
+  </body>
+</html>
