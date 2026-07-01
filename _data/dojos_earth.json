@@ -4360,6 +4360,16 @@
     "id": "50b83e42-8f59-451a-804f-334c5911f399"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": "CoderDojo 佐久",
+    "latitude": 36.2196078,
+    "longitude": 138.4677161,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "50f7407f-7eaa-4a71-9a36-710bc4192737"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "Kurume.Fukuoka＠gallant-d.ooo",
     "latitude": 33.3179005,
