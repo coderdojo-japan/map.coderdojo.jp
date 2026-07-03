@@ -5,7 +5,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 # 地図マーカーの描画方式（upsert_dojos_geojson.rb が参照）
 #   default   : circle マーカー（Geolonia スプライト非依存。障害に強く推奨）
 #   coderdojo : CoderDojo ロゴ（marker-symbol。Geolonia スプライト サーバ依存）
-marker: default
+marker: coderdojo
 
 # Build settings
 plugins:

@@ -38,10 +38,12 @@ jobs:
       env:
         GEOLONIA_API_KEY: ${{ secrets.GEOLONIA_API_KEY }}
       run: |
-        ruby -i -pe '$_.gsub!("geolonia-api-key=YOUR-API-KEY",
-                              "geolonia-api-key=${{ env.GEOLONIA_API_KEY }}")' _site/index.html
-        ruby -i -pe '$_.gsub!("geolonia-api-key=YOUR-API-KEY",
-                              "geolonia-api-key=${{ env.GEOLONIA_API_KEY }}")' _site/world.html
+        # index.html / world.html だけでなく、テストページ(default/coderdojo/test.html)や
+        # 今後追加される地図ページにもキーを注入する。プレースホルダを含む全 HTML を対象。
+        grep -rl "geolonia-api-key=YOUR-API-KEY" _site --include='*.html' | while read -r file; do
+          ruby -i -pe '$_.gsub!("geolonia-api-key=YOUR-API-KEY",
+                                "geolonia-api-key=${{ env.GEOLONIA_API_KEY }}")' "$file"
+        done
 
     - name: 🚀 Deploy to GitHub Pages
       if:   github.ref == 'refs/heads/main' && job.status == 'success'
