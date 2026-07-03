@@ -10,3 +10,9 @@ vendor/
 
 # Generated files
 dojos.min.geojson
+
+# Generated marker-mode variants (for test pages /default.html /coderdojo.html)
+dojos.default.geojson
+dojos.default.min.geojson
+dojos.coderdojo.geojson
+dojos.coderdojo.min.geojson

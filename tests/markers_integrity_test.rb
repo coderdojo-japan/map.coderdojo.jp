@@ -126,3 +126,28 @@ class MarkerRenderingTest < Minitest::Test
                  'これは Geolonia スプライト サーバ依存となり、502 障害時にマーカーが全滅します。'
   end
 end
+
+# テストページ /default.html /coderdojo.html 用のモード別 GeoJSON バリアントを検証する。
+# これらは _config.yml の設定に依らず常に生成される（ビルド成果物なので gitignore 済み）。
+class MarkerVariantTest < Minitest::Test
+  # モード => そのモードで全フィーチャーが持つべきマーカー属性
+  VARIANT_MARKER_KEY = {
+    'default'   => 'marker-color',
+    'coderdojo' => 'marker-symbol',
+  }.freeze
+
+  def test_each_variant_geojson_has_correct_marker_property
+    VARIANT_MARKER_KEY.each do |mode, key|
+      path = File.join(ROOT, "dojos.#{mode}.geojson")
+      skip "dojos.#{mode}.geojson が未生成です（先に rake upsert_dojos_geojson を実行）" unless File.exist?(path)
+
+      features = JSON.parse(File.read(path))['features']
+      refute_empty features, "dojos.#{mode}.geojson の features が空です"
+
+      missing = features.reject { |f| f.dig('properties', key) }
+      assert_empty missing,
+                   "dojos.#{mode}.geojson の #{missing.size} 件が #{key} を持っていません。" \
+                   'テストページのマーカーが正しく描画されません。'
+    end
+  end
+end
