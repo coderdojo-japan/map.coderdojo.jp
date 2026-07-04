@@ -61,12 +61,16 @@
     </style>
   </head>
   <body>
+    <!-- NOTE(2026-07): 暫定ワークアラウンド。Geolonia のベクタタイル(v3)が
+         ズーム 0〜5 で 500 を返す障害中のため、既定ズームを 6 にして地図が
+         描画されるようにしている（z6 以上は 200）。Geolonia 復旧後は
+         data-zoom="5"（全国一望）に戻してよい。詳細な調査は別途。 -->
     <div
       class="geolonia"
       data-geojson="./dojos.min.geojson"
-      data-lat="35.6809591"
-      data-lng="139.7673068"
-      data-zoom="5"
+      data-lat="36.5"
+      data-lng="138.0"
+      data-zoom="6"
       data-marker="off"
       data-custom-marker="#custom-marker"
       data-custom-marker-offset="0, 0"
