@@ -8691,16 +8691,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Harrogate @ Harrogate Library",
-    "latitude": 53.9909502,
-    "longitude": -1.53863309999997,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/harrogate/harrogate-harrogate-library",
-    "id": "9cb04f92-dd2d-4b29-9eb6-476293fa7dd6"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Valencia",
     "latitude": 39.4814522,
     "longitude": -0.3373474,
