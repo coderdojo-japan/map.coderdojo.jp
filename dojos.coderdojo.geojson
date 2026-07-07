@@ -12006,21 +12006,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.53863309999997,
-          53.9909502
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Harrogate @ Harrogate Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/harrogate/harrogate-harrogate-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.3373474,
           39.4814522
         ]
