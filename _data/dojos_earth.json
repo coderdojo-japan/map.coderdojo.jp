@@ -4391,16 +4391,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Southwest Denver @ Denver Public Library - Bear Valley branch",
-    "latitude": 39.6564973,
-    "longitude": -105.0514474,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": null,
-    "id": "5161f260-392d-4083-bd78-48a5a5cf501e"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Bukavu@Dojo",
     "latitude": -0.12,
     "longitude": 30.5,

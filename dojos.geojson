@@ -6126,21 +6126,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.0514474,
-          39.6564973
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Southwest Denver @ Denver Public Library - Bear Valley branch<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           30.5,
           -0.12
         ]
