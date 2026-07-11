@@ -4366,5 +4366,18 @@
     "created_at": "2026-06-11T00:00:00.000+09:00",
     "description": "伊佐市で毎月開催",
     "inactivated_at": null
+  },
+  {
+    "id": 355,
+    "url": "https://x.com/CoderDojoSaku",
+    "name": "佐久",
+    "logo": "https://coderdojo.jp/img/dojos/saku.webp",
+    "order": "202177",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "長野",
+    "created_at": "2026-07-10T00:00:00.000+09:00",
+    "description": "佐久市で不定期開催",
+    "inactivated_at": null
   }
 ]
