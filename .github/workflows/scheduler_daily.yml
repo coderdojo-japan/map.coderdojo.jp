@@ -24,7 +24,7 @@ jobs:
 
     steps:
     - name: 📥 Download codes from GitHub
-      uses: actions/checkout@v5
+      uses: actions/checkout@v7
       with:
         fetch-depth: 2
 
@@ -111,11 +111,11 @@ jobs:
     - name: 🔔 Notify error to Slack (if any)
       if:   failure()
       id:   slack
-      uses: slackapi/slack-github-action@v1.24.0
-      env:
-        SLACK_WEBHOOK_URL:  ${{ secrets.SLACK_WEBHOOK_URL }}
-        SLACK_WEBHOOK_TYPE: INCOMING_WEBHOOK
+      uses: slackapi/slack-github-action@v3.0.5
       with:
+        webhook:      ${{ secrets.SLACK_WEBHOOK_URL }}
+        webhook-type: incoming-webhook
+
         # For posting a simple plain text message
         payload: |
           {
