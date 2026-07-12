@@ -6111,6 +6111,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          138.4677161,
+          36.2196078
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#2e9ad9",
+        "description": "<a href='https://x.com/CoderDojoSaku' target='_blank' rel='noopener'>  <img src='/images/dojos/saku.webp' alt='佐久' loading='lazy' width='100px' /></a><br><b>佐久</b><br>佐久市で不定期開催<br><a href='https://x.com/CoderDojoSaku' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.111110210418701,
           52.114879790890136
         ]
@@ -7064,6 +7079,21 @@
         "marker-size": "small",
         "marker-color": "#2e9ad9",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Maharashtra @ TCSC Mumbai<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/in/mumbai-maharashtra/maharashtra-tcsc-mumbai'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.6320872,
+          31.9886525
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#2e9ad9",
+        "description": "<a href='https://www.facebook.com/profile.php?id=61590880613574' target='_blank' rel='noopener'>  <img src='/images/dojos/isa.webp' alt='伊佐@本城' loading='lazy' width='100px' /></a><br><b>伊佐@本城</b><br>伊佐市で毎月開催<br><a href='https://www.facebook.com/profile.php?id=61590880613574' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -8459,6 +8489,21 @@
         "marker-size": "small",
         "marker-color": "#2e9ad9",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Úsov<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/cz/usov/usov'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78125164232776,
+          34.68614816448817
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#2e9ad9",
+        "description": "<a href='https://coderdojo-nara-ikoma.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/yamato-saidaiji.webp' alt='大和西大寺' loading='lazy' width='100px' /></a><br><b>大和西大寺</b><br>奈良市で不定期開催<br><a href='https://coderdojo-nara-ikoma.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -17969,6 +18014,21 @@
         "marker-size": "small",
         "marker-color": "#2e9ad9",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Ado-Ekiti @ Ekiti<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ng/ekiti/ado-ekiti-ekiti'>連絡先を見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6939956,
+          34.8312529
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#2e9ad9",
+        "description": "<a href='https://x.com/CoderDojoHimeji' target='_blank' rel='noopener'>  <img src='/images/dojos/himeji.webp' alt='姫路' loading='lazy' width='100px' /></a><br><b>姫路</b><br>姫路市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-himeji.connpass.com/event/394049/' target='_blank' rel='noopener'>7月26日</a><br><a href='https://x.com/CoderDojoHimeji' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
