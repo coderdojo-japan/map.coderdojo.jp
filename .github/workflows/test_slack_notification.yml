@@ -1,0 +1,40 @@
+name: Test Slack Notification
+
+# scheduler_daily.yml の Slack 通知ステップは `if: failure()` 条件のため、
+# 日次ビルドが失敗しない限り発火せず、動作確認ができない。
+# このワークフローは通知ステップだけを手動実行できるようにしたもの。
+# slackapi/slack-github-action をアップグレードした際の疎通確認に使う。
+#
+# 実行方法:
+#   gh workflow run test_slack_notification.yml
+#
+# 注意: scheduler_daily.yml の Slack ステップと同じ設定を保つこと。
+#       片方だけ変更すると、このテストの意味がなくなる。
+on:
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 🔔 Send a test message to Slack
+      uses: slackapi/slack-github-action@v3.0.5
+      with:
+        webhook:      ${{ secrets.SLACK_WEBHOOK_URL }}
+        webhook-type: incoming-webhook
+
+        # scheduler_daily.yml と同じ形式のペイロード（文面のみテスト用）
+        payload: |
+          {
+            "text": "[TEST] DojoMap の Slack 通知テストです。(詳細を見る)",
+            "blocks": [
+              {
+                "type": "section",
+                "text": {
+                  "type": "mrkdwn",
+                  "text": "[TEST] DojoMap の Slack 通知テストです。エラー通知ではありません。(<https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}|詳細を見る>)"
+                }
+              }
+            ]
+          }
