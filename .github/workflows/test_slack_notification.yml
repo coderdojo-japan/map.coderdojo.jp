@@ -27,13 +27,13 @@ jobs:
         # scheduler_daily.yml と同じ形式のペイロード（文面のみテスト用）
         payload: |
           {
-            "text": "[TEST] DojoMap の Slack 通知テストです。(詳細を見る)",
+            "text": "`[TEST]` DojoMap の Slack 通知テストです。(詳細を見る)",
             "blocks": [
               {
                 "type": "section",
                 "text": {
                   "type": "mrkdwn",
-                  "text": "[TEST] DojoMap の Slack 通知テストです。エラー通知ではありません。(<https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}|詳細を見る>)"
+                  "text": "`[TEST]` DojoMap の Slack 通知テストです。(<https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}|詳細を見る>)"
                 }
               }
             ]
