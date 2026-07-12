@@ -536,6 +536,14 @@
     "status": "RUNNING_SESSIONS"
   },
   {
+    "global_club_id": "50f7407f-7eaa-4a71-9a36-710bc4192737",
+    "name_japan": "佐久",
+    "name_earth": "CoderDojo 佐久",
+    "countryCode": "JP",
+    "urlSlug": null,
+    "status": "RUNNING_SESSIONS"
+  },
+  {
     "global_club_id": "521e293f-abb9-4750-b5bd-275a4367fd08",
     "name_japan": "日進",
     "name_earth": "日進",
@@ -624,6 +632,14 @@
     "status": "RUNNING_SESSIONS"
   },
   {
+    "global_club_id": "5d8ca3ef-a771-4459-9bf7-184a5d3784ea",
+    "name_japan": "伊佐@本城",
+    "name_earth": "伊佐 @ 本城",
+    "countryCode": "JP",
+    "urlSlug": null,
+    "status": "RUNNING_SESSIONS"
+  },
+  {
     "global_club_id": "5f1057ff-473d-4380-8e1c-5b4d46ab7bd3",
     "name_japan": "大府共和",
     "name_earth": "大府共和",
@@ -685,6 +701,14 @@
     "name_earth": "IIDA@logicaland",
     "countryCode": "JP",
     "urlSlug": "jp/iida-nagano/iida-logicaland",
+    "status": "RUNNING_SESSIONS"
+  },
+  {
+    "global_club_id": "6ef9b413-4803-4fc2-995d-bf4da9c32863",
+    "name_japan": "大和西大寺",
+    "name_earth": "CoderDojo大和西大寺",
+    "countryCode": "JP",
+    "urlSlug": null,
     "status": "RUNNING_SESSIONS"
   },
   {
@@ -1349,6 +1373,14 @@
     "name_earth": "Eniwa",
     "countryCode": "JP",
     "urlSlug": "jp/eniwa-hokkaido-prefecture/eniwa",
+    "status": "RUNNING_SESSIONS"
+  },
+  {
+    "global_club_id": "e81586b2-f136-4468-b47f-a64f4f39c3b5",
+    "name_japan": "姫路",
+    "name_earth": "姫路 CoderDojo",
+    "countryCode": "JP",
+    "urlSlug": null,
     "status": "RUNNING_SESSIONS"
   },
   {
