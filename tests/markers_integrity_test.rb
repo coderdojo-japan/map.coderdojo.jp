@@ -151,3 +151,56 @@ class MarkerVariantTest < Minitest::Test
     end
   end
 end
+
+# ---------------------------------------------------------------------------
+# Geolonia 埋め込みスクリプト URL の一元管理テスト
+#
+# == 経緯（2026/07）==
+# Geolonia の旧インフラ（v1）で障害が発生し、世界地図が表示されなくなった。
+#   https://github.com/geolonia/docs.geolonia.com/issues/125
+# 対処は v1 → v5 への移行だが、当時 URL は 4 つの HTML に計 8 箇所ハードコード
+# されており、次のバージョン変更でも同じ多箇所修正が必要な状態だった。
+#
+# == 恒久対応 ==
+# URL を _config.yml の geolonia_embed_url に一元化し、_includes/geolonia_embed.html
+# 経由で全ページが参照する。バージョンを上げる時は _config.yml だけ変更すればよい。
+#
+# このテストは、HTML に URL が再びハードコードされる回帰を防ぐ。
+# ---------------------------------------------------------------------------
+class GeoloniaEmbedTest < Minitest::Test
+  MAP_PAGES = %w[index.html world.html default.html coderdojo.html].freeze
+
+  def setup
+    @config = YAML.load_file(File.join(ROOT, '_config.yml'))
+  end
+
+  def test_config_has_embed_url
+    url = @config['geolonia_embed_url']
+    refute_nil url, '_config.yml に geolonia_embed_url が定義されていません。'
+    assert_match %r{\Ahttps://cdn\.geolonia\.com/}, url,
+                 "geolonia_embed_url が Geolonia の CDN を指していません: #{url}"
+  end
+
+  def test_html_pages_do_not_hardcode_embed_url
+    offenders = MAP_PAGES.select do |page|
+      path = File.join(ROOT, page)
+      File.exist?(path) && File.read(path).include?('cdn.geolonia.com')
+    end
+
+    assert_empty offenders,
+                 "#{offenders.join(', ')} に埋め込み URL がハードコードされています。" \
+                 '_config.yml の geolonia_embed_url と _includes/geolonia_embed.html を使ってください。' \
+                 'ハードコードするとバージョン変更時に修正漏れが起きます。'
+  end
+
+  def test_map_pages_include_the_shared_partial
+    missing = MAP_PAGES.reject do |page|
+      path = File.join(ROOT, page)
+      File.exist?(path) && File.read(path).include?('{% include geolonia_embed.html %}')
+    end
+
+    assert_empty missing,
+                 "#{missing.join(', ')} が共通パーシャルを読み込んでいません。" \
+                 '地図が描画されなくなります。'
+  end
+end

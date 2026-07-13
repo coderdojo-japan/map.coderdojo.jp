@@ -1,0 +1,18 @@
+{%- comment -%}
+Geolonia Maps の埋め込みスクリプト。全ての地図ページから読み込まれる。
+
+URL は _config.yml の geolonia_embed_url で一元管理している。
+バージョンを上げる時は _config.yml だけ変更すればよい。
+
+API キーは本番ビルド時に GEOLONIA_API_KEY 環境変数から注入される。
+ローカル開発では YOUR-API-KEY のまま動く（Geolonia が localhost を許可しているため）。
+なお GitHub Actions は _site 内の YOUR-API-KEY を実際のキーに置換する。
+{%- endcomment -%}
+<script
+  type="text/javascript"
+  {% if site.env.GEOLONIA_API_KEY %}
+  src="{{ site.geolonia_embed_url }}?geolonia-api-key={{ site.env.GEOLONIA_API_KEY }}"
+  {% else %}
+  src="{{ site.geolonia_embed_url }}?geolonia-api-key=YOUR-API-KEY"
+  {% endif %}
+></script>
