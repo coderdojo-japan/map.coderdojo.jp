@@ -72,14 +72,7 @@
       data-cluster-color="rgba(46, 154, 217, 0.8)"
     ></div>
 
-    <script
-      type="text/javascript"
-      {% if site.env.GEOLONIA_API_KEY %}
-      src="https://cdn.geolonia.com/v1/embed?geolonia-api-key={{ site.env.GEOLONIA_API_KEY }}"
-      {% else %}
-      src="https://cdn.geolonia.com/v1/embed?geolonia-api-key=YOUR-API-KEY"
-      {% endif %}
-    ></script>
+    {% include geolonia_embed.html %}
 
     {% if site.env.JEKYLL_ENV == 'production' %}
     <!-- Google tag (gtag.js) -->
