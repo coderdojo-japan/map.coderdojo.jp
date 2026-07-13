@@ -1,63 +1,85 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-# Geolonia スプライト サーバの健全性を手動で確認するためのテスト。
+# Geolonia スプライト サーバの健全性を確認するテスト。
 #
 # 関連 PR: https://github.com/coderdojo-japan/map.coderdojo.jp/pull/28
 #
 # == 用途 ==
-# マーカーは Geolonia のスプライト サーバ
-# (https://api.geolonia.com/v1/sprites/...) からアイコン画像を取得して描画する。
-# このサーバが 502 等で落ちると marker-symbol ベースのマーカーが全滅する
-# （2026/06 の不具合の真因）。本テストはその状態を手動で検査する。
+# マーカーは Geolonia のスプライト サーバからアイコン画像を取得して描画する。
+# このサーバから正常な応答が得られないと marker-symbol ベースのマーカーが描画されない
+# （2026/06 の不具合の原因）。本テストはその状態を検査する。
 #
-# == CI には統合しない ==
-# 外部サービスの瞬間的な状態に CI/デプロイを依存させない（赤くしない）ため、
-# `rake test` には含めない。必要なときに手動で実行する:
-#   GEOLONIA_API_KEY=xxxx bundle exec rake test_sprite
-#   (または GEOLONIA_API_KEY=xxxx ruby tests/sprite_status_test.rb)
+# == 実行方法 ==
+# scheduler_daily.yml から毎日実行され、失敗すると Slack に通知される。
+# 手動実行する場合:
+#   GEOLONIA_API_KEY=xxxx ruby tests/sprite_status_test.rb
+#
+# == デプロイは止めない ==
+# 外部サービスの状態でデプロイを止めてはならない（依存先に異常がある時こそ
+# marker: default への切替をデプロイしたい）。そのため `rake test` には含めず、
+# ワークフロー側で continue-on-error として実行する。
 #
 # == セキュリティ ==
 # Geolonia の埋め込みキーはクライアント用の公開キー（公開サイトの HTML に既に
 # 埋め込み済み）。ドメイン制限で保護される種類。とはいえ本テストは URL や
-# キーをログに出さず、HTTP ステータスと coderdojo の有無だけを出力する。
+# キーをログに出さず、HTTP ステータスだけを出力する。
 
 require 'minitest/autorun'
 require 'json'
 require 'net/http'
 require 'uri'
 
-SPRITE_BASE = 'https://api.geolonia.com/v1/sprites/basic-v1@2x'
+# 埋め込み v5 が使うスタイル (basic-v2) のスプライト。
+# 2026/07 時点で api.geolonia.com は cdn.geolonia.com へ 302 リダイレクトするため、
+# リダイレクトを追う必要がある（追わないと 302 を異常と誤検知し、毎日誤報が飛ぶ）。
+SPRITE_URL = 'https://api.geolonia.com/v1/sprites/basic-v2.json'
 
 class SpriteStatusTest < Minitest::Test
   def setup
     @key = ENV['GEOLONIA_API_KEY'].to_s
-    skip 'GEOLONIA_API_KEY が未設定です（手動実行時に環境変数で渡してください）' if @key.empty?
+    skip 'GEOLONIA_API_KEY が未設定です' if @key.empty?
 
-    uri = URI("#{SPRITE_BASE}.json?key=#{@key}")
-    @response = Net::HTTP.get_response(uri)
+    @response = fetch_following_redirects(URI("#{SPRITE_URL}?key=#{@key}"))
   rescue StandardError => e
     @error = e
   end
 
-  # スプライト JSON が正常(200)に返るか
+  # スプライト サーバから正常な応答が得られるか。
+  # 応答が得られないと marker-symbol ベースのマーカーが描画されない。
   def test_sprite_endpoint_is_healthy
     flunk "スプライト取得で通信エラー: #{@error.class}: #{@error.message}" if @error
 
     assert_equal '200', @response.code,
-                 "Geolonia スプライト サーバが正常応答していません (HTTP #{@response.code})。" \
-                 'marker-symbol ベースのマーカーは描画されません。' \
-                 '_config.yml は marker: default（スプライト非依存）を推奨します。'
+                 "スプライト サーバから正常な応答が得られていません (HTTP #{@response.code})。" \
+                 'マーカーが描画されない可能性があります。' \
+                 '暫定復旧: _config.yml の marker: coderdojo を marker: default に変更して' \
+                 '再デプロイすると、スプライト非依存の circle マーカーに切り替わります。'
   end
 
-  # スプライトに 'coderdojo' シンボルが含まれるか（coderdojo モードが使えるか）
-  def test_sprite_contains_coderdojo_symbol
+  # 200 を返しても中身が壊れていることはある（今日の教訓: ステータスではなく中身を見る）。
+  def test_sprite_json_is_parsable
     flunk "スプライト取得で通信エラー: #{@error.class}: #{@error.message}" if @error
     skip "スプライトが 200 を返していません (HTTP #{@response.code})" unless @response.code == '200'
 
     symbols = JSON.parse(@response.body)
-    assert symbols.key?('coderdojo'),
-           "スプライトに 'coderdojo' シンボルがありません（含まれるシンボル数: #{symbols.size}）。" \
-           'marker: coderdojo に切り替えてもロゴ マーカーは描画されません。'
+    refute_empty symbols, 'スプライト JSON が空です。マーカーが描画されない可能性があります。'
+  end
+
+  # NOTE: 以前ここに「スプライトに coderdojo シンボルが含まれるか」を検査するテストがあったが、
+  # 2026/07 に削除した。実測したところ basic-v1 / basic-v2 のいずれにも（API キーの有無に
+  # かかわらず）coderdojo シンボルは存在しないが、マーカーは正常に CoderDojo ロゴで描画されて
+  # いた（スクリーンショットで確認済み）。前提が現実と食い違っており、残すと毎日誤報が飛ぶ。
+  # ロゴがどの経路で読み込まれているかは未解明。判明したら適切な監視を足すこと。
+
+  private
+
+  def fetch_following_redirects(uri, limit = 3)
+    raise 'リダイレクトが多すぎます' if limit.zero?
+
+    res = Net::HTTP.get_response(uri)
+    return res unless res.is_a?(Net::HTTPRedirection)
+
+    fetch_following_redirects(URI(res['location']), limit - 1)
   end
 end
