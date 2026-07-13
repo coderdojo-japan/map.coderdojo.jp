@@ -108,6 +108,57 @@ jobs:
         personal_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir:    ./_site
 
+    # 地図の表示は Geolonia のサービスに依存している。過去2回、サイト自体は HTTP 200 を
+    # 返しているのに地図が表示されない状態が発生した。自サイトの死活監視では気づけないため、
+    # 依存先の応答を毎日確認する。
+    #   2026/06: スプライト サーバが 502 → マーカーが1件も描画されなかった
+    #   2026/07: 埋め込み v1 が参照する旧インフラの不具合 → 世界地図が描画されなかった
+    #
+    # 意図的な設計:
+    # - デプロイの「後」に置く。依存先に異常がある時こそ marker: default への切替を
+    #   デプロイしたいので、外部要因でデプロイを止めてはならない
+    # - continue-on-error でジョブ自体は失敗させない（本体のビルド失敗と混同しないため）
+    # - always() でビルドが失敗した時も実行する（依存先の状態は常に知りたい）
+    - name: 🩺 Check map dependencies
+      id:   geolonia
+      if:   always()
+      continue-on-error: true
+      run: |
+        set -e
+
+        # 1. 埋め込みスクリプト (_config.yml で一元管理している URL を読む)
+        EMBED_URL=$(ruby -ryaml -e 'puts YAML.load_file("_config.yml")["geolonia_embed_url"]')
+        echo "Checking embed script: $EMBED_URL"
+        curl -sfL --retry 3 --retry-delay 30 --max-time 30 \
+             "$EMBED_URL?geolonia-api-key=YOUR-API-KEY" -o /tmp/embed.js
+        test -s /tmp/embed.js  # 空でないこと（200 を返しても中身が空なら異常）
+
+        # 2. スプライト サーバ (マーカー描画に必須)
+        echo "Checking sprite server..."
+        ruby tests/sprite_status_test.rb   # 標準ライブラリのみ。bundle install 不要
+      env:
+        GEOLONIA_API_KEY: ${{ secrets.GEOLONIA_API_KEY }}
+
+    - name: 🔔 Notify map dependency issue to Slack (if any)
+      if:   always() && steps.geolonia.outcome == 'failure'
+      uses: slackapi/slack-github-action@v3.0.5
+      with:
+        webhook:      ${{ secrets.SLACK_WEBHOOK_URL }}
+        webhook-type: incoming-webhook
+        payload: |
+          {
+            "text": "<@yasulab> 地図の依存サービスから正常な応答が得られていません。地図が表示されない可能性があります。",
+            "blocks": [
+              {
+                "type": "section",
+                "text": {
+                  "type": "mrkdwn",
+                  "text": "<@yasulab> *地図の依存サービス (Geolonia) から正常な応答が得られていません。* 地図が表示されない可能性があります。\n\n*暫定復旧の手順:* マーカーが表示されない場合、`_config.yml` の `marker: coderdojo` を `marker: default` に変更して再デプロイすると、スプライト サーバに依存しない circle マーカーに切り替わります。\n\n<https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}|» 詳細を見る (GitHub)>"
+                }
+              }
+            ]
+          }
+
     - name: 🔔 Notify error to Slack (if any)
       if:   failure()
       id:   slack
