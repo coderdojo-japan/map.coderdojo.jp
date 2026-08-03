@@ -4324,7 +4324,7 @@
     "counter": 1,
     "is_active": true,
     "prefecture": "愛媛",
-    "created_at": "2025-02-14T00:00:00.000+09:00",
+    "created_at": "2026-02-15T00:00:00.000+09:00",
     "description": "新居浜市で毎月開催",
     "inactivated_at": null
   },
@@ -4378,6 +4378,19 @@
     "prefecture": "長野",
     "created_at": "2026-07-10T00:00:00.000+09:00",
     "description": "佐久市で不定期開催",
+    "inactivated_at": null
+  },
+  {
+    "id": 356,
+    "url": "https://qtendou.github.io/Dojo/",
+    "name": "南城",
+    "logo": "https://coderdojo.jp/img/dojos/nanjo.webp",
+    "order": "472158",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "沖縄",
+    "created_at": "2026-08-03T00:00:00.000+09:00",
+    "description": "南城市で毎月開催",
     "inactivated_at": null
   }
 ]

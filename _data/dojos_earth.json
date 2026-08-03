@@ -14310,6 +14310,16 @@
     "id": "fcfec8ee-b0d5-442a-bdb1-1ec12c467bb2"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": "東淀川区 @ マナベル",
+    "latitude": 34.7491689,
+    "longitude": 135.5335147,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "fd10f107-2cc2-4a26-9c82-6cbb51dd8025"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "Neffies",
     "latitude": 43.532917,
