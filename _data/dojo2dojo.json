@@ -640,6 +640,14 @@
     "status": "RUNNING_SESSIONS"
   },
   {
+    "global_club_id": "5e47e5bc-9017-41f6-acb6-7335e50b6ded",
+    "name_japan": "那覇",
+    "name_earth": "Naha",
+    "countryCode": "JP",
+    "urlSlug": "jp/okinawa-ken/okinawa-okinawa-prefecture/naha",
+    "status": "RUNNING_SESSIONS"
+  },
+  {
     "global_club_id": "5f1057ff-473d-4380-8e1c-5b4d46ab7bd3",
     "name_japan": "大府共和",
     "name_earth": "大府共和",
