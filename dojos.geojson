@@ -13656,6 +13656,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          127.7706815,
+          26.1631734
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://qtendou.github.io/Dojo/' target='_blank' rel='noopener'>  <img src='/images/dojos/nanjo.webp' alt='南城' loading='lazy' width='100px' /></a><br><b>南城</b><br>南城市で毎月開催<br><a href='https://qtendou.github.io/Dojo/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.3250058,
           50.4084945
         ]
