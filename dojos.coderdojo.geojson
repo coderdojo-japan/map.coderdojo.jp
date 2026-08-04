@@ -8196,6 +8196,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          134.9954597,
+          34.7898076
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "coderdojo",
+        "description": "<a href='https://coderdojo-miki2026.connpass.com/' target='_blank' rel='noopener'>  <img src='/images/dojos/miki2026.webp' alt='三木' loading='lazy' width='100px' /></a><br><b>三木</b><br>三木市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-miki2026.connpass.com/event/402484/' target='_blank' rel='noopener'>8月23日</a><br><a href='https://coderdojo-miki2026.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           22.342832199999975,
           56.3144214
         ]
