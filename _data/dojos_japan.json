@@ -4392,5 +4392,18 @@
     "created_at": "2026-08-03T00:00:00.000+09:00",
     "description": "南城市で毎月開催",
     "inactivated_at": null
+  },
+  {
+    "id": 357,
+    "url": "https://coderdojo-miki2026.connpass.com/",
+    "name": "三木",
+    "logo": "https://coderdojo.jp/img/dojos/miki2026.webp",
+    "order": "282154",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "兵庫",
+    "created_at": "2026-08-04T10:41:56.980+09:00",
+    "description": "三木市で毎月開催",
+    "inactivated_at": null
   }
 ]
