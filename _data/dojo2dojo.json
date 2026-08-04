@@ -1064,6 +1064,14 @@
     "status": "RUNNING_SESSIONS"
   },
   {
+    "global_club_id": "b115e722-3f39-4306-9041-3d323844182e",
+    "name_japan": "南城",
+    "name_earth": "CoderDojo南城",
+    "countryCode": "JP",
+    "urlSlug": null,
+    "status": "RUNNING_SESSIONS"
+  },
+  {
     "global_club_id": "b21b22ed-00d7-4d2c-a90e-919a70b2b634",
     "name_japan": "品川御殿山",
     "name_earth": "Shinagawa Gotenyama",
