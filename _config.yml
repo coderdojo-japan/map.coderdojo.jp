@@ -26,7 +26,6 @@ exclude:
   - README.md
   - LICENSE.md
   - CODE_OF_CONDUCT.md
-  - dojo2dojo.csv
 
 # See the official README for more options:
 # https://github.com/digitalsparky/jekyll-minifier

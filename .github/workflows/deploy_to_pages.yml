@@ -26,9 +26,9 @@ jobs:
 
     # Jekyll のビルドは _data/*.json から GeoJSON を再生成するが、データの再取得は
     # しない。そのため取得なしでビルドすると、コミット済みの古いデータで地図が
-    # 出荷される。新しい Dojo を dojo2dojo.csv に追加して push した直後は、その
-    # Dojo が _data/dojos_japan.json に必ず未反映なので、地図に出ないまま配信
-    # されてしまう (upsert_dojos_geojson.rb のガードによりスキップされるため)。
+    # 出荷される。coderdojo.jp に新しい Dojo が追加された直後は、その Dojo が
+    # _data/dojos_japan.json に未反映なので、地図に出ないまま配信されてしまう
+    # (upsert_dojos_geojson.rb のガードによりスキップされるため)。
     #
     # ここで最新データを取れれば push 直後から正しく描画できる。ただし取得は外部
     # API に依存するため、失敗してもデプロイは止めない (continue-on-error)。
@@ -48,6 +48,20 @@ jobs:
           exit 1
         fi
         bundle exec rake get_data_from_japan
+
+        # Japan 側も件数を確かめる。ここを素通りさせると、取得は成功したが中身が
+        # 劣化していた場合に下の復元パスへ落ちず、後段の rake test でデプロイ全体が
+        # 止まる。Geolonia 障害時の緊急デプロイを外部 API の状態に左右させないため、
+        # ここで失敗させてコミット済みデータへ戻す。
+        # 突合は global_club_id で行うので、件数だけでなく UUID の数も見る。
+        # 下限は tests/dojo_matching_test.rb と揃えている。
+        NUMBER_OF_DOJOS=$(ruby -rjson -e 'puts JSON.parse(File.read("_data/dojos_japan.json")).size')
+        NUMBER_OF_UUIDS=$(ruby -rjson -e 'puts JSON.parse(File.read("_data/dojos_japan.json")).count { |d| d["global_club_id"] }')
+        if [ "$NUMBER_OF_DOJOS" -lt "300" ] || [ "$NUMBER_OF_UUIDS" -lt "150" ] ; then
+          echo "ERROR: NUMBER_OF_DOJOS=$NUMBER_OF_DOJOS NUMBER_OF_UUIDS=$NUMBER_OF_UUIDS"
+          echo "These numbers should be 300+ / 150+. Something went wrong."
+          exit 1
+        fi
 
     - name: ♻️ Restore committed data if the fetch failed
       if: steps.fetch.outcome == 'failure'

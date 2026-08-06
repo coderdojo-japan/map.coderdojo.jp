@@ -192,6 +192,14 @@
     "status": "RUNNING_SESSIONS"
   },
   {
+    "global_club_id": "1700a138-2909-4e4e-9e75-88ebcbbbc55a",
+    "name_japan": "播磨科学公園都市",
+    "name_earth": "テクノ@光都",
+    "countryCode": "JP",
+    "urlSlug": null,
+    "status": "RUNNING_SESSIONS"
+  },
+  {
     "global_club_id": "18704b53-1042-4464-9d49-8820c6ff8c97",
     "name_japan": "黒潮町",
     "name_earth": "黒潮町",
@@ -269,6 +277,14 @@
     "name_earth": "Atsugi, Kanagawa",
     "countryCode": "JP",
     "urlSlug": "jp/naka-machi-atsugi-shi-kanagawa-prefecture/atsugi-kanagawa",
+    "status": "RUNNING_SESSIONS"
+  },
+  {
+    "global_club_id": "282c4874-94b6-456d-a1ab-3c93093734be",
+    "name_japan": "八戸@吹上",
+    "name_earth": "八戸@鮫 ",
+    "countryCode": "JP",
+    "urlSlug": "jp/hachinohe-aomori/ba1-hu4-chui1-shang4",
     "status": "RUNNING_SESSIONS"
   },
   {
@@ -456,11 +472,19 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "global_club_id": "46a7f225-d92b-49a3-b70e-652fa51bc23d",
-    "name_japan": "流山",
-    "name_earth": "Nagareyama",
+    "global_club_id": "45e17a8f-8178-42e9-a7a1-dc678f3848cb",
+    "name_japan": "川西",
+    "name_earth": "CoderDojo川西",
     "countryCode": "JP",
-    "urlSlug": "jp/nagareyama-chiba-prefecture/nagareyama",
+    "urlSlug": null,
+    "status": "RUNNING_SESSIONS"
+  },
+  {
+    "global_club_id": "480c06b1-c7db-4922-8f08-7454ca28cdd3",
+    "name_japan": "明石",
+    "name_earth": "Akashi @ Akashi City Office",
+    "countryCode": "JP",
+    "urlSlug": "jp/akashi-hyogo-prefecture/akashi-akashi-city-office",
     "status": "RUNNING_SESSIONS"
   },
   {
@@ -582,6 +606,14 @@
     "countryCode": "JP",
     "urlSlug": "jp/ri4-ben3-da4-ban3-fu3-mei2-fang1-shi4/hirakata-osaka",
     "status": "RUNNING_SESSIONS"
+  },
+  {
+    "global_club_id": "55d75d0a-fe80-4476-88b5-ae4a62a41957",
+    "name_japan": "吉祥寺",
+    "name_earth": "Coderdojo Kichijoji",
+    "countryCode": "JP",
+    "urlSlug": "jp/ri4-ben3-dong1-jing1-du1-wu3-zang4-ye3-shi4/kichijoji",
+    "status": "PLANNING"
   },
   {
     "global_club_id": "55f5d988-38b6-4ede-97d6-5da2a1d87ebb",
@@ -707,6 +739,14 @@
     "global_club_id": "69fb131d-9c46-40ff-9b70-f79b9302e92b",
     "name_japan": "鞍手",
     "name_earth": "CoderDojo鞍手",
+    "countryCode": "JP",
+    "urlSlug": null,
+    "status": "RUNNING_SESSIONS"
+  },
+  {
+    "global_club_id": "6a93d88f-6f44-4057-8a2a-d003896b0406",
+    "name_japan": "氷見@bigberries",
+    "name_earth": "Himi @ Big Berries",
     "countryCode": "JP",
     "urlSlug": null,
     "status": "RUNNING_SESSIONS"
@@ -840,6 +880,14 @@
     "status": "RUNNING_SESSIONS"
   },
   {
+    "global_club_id": "7d3b2a2d-dbd2-49d1-87fc-0bf487e10765",
+    "name_japan": "流山",
+    "name_earth": "Nagareyama",
+    "countryCode": "JP",
+    "urlSlug": "jp/nagareyamacity-chibaprefec/nagareyama",
+    "status": "RUNNING_SESSIONS"
+  },
+  {
     "global_club_id": "7ef14ebb-522a-4763-89b9-994f04219d51",
     "name_japan": "大船",
     "name_earth": "Ofuna",
@@ -910,6 +958,14 @@
     "countryCode": "JP",
     "urlSlug": "jp/kurashiki-okayama-prefecture/kurashiki-okayama-prefecture",
     "status": "PLANNING"
+  },
+  {
+    "global_club_id": "891b073b-5954-494e-bf92-924585400871",
+    "name_japan": "豊橋",
+    "name_earth": "CoderDojo Toyohashi",
+    "countryCode": "JP",
+    "urlSlug": "jp/toyohashi-aichi-prefecture/toyohashi-aichi-sozo-univ",
+    "status": "RUNNING_SESSIONS"
   },
   {
     "global_club_id": "8e4a0410-56d9-4ded-bdd2-e4334dc94f2c",
@@ -1376,14 +1432,6 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "global_club_id": "e3973157-00f6-435e-b34b-043f7a8dc767",
-    "name_japan": "古河",
-    "name_earth": "Koga, Ibaraki",
-    "countryCode": "JP",
-    "urlSlug": "jp/koga-ibaraki/koga-ibaraki",
-    "status": "RUNNING_SESSIONS"
-  },
-  {
     "global_club_id": "e50545a6-eafa-4841-8829-a018ba18a721",
     "name_japan": "福山大門",
     "name_earth": "Fukuyama Daimon@ Community Center",
@@ -1493,6 +1541,14 @@
     "name_earth": "Tottori",
     "countryCode": "JP",
     "urlSlug": "jp/japan/tottori",
+    "status": "RUNNING_SESSIONS"
+  },
+  {
+    "global_club_id": "f472598c-b12a-4d40-8012-ecca335f437a",
+    "name_japan": "古河",
+    "name_earth": "Koga, Ibaraki",
+    "countryCode": "JP",
+    "urlSlug": "jp/koga-ibaraki-prefecture/koga-ibaraki",
     "status": "RUNNING_SESSIONS"
   },
   {

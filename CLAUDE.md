@@ -73,7 +73,7 @@ bundle exec rake test
 
 **メリット**:
 - ✅ ローカル開発でも本番環境でも一貫した動作
-- ✅ `dojo2dojo.csv`更新後、`jekyll build`だけで自動反映
+- ✅ `_data/*.json` 更新後、`jekyll build`だけで自動反映
 - ✅ 手動でのRakeタスク実行が不要
 
 **実行ログ例**:
@@ -118,8 +118,8 @@ gh run watch  # リアルタイム監視
 - `_data/dojos_earth.json`: Clubs APIから取得した全世界のDojoデータ
 - `_data/dojos_japan.json`: CoderDojo Japan APIから取得した日本のDojoデータ
 - `_data/events_japan.json`: 日本のイベントデータ
-- `_data/dojo2dojo.json`: dojo2dojo.csvから生成されたマッピングデータ
-- `dojo2dojo.csv`: Japan APIとClubs APIの名前マッピング（編集可能）
+- `_data/dojo2dojo.json`: 地図に載った日本のDojo一覧（生成物）
+- `tmp/unmatched_dojos.json`: 地図に載らなかったactiveなDojoと、その理由（生成物）
 - `dojos.geojson`: 地図表示用の統合データ（GeoJSON形式、人間が読める形式）
 - `dojos.min.geojson`: 圧縮版GeoJSON（本番環境で使用、22.9%削減）
 - `_plugins/build_hooks.rb`: Jekyllビルド時の自動データ更新フック
@@ -208,8 +208,8 @@ mcp__o3__o3-search "GitHub Actions Pages deploy Jekyll JEKYLL_ENV production 202
 # 複数データソース統合時の名前マッチング問題
 mcp__o3__o3-search "GeoJSON data integration name mapping mismatch multiple sources 2025"
 
-# CSVベースのマッピングファイル管理
-mcp__o3__o3-search "CSV mapping file data integration best practices version control 2025"
+# ID ベースでのデータ突合
+mcp__o3__o3-search "stable identifier vs name matching data integration best practices 2025"
 
 # データ不整合のデバッグ手法
 mcp__o3__o3-search "multi-source data integration debugging missing records troubleshooting 2025"
@@ -226,59 +226,48 @@ o3の検索結果を使用する際は必ず：
 
 ### データ統合で特定のDojoが地図に表示されない場合
 
-この問題は主にdojo2dojo.csvのマッピング不一致が原因です。以下の手順で調査・修正してください：
+Clubs DB と Japan DB は `global_club_id` (UUID) で突合している。表示されない場合、
+ほぼ全て「UUID が一致していない」ことが原因なので、まず生成物の診断結果を見る。
 
-1. **データソースの確認**
+1. **地図に載らなかった Dojo と理由を確認する**
    ```bash
-   # Clubs APIのデータ確認
-   grep "対象Dojo名" dojos_earth.json
-   
-   # Japan APIのデータ確認
-   grep "対象Dojo名" dojos_japan.json
-   ```
-
-2. **マッピングファイルの確認**
-   ```bash
-   # dojo2dojo.csvでのマッピング確認
-   grep "対象Dojo名" dojo2dojo.csv
-   ```
-
-3. **問題の特定と修正**
-   - Clubs APIでの登録名と完全一致するようにdojo2dojo.csvを修正
-   - 例：「Coderdojo Saga」vs「Saga」のような不一致を修正
-
-4. **マッピング追加とGeoJSON再生成**
-   ```bash
-   # dojo2dojo.csvに追加（例: すぎなみ）
-   echo "すぎなみ	Suginami" >> dojo2dojo.csv
-
-   # jekyll buildで自動的にGeoJSON再生成（推奨）
-   bundle exec jekyll build
-
-   # または個別実行
    bundle exec rake upsert_dojos_geojson
-   bundle exec rake compact_geojson
+   cat tmp/unmatched_dojos.json
    ```
 
-5. **結果の確認**
+   `reason` の意味は次のとおり。
+
+   | reason | 意味 | 対応 |
+   |---|---|---|
+   | `uuid_not_in_clubs` | coderdojo.jp の `global_club_id` が指すクラブが Clubs DB に無い | Clubs 側で削除・ID 変更が起きている。`db/dojos.yml` の値を現在のものに更新する |
+   | `club_excluded_by_status_or_coordinates` | クラブはあるが、座標が無いか活動中ではない | Clubs 側の登録内容を直す（提携先の管理画面） |
+   | `no_uuid` | coderdojo.jp 側に `global_club_id` が無い | `db/dojos.yml` に設定する。通常は向こうの CI が防ぐ |
+
+2. **Clubs DB 側の現在の UUID を調べる**
    ```bash
-   # GeoJSONに含まれているか確認
-   grep "対象Dojo名" dojos.geojson
-
-   # ローカルで地図表示確認
-   bundle exec jekyll server
-   # http://localhost:4000/ で確認
+   ruby -rjson -e 'JSON.parse(File.read("_data/dojos_earth.json")).select { |c| c["countryCode"] == "JP" && c["name"].include?("対象名") }.each { |c| puts "#{c["id"]} #{c["name"]} #{c["status"]}" }'
    ```
 
-6. **変更をコミット**
+3. **coderdojo.jp 側を直す**
+
+   `db/dojos.yml` の `global_club_id` を更新し、PR を出す。地図側のリポジトリで
+   修正することはない（名前で突合していた頃と違い、こちらに手動のマッピングは無い）。
+
+4. **反映を確認する**
    ```bash
-   git add dojo2dojo.csv _data/dojo2dojo.json dojos.geojson
-   git commit -m "CoderDojo XXXのマッピングを追加"
-   git push origin main
+   bundle exec rake get_data_from_japan   # coderdojo.jp のデプロイ完了後に実行
+   bundle exec rake upsert_dojos_geojson
+   bundle exec rake test_matching
    ```
 
-### よくあるマッピング問題
-- **プレフィックスの不一致**: "Coderdojo XXX" vs "XXX"
-- **スペースの不一致**: "CoderDojo" vs "Coderdojo"
-- **記号の不一致**: "@" や "、" の有無
-- **日本語・英語の混在**: 漢字・ひらがな・カタカナ・ローマ字の不一致
+### 名前での突合をやめた理由
+
+以前は `dojo2dojo.csv` で「Japan 登録名 → Clubs 登録名」を手で対応付けていたが、
+次の理由で UUID 突合に切り替えた。
+
+- 新しい Dojo を追加するたび CSV に 1 行足す運用が必要で、実際に漏れていた
+- Clubs 側で改名されると追従できない（例: 那覇は「CoderDojo Japan Association
+  (Official Regional Body)」に変わっていて名前が一致しなかった）
+- 同名クラブが二重登録されていると、先に現れた方を拾ってしまう（流山・古河）
+- 表記ゆれ（"Coderdojo XXX" vs "XXX"、"@" や "、" の有無、ローマ字と日本語）に
+  そのつど対応する必要があった
