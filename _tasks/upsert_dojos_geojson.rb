@@ -39,7 +39,8 @@ File.open("_data/events_japan.json"){|file| events_japan = JSON.load(file, nil, 
 # Japan登録名	Zen登録名
 # ひばりヶ丘	Hibarigaoka
 # ...
-# TODO: Japan DB にも Clubs DB と同じ UUID を持たせると突合でき、上記の名前突合が不要になる
+# 突合の主役は global_club_id (UUID) に移した。CSV は UUID を持てない Dojo の
+# 救済としてだけ残している。詳細は下の「Clubs DB と Japan DB の突合」を参照
 File.foreach("dojo2dojo.csv") do |line|
   japan_name, zen_name = line.split("\t").map(&:chomp)
   next if japan_name.empty? or zen_name.empty?
@@ -80,6 +81,62 @@ dojos_japan.each do |dojo|
 end
 
 
+
+# == Clubs DB と Japan DB の突合 ==============================================
+#
+# クラブ ID (UUID) で突き合わせる。Japan DB 側は /dojos.json の global_club_id。
+# 以前は dojo2dojo.csv でクラブ名を突合していたが、次の問題があった。
+#
+#   - 新しい Dojo を追加するたび CSV に 1 行足す運用が必要で、実際に漏れていた
+#   - Clubs 側で改名されると追従できない（例: 那覇は「CoderDojo Japan
+#     Association (Official Regional Body)」に変わっていて名前が一致しなかった）
+#   - 同名クラブが二重登録されていると、先に現れた方を拾ってしまう（流山・古河）
+#
+# CSV は「まだ global_club_id を持てない Dojo」の救済としてだけ残す。
+# 現在は連名道場 2 件（西宮・梅田、大田・邑南、他）が該当する。1 エントリが
+# 複数のクラブを表すため、単一の UUID では表せない。
+#
+# 関連: https://github.com/coderdojo-japan/coderdojo.jp/issues/1616
+
+# 地図に置けるクラブか（座標があり、活動中または準備中）
+placeable = ->(club) {
+  club[:latitude] && club[:longitude] &&
+    ['PLANNING', 'RUNNING_SESSIONS'].include?(club[:status])
+}
+
+uuid2japan = dojos_japan.each_with_object({}) { |d, h| h[d[:global_club_id]] = d if d[:global_club_id] }
+name2japan = dojos_japan.each_with_object({}) { |d, h| h[d[:name]] = d }
+jp_clubs   = dojos_earth.select { |c| c[:countryCode] == 'JP' && placeable.call(c) }
+
+# 1 巡目: UUID で引けるものを確定させる
+club2japan = {}
+jp_clubs.each do |club|
+  d = uuid2japan[club[:id]]
+  next if d.nil? || d[:is_active] == false
+  club2japan[club[:id]] = { name: d[:name], via: 'uuid' }
+end
+
+# 2 巡目: UUID 経路で載らなかった Dojo だけ、CSV の名前突合で救済する。
+#
+# 判定は「その Dojo が UUID を持つか」ではなく「UUID 経路で実際に載ったか」で行う。
+# 前者だと、Clubs 側でクラブが消えたり UUID が変わったりした時に、CSV に行が
+# あっても救済されず地図から静かに消える。Clubs 側には同名クラブの二重登録が
+# 実在し（流山・古河）、どちらが整理されるかはこちらでは決められない。
+placed_names = club2japan.values.map { |v| v[:name] }
+jp_clubs.each do |club|
+  next if club2japan.key?(club[:id])
+
+  japan_name = zen2japan[club[:name]]
+  next if japan_name.nil?
+  next if placed_names.include?(japan_name)  # UUID 経路で既に載っている
+
+  d = name2japan[japan_name]
+  next if d.nil? || d[:is_active] == false
+
+  placed_names << japan_name
+  club2japan[club[:id]] = { name: japan_name, via: 'csv' }
+end
+
 features    = []
 description = ''
 japan_count = 0
@@ -111,16 +168,13 @@ dojos_earth.each do |dojo|
     # アクティブで、地域情報が日本 (JP) の場合、地図上への配置処理に進む
     if dojo[:countryCode] == "JP"
 
-      # dojo2dojo.csv に無かったらスキップ
-      # TODO: Japan DB にも Clubs DB と同じ UUID を持たせると突合でき、以下のような名前での突合が不要になる
-      next if zen2japan[dojo[:name]].nil?
-
-      # Japan DB 上で Inactive ならスキップ (Clubs DB より厳密に管理されているため)
-      next if name2is_active[zen2japan[dojo[:name]]] == false
+      # 突合できなかったクラブはスキップ（上の「Clubs DB と Japan DB の突合」を参照）。
+      # Japan DB 上で Inactive なものも、その中で既に除外している
+      next if club2japan[dojo[:id]].nil?
 
       # Clubs API 上のクラブ名を Japan DB 上のクラブ名に変換する
       dojo[:name_earth] = dojo[:name]
-      dojo[:name] = zen2japan[dojo[:name]] if zen2japan[dojo[:name]]
+      dojo[:name] = club2japan[dojo[:id]][:name]
 
       # デバッグ用: 地図上に配置したクラブ数をコンソールに出力する
       #japan_count = japan_count.succ
@@ -162,6 +216,7 @@ dojos_earth.each do |dojo|
       countryCode:    dojo[:countryCode],
       urlSlug:        dojo[:urlSlug],
       status:         dojo[:status],
+      matched_by:     club2japan[dojo[:id]][:via],
      } if dojo[:countryCode] == "JP"
 
     # 地図上に配置するため GeoJSON 形式に変換する
@@ -203,4 +258,31 @@ MARKER_PROPS.each_key do |mode|
 end
 
 IO.write "_data/dojo2dojo.json", JSON.pretty_generate(japan_dojos)
+
+# 突合できなかった active な Dojo を理由付きで書き出す。
+#
+# 日次の GitHub Actions が生成してそのままデプロイするため、ここが静かに増えても
+# 誰も気づかない。ワークフローがこのファイルを見て Slack に通知する。
+#
+# uuid_not_in_clubs だけが要対応。Japan 側は UUID を持っているのに Clubs 側に
+# そのクラブが無い状態で、削除・UUID 変更のいずれかが起きている。
+# no_uuid_no_csv は新しい Dojo を追加した直後にも起きるので、異常ではない。
+placed_japan_names = club2japan.values.map { |v| v[:name] }
+earth_ids          = dojos_earth.map { |c| c[:id] }
+unmatched = dojos_japan.select { |d| d[:is_active] && !placed_japan_names.include?(d[:name]) }
+                       .map do |d|
+  reason = if d[:global_club_id].nil?       then 'no_uuid_no_csv'
+           elsif !earth_ids.include?(d[:global_club_id]) then 'uuid_not_in_clubs'
+           else 'club_excluded_by_status_or_coordinates'
+           end
+  { id: d[:id], name: d[:name], global_club_id: d[:global_club_id], reason: reason }
+end
+
+Dir.mkdir('tmp') unless Dir.exist?('tmp')
+IO.write "tmp/unmatched_dojos.json", JSON.pretty_generate(unmatched)
+
+via = japan_dojos.group_by { |d| d[:matched_by] }.transform_values(&:size)
+puts "DojoMap: 日本のマーカー #{japan_dojos.size} 件 (UUID 突合 #{via['uuid'].to_i} / CSV 救済 #{via['csv'].to_i})"
+puts "DojoMap: 地図に載らなかった active な Dojo #{unmatched.size} 件"
+unmatched.each { |d| puts "  - #{d[:name]} (id=#{d[:id]}): #{d[:reason]}" }
 

@@ -51,6 +51,16 @@ jobs:
       run: |
         bundle exec rake get_data_from_japan
 
+        # 日本のマーカーは global_club_id での突合に依存している。取得に失敗して
+        # 空や欠損のデータが入ると、海外のマーカーだけが残った地図がデプロイされる。
+        # Earth 側と同じく、入口で件数を確かめる
+        NUMBER_OF_DOJOS=$(ruby -rjson -e 'puts JSON.parse(File.read("_data/dojos_japan.json")).size')
+        if [ "$NUMBER_OF_DOJOS" -lt "300" ] ; then
+          echo "ERROR: NUMBER_OF_DOJOS=$NUMBER_OF_DOJOS"
+          echo "This number should be 300+. Something went wrong."
+          exit 1
+        fi
+
     - name: 🔧 Build data to render DojoMap
       run: |
         # Jekyll plugin automatically runs cache_dojo_logos, upsert_dojos_geojson, and compact_geojson
@@ -88,6 +98,48 @@ jobs:
         fi
       env:
         GITHUB_TOKEN:
+
+    # 地図に載らなかった active な Dojo を検知する。
+    #
+    # 意図的な設計:
+    # - デプロイの「後」に置く。1 つの Dojo が Clubs 側で消えただけで日次更新
+    #   全体を止めるのは割に合わない
+    # - continue-on-error でジョブ自体は失敗させない
+    # - 通知するのは uuid_not_in_clubs だけ。Japan 側が UUID を持っているのに
+    #   Clubs 側にそのクラブが無い状態で、削除か UUID 変更が起きている。
+    #   UUID も CSV も無い状態は、新しい Dojo を追加した直後にも起きるので通知しない
+    - name: 🔎 Check unmatched dojos
+      id:   unmatched
+      continue-on-error: true
+      run: |
+        cat tmp/unmatched_dojos.json
+        ruby -rjson -e '
+          critical = JSON.parse(File.read("tmp/unmatched_dojos.json"))
+                         .select { |d| d["reason"] == "uuid_not_in_clubs" }
+          exit 0 if critical.empty?
+          critical.each { |d| warn "#{d["name"]} (id=#{d["id"]}): #{d["global_club_id"]}" }
+          exit 1
+        '
+
+    - name: 🔔 Notify unmatched dojos to Slack (if any)
+      if:   steps.unmatched.outcome == 'failure'
+      uses: slackapi/slack-github-action@v3.0.5
+      with:
+        webhook:      ${{ secrets.SLACK_WEBHOOK_URL }}
+        webhook-type: incoming-webhook
+        payload: |
+          {
+            "text": "<@yasulab> 地図に載らなかった Dojo があります。",
+            "blocks": [
+              {
+                "type": "section",
+                "text": {
+                  "type": "mrkdwn",
+                  "text": "<@yasulab> *地図に載らなかった Dojo があります。* coderdojo.jp 側の `global_club_id` が指すクラブが Clubs DB に見つかりません。提携先での削除か ID の変更が考えられます。\n\n*対応:* `db/dojos.yml` の `global_club_id` を現在の値に更新してください。該当 Dojo 名はログに出ています。\n\n<https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}|» 詳細を見る (GitHub)>"
+                }
+              }
+            ]
+          }
 
     # This is NOT for security reason but for others, especially who fork,
     # to easier find out which API key they need to replace with their own.
