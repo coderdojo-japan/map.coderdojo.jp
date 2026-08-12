@@ -11201,16 +11201,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Wembley Park",
-    "latitude": 51.5587644,
-    "longitude": -0.2811517999999751,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/wembley-middlesex/wembley-park",
-    "id": "c7844bce-5df1-49be-aac3-7f2f24ece389"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Kashii, Fukuoka",
     "latitude": 33.65031519802756,
     "longitude": 130.43908596038818,
