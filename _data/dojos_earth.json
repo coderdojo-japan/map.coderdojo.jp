@@ -12501,16 +12501,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Coal City @ Coal City Public Library",
-    "latitude": 41.2888769,
-    "longitude": -88.2813415,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/coal-city-il/coal-city-coal-city-public-library",
-    "id": "df933fe3-b6c3-4485-ad40-334335a10f36"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "WA, Denmark @ Denmark Community Centre",
     "latitude": -34.9592531,
     "longitude": 117.35421309999992,
