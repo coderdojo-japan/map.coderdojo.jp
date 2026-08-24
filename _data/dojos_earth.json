@@ -5950,6 +5950,16 @@
     "id": "69f8742a-3f5b-48bc-bd38-0dc142cecc6d"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": "CoderDojo鞍手",
+    "latitude": 33.7908853,
+    "longitude": 130.68803,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "69fb131d-9c46-40ff-9b70-f79b9302e92b"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "Piacenza/Italy@PiaceDojo",
     "latitude": 45.0509253,
