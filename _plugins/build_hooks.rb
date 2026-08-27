@@ -10,9 +10,5 @@ Jekyll::Hooks.register :site, :after_init do |site|
   puts "  → Creating dojos.min.geojson..."
   system('bundle exec rake compact_geojson')
 
-  # Cache dojo logos
-  puts "  → Caching dojo logos..."
-  system('bundle exec rake cache_dojo_logos')
-
   puts "✅ Pre-build tasks completed"
 end
