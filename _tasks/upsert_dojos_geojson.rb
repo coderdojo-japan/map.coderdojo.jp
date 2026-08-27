@@ -64,11 +64,19 @@ dojos_japan.each do |dojo|
   # TODO: Ideally want to change marker image into each CoderDojo logo.
   # Details: https://github.com/coderdojo-japan/map.coderdojo.jp/issues/1
 
-  # TODO: WebP 画像は外部から読み込めないっぽい? ローカルからなら読み込める
-  # 関連: https://github.com/coderdojo-japan/map.coderdojo.jp/pull/8
+  # ロゴは coderdojo.jp から直接読み込む。
+  #
+  # 以前は取り込んでリポジトリに置いていた。2023 年当時 coderdojo.jp が WebP を
+  # text/plain の Content-Type で返しており、外部から読み込めなかったため。
+  # cf. https://github.com/coderdojo-japan/map.coderdojo.jp/pull/8
+  #
+  # 現在は image/webp を返すので直接読み込める（実測で確認）。取り込みをやめる
+  # ことで「Dojo がロゴを差し替えても地図側が古いまま」という不具合が構造的に
+  # なくなる。ポップアップの中身はクリックするまで DOM に入らないため、
+  # 表示時に読むのは 1 件だけ（ページ読み込み時のロゴ取得は 0 件と実測）。
   name2logo[dojo[:name]] = <<~HTML
     <a href='#{dojo[:url]}' target='_blank' rel='noopener'>
-      <img src='/images/dojos/#{dojo[:logo].split('/').last}' alt='#{dojo[:name]}' loading='lazy' width='100px' />
+      <img src='#{dojo[:logo]}' alt='#{dojo[:name]}' loading='lazy' width='100px' />
     </a>
   HTML
 

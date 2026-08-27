@@ -333,7 +333,7 @@ end
       id:          1,
       name:        'テスト町',
       url:         'https://example.jp/',
-      logo:        '/img/dojos/test-town.webp',
+      logo:        'https://coderdojo.jp/img/dojos/test-town.webp',
       description: 'テスト町で毎月開催',
       is_active:   true,
     }
@@ -343,7 +343,7 @@ end
     assert_equal 1, features.size, '日本の Dojo が地図から消えています'
     desc = features.first.dig('properties', 'description')
     refute_includes desc, FALLBACK_MARK, '自前のロゴがあるのにフォールバックで描画されています'
-    assert_includes desc, '/images/dojos/test-town.webp'
+    assert_includes desc, 'https://coderdojo.jp/img/dojos/test-town.webp'
     assert_includes desc, 'https://example.jp/'
     refute_includes desc, CONTACT_MARK, "日本の Dojo に海外用の「連絡先を見る」が出ています"
     assert_includes desc, "Webサイトを見る"
