@@ -122,13 +122,26 @@ dojos_earth.each do |dojo|
       dojo[:name_earth] = dojo[:name]
       dojo[:name] = zen2japan[dojo[:name]] if zen2japan[dojo[:name]]
 
+      # dojo2dojo.csv には居るが Japan DB にまだ居ない場合はスキップする。
+      # そのまま進むと下の「海外 Dojo 用」フォールバックに落ち、汎用ロゴと、
+      # その Dojo に辿り着けないリンク (urlSlug が無いため一覧トップ) で描画
+      # されてしまう。誤った情報を出すより、次のデータ更新まで地図に出さない
+      # 方が安全。新規 Dojo を追加した直後に必ず通る経路。
+      # 詳細は tests/markers_integrity_test.rb を参照。
+      if name2logo[dojo[:name]].nil?
+        warn "SKIP: #{dojo[:name]} は dojo2dojo.csv にありますが _data/dojos_japan.json にありません" \
+             " (coderdojo.jp へのデプロイ待ち?)"
+        next
+      end
+
       # デバッグ用: 地図上に配置したクラブ数をコンソールに出力する
       #japan_count = japan_count.succ
       #p "#{japan_count.to_s.rjust(3, '0')}: #{dojo[:name]}"
     end
 
     # 各マーカー押下時の説明文 ('description') を生成する
-    # ロゴ画像がまだ無い場合はデフォルトのロゴで代用
+    # ロゴ画像が無い場合はデフォルトのロゴで代用する。
+    # ここに来るのは海外の Dojo だけ (日本の Dojo は上でスキップ済み)。
     if name2logo[dojo[:name]].nil?
       # for Dojos overseas
       description = <<~HTML
