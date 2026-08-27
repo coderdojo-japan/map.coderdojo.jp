@@ -204,3 +204,167 @@ class GeoloniaEmbedTest < Minitest::Test
                  '地図が描画されなくなります。'
   end
 end
+
+# ---------------------------------------------------------------------------
+# 日本の Dojo が「海外 Dojo 用フォールバック」で描画される回帰を防ぐテスト
+#
+# == 不具合の経緯（2026/08）==
+# CoderDojo鞍手 を追加した直後、地図のポップアップが汎用の CoderDojo ロゴと
+# `http://zen.coderdojo.com/dojos/` リンクで表示された。urlSlug が null のため
+# リンク先は一覧トップで、その Dojo には辿り着けない状態だった。
+#
+# == 真因 ==
+# upsert_dojos_geojson.rb は `name2logo[dojo[:name]]` が nil のとき海外 Dojo 用の
+# フォールバックに落ちる。`name2logo` は _data/dojos_japan.json から作るため、
+# 「dojo2dojo.csv には居るが dojos_japan.json にはまだ居ない」日本の Dojo が
+# 海外 Dojo として描画されてしまう。
+#
+# この状態は新規 Dojo を追加した直後に必ず発生する。CSV へ push すると
+# deploy_to_pages.yml が発火するが、このワークフローはデータを再取得しないため、
+# 追加した Dojo が含まれない古い dojos_japan.json でビルドされるため。
+#
+# == このテストが守る不変条件 ==
+#   dojo2dojo.csv に載っている Dojo（= 日本の Dojo）は、
+#   海外 Dojo 用のフォールバックで描画されない。
+# ---------------------------------------------------------------------------
+require 'tmpdir'
+require 'fileutils'
+
+# 海外 Dojo 用フォールバックの目印。
+# 独立した 2 つを見る。片方の文言・パスが変わっても、もう片方で検出できる。
+FALLBACK_MARK = "/images/coderdojo.webp" # 汎用ロゴ
+CONTACT_MARK  = "連絡先を見る"            # 海外 Dojo 用のリンク文言
+
+def japan_names_in_csv(csv_path)
+  File.readlines(csv_path).filter_map do |line|
+    japan_name, zen_name = line.split("\t").map(&:chomp)
+    japan_name if japan_name && zen_name && !japan_name.empty? && !zen_name.empty?
+  end
+end
+
+class JapanDojoFallbackTest < Minitest::Test
+  def setup
+    skip "#{GEOJSON_PATH} が存在しません" unless File.exist?(GEOJSON_PATH)
+  end
+
+  # 日本の Dojo には公式サイトへの「Webサイトを見る」が出る。
+  # 海外 Dojo 用の「連絡先を見る」が出ていたら、フォールバックに落ちている。
+  # 2026/08 に実際に地図上で見えた症状がこれ。
+  def test_no_japan_dojo_shows_the_overseas_contact_link
+    csv_names = japan_names_in_csv(File.join(ROOT, 'dojo2dojo.csv'))
+    features  = load_geojson['features']
+
+    offenders = features.select do |f|
+      desc = f.dig('properties', 'description').to_s
+      desc.include?(CONTACT_MARK) && csv_names.any? { |n| desc.include?(">#{n}<") }
+    end
+
+    assert_empty offenders,
+                 "日本の Dojo が #{offenders.size} 件、海外 Dojo 用の「#{CONTACT_MARK}」リンクで" \
+                 '描画されています。このリンクは urlSlug を持たないため一覧トップに飛び、' \
+                 "その Dojo には辿り着けません: " \
+                 "#{offenders.first(3).map { |f| f.dig('properties', 'description').to_s[0, 120] }.inspect}"
+  end
+
+  # 出荷される GeoJSON に対する検査。
+  # 海外 Dojo がフォールバックで描画されるのは設計どおりなので、
+  # dojo2dojo.csv に載っている日本の Dojo だけを対象にする。
+  def test_no_japan_dojo_uses_overseas_fallback
+    csv_names = japan_names_in_csv(File.join(ROOT, 'dojo2dojo.csv'))
+    features  = load_geojson['features']
+
+    offenders = features.select do |f|
+      desc = f.dig('properties', 'description').to_s
+      desc.include?(FALLBACK_MARK) && csv_names.any? { |n| desc.include?(">#{n}<") }
+    end
+
+    assert_empty offenders,
+                 "日本の Dojo が #{offenders.size} 件、海外 Dojo 用のフォールバックで描画されています。" \
+                 "汎用ロゴと辿り着けない zen.coderdojo.com リンクが表示されます: " \
+                 "#{offenders.first(3).map { |f| f.dig('properties', 'description').to_s[0, 120] }.inspect}"
+  end
+end
+
+# 生成ロジック自体の検査。
+# 「CSV には居るが dojos_japan.json には居ない」状況を作って再現させる。
+# 出荷済みデータの検査だけでは、データが正しい間はこの欠陥を検出できない。
+class JapanDojoFallbackGenerationTest < Minitest::Test
+  CLUB = {
+    brand:       'CODE_CLUB',
+    name:        'CoderDojoテスト町',
+    latitude:    33.79,
+    longitude:   130.68,
+    countryCode: 'JP',
+    status:      'RUNNING_SESSIONS',
+    urlSlug:     nil,
+    id:          '00000000-0000-4000-8000-000000000000',
+  }.freeze
+
+def test_japan_dojo_missing_from_japan_data_is_not_rendered_as_overseas
+  # dojo2dojo.csv には居るが Japan DB には居ない = 新規 Dojo を追加した直後の状態
+  features = generate_features(earth: [CLUB], japan: [],
+                               csv: "テスト町\tCoderDojoテスト町\n")
+
+  fallback = features.select do |f|
+    desc = f.dig("properties", "description").to_s
+    desc.include?(FALLBACK_MARK) || desc.include?(CONTACT_MARK)
+  end
+
+  assert_empty fallback,
+               "日本の Dojo が dojos_japan.json に未反映のとき、海外 Dojo 用のフォールバックで" \
+               "描画されています。汎用ロゴと辿り着けないリンクを出すより、次のデータ更新まで" \
+               "地図に出さない方が安全です。"
+end
+
+  # 上のガードが効きすぎて海外 Dojo まで消す退行を防ぐ。
+  # 海外 Dojo は Japan DB に載らないため、フォールバック描画が正しい挙動。
+  def test_overseas_dojo_is_still_rendered_with_fallback
+    overseas = CLUB.merge(name: 'CoderDojo Test Town', countryCode: 'IE', urlSlug: 'test-town')
+    features = generate_features(earth: [overseas], japan: [], csv: '')
+
+    assert_equal 1, features.size, '海外 Dojo が地図から消えています'
+    assert_includes features.first.dig('properties', 'description'), FALLBACK_MARK,
+                    '海外 Dojo はフォールバック (汎用ロゴ) で描画されるのが正しい挙動です'
+  end
+
+  # Japan DB に載っている日本の Dojo は、自前のロゴとサイトで描画される。
+  def test_japan_dojo_in_japan_data_is_rendered_with_its_own_logo
+    japan_dojo = {
+      id:          1,
+      name:        'テスト町',
+      url:         'https://example.jp/',
+      logo:        '/img/dojos/test-town.webp',
+      description: 'テスト町で毎月開催',
+      is_active:   true,
+    }
+    features = generate_features(earth: [CLUB], japan: [japan_dojo],
+                                 csv: "テスト町\tCoderDojoテスト町\n")
+
+    assert_equal 1, features.size, '日本の Dojo が地図から消えています'
+    desc = features.first.dig('properties', 'description')
+    refute_includes desc, FALLBACK_MARK, '自前のロゴがあるのにフォールバックで描画されています'
+    assert_includes desc, '/images/dojos/test-town.webp'
+    assert_includes desc, 'https://example.jp/'
+    refute_includes desc, CONTACT_MARK, "日本の Dojo に海外用の「連絡先を見る」が出ています"
+    assert_includes desc, "Webサイトを見る"
+  end
+
+  private
+
+  # フィクスチャを一時ディレクトリに置き、生成スクリプトを実行して features を返す
+  def generate_features(earth:, japan:, csv:)
+    Dir.mktmpdir do |dir|
+      FileUtils.mkdir_p(File.join(dir, '_data'))
+      File.write(File.join(dir, '_data/dojos_earth.json'),  JSON.generate(earth))
+      File.write(File.join(dir, '_data/dojos_japan.json'),  JSON.generate(japan))
+      File.write(File.join(dir, '_data/events_japan.json'), JSON.generate([]))
+      File.write(File.join(dir, 'dojo2dojo.csv'), csv)
+      File.write(File.join(dir, '_config.yml'), "marker: default\n")
+
+      script = File.join(ROOT, '_tasks/upsert_dojos_geojson.rb')
+      Dir.chdir(dir) { system(RbConfig.ruby, script, exception: true) }
+
+      JSON.parse(File.read(File.join(dir, 'dojos.geojson')))['features']
+    end
+  end
+end
