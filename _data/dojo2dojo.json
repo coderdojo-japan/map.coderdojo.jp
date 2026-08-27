@@ -704,6 +704,14 @@
     "status": "RUNNING_SESSIONS"
   },
   {
+    "global_club_id": "69fb131d-9c46-40ff-9b70-f79b9302e92b",
+    "name_japan": "鞍手",
+    "name_earth": "CoderDojo鞍手",
+    "countryCode": "JP",
+    "urlSlug": null,
+    "status": "RUNNING_SESSIONS"
+  },
+  {
     "global_club_id": "6bf2fa03-261c-4326-bfe2-da91b6824399",
     "name_japan": "稲毛海岸",
     "name_earth": "inagekaigan",

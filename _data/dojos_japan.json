@@ -4744,5 +4744,19 @@
     "description": "三木市で毎月開催",
     "inactivated_at": null,
     "global_club_id": "69f7acfe-7d93-4671-a9a6-bee112e2919e"
+  },
+  {
+    "id": 358,
+    "url": "https://coderdojokurate.connpass.com/",
+    "name": "鞍手",
+    "logo": "https://coderdojo.jp/img/dojos/kurate.webp",
+    "order": "404021",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "福岡",
+    "created_at": "2026-08-27T20:25:05.680+09:00",
+    "description": "鞍手郡で隔月開催",
+    "inactivated_at": null,
+    "global_club_id": "69fb131d-9c46-40ff-9b70-f79b9302e92b"
   }
 ]
