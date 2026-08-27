@@ -24,6 +24,37 @@ jobs:
       run: |
         bundle install
 
+    # Jekyll のビルドは _data/*.json から GeoJSON を再生成するが、データの再取得は
+    # しない。そのため取得なしでビルドすると、コミット済みの古いデータで地図が
+    # 出荷される。新しい Dojo を dojo2dojo.csv に追加して push した直後は、その
+    # Dojo が _data/dojos_japan.json に必ず未反映なので、地図に出ないまま配信
+    # されてしまう (upsert_dojos_geojson.rb のガードによりスキップされるため)。
+    #
+    # ここで最新データを取れれば push 直後から正しく描画できる。ただし取得は外部
+    # API に依存するため、失敗してもデプロイは止めない (continue-on-error)。
+    # Geolonia 障害時に marker 設定を変えて緊急デプロイする復旧手順が、外部 API の
+    # 状態に左右されてはならないため。失敗時はコミット済みのデータへ戻し、
+    # 従来どおり (古いデータでのビルド) に落とす。
+    #
+    # データのコミットはしない。それは scheduler_daily.yml の責務。
+    - name: 🌐 Fetch latest data (best-effort)
+      id: fetch
+      continue-on-error: true
+      run: |
+        bundle exec rake get_data_from_earth
+        if [ "`cat tmp/number_of_dojos`" -lt "1000" ] ; then
+          echo "ERROR: NUMBER_OF_DOJOS=`cat tmp/number_of_dojos`"
+          echo "This number should be 1000+. Something went wrong."
+          exit 1
+        fi
+        bundle exec rake get_data_from_japan
+
+    - name: ♻️ Restore committed data if the fetch failed
+      if: steps.fetch.outcome == 'failure'
+      run: |
+        echo "データ取得に失敗しました。コミット済みの _data/ でビルドします。"
+        git checkout -- _data
+
     - name: 🔧 Build & Test
       run: |
         # Jekyll plugin automatically runs upsert_dojos_geojson, compact_geojson, and cache_dojo_logos
