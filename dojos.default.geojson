@@ -1281,21 +1281,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.42649399999999,
-          37.581226
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#2e9ad9",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Richmond, Virginia @ Northside Boys and Girls Club<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/richmond-va/richmond-virginia-northside-boys-and-girls-club'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           9.701137700000004,
           4.029412
         ]
@@ -4056,21 +4041,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.59504579999998,
-          37.6762153
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#2e9ad9",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Glen Allen, Virginia @ Twin Hickory Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/glen-allen-va/glen-allen-virginia-twin-hickory-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.797600999999986,
           52.786263
         ]
@@ -4978,7 +4948,7 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#2e9ad9",
-        "description": "<a href='https://coderdojokasai.connpass.com/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/kasai.webp' alt='加西' loading='lazy' width='100px' /></a><br><b>加西</b><br>加西市で毎月開催<br>&rarr; 次回: <a href='https://coderdojokasai.connpass.com/event/402992/' target='_blank' rel='noopener'>9月27日</a><br><a href='https://coderdojokasai.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojokasai.connpass.com/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/kasai.webp' alt='加西' loading='lazy' width='100px' /></a><br><b>加西</b><br>加西市で毎月開催<br>&rarr; 次回: <a href='https://coderdojokasai.connpass.com/event/403858/' target='_blank' rel='noopener'>9月27日</a><br><a href='https://coderdojokasai.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -8264,21 +8234,6 @@
         "marker-size": "small",
         "marker-color": "#2e9ad9",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Piacenza/Italy@PiaceDojo<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/piacenza-province-of-piacenza/piacenza-italy-piacedojo'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.40062339999997,
-          37.6492498
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#2e9ad9",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Mechanicsville, Virginia @ Atlee Branch Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/mechanicsville-va/mechanicsville-virginia-atlee-branch-library'>連絡先を見る</a>"
       }
     },
     {
