@@ -901,16 +901,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Richmond, Virginia @ Northside Boys and Girls Club",
-    "latitude": 37.581226,
-    "longitude": -77.42649399999999,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/richmond-va/richmond-virginia-northside-boys-and-girls-club",
-    "id": "12f33bfe-46ed-4086-a65e-9316c07ba838"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "CoderDojo Douala",
     "latitude": 4.029412,
     "longitude": 9.701137700000004,
@@ -2888,16 +2878,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "jp/iyo-ehime/iyo-ehime",
     "id": "35341a53-ce39-450e-a56d-27a5607e24dd"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Glen Allen, Virginia @ Twin Hickory Library",
-    "latitude": 37.6762153,
-    "longitude": -77.59504579999998,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/glen-allen-va/glen-allen-virginia-twin-hickory-library",
-    "id": "355a75af-155d-4137-8eb2-034ed2b8e040"
   },
   {
     "brand": "CODERDOJO",
@@ -5968,16 +5948,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "it/piacenza-province-of-piacenza/piacenza-italy-piacedojo",
     "id": "6a4076ff-bfe6-4e52-a95a-56a4eb2d55a2"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Mechanicsville, Virginia @ Atlee Branch Library",
-    "latitude": 37.6492498,
-    "longitude": -77.40062339999997,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/mechanicsville-va/mechanicsville-virginia-atlee-branch-library",
-    "id": "6a4ed1d6-2934-4232-a744-e25c684ec8de"
   },
   {
     "brand": "CODE_CLUB",
