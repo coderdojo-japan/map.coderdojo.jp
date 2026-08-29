@@ -8741,16 +8741,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Nanki-Tanabe, Wakayama",
-    "latitude": 33.6962153,
-    "longitude": 135.39565249999998,
-    "countryCode": "JP",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "jp/tanabe-wakayama-prefecture/nanki-tanabe-wakayama",
-    "id": "9da287ec-f150-4a68-b4bf-cb735421a764"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Los Alamos Makers",
     "latitude": 35.88786143860436,
     "longitude": -106.31566286087036,

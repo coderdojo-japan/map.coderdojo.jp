@@ -992,14 +992,6 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "global_club_id": "9da287ec-f150-4a68-b4bf-cb735421a764",
-    "name_japan": "南紀田辺",
-    "name_earth": "Nanki-Tanabe, Wakayama",
-    "countryCode": "JP",
-    "urlSlug": "jp/tanabe-wakayama-prefecture/nanki-tanabe-wakayama",
-    "status": "RUNNING_SESSIONS"
-  },
-  {
     "global_club_id": "9f02bd31-4392-44fe-8a09-d7267b1a1991",
     "name_japan": "金沢",
     "name_earth": "Kanazawa, Ishikawa @ HackforPlay",
