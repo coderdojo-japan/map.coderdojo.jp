@@ -266,8 +266,7 @@ Clubs DB と Japan DB は `global_club_id` (UUID) で突合している。表示
 次の理由で UUID 突合に切り替えた。
 
 - 新しい Dojo を追加するたび CSV に 1 行足す運用が必要で、実際に漏れていた
-- Clubs 側で改名されると追従できない（例: 那覇は「CoderDojo Japan Association
-  (Official Regional Body)」に変わっていて名前が一致しなかった）
+- Clubs 側で改名されると追従できない（那覇の登録名が変わっていた）
 - 同名クラブが二重登録されていると、先に現れた方を拾ってしまう（流山・古河）
 - 表記ゆれ（"Coderdojo XXX" vs "XXX"、"@" や "、" の有無、ローマ字と日本語）に
   そのつど対応する必要があった
