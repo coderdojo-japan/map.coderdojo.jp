@@ -1,4 +1,0 @@
----
-layout: none
----
-{{ site.data.dojo2dojo | jsonify }}
