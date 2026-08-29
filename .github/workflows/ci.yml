@@ -1,13 +1,21 @@
-name: Deploy to GitHub Pages
+name: CI
 on:
   push:
     branches: ["main"]
+
+  # PR でもビルドとテストを走らせる。デプロイはしない (最後の 🚀 の if を参照)。
+  # これを足す前は rake test が main への push 後にしか走らず、テストが落ちるのは
+  # マージした後だった。日本のマーカーが静かに消える回帰は、この rake test でしか
+  # 検出できない (tests/dojo_matching_test.rb)。
+  # cf. https://github.com/coderdojo-japan/map.coderdojo.jp/pull/42
+  pull_request:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
   deploy:
+    name: 🧪 Build, Test & Deploy
     runs-on: ubuntu-latest
     steps:
     - name: 📥 Download codes from GitHub
@@ -26,9 +34,9 @@ jobs:
 
     # Jekyll のビルドは _data/*.json から GeoJSON を再生成するが、データの再取得は
     # しない。そのため取得なしでビルドすると、コミット済みの古いデータで地図が
-    # 出荷される。新しい Dojo を dojo2dojo.csv に追加して push した直後は、その
-    # Dojo が _data/dojos_japan.json に必ず未反映なので、地図に出ないまま配信
-    # されてしまう (upsert_dojos_geojson.rb のガードによりスキップされるため)。
+    # 出荷される。coderdojo.jp に新しい Dojo が追加された直後は、その Dojo が
+    # _data/dojos_japan.json に未反映なので、地図に出ないまま配信されてしまう
+    # (upsert_dojos_geojson.rb のガードによりスキップされるため)。
     #
     # ここで最新データを取れれば push 直後から正しく描画できる。ただし取得は外部
     # API に依存するため、失敗してもデプロイは止めない (continue-on-error)。
@@ -37,8 +45,12 @@ jobs:
     # 従来どおり (古いデータでのビルド) に落とす。
     #
     # データのコミットはしない。それは scheduler_daily.yml の責務。
+    #
+    # PR では取得しない。コミット済みのデータだけでビルドすることで、PR の結果が
+    # 外部 API の状態で揺れなくなり、リポジトリの中身そのものを検証できる。
     - name: 🌐 Fetch latest data (best-effort)
       id: fetch
+      if: github.event_name != 'pull_request'
       continue-on-error: true
       run: |
         bundle exec rake get_data_from_earth
@@ -48,6 +60,20 @@ jobs:
           exit 1
         fi
         bundle exec rake get_data_from_japan
+
+        # Japan 側も件数を確かめる。ここを素通りさせると、取得は成功したが中身が
+        # 劣化していた場合に下の復元パスへ落ちず、後段の rake test でデプロイ全体が
+        # 止まる。Geolonia 障害時の緊急デプロイを外部 API の状態に左右させないため、
+        # ここで失敗させてコミット済みデータへ戻す。
+        # 突合は global_club_id で行うので、件数だけでなく UUID の数も見る。
+        # 下限は tests/dojo_matching_test.rb と揃えている。
+        NUMBER_OF_DOJOS=$(ruby -rjson -e 'puts JSON.parse(File.read("_data/dojos_japan.json")).size')
+        NUMBER_OF_UUIDS=$(ruby -rjson -e 'puts JSON.parse(File.read("_data/dojos_japan.json")).count { |d| d["global_club_id"] }')
+        if [ "$NUMBER_OF_DOJOS" -lt "300" ] || [ "$NUMBER_OF_UUIDS" -lt "150" ] ; then
+          echo "ERROR: NUMBER_OF_DOJOS=$NUMBER_OF_DOJOS NUMBER_OF_UUIDS=$NUMBER_OF_UUIDS"
+          echo "These numbers should be 300+ / 150+. Something went wrong."
+          exit 1
+        fi
 
     - name: ♻️ Restore committed data if the fetch failed
       if: steps.fetch.outcome == 'failure'
@@ -65,7 +91,10 @@ jobs:
     # This is NOT for security reason but for others, especially who fork,
     # to easier find out which API key they need to replace with their own.
     # Check out the official tutorial for details: https://docs.geolonia.com/tutorial
+    # PR では注入しない。デプロイしないので不要で、fork からの PR には
+    # そもそも secrets が渡らない。
     - name: 🔑 Pass Geolonia YOUR-API-KEY from secrets
+      if: github.event_name != 'pull_request'
       env:
         GEOLONIA_API_KEY: ${{ secrets.GEOLONIA_API_KEY }}
       run: |

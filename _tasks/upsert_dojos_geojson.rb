@@ -26,7 +26,6 @@ marker_mode = 'default' unless MARKER_PROPS.key?(marker_mode)
 dojos_earth  = []
 dojos_japan  = []
 events_japan = []
-zen2japan    = {}
 
 json_load_options = { symbolize_names: true, create_additions: false }
 File.open("_data/dojos_earth.json") {|file| dojos_earth  = JSON.load(file, nil, json_load_options) }
@@ -34,26 +33,12 @@ File.open("_data/dojos_japan.json") {|file| dojos_japan  = JSON.load(file, nil, 
 File.open("_data/events_japan.json"){|file| events_japan = JSON.load(file, nil, json_load_options) }
 #pp dojos_earth.first, dojos_japan.first, events_japan.first
 
-# dojo2dojo.csv で Clubs DB と Japan DB のクラブ名を突合する
-# 【フォーマット】
-# Japan登録名	Zen登録名
-# ひばりヶ丘	Hibarigaoka
-# ...
-# TODO: Japan DB にも Clubs DB と同じ UUID を持たせると突合でき、上記の名前突合が不要になる
-File.foreach("dojo2dojo.csv") do |line|
-  japan_name, zen_name = line.split("\t").map(&:chomp)
-  next if japan_name.empty? or zen_name.empty?
-  zen2japan[zen_name] = japan_name
-end
-#pp zen2japan; p zen2japan.count; p zen2japan['Kunitachi'] ; exit
-
 # Japan's name to text/logo by Hash
 event          = {}
 name2event     = {} # => 近日開催イベント
 name2logo      = {} # => CoderDojo ロゴ
 name2desc      = {} # => CoderDojo 説明文
 name2site      = {} # => Webサイトを見る
-name2is_active = {} # => Active かどうかのフラグ
 dojos_japan.each do |dojo|
   # もし近日開催イベントがあればマーカーに追加する
   if (event = events_japan.find{|e| e[:id] == dojo[:id]})
@@ -84,8 +69,25 @@ dojos_japan.each do |dojo|
   name2desc[dojo[:name]] = dojo[:description].size > 10 ?
                            dojo[:description].insert(8, '<br>') :
                            dojo[:description]
-  name2is_active[dojo[:name]] = dojo[:is_active]
 end
+
+
+# == Clubs DB と Japan DB の突合 ==============================================
+#
+# クラブ ID (UUID) で突き合わせる。Japan DB 側は /dojos.json の global_club_id。
+# 以前は dojo2dojo.csv でクラブ名を突合していたが、次の問題があった。
+#
+#   - 新しい Dojo を追加するたび CSV に 1 行足す運用が必要で、実際に漏れていた
+#   - Clubs 側で改名されると追従できない（那覇の登録名が変わっていた）
+#   - 同名クラブが二重登録されていると、先に現れた方を拾ってしまう（流山・古河）
+#
+# 名前で救済する経路は置かない。active な全エントリが global_club_id を持つ
+# ことは coderdojo.jp 側の spec が保証しており、UUID の無い Dojo が入ると
+# あちらの CI が落ちるため、こちらで名前を頼る必要が無い。
+# cf. https://github.com/coderdojo-japan/coderdojo.jp/blob/main/spec/models/dojo_spec.rb
+#
+# 関連: https://github.com/coderdojo-japan/coderdojo.jp/issues/1616
+uuid2japan = dojos_japan.each_with_object({}) { |d, h| h[d[:global_club_id]] = d if d[:global_club_id] }
 
 
 features    = []
@@ -119,28 +121,21 @@ dojos_earth.each do |dojo|
     # アクティブで、地域情報が日本 (JP) の場合、地図上への配置処理に進む
     if dojo[:countryCode] == "JP"
 
-      # dojo2dojo.csv に無かったらスキップ
-      # TODO: Japan DB にも Clubs DB と同じ UUID を持たせると突合でき、以下のような名前での突合が不要になる
-      next if zen2japan[dojo[:name]].nil?
+      # Japan DB に無いクラブはスキップする（上の「Clubs DB と Japan DB の突合」を参照）。
+      # coderdojo.jp にまだ反映されていない新しい Dojo もここで落ちる。そのまま
+      # 進むと下の「海外 Dojo 用」フォールバックに落ち、汎用ロゴと、その Dojo に
+      # 辿り着けないリンク (urlSlug が無いため一覧トップ) で描画されてしまう。
+      # 誤った情報を出すより、次のデータ更新まで地図に出さない方が安全。
+      # 詳細は tests/markers_integrity_test.rb を参照。
+      japan_dojo = uuid2japan[dojo[:id]]
+      next if japan_dojo.nil?
 
       # Japan DB 上で Inactive ならスキップ (Clubs DB より厳密に管理されているため)
-      next if name2is_active[zen2japan[dojo[:name]]] == false
+      next if japan_dojo[:is_active] == false
 
       # Clubs API 上のクラブ名を Japan DB 上のクラブ名に変換する
       dojo[:name_earth] = dojo[:name]
-      dojo[:name] = zen2japan[dojo[:name]] if zen2japan[dojo[:name]]
-
-      # dojo2dojo.csv には居るが Japan DB にまだ居ない場合はスキップする。
-      # そのまま進むと下の「海外 Dojo 用」フォールバックに落ち、汎用ロゴと、
-      # その Dojo に辿り着けないリンク (urlSlug が無いため一覧トップ) で描画
-      # されてしまう。誤った情報を出すより、次のデータ更新まで地図に出さない
-      # 方が安全。新規 Dojo を追加した直後に必ず通る経路。
-      # 詳細は tests/markers_integrity_test.rb を参照。
-      if name2logo[dojo[:name]].nil?
-        warn "SKIP: #{dojo[:name]} は dojo2dojo.csv にありますが _data/dojos_japan.json にありません" \
-             " (coderdojo.jp へのデプロイ待ち?)"
-        next
-      end
+      dojo[:name] = japan_dojo[:name]
 
       # デバッグ用: 地図上に配置したクラブ数をコンソールに出力する
       #japan_count = japan_count.succ
@@ -223,5 +218,31 @@ MARKER_PROPS.each_key do |mode|
   IO.write "dojos.#{mode}.geojson", JSON.pretty_generate(build_geojson(features, mode))
 end
 
-IO.write "_data/dojo2dojo.json", JSON.pretty_generate(japan_dojos)
+# 地図に載った日本の Dojo 一覧。dojos.json として配信し、掲載後の反映確認に使う
+IO.write "_data/dojos.json", JSON.pretty_generate(japan_dojos)
+
+# 突合できなかった active な Dojo を理由付きで書き出す。
+#
+# 日次の GitHub Actions が生成してそのままデプロイするため、ここが静かに増えても
+# 誰も気づかない。ワークフローがこのファイルを見て Slack に通知する。
+#
+# uuid_not_in_clubs だけが要対応。Japan 側は UUID を持っているのに Clubs 側に
+# そのクラブが無い状態で、削除・UUID 変更のいずれかが起きている。
+placed_japan_names = japan_dojos.map { |d| d[:name_japan] }
+earth_ids          = dojos_earth.map { |c| c[:id] }
+unmatched = dojos_japan.select { |d| d[:is_active] && !placed_japan_names.include?(d[:name]) }
+                       .map do |d|
+  reason = if d[:global_club_id].nil?                    then 'no_uuid'
+           elsif !earth_ids.include?(d[:global_club_id]) then 'uuid_not_in_clubs'
+           else 'club_excluded_by_status_or_coordinates'
+           end
+  { id: d[:id], name: d[:name], global_club_id: d[:global_club_id], reason: reason }
+end
+
+Dir.mkdir('tmp') unless Dir.exist?('tmp')
+IO.write "tmp/unmatched_dojos.json", JSON.pretty_generate(unmatched)
+
+puts "DojoMap: 日本のマーカー #{japan_dojos.size} 件"
+puts "DojoMap: 地図に載らなかった active な Dojo #{unmatched.size} 件"
+unmatched.each { |d| puts "  - #{d[:name]} (id=#{d[:id]}): #{d[:reason]}" }
 
