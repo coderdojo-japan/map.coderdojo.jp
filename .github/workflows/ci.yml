@@ -1,13 +1,21 @@
-name: Deploy to GitHub Pages
+name: CI
 on:
   push:
     branches: ["main"]
+
+  # PR でもビルドとテストを走らせる。デプロイはしない (最後の 🚀 の if を参照)。
+  # これを足す前は rake test が main への push 後にしか走らず、テストが落ちるのは
+  # マージした後だった。日本のマーカーが静かに消える回帰は、この rake test でしか
+  # 検出できない (tests/dojo_matching_test.rb)。
+  # cf. https://github.com/coderdojo-japan/map.coderdojo.jp/pull/42
+  pull_request:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
   deploy:
+    name: 🧪 Build, Test & Deploy
     runs-on: ubuntu-latest
     steps:
     - name: 📥 Download codes from GitHub
@@ -37,8 +45,12 @@ jobs:
     # 従来どおり (古いデータでのビルド) に落とす。
     #
     # データのコミットはしない。それは scheduler_daily.yml の責務。
+    #
+    # PR では取得しない。コミット済みのデータだけでビルドすることで、PR の結果が
+    # 外部 API の状態で揺れなくなり、リポジトリの中身そのものを検証できる。
     - name: 🌐 Fetch latest data (best-effort)
       id: fetch
+      if: github.event_name != 'pull_request'
       continue-on-error: true
       run: |
         bundle exec rake get_data_from_earth
@@ -79,7 +91,10 @@ jobs:
     # This is NOT for security reason but for others, especially who fork,
     # to easier find out which API key they need to replace with their own.
     # Check out the official tutorial for details: https://docs.geolonia.com/tutorial
+    # PR では注入しない。デプロイしないので不要で、fork からの PR には
+    # そもそも secrets が渡らない。
     - name: 🔑 Pass Geolonia YOUR-API-KEY from secrets
+      if: github.event_name != 'pull_request'
       env:
         GEOLONIA_API_KEY: ${{ secrets.GEOLONIA_API_KEY }}
       run: |

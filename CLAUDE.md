@@ -100,8 +100,8 @@ GitHub Actionsで毎日自動更新（日本時間 5:59）:
 # scheduler_daily.yml（データ更新＋デプロイ）
 gh workflow run scheduler_daily.yml
 
-# deploy_to_pages.yml（デプロイのみ）
-gh workflow run deploy_to_pages.yml
+# ci.yml（ビルド・テスト・デプロイ。PR ではデプロイせずテストまで）
+gh workflow run ci.yml
 
 # 実行状況確認
 gh run list --workflow=scheduler_daily.yml --limit 3
