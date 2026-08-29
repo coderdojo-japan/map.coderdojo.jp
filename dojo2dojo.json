@@ -1,7 +1,0 @@
----
-layout: none
-# 地図に載った日本の Dojo 一覧を配信する。新しい Dojo が地図に出たか、
-# どの Clubs 上のクラブと突合したかを確認するために使う。
-# coderdojo.jp の doc/how_to_add_dojo.md が反映確認の手順で参照している。
----
-{{ site.data.dojo2dojo | jsonify }}

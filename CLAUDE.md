@@ -118,7 +118,7 @@ gh run watch  # リアルタイム監視
 - `_data/dojos_earth.json`: Clubs APIから取得した全世界のDojoデータ
 - `_data/dojos_japan.json`: CoderDojo Japan APIから取得した日本のDojoデータ
 - `_data/events_japan.json`: 日本のイベントデータ
-- `_data/dojo2dojo.json`: 地図に載った日本のDojo一覧（生成物）
+- `_data/dojos.json`: 地図に載った日本のDojo一覧（生成物）。`/dojos.json` として配信し、掲載後の反映確認に使う
 - `tmp/unmatched_dojos.json`: 地図に載らなかったactiveなDojoと、その理由（生成物）
 - `dojos.geojson`: 地図表示用の統合データ（GeoJSON形式、人間が読める形式）
 - `dojos.min.geojson`: 圧縮版GeoJSON（本番環境で使用、22.9%削減）

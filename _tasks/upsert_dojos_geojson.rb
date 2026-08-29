@@ -219,7 +219,8 @@ MARKER_PROPS.each_key do |mode|
   IO.write "dojos.#{mode}.geojson", JSON.pretty_generate(build_geojson(features, mode))
 end
 
-IO.write "_data/dojo2dojo.json", JSON.pretty_generate(japan_dojos)
+# 地図に載った日本の Dojo 一覧。dojos.json として配信し、掲載後の反映確認に使う
+IO.write "_data/dojos.json", JSON.pretty_generate(japan_dojos)
 
 # 突合できなかった active な Dojo を理由付きで書き出す。
 #

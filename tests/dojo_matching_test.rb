@@ -18,7 +18,7 @@
 # 入力が空なら日本のマーカーは全滅する。海外分 1,100 件あまりは残るので、
 # GeoJSON の妥当性を見るテストでは検出できない。
 #
-# ここでは入力（dojos_japan.json）と出力（dojo2dojo.json）の両側に下限を置く。
+# ここでは入力（dojos_japan.json）と出力（dojos.json）の両側に下限を置く。
 #
 # 実行: bundle exec rake test_matching  (または ruby tests/dojo_matching_test.rb)
 
@@ -27,7 +27,7 @@ require 'json'
 
 ROOT        = File.expand_path('..', __dir__)
 JAPAN_PATH  = File.join(ROOT, '_data', 'dojos_japan.json')
-MARKER_PATH = File.join(ROOT, '_data', 'dojo2dojo.json')
+MARKER_PATH = File.join(ROOT, '_data', 'dojos.json')
 
 # 下限は「明らかに壊れている」ことだけを検出する値にする。
 # 実測 339 件・202 マーカー（2026-08 時点）に対して十分な余裕を取り、
