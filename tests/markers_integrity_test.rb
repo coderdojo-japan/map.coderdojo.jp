@@ -216,15 +216,14 @@ end
 # == 真因 ==
 # upsert_dojos_geojson.rb は `name2logo[dojo[:name]]` が nil のとき海外 Dojo 用の
 # フォールバックに落ちる。`name2logo` は _data/dojos_japan.json から作るため、
-# 「dojo2dojo.csv には居るが dojos_japan.json にはまだ居ない」日本の Dojo が
+# Clubs DB には居るが dojos_japan.json にはまだ居ない日本の Dojo が、
 # 海外 Dojo として描画されてしまう。
 #
-# この状態は新規 Dojo を追加した直後に必ず発生する。CSV へ push すると
-# deploy_to_pages.yml が発火するが、このワークフローはデータを再取得しないため、
-# 追加した Dojo が含まれない古い dojos_japan.json でビルドされるため。
+# この状態は新規 Dojo を追加した直後に起きる。coderdojo.jp へのデプロイが
+# 済むまで、こちらの dojos_japan.json にその Dojo が含まれないため。
 #
 # == このテストが守る不変条件 ==
-#   dojo2dojo.csv に載っている Dojo（= 日本の Dojo）は、
+#   _data/dojos_japan.json に載っている Dojo（= 日本の Dojo）は、
 #   海外 Dojo 用のフォールバックで描画されない。
 # ---------------------------------------------------------------------------
 require 'tmpdir'
@@ -235,11 +234,10 @@ require 'fileutils'
 FALLBACK_MARK = "/images/coderdojo.webp" # 汎用ロゴ
 CONTACT_MARK  = "連絡先を見る"            # 海外 Dojo 用のリンク文言
 
-def japan_names_in_csv(csv_path)
-  File.readlines(csv_path).filter_map do |line|
-    japan_name, zen_name = line.split("\t").map(&:chomp)
-    japan_name if japan_name && zen_name && !japan_name.empty? && !zen_name.empty?
-  end
+# 日本の Dojo の登録名。突合の情報源そのものなので、ここから採る
+def japan_dojo_names
+  JSON.parse(File.read(File.join(ROOT, '_data', 'dojos_japan.json')))
+      .filter_map { |d| d['name'] }
 end
 
 class JapanDojoFallbackTest < Minitest::Test
@@ -251,12 +249,12 @@ class JapanDojoFallbackTest < Minitest::Test
   # 海外 Dojo 用の「連絡先を見る」が出ていたら、フォールバックに落ちている。
   # 2026/08 に実際に地図上で見えた症状がこれ。
   def test_no_japan_dojo_shows_the_overseas_contact_link
-    csv_names = japan_names_in_csv(File.join(ROOT, 'dojo2dojo.csv'))
-    features  = load_geojson['features']
+    japan_names = japan_dojo_names
+    features    = load_geojson['features']
 
     offenders = features.select do |f|
       desc = f.dig('properties', 'description').to_s
-      desc.include?(CONTACT_MARK) && csv_names.any? { |n| desc.include?(">#{n}<") }
+      desc.include?(CONTACT_MARK) && japan_names.any? { |n| desc.include?(">#{n}<") }
     end
 
     assert_empty offenders,
@@ -268,14 +266,14 @@ class JapanDojoFallbackTest < Minitest::Test
 
   # 出荷される GeoJSON に対する検査。
   # 海外 Dojo がフォールバックで描画されるのは設計どおりなので、
-  # dojo2dojo.csv に載っている日本の Dojo だけを対象にする。
+  # Japan DB に載っている日本の Dojo だけを対象にする。
   def test_no_japan_dojo_uses_overseas_fallback
-    csv_names = japan_names_in_csv(File.join(ROOT, 'dojo2dojo.csv'))
-    features  = load_geojson['features']
+    japan_names = japan_dojo_names
+    features    = load_geojson['features']
 
     offenders = features.select do |f|
       desc = f.dig('properties', 'description').to_s
-      desc.include?(FALLBACK_MARK) && csv_names.any? { |n| desc.include?(">#{n}<") }
+      desc.include?(FALLBACK_MARK) && japan_names.any? { |n| desc.include?(">#{n}<") }
     end
 
     assert_empty offenders,
@@ -286,7 +284,7 @@ class JapanDojoFallbackTest < Minitest::Test
 end
 
 # 生成ロジック自体の検査。
-# 「CSV には居るが dojos_japan.json には居ない」状況を作って再現させる。
+# 「Clubs DB には居るが dojos_japan.json には居ない」状況を作って再現させる。
 # 出荷済みデータの検査だけでは、データが正しい間はこの欠陥を検出できない。
 class JapanDojoFallbackGenerationTest < Minitest::Test
   CLUB = {
@@ -300,27 +298,27 @@ class JapanDojoFallbackGenerationTest < Minitest::Test
     id:          '00000000-0000-4000-8000-000000000000',
   }.freeze
 
-def test_japan_dojo_missing_from_japan_data_is_not_rendered_as_overseas
-  # dojo2dojo.csv には居るが Japan DB には居ない = 新規 Dojo を追加した直後の状態
-  features = generate_features(earth: [CLUB], japan: [],
-                               csv: "テスト町\tCoderDojoテスト町\n")
+  # Clubs DB には居るが Japan DB には居ない = 新規 Dojo を追加した直後の状態。
+  # coderdojo.jp へのデプロイが済むまで、この Dojo は dojos_japan.json に載らない
+  def test_japan_dojo_missing_from_japan_data_is_not_rendered_as_overseas
+    features = generate_features(earth: [CLUB], japan: [])
 
-  fallback = features.select do |f|
-    desc = f.dig("properties", "description").to_s
-    desc.include?(FALLBACK_MARK) || desc.include?(CONTACT_MARK)
+    fallback = features.select do |f|
+      desc = f.dig("properties", "description").to_s
+      desc.include?(FALLBACK_MARK) || desc.include?(CONTACT_MARK)
+    end
+
+    assert_empty fallback,
+                 "日本の Dojo が dojos_japan.json に未反映のとき、海外 Dojo 用のフォールバックで" \
+                 "描画されています。汎用ロゴと辿り着けないリンクを出すより、次のデータ更新まで" \
+                 "地図に出さない方が安全です。"
   end
-
-  assert_empty fallback,
-               "日本の Dojo が dojos_japan.json に未反映のとき、海外 Dojo 用のフォールバックで" \
-               "描画されています。汎用ロゴと辿り着けないリンクを出すより、次のデータ更新まで" \
-               "地図に出さない方が安全です。"
-end
 
   # 上のガードが効きすぎて海外 Dojo まで消す退行を防ぐ。
   # 海外 Dojo は Japan DB に載らないため、フォールバック描画が正しい挙動。
   def test_overseas_dojo_is_still_rendered_with_fallback
     overseas = CLUB.merge(name: 'CoderDojo Test Town', countryCode: 'IE', urlSlug: 'test-town')
-    features = generate_features(earth: [overseas], japan: [], csv: '')
+    features = generate_features(earth: [overseas], japan: [])
 
     assert_equal 1, features.size, '海外 Dojo が地図から消えています'
     assert_includes features.first.dig('properties', 'description'), FALLBACK_MARK,
@@ -336,9 +334,10 @@ end
       logo:        'https://coderdojo.jp/img/dojos/test-town.webp',
       description: 'テスト町で毎月開催',
       is_active:   true,
+      # Clubs DB との突合は global_club_id (UUID) で行う
+      global_club_id: CLUB[:id],
     }
-    features = generate_features(earth: [CLUB], japan: [japan_dojo],
-                                 csv: "テスト町\tCoderDojoテスト町\n")
+    features = generate_features(earth: [CLUB], japan: [japan_dojo])
 
     assert_equal 1, features.size, '日本の Dojo が地図から消えています'
     desc = features.first.dig('properties', 'description')
@@ -352,13 +351,12 @@ end
   private
 
   # フィクスチャを一時ディレクトリに置き、生成スクリプトを実行して features を返す
-  def generate_features(earth:, japan:, csv:)
+  def generate_features(earth:, japan:)
     Dir.mktmpdir do |dir|
       FileUtils.mkdir_p(File.join(dir, '_data'))
       File.write(File.join(dir, '_data/dojos_earth.json'),  JSON.generate(earth))
       File.write(File.join(dir, '_data/dojos_japan.json'),  JSON.generate(japan))
       File.write(File.join(dir, '_data/events_japan.json'), JSON.generate([]))
-      File.write(File.join(dir, 'dojo2dojo.csv'), csv)
       File.write(File.join(dir, '_config.yml'), "marker: default\n")
 
       script = File.join(ROOT, '_tasks/upsert_dojos_geojson.rb')

@@ -12,6 +12,11 @@ task(:compact_geojson)      { ruby '_tasks/compact_geojson.rb'      }
 desc 'Run GeoJSON data and map-marker integrity tests'
 task(:test_markers) { ruby 'tests/markers_integrity_test.rb' }
 
+# Clubs DB と Japan DB の突合が壊れていないかのテスト (minitest)
+# 日本のマーカーだけが静かに消える回帰を防ぐ。詳細は tests/dojo_matching_test.rb 参照。
+desc 'Run dojo matching (global_club_id) integrity tests'
+task(:test_matching) { ruby 'tests/dojo_matching_test.rb' }
+
 # Geolonia スプライト サーバの健全性を手動確認するテスト (minitest)。
 # 外部サービス状態に CI を依存させないため、`test` には含めず手動実行する:
 #   GEOLONIA_API_KEY=xxxx bundle exec rake test_sprite
@@ -21,7 +26,7 @@ task(:test_sprite) { ruby 'tests/sprite_status_test.rb' }
 # GitHub - gjtorikian/html-proofer
 # https://github.com/gjtorikian/html-proofer
 require 'html-proofer'
-task test: [:build, :test_markers] do
+task test: [:build, :test_markers, :test_matching] do
   #require './tests/custom_checks'
   options = {
     #checks: ['Links', 'Images', 'Scripts', 'OpenGraph', 'Favicon', 'CustomChecks'],
