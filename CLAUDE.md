@@ -22,14 +22,12 @@ bundle install
 # 推奨: jekyll buildで全て自動実行
 bundle exec jekyll build
 # → 自動的に以下が実行されます:
-#    - cache_dojo_logos
 #    - upsert_dojos_geojson
 #    - compact_geojson
 
 # または個別実行（必要な場合のみ）
 bundle exec rake get_data_from_earth      # 全世界のDojoデータ取得
 bundle exec rake get_data_from_japan      # 日本のDojoとイベントデータ取得
-bundle exec rake cache_dojo_logos         # ロゴ画像キャッシュ
 bundle exec rake upsert_dojos_geojson     # GeoJSON生成
 bundle exec rake compact_geojson          # GeoJSON圧縮
 ```
@@ -50,15 +48,11 @@ bundle exec rake test
 
 ### データフロー
 1. **データ取得**: 外部APIから最新のDojo情報を取得
-   - `get_dojos_from_earth.rb`: Clubs API（旧CoderDojo Zen）からワールドワイドのデータを取得
-   - `get_dojos_from_japan.rb`: CoderDojo Japan APIから日本のデータを取得
-   - `get_events_from_japan.rb`: 日本のイベント情報を取得
+   - `get_data_from_earth.rb`: Clubs API（旧CoderDojo Zen）からワールドワイドのデータを取得
+   - `get_data_from_japan.rb`: CoderDojo Japan APIから日本のDojoとイベントのデータを取得
 
 2. **データ統合**: 複数のソースから取得したデータを統合
    - `upsert_dojos_geojson.rb`: 両方のAPIから取得したデータをマージし、重複を除去してGeoJSON形式に変換
-
-3. **画像最適化**: ロゴ画像を効率的に配信
-   - `cache_dojo_logos.rb`: ロゴ画像をダウンロードしてWebP形式に変換
 
 ### Jekyllビルドフック（自動データ更新）
 
@@ -68,7 +62,6 @@ bundle exec rake test
 # Jekyll::Hooks.register :site, :after_init
 1. upsert_dojos_geojson  # GeoJSON生成
 2. compact_geojson       # GeoJSON圧縮（22.9%削減）
-3. cache_dojo_logos      # Dojoロゴキャッシュ
 ```
 
 **メリット**:
@@ -82,7 +75,6 @@ bundle exec rake test
   → Updating dojos.geojson...
   → Creating dojos.min.geojson...
   ✅ Created dojos.min.geojson (22.9% reduction)
-  → Caching dojo logos...
   ✅ Pre-build tasks completed
 ```
 
@@ -123,7 +115,6 @@ gh run watch  # リアルタイム監視
 - `dojos.geojson`: 地図表示用の統合データ（GeoJSON形式、人間が読める形式）
 - `dojos.min.geojson`: 圧縮版GeoJSON（本番環境で使用、22.9%削減）
 - `_plugins/build_hooks.rb`: Jekyllビルド時の自動データ更新フック
-- `images/dojos/*.webp`: 各Dojoのロゴ画像（WebP形式で最適化）
 
 ### テスト戦略
 - `html-proofer`: HTMLの妥当性とリンクチェック
@@ -240,7 +231,7 @@ Clubs DB と Japan DB は `global_club_id` (UUID) で突合している。表示
    | reason | 意味 | 対応 |
    |---|---|---|
    | `uuid_not_in_clubs` | coderdojo.jp の `global_club_id` が指すクラブが Clubs DB に無い | Clubs 側で削除・ID 変更が起きている。`db/dojos.yml` の値を現在のものに更新する |
-   | `club_excluded_by_status_or_coordinates` | クラブはあるが、座標が無いか活動中ではない | Clubs 側の登録内容を直す（提携先の管理画面） |
+   | `club_excluded_by_status_or_coordinates` | クラブはあるが、座標が無いか、準備中・活動中のどちらでもない | Clubs 側の登録内容を直す（提携先の管理画面） |
    | `no_uuid` | coderdojo.jp 側に `global_club_id` が無い | `db/dojos.yml` に設定する。通常は向こうの CI が防ぐ |
 
 2. **Clubs DB 側の現在の UUID を調べる**

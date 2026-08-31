@@ -226,8 +226,12 @@ IO.write "_data/dojos.json", JSON.pretty_generate(japan_dojos)
 # 日次の GitHub Actions が生成してそのままデプロイするため、ここが静かに増えても
 # 誰も気づかない。ワークフローがこのファイルを見て Slack に通知する。
 #
-# uuid_not_in_clubs だけが要対応。Japan 側は UUID を持っているのに Clubs 側に
-# そのクラブが無い状態で、削除・UUID 変更のいずれかが起きている。
+# Slack に通知するのは uuid_not_in_clubs と no_uuid の 2 つ（scheduler_daily.yml）。
+# uuid_not_in_clubs は Japan 側が UUID を持っているのに Clubs 側にそのクラブが
+# 無い状態で、削除・UUID 変更のいずれかが起きている。no_uuid は coderdojo.jp 側の
+# spec が防いでいるはずの状態なので、出たら上流の保証が破れている。
+# club_excluded_by_status_or_coordinates は Clubs 側の登録の問題でこちらから
+# 直せないため、通知せずログに残すだけにしている。
 placed_japan_names = japan_dojos.map { |d| d[:name_japan] }
 earth_ids          = dojos_earth.map { |c| c[:id] }
 unmatched = dojos_japan.select { |d| d[:is_active] && !placed_japan_names.include?(d[:name]) }
