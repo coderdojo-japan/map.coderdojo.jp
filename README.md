@@ -51,7 +51,6 @@ https://map.coderdojo.jp/
 1. ローカル環境で生成された DojoMap を確認する
    ```
    # ローカルサーバーを立ち上げる（Jekyllプラグインが自動的に以下を実行します）
-   # - ロゴ画像のキャッシュ (cache_dojo_logos)
    # - GeoJSON の生成 (upsert_dojos_geojson)
    # - GeoJSON の圧縮 (compact_geojson)
    $ bundle exec jekyll server
