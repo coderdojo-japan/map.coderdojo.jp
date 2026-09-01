@@ -342,8 +342,8 @@
   {
     "brand": "CODERDOJO",
     "name": "Glasgow @ Royston Primary",
-    "latitude": 55.8696622,
-    "longitude": -4.22868440000002,
+    "latitude": 55.8692276499617,
+    "longitude": -4.229104836263097,
     "countryCode": "GB",
     "status": "RUNNING_SESSIONS",
     "urlSlug": "gb/glasgow/glasgow-royston-primary",
@@ -1855,7 +1855,7 @@
     "latitude": 45.575479,
     "longitude": -73.585729,
     "countryCode": "CA",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "ca/montreal-qc/st-leonard-montreal-lmac-high-school",
     "id": "22529599-f82b-4fc8-9457-4138d4a4431a"
   },
@@ -2058,16 +2058,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "ro/pitesti/pitesti-give-it-back",
     "id": "25b46840-033d-470e-8657-3152ddd95d43"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Bucharest @ Romtelecom",
-    "latitude": 44.51792925023669,
-    "longitude": 26.086478233337402,
-    "countryCode": "RO",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "ro/bucharest-romtelecom",
-    "id": "25cc70d2-5ad1-4406-8484-7672482252fe"
   },
   {
     "brand": "CODERDOJO",
@@ -6081,16 +6071,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Cesena, @Wizards of Python",
-    "latitude": 44.1396438,
-    "longitude": 12.246429199999966,
-    "countryCode": "IT",
-    "status": "PLANNING",
-    "urlSlug": "it/emilia-romagna/cesena-province-of-forli-cesena/cesena-wizards-of-python",
-    "id": "6db86787-d8e3-4c86-bbff-c11620701a16"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Zwalm",
     "latitude": 50.87589209999999,
     "longitude": 3.7309055000000626,
@@ -9188,16 +9168,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "at/3-30-0/amstetten-42-vienna-coding-school",
     "id": "a44397d8-40c2-4ac7-be84-0916d859ba2d"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Nishinomiya",
-    "latitude": 34.7457687578179,
-    "longitude": 135.36085709021302,
-    "countryCode": "JP",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "jp/20-20-takamatsucho-nishinomiya-shi-hyogo/nishinomiya",
-    "id": "a4ada8a6-9b3e-4e72-867f-d2107b197752"
   },
   {
     "brand": "CODERDOJO",
