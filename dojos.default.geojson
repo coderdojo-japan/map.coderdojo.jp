@@ -486,8 +486,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.22868440000002,
-          55.8696622
+          -4.229104836263097,
+          55.8692276499617
         ]
       },
       "properties": {
@@ -2924,21 +2924,6 @@
         "marker-size": "small",
         "marker-color": "#2e9ad9",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Pitesti @ GIVE-IT BACK<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ro/pitesti/pitesti-give-it-back'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.086478233337402,
-          44.51792925023669
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#2e9ad9",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Bucharest @ Romtelecom<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/ro/bucharest-romtelecom'>連絡先を見る</a>"
       }
     },
     {
@@ -8489,21 +8474,6 @@
         "marker-size": "small",
         "marker-color": "#2e9ad9",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>广东省广州市黄埔区<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/cn/guangzhou-guangdong/guang3-dong1-sheng3-guang3-zhou1-shi4-huang2-pu3-qu1'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.246429199999966,
-          44.1396438
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#2e9ad9",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Cesena, @Wizards of Python<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/it/emilia-romagna/cesena-province-of-forli-cesena/cesena-wizards-of-python'>連絡先を見る</a>"
       }
     },
     {
