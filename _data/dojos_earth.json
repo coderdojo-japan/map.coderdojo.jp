@@ -1701,16 +1701,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Code2Empower",
-    "latitude": 41.8044359,
-    "longitude": -87.92865429999999,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/hinsdale-il/code-2-empower-hinsdale-public-library",
-    "id": "1f6952fe-d983-42a1-a08d-29836a5f5665"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Baku@Edtech Azerbaijan",
     "latitude": 40.3780441,
     "longitude": 49.81060579999996,
@@ -2538,16 +2528,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "in/srikakulam-andhra-pradesh/srikakulam-andhra-pradesh-kansey-trust",
     "id": "30788733-a5e8-4c7d-9dea-d34e925e550f"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Noida @ Makers Space",
-    "latitude": 28.5355161,
-    "longitude": 77.39102649999995,
-    "countryCode": "IN",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "in/amity-university-sector-125-uttar-pradesh-201303/noida-makers-space",
-    "id": "307f4f27-0474-4dc7-bd01-da5ad191f180"
   },
   {
     "brand": "CODERDOJO",
@@ -4605,7 +4585,7 @@
     "latitude": 35.704039,
     "longitude": 139.59008100000005,
     "countryCode": "JP",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "jp/ri4-ben3-dong1-jing1-du1-wu3-zang4-ye3-shi4/kichijoji",
     "id": "55d75d0a-fe80-4476-88b5-ae4a62a41957"
   },
@@ -10548,16 +10528,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "cz/valasske-mezirici/valasske-mezirici-knihovna-valmez",
     "id": "bbe3d037-c05b-414c-a671-00cc7a17f2ed"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "1 DC Dublin @ BNY Mellon",
-    "latitude": 53.34836379999999,
-    "longitude": -6.241367200000013,
-    "countryCode": "IE",
-    "status": "PLANNING",
-    "urlSlug": "ie/ifsc-dublin/1-dc-dublin-bny-mellon",
-    "id": "bbe6d715-2fbb-4b65-b917-3cf87949da0f"
   },
   {
     "brand": "CODERDOJO",
