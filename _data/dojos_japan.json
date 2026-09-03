@@ -4768,7 +4768,7 @@
     "counter": 1,
     "is_active": true,
     "prefecture": "大阪",
-    "created_at": "2026-09-01T16:59:28.179+09:00",
+    "created_at": "2026-09-01T00:00:00.000+09:00",
     "description": "大阪市東淀川区で隔週開催",
     "inactivated_at": null,
     "global_club_id": "fd10f107-2cc2-4a26-9c82-6cbb51dd8025"
