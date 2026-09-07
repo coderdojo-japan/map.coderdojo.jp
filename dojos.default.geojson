@@ -4933,7 +4933,7 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#2e9ad9",
-        "description": "<a href='https://coderdojokasai.connpass.com/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/kasai.webp' alt='加西' loading='lazy' width='100px' /></a><br><b>加西</b><br>加西市で毎月開催<br>&rarr; 次回: <a href='https://coderdojokasai.connpass.com/event/403858/' target='_blank' rel='noopener'>9月27日</a><br><a href='https://coderdojokasai.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojokasai.connpass.com/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/kasai.webp' alt='加西' loading='lazy' width='100px' /></a><br><b>加西</b><br>加西市で毎月開催<br>&rarr; 次回: <a href='https://coderdojokasai.connpass.com/event/402992/' target='_blank' rel='noopener'>9月27日</a><br><a href='https://coderdojokasai.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -6088,7 +6088,7 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#2e9ad9",
-        "description": "<a href='https://x.com/CoderDojoSaku' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/saku.webp' alt='佐久' loading='lazy' width='100px' /></a><br><b>佐久</b><br>佐久市で不定期開催<br><a href='https://x.com/CoderDojoSaku' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://x.com/CoderDojoSaku' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/saku.webp' alt='佐久' loading='lazy' width='100px' /></a><br><b>佐久</b><br>佐久市で不定期開催<br>&rarr; 次回: <a href='https://coderdojo-saku.doorkeeper.jp/events/198596' target='_blank' rel='noopener'>9月13日</a><br><a href='https://x.com/CoderDojoSaku' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -6884,21 +6884,6 @@
         "marker-size": "small",
         "marker-color": "#2e9ad9",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Redruth Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/redruth/redruth-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.71135868248552,
-          35.557489009614116
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#2e9ad9",
-        "description": "<a href='https://coderdojo-kamata.connpass.com/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/default.webp' alt='蒲田' loading='lazy' width='100px' /></a><br><b>蒲田</b><br>大田区蒲田で不定<br>期開催<br><a href='https://coderdojo-kamata.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -10468,7 +10453,7 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#2e9ad9",
-        "description": "<a href='https://www.coderdojo-kitakata.com/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/kitakata.webp' alt='喜多方' loading='lazy' width='100px' /></a><br><b>喜多方</b><br>喜多方市で毎月開催<br><a href='https://www.coderdojo-kitakata.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://www.coderdojo-kitakata.com/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/kitakata.webp' alt='喜多方' loading='lazy' width='100px' /></a><br><b>喜多方</b><br>喜多方市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-kitakata.doorkeeper.jp/events/199220' target='_blank' rel='noopener'>10月10日</a><br><a href='https://www.coderdojo-kitakata.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
