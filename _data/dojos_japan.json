@@ -356,11 +356,11 @@
     "logo": "https://coderdojo.jp/img/dojos/shiojiri.webp",
     "order": "202151",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "長野",
     "created_at": "2012-11-08T00:00:00.000+09:00",
     "description": "塩尻市で毎月開催",
-    "inactivated_at": null,
+    "inactivated_at": "2024-03-27T00:00:00.000+09:00",
     "global_club_id": "818b53de-9308-47ef-9767-6da77a052074"
   },
   {
@@ -771,7 +771,7 @@
   },
   {
     "id": 58,
-    "url": "http://coderdojo-tdbb.com/",
+    "url": "https://web.archive.org/web/20180106223341/http://coderdojo-tdbb.com/",
     "name": "高田馬場",
     "logo": "https://coderdojo.jp/img/dojos/takadanobaba.webp",
     "order": "131041",
@@ -1037,7 +1037,7 @@
   },
   {
     "id": 78,
-    "url": "http://www.coderdojo-yoshika.com/",
+    "url": "https://coderdojo-yoshika.connpass.com/",
     "name": "吉賀",
     "logo": "https://coderdojo.jp/img/dojos/yoshika.webp",
     "order": "325058",
@@ -1415,7 +1415,7 @@
   },
   {
     "id": 108,
-    "url": "http://www.coderdojo-minoh.org/",
+    "url": "https://coderdojo-minoh.connpass.com/",
     "name": "みのお",
     "logo": "https://coderdojo.jp/img/dojos/minoh.webp",
     "order": "272205",
@@ -1499,7 +1499,7 @@
   },
   {
     "id": 114,
-    "url": "https://code4matsudo.org/category/coder-dojo-matsudo/",
+    "url": "https://coderdojomatsudo.connpass.com/",
     "name": "松戸",
     "logo": "https://coderdojo.jp/img/dojos/default.webp",
     "order": "122076",
@@ -1723,7 +1723,7 @@
   },
   {
     "id": 130,
-    "url": "https://coderdojo-akabane.com/",
+    "url": "https://coderdojo-akabane.connpass.com/",
     "name": "赤羽",
     "logo": "https://coderdojo.jp/img/dojos/akabane.webp",
     "order": "131172",
@@ -2087,7 +2087,7 @@
   },
   {
     "id": 157,
-    "url": "https://home.omegane-pr.com/coderdojo/",
+    "url": "https://web.archive.org/web/20190818000252/https://home.omegane-pr.com/coderdojo/",
     "name": "酒々井",
     "logo": "https://coderdojo.jp/img/dojos/shisui.webp",
     "order": "123226",
@@ -2647,7 +2647,7 @@
   },
   {
     "id": 207,
-    "url": "https://coderdojo-hiyoshi.com/",
+    "url": "https://coderdojo-hiyoshi.connpass.com/",
     "name": "日吉",
     "logo": "https://coderdojo.jp/img/dojos/default.webp",
     "order": "402036",
@@ -2731,7 +2731,7 @@
   },
   {
     "id": 214,
-    "url": "https://hauska-paikka.jp/event/coderdojo/",
+    "url": "https://coderdojo-ichinomiya.connpass.com/",
     "name": "一宮",
     "logo": "https://coderdojo.jp/img/dojos/ichinomiya.webp",
     "order": "232033",
@@ -2815,7 +2815,7 @@
   },
   {
     "id": 220,
-    "url": "https://coderdojo-ashiya.org/",
+    "url": "https://coderdojo-ashiya.doorkeeper.jp/",
     "name": "あしや",
     "logo": "https://coderdojo.jp/img/dojos/ashiya.webp",
     "order": "282065",
@@ -2969,7 +2969,7 @@
   },
   {
     "id": 231,
-    "url": "https://coderdojo.sakuragawa.tokyo/",
+    "url": "https://web.archive.org/web/20230529153203/https://coderdojo.sakuragawa.tokyo/",
     "name": "板橋@桜川",
     "logo": "https://coderdojo.jp/img/dojos/itabashi.webp",
     "order": "131199",
@@ -3431,7 +3431,7 @@
   },
   {
     "id": 264,
-    "url": "https://www.coderdojo-fujiidera-kashiwara.com",
+    "url": "https://web.archive.org/web/20220930101545/https://www.coderdojo-fujiidera-kashiwara.com/",
     "name": "藤井寺",
     "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
     "order": "272264",
@@ -3529,7 +3529,7 @@
   },
   {
     "id": 271,
-    "url": "https://www.coderdojo-fujiidera-kashiwara.com",
+    "url": "https://web.archive.org/web/20220930101545/https://www.coderdojo-fujiidera-kashiwara.com/",
     "name": "柏原",
     "logo": "https://coderdojo.jp/img/dojos/coderdojo.webp",
     "order": "272213",
@@ -3543,7 +3543,7 @@
   },
   {
     "id": 272,
-    "url": "https://www.coderdojo-fujiidera-kashiwara.com",
+    "url": "https://web.archive.org/web/20220930101545/https://www.coderdojo-fujiidera-kashiwara.com/",
     "name": "藤井寺・柏原",
     "logo": "https://coderdojo.jp/img/dojos/fujiidera-kashiwara.webp",
     "order": "272264",
@@ -3697,7 +3697,7 @@
   },
   {
     "id": 283,
-    "url": "https://mamejuku.org/coderdojonoda/",
+    "url": "https://web.archive.org/web/20240915141214/https://mamejuku.org/coderdojonoda/",
     "name": "野田",
     "logo": "https://coderdojo.jp/img/dojos/default.webp",
     "order": "122084",
@@ -4024,11 +4024,11 @@
     "logo": "https://coderdojo.jp/img/dojos/ashikaga.webp",
     "order": "092029",
     "counter": 1,
-    "is_active": true,
+    "is_active": false,
     "prefecture": "栃木",
     "created_at": "2023-08-02T00:00:00.000+09:00",
     "description": "足利市で毎月開催",
-    "inactivated_at": null,
+    "inactivated_at": "2024-03-17T00:00:00.000+09:00",
     "global_club_id": "adf6ea8c-9a1b-4d91-9263-23f70155577e"
   },
   {

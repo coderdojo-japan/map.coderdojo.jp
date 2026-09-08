@@ -896,14 +896,6 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "global_club_id": "818b53de-9308-47ef-9767-6da77a052074",
-    "name_japan": "塩尻",
-    "name_earth": "Shiojiri / 塩尻",
-    "countryCode": "JP",
-    "urlSlug": "jp/nagano-ken/shiojiri-nagano-prefecture/shiojiri-yan2-kao1",
-    "status": "RUNNING_SESSIONS"
-  },
-  {
     "global_club_id": "838ad4e4-bcd1-4f22-8ae4-742c22579103",
     "name_japan": "猪名川",
     "name_earth": "Inagawa, Hyogo",
@@ -1102,14 +1094,6 @@
     "countryCode": "JP",
     "urlSlug": "jp/nishio-aichi-prefecture/nishio-aichi",
     "status": "RUNNING_SESSIONS"
-  },
-  {
-    "global_club_id": "adf6ea8c-9a1b-4d91-9263-23f70155577e",
-    "name_japan": "足利",
-    "name_earth": "足利＠マチノテ",
-    "countryCode": "JP",
-    "urlSlug": "jp/ashikaga-tochigi/machinote",
-    "status": "PLANNING"
   },
   {
     "global_club_id": "af4cbdbe-95b1-4ec1-b74e-f3eb7d44be64",
