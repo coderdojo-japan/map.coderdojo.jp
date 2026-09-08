@@ -88,7 +88,7 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#2e9ad9",
-        "description": "<a href='https://coderdojo-akabane.com/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/akabane.webp' alt='赤羽' loading='lazy' width='100px' /></a><br><b>赤羽</b><br>北区で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-akabane.connpass.com/event/405074/' target='_blank' rel='noopener'>9月27日</a><br><a href='https://coderdojo-akabane.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojo-akabane.connpass.com/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/akabane.webp' alt='赤羽' loading='lazy' width='100px' /></a><br><b>赤羽</b><br>北区で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-akabane.connpass.com/event/405074/' target='_blank' rel='noopener'>9月27日</a><br><a href='https://coderdojo-akabane.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -7858,7 +7858,7 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#2e9ad9",
-        "description": "<a href='https://tempaku.connpass.com/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/tempaku.webp' alt='天白' loading='lazy' width='100px' /></a><br><b>天白</b><br>名古屋市天白区で<br>月2回開催<br><a href='https://tempaku.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://tempaku.connpass.com/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/tempaku.webp' alt='天白' loading='lazy' width='100px' /></a><br><b>天白</b><br>名古屋市天白区で<br>月2回開催<br>&rarr; 次回: <a href='https://tempaku.connpass.com/event/406251/' target='_blank' rel='noopener'>9月26日</a><br><a href='https://tempaku.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -9899,21 +9899,6 @@
         "marker-size": "small",
         "marker-color": "#2e9ad9",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Los Alamos @ Los Alamos Makers<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/us/los-alamos-new-mexico/los-alamos-los-alamos-makers'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          137.95435990590343,
-          36.111415783098195
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#2e9ad9",
-        "description": "<a href='https://coderdojo.shiojiri.fun/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/shiojiri.webp' alt='塩尻' loading='lazy' width='100px' /></a><br><b>塩尻</b><br>塩尻市で毎月開催<br><a href='https://coderdojo.shiojiri.fun/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -13394,21 +13379,6 @@
         "marker-size": "small",
         "marker-color": "#2e9ad9",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Elsizone<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/za/alexandra-johannesburg/elsizone'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.4546315073967,
-          36.33372047530019
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#2e9ad9",
-        "description": "<a href='https://coderdojo-ashikaga.com/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/ashikaga.webp' alt='足利' loading='lazy' width='100px' /></a><br><b>足利</b><br>足利市で毎月開催<br><a href='https://coderdojo-ashikaga.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
@@ -17998,7 +17968,7 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#2e9ad9",
-        "description": "<a href='https://code4matsudo.org/category/coder-dojo-matsudo/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/default.webp' alt='松戸' loading='lazy' width='100px' /></a><br><b>松戸</b><br>松戸市で隔月開催<br>&rarr; 次回: <a href='https://coderdojomatsudo.connpass.com/event/405001/' target='_blank' rel='noopener'>9月13日</a><br><a href='https://code4matsudo.org/category/coder-dojo-matsudo/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojomatsudo.connpass.com/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/default.webp' alt='松戸' loading='lazy' width='100px' /></a><br><b>松戸</b><br>松戸市で隔月開催<br>&rarr; 次回: <a href='https://coderdojomatsudo.connpass.com/event/405001/' target='_blank' rel='noopener'>9月13日</a><br><a href='https://coderdojomatsudo.connpass.com/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
