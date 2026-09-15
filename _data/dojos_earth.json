@@ -3141,16 +3141,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "York @ Keeping Digital",
-    "latitude": 53.95371799999999,
-    "longitude": -1.129296,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/york/york-keeping-digital",
-    "id": "39c35652-5717-432b-b2ab-7215fc337efe"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Maebashi, Gunma",
     "latitude": 36.3813523,
     "longitude": 139.0725053,
@@ -4911,16 +4901,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Sturminster Newton Library @ Sturminster Newton",
-    "latitude": 50.92725,
-    "longitude": -2.3059377,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/sturminster-newton/sturminster-newton-library-sturminster-newton",
-    "id": "5aceb036-5ef0-40a0-8a45-7713403b5460"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "CoderDojo Dhaka",
     "latitude": 23.8189207,
     "longitude": 90.4307019,
@@ -4998,16 +4978,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": null,
     "id": "5be92b85-1577-4832-a9f7-a96ef2106538"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Stowmarket @ Stowmarket Library",
-    "latitude": 52.1878309,
-    "longitude": 0.9971362,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/stowmarket/stowmarket-stowmarket-library",
-    "id": "5c1c992a-994e-4c57-a2f8-921a4aea02c3"
   },
   {
     "brand": "CODERDOJO",
@@ -11588,16 +11558,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "au/perth-western-australia/perth-roseworth-ps-girrawheen",
     "id": "cf73991f-8529-4846-9560-a3256a4ceb10"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Rotterdam",
-    "latitude": 51.9249979,
-    "longitude": 4.472751799999969,
-    "countryCode": "NL",
-    "status": "PLANNING",
-    "urlSlug": "nl/zuid-holland/rotterdam/rotterdam",
-    "id": "cfa73218-ad70-4184-9e65-62275dcd9b21"
   },
   {
     "brand": "CODERDOJO",
