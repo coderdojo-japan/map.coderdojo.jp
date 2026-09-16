@@ -151,16 +151,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "St Neots @ Loves Farm House",
-    "latitude": 52.2323162,
-    "longitude": -0.24539930000003096,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/st-neots-saint-neots/st-neots-loves-farm-house",
-    "id": "03d92f9f-efd6-4cf5-9fbc-485dd38483a7"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "La Rinconada @ Sevilla",
     "latitude": 37.49304381806951,
     "longitude": -5.941216108352405,
@@ -11108,16 +11098,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "au/ulladulla-nsw/milton-ulladulla-district-dunn-lewis",
     "id": "c805b808-2553-407c-b1b0-a6d4f3ec0e62"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Southwark, London @ John Harvard Library",
-    "latitude": 51.5018296,
-    "longitude": -0.09239019999999999,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/london/southwark-london-john-harvard-library",
-    "id": "c82c4b04-a340-492c-a062-faf2cc092dcf"
   },
   {
     "brand": "CODERDOJO",
