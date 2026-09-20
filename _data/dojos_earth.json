@@ -1551,16 +1551,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Dojo Berlin Lichtenberg",
-    "latitude": 52.503947,
-    "longitude": 13.452449399999978,
-    "countryCode": "DE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "de/berlin/dojo-berlin-friedrichshain",
-    "id": "1dbec234-b83c-4713-8eb0-e7e7cebc8f56"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Bansko @ BanskoLab",
     "latitude": 41.8374636,
     "longitude": 23.4879572,
@@ -6341,16 +6331,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Porsche Digital Lab | Berlin",
-    "latitude": 52.4982627,
-    "longitude": 13.460040599999957,
-    "countryCode": "DE",
-    "status": "PLANNING",
-    "urlSlug": "de/berlin/porsche-digital-lab-or-berlin",
-    "id": "73c89049-f6d9-4ff6-a218-1d81b5e269e8"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Galway City",
     "latitude": 53.28020867134314,
     "longitude": -9.058483452192718,
@@ -8798,16 +8778,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "in/noida-uttar-pradesh/noida-uttar-pradesh-sports-and-cultural-club",
     "id": "9fccc4d5-4bf5-466f-b095-19f85358b1ce"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Virtuelles Dojo",
-    "latitude": 52.55267449999999,
-    "longitude": 13.4139036,
-    "countryCode": "DE",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "de/berlin/virtuelles-dojo",
-    "id": "9fdffbf2-e3cc-4622-859f-c0e154e9d9a3"
   },
   {
     "brand": "CODERDOJO",

@@ -744,14 +744,6 @@
     "status": "RUNNING_SESSIONS"
   },
   {
-    "global_club_id": "6bf2fa03-261c-4326-bfe2-da91b6824399",
-    "name_japan": "稲毛海岸",
-    "name_earth": "inagekaigan",
-    "countryCode": "JP",
-    "urlSlug": "jp/chiba-chiba/inagekaigan",
-    "status": "RUNNING_SESSIONS"
-  },
-  {
     "global_club_id": "6cd39679-f6e9-4d01-8b9c-d77c844e13e0",
     "name_japan": "飯田",
     "name_earth": "IIDA@logicaland",
