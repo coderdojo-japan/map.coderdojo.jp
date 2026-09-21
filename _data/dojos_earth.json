@@ -371,16 +371,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Sheffield @ Greenhill Library",
-    "latitude": 53.325444,
-    "longitude": -1.4914152,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/sheffield/sheffield-greenhill-library",
-    "id": "0805e8e5-d7a7-4d81-8be1-0536fc2d7c32"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "四日市",
     "latitude": 34.9680518,
     "longitude": 136.61740029999999,
