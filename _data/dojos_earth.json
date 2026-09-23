@@ -4241,16 +4241,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Ripley, Surrey@ Old Ripley CofE School",
-    "latitude": 51.299442478048505,
-    "longitude": -0.49678802490234375,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/woking/ripley-surrey-old-ripley-cofe-school",
-    "id": "502b6cb4-5a91-4c12-ac81-3ec1a342e665"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "CoderDojo McDonough",
     "latitude": 33.4473361,
     "longitude": -84.14686159999997,
