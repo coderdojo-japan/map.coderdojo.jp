@@ -12371,16 +12371,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Widnes @ Widnes Library via Mako Create Coding Club",
-    "latitude": 53.3620518,
-    "longitude": -2.733289,
-    "countryCode": "GB",
-    "status": "PLANNING",
-    "urlSlug": "gb/widnes/widnes-widnes-library-via-mako-create-coding-club",
-    "id": "e0506c10-b67d-4881-bdc9-884120764c49"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "San Jose @ Village Square Branch Library",
     "latitude": 37.3133723,
     "longitude": -121.7744547,
@@ -13145,7 +13135,7 @@
     "latitude": 50.7184794,
     "longitude": -1.979842299999973,
     "countryCode": "GB",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "gb/poole/poole-poolelibrary",
     "id": "ed134cce-765a-47fc-91d7-5318e0e65ae5"
   },
