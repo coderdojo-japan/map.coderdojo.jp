@@ -641,16 +641,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Dungannon, Co. Tyrone @ Dungannon Library",
-    "latitude": 54.504905,
-    "longitude": -6.769314899999999,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/dungannon/dungannon-co-tyrone-dungannon-library",
-    "id": "0da27b1d-573d-44f0-89a4-59f711381608"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Nara, Nara",
     "latitude": 34.6837371,
     "longitude": 135.81220239999993,
@@ -5441,11 +5431,11 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Břeclav @ Městská knihovna Břeclav",
+    "name": "TeenLab @ Městská knihovna Břeclav",
     "latitude": 48.76097129999999,
     "longitude": 16.8815304,
     "countryCode": "CZ",
-    "status": "PLANNING",
+    "status": "RUNNING_SESSIONS",
     "urlSlug": "cz/breclav/breclav-mestska-knihovna-breclav",
     "id": "63cc1232-d393-467f-a891-82f9c6c650ef"
   },
@@ -6025,7 +6015,7 @@
     "latitude": 49.802822,
     "longitude": 17.013492000000042,
     "countryCode": "CZ",
-    "status": "RUNNING_SESSIONS",
+    "status": "PLANNING",
     "urlSlug": "cz/usov/usov",
     "id": "6ee80b7f-fb23-4b25-89ad-ca9f8e3fc6fe"
   },
