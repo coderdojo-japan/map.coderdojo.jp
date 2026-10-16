@@ -11,16 +11,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Pendleton @ PCL",
-    "latitude": 40.0043327,
-    "longitude": -85.7353227,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/pendleton-in/pendleton-pcl",
-    "id": "00653bff-0ad1-4d8c-b403-0d6295e29a6e"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Redbridge @ Gants Hill Library",
     "latitude": 51.5776243,
     "longitude": 0.06986579999999999,
@@ -848,16 +838,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "us/mcdonough-ga/mcdonough-ga-public-library",
     "id": "11ce6702-f63e-440b-9cc9-3e3d456906c6"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Oak Cliff Dallas @ Red Bird",
-    "latitude": 32.6590555,
-    "longitude": -96.8782859,
-    "countryCode": "US",
-    "status": "PLANNING",
-    "urlSlug": "us/dallas-tx/oak-cliff-dallas-red-bird",
-    "id": "12111144-3fcf-47bb-900c-c27695d30acc"
   },
   {
     "brand": "CODE_CLUB",
@@ -2441,16 +2421,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Cupertino CoderDojo Coding Club",
-    "latitude": 37.3177895,
-    "longitude": -122.02896069999997,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/san-jose-ca/cupertino-coderdojo-coding-club",
-    "id": "2f840c00-05e2-48d4-a781-77e4316cf393"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Ebetsu, Hokkaido",
     "latitude": 43.0913257,
     "longitude": 141.5289678,
@@ -3161,16 +3131,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "East Valley AZ @ Eastmark",
-    "latitude": 33.3219189,
-    "longitude": -111.6160421,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/mesa-az/east-valley-az-eastmark",
-    "id": "3aff9f5a-63c2-429b-a72e-52de5a8e0fe1"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Shibata@TINKERKIDS",
     "latitude": 37.9593766,
     "longitude": 139.33779930000003,
@@ -3658,6 +3618,16 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "eg/aswan/aswan-al-salam-academy-school",
     "id": "457f550d-8056-4d15-889f-aa6695e515b9"
+  },
+  {
+    "brand": "CODE_CLUB",
+    "name": "CoderDojo 糸魚川",
+    "latitude": 37.0449444,
+    "longitude": 137.8594977,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "4597e57a-84e9-47ba-a2ec-6bdfb5edbf6a"
   },
   {
     "brand": "CODE_CLUB",
@@ -5251,16 +5221,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Ellinwood, KS @ the School/Community Library",
-    "latitude": 38.3557419,
-    "longitude": -98.57762230000003,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/ellinwood-ks/ellinwood-ks-the-school-community-library",
-    "id": "61afa5d5-0baa-43fa-97a8-a09740806614"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Edinburgh Storm @ Storm ID",
     "latitude": 55.97485099999999,
     "longitude": -3.1667941,
@@ -5928,16 +5888,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "in/new-delhi-delhi/kidscoder-delhincr",
     "id": "6d09f9e3-fae9-4f00-9208-3cae099a938b"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Indiana, PA @ Indiana Free Library",
-    "latitude": 40.6231591,
-    "longitude": -79.155853,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/indiana-pa/indiana-pa-indiana-free-library",
-    "id": "6d402d3e-f6f7-4144-ab8e-eedbc0451b4c"
   },
   {
     "brand": "CODERDOJO",
@@ -6631,16 +6581,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Concord, North Carolina @ CodeNow",
-    "latitude": 35.431148,
-    "longitude": -80.633856,
-    "countryCode": "US",
-    "status": "PLANNING",
-    "urlSlug": "us/concord-nc/concord-north-carolina-codenow",
-    "id": "7b59f883-1f57-40da-97c7-9d11f87a3c3c"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Zero Branco",
     "latitude": 45.601132,
     "longitude": 12.166814899999963,
@@ -7251,16 +7191,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Greenville, SC @ Five Forks Library",
-    "latitude": 34.808087,
-    "longitude": -82.2222907,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/greenville-sc/greenville-sc-five-forks-library",
-    "id": "85501e89-283c-466b-8788-cb632e1059bc"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Anjo",
     "latitude": 34.9600325,
     "longitude": 137.08708609999996,
@@ -7501,16 +7431,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Lindenhurst@Heritage",
-    "latitude": 42.4314263,
-    "longitude": -88.0238885,
-    "countryCode": "US",
-    "status": "PLANNING",
-    "urlSlug": "us/lindenhurst-il/lindenhurst-heritage",
-    "id": "87f722f7-9451-4a6f-b307-0041def1d96f"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Banbridge, Co Down @ Banbridge Enterprise Centre",
     "latitude": 54.351535,
     "longitude": -6.292600999999991,
@@ -7578,16 +7498,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "br/niteroi-state-of-rio-de-janeiro/niteroi-rj-comurede",
     "id": "8a335fec-0b4c-44f1-9de7-e5db16f5548b"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Seattle",
-    "latitude": 47.6240674,
-    "longitude": -122.33751059999997,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/washington/seattle-wa/seattle",
-    "id": "8a5ad301-0afb-4222-a112-82d1311f4096"
   },
   {
     "brand": "CODERDOJO",
@@ -8191,16 +8101,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Santa Clara City @ Northside",
-    "latitude": 37.3956901,
-    "longitude": -121.94686660000002,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/santa-clara-ca/santa-clara-city-northside",
-    "id": "95eedfa6-a736-44d5-99b5-24f2b28dac2f"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Faridabad, Haryana @ Fantex Convent School",
     "latitude": 28.4135585,
     "longitude": 77.3000203,
@@ -8508,16 +8408,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "gb/bolsover-chesterfield/bolsover-bolsover-library",
     "id": "9b2fba2f-ff32-4c46-862a-0cdb7a99887f"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Lafayette, IN @ River City Community Center",
-    "latitude": 40.3864607,
-    "longitude": -86.9046927,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/lafayette-in/lafayette-in-river-city-community-center",
-    "id": "9b52a3cd-eb6b-4d46-8fd7-e6d7693d4363"
   },
   {
     "brand": "CODERDOJO",
@@ -9208,16 +9098,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "gr/agrinio/makerlab-agrinio",
     "id": "a8b764a6-36ca-468e-9c2b-2b754679252a"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Milpitas, California @ Milpitas Public Library",
-    "latitude": 37.4535697,
-    "longitude": -121.90089990000001,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/milpitas-ca/milpitas-california-milpitas-public-library",
-    "id": "a96a251b-ab3c-42ba-ba84-d5ad40eee4e6"
   },
   {
     "brand": "CODERDOJO",
@@ -13748,16 +13628,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "jp/wakaba-ku-chiba-prefecture/wakaba-mitsuwa-dai",
     "id": "f7624fb3-6e16-4990-9bcb-3cf515d08876"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Sto Rox Dojo @ Community Resource Center",
-    "latitude": 40.4649826,
-    "longitude": -80.05884100000003,
-    "countryCode": "US",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "us/mckees-rocks-pa/sto-rox-dojo-community-resource-center",
-    "id": "f7bce4bc-d2cd-469b-a73e-839090c6ca07"
   },
   {
     "brand": "CODERDOJO",
