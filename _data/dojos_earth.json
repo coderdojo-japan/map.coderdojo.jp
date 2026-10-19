@@ -3351,16 +3351,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Derry, University of Ulster, Magee @ MF Building",
-    "latitude": 55.0062362,
-    "longitude": -7.3236107000000175,
-    "countryCode": "GB",
-    "status": "PLANNING",
-    "urlSlug": "gb/derry/derry-university-of-ulster-magee-mf-building",
-    "id": "3f28e68f-12c5-4908-960b-da00fc127d18"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Kinshasa",
     "latitude": -4.432377,
     "longitude": 15.37995019999994,
@@ -5128,16 +5118,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "jp/ina-nagano-prefecture/ina",
     "id": "606bcdd2-0680-40d5-862f-a6faa32687e2"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Coding Club at Open Doors",
-    "latitude": 51.763108971631816,
-    "longitude": -0.5723726749420166,
-    "countryCode": "GB",
-    "status": "PLANNING",
-    "urlSlug": "gb/berkhamsted/coding-club-at-open-doors",
-    "id": "607028f0-077b-41a1-af66-306eba82bada"
   },
   {
     "brand": "CODERDOJO",
