@@ -5201,16 +5201,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Edinburgh Storm @ Storm ID",
-    "latitude": 55.97485099999999,
-    "longitude": -3.1667941,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/edinburgh/edinburgh-storm-storm-id",
-    "id": "61dc99e2-5d0e-4946-a470-08f0ea5d4858"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "CoderDojo Warszawa",
     "latitude": 52.18096805635187,
     "longitude": 20.992611944675446,
@@ -6848,16 +6838,6 @@
     "status": "PLANNING",
     "urlSlug": "jp/oita-ita-prefecture/oita-kodomosphere",
     "id": "7f727ebc-0815-4d23-b408-535f591f7e32"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Reading @ R+ EY",
-    "latitude": 51.4578395,
-    "longitude": -0.9703315999999998,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/reading/reading-r-ey",
-    "id": "7f9d04c4-a4d2-44e3-878e-2b4e38a978c7"
   },
   {
     "brand": "CODERDOJO",
@@ -11511,16 +11491,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Exeter @ Exeter College Technology Centre",
-    "latitude": 50.7306284,
-    "longitude": -3.469825,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/exeter/exeter-exeter-college-technology-centre",
-    "id": "d222014a-a807-4f63-b92c-8c4b184008c7"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "CoderDojo Montpellier",
     "latitude": 43.632809943155934,
     "longitude": 3.862598240375519,
@@ -11701,16 +11671,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Hexham@The Abbey",
-    "latitude": 54.9716057,
-    "longitude": -2.102574900000036,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/hexham/hexham-the-abbey",
-    "id": "d64fd7f4-e620-4992-b8bb-535b20093ce1"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Ballinteer, Dublin @ BETNS",
     "latitude": 53.2938205,
     "longitude": -6.251312600000006,
@@ -11788,16 +11748,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "jp/urayasu-chiba-prefecture/urayasu",
     "id": "d7563ebf-f2d6-491e-9be8-8b0bd856ed4f"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Edinburgh, 37 Castle Terrace @ CodeClan",
-    "latitude": 55.9469623,
-    "longitude": -3.201958300000001,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/edinburgh/edinburgh-37-castle-terrace-codeclan",
-    "id": "d7f074aa-96ff-4f50-8b31-3e483a6a34d6"
   },
   {
     "brand": "CODERDOJO",
@@ -12028,16 +11978,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "nl/heerhugowaard/kennemerwaard",
     "id": "dcf48285-2621-43ac-9cde-32cfc904b876"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Hope Valley@Hathersage Memorial Hall",
-    "latitude": 53.3284956,
-    "longitude": -1.6538052,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/hathersage-hope-valley/hope-valley-hathersage-memorial-hall",
-    "id": "dd090413-c2e2-4ab4-8304-6d81df598047"
   },
   {
     "brand": "CODERDOJO",
