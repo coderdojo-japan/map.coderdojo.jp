@@ -472,6 +472,14 @@
     "status": "RUNNING_SESSIONS"
   },
   {
+    "global_club_id": "4597e57a-84e9-47ba-a2ec-6bdfb5edbf6a",
+    "name_japan": "糸魚川",
+    "name_earth": "CoderDojo 糸魚川",
+    "countryCode": "JP",
+    "urlSlug": null,
+    "status": "RUNNING_SESSIONS"
+  },
+  {
     "global_club_id": "45e17a8f-8178-42e9-a7a1-dc678f3848cb",
     "name_japan": "川西",
     "name_earth": "CoderDojo川西",

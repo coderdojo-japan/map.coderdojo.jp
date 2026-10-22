@@ -4772,5 +4772,19 @@
     "description": "大阪市東淀川区で隔週開催",
     "inactivated_at": null,
     "global_club_id": "fd10f107-2cc2-4a26-9c82-6cbb51dd8025"
+  },
+  {
+    "id": 360,
+    "url": "https://coderdojo-itoigawa.doorkeeper.jp/",
+    "name": "糸魚川",
+    "logo": "https://coderdojo.jp/img/dojos/default.webp",
+    "order": "152161",
+    "counter": 1,
+    "is_active": true,
+    "prefecture": "新潟",
+    "created_at": "2026-10-22T12:26:12.714+09:00",
+    "description": "糸魚川市で隔月開催",
+    "inactivated_at": null,
+    "global_club_id": "4597e57a-84e9-47ba-a2ec-6bdfb5edbf6a"
   }
 ]
