@@ -5901,8 +5901,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.14686159999997,
-          33.4473361
+          -84.12732438953549,
+          33.44276371309819
         ]
       },
       "properties": {
@@ -12411,8 +12411,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -155.94751335449223,
-          19.617220536598314
+          -155.9484467632294,
+          19.616964725793856
         ]
       },
       "properties": {
@@ -13213,7 +13213,7 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "coderdojo",
-        "description": "<a href='https://coderdojochofu.hatenablog.jp/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/chofu.webp' alt='調布' loading='lazy' width='100px' /></a><br><b>調布</b><br>調布市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-chofu.doorkeeper.jp/events/199794' target='_blank' rel='noopener'>10月25日</a><br><a href='https://coderdojochofu.hatenablog.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
+        "description": "<a href='https://coderdojochofu.hatenablog.jp/' target='_blank' rel='noopener'>  <img src='https://coderdojo.jp/img/dojos/chofu.webp' alt='調布' loading='lazy' width='100px' /></a><br><b>調布</b><br>調布市で毎月開催<br>&rarr; 次回: <a href='https://coderdojo-chofu.doorkeeper.jp/events/199632' target='_blank' rel='noopener'>10月25日</a><br><a href='https://coderdojochofu.hatenablog.jp/' target='_blank' rel='noopener'>Webサイトを見る</a>"
       }
     },
     {
