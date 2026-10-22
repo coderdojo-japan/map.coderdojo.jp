@@ -88,6 +88,18 @@ class JapanMarkerTest < Minitest::Test
       "日本のマーカーが #{jp_markers.size} 件しかありません。突合に失敗した可能性があります"
   end
 
+  def test_published_dojos_json_has_enough_markers
+    # 公開される /dojos.json は coderdojo.jp の doc/how_to_add_dojo.md が反映の確認に使う。
+    # テンプレートが壊れると、_data が正しいまま公開される JSON だけが壊れる
+    path = File.join(ROOT, '_site', 'dojos.json')
+    assert File.exist?(path), "#{path} がありません。先に jekyll build してください"
+
+    published = JSON.parse(File.read(path))
+    assert_kind_of Array, published, '公開される /dojos.json が配列ではありません'
+    assert_operator published.size, :>=, MIN_JP_MARKERS,
+      "公開される /dojos.json が #{published.size} 件しかありません"
+  end
+
   def test_no_dojo_appears_twice
     # Clubs 側には同名クラブの二重登録が実在するため（流山・古河）、
     # 1 つの Dojo に 2 つのマーカーが出ていないかを名前で数えて確かめる
