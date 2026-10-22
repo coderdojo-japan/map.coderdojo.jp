@@ -4192,8 +4192,8 @@
   {
     "brand": "CODERDOJO",
     "name": "CoderDojo McDonough",
-    "latitude": 33.4473361,
-    "longitude": -84.14686159999997,
+    "latitude": 33.44276371309819,
+    "longitude": -84.12732438953549,
     "countryCode": "US",
     "status": "RUNNING_SESSIONS",
     "urlSlug": "us/georgia/mcdonough-ga/coderdojo-mcdonough",
@@ -8922,8 +8922,8 @@
   {
     "brand": "CODERDOJO",
     "name": "Holualoa",
-    "latitude": 19.617220536598314,
-    "longitude": -155.94751335449223,
+    "latitude": 19.616964725793856,
+    "longitude": -155.9484467632294,
     "countryCode": "US",
     "status": "RUNNING_SESSIONS",
     "urlSlug": "us/hawaii/h-lualoa/holualoa",
@@ -11452,8 +11452,8 @@
   {
     "brand": "CODERDOJO",
     "name": "Pordenone",
-    "latitude": 45.967016,
-    "longitude": 12.685135,
+    "latitude": 45.96725789620653,
+    "longitude": 12.684473164925562,
     "countryCode": "IT",
     "status": "RUNNING_SESSIONS",
     "urlSlug": "it/via-vittorio-veneto-31-33170-pordenone/pordenone",
