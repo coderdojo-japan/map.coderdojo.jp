@@ -26,6 +26,12 @@ exclude:
   - README.md
   - LICENSE.md
   - CODE_OF_CONDUCT.md
+  # 開発用のファイル（サイトには要らない）
+  - CLAUDE.md
+  - Rakefile
+  - fetch_latest_data.sh
+  - tests
+  - tmp
 
 # See the official README for more options:
 # https://github.com/digitalsparky/jekyll-minifier
