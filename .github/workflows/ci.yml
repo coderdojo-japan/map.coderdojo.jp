@@ -105,9 +105,29 @@ jobs:
                                 "geolonia-api-key=${{ env.GEOLONIA_API_KEY }}")' "$file"
         done
 
-    - name: 🚀 Deploy to GitHub Pages
+    # 公式の Pages の action で配る。以前は第三者の peaceiris/actions-gh-pages に書き込みのトークンを渡し、
+    # gh-pages ブランチへ push していた。ここではビルドした _site を成果物として上げ、下の pages ジョブが配る
+    - name: 📦 Upload site for GitHub Pages
       if:   github.ref == 'refs/heads/main' && job.status == 'success'
-      uses: peaceiris/actions-gh-pages@v4
+      uses: actions/upload-pages-artifact@v5
       with:
-        personal_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir:    ./_site
+        path: ./_site
+
+  pages:
+    name: 🚀 Deploy to GitHub Pages
+    needs: deploy
+    if:   github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    # 日次の更新（scheduler_daily.yml）と重ならないよう、Pages への配布は 1 つずつ動かす
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    permissions:
+      pages:    write  # Pages に配る
+      id-token: write  # 配布元がこの workflow であることを確かめる
+    environment:
+      name: github-pages
+      url:  ${{ steps.deployment.outputs.page_url }}
+    steps:
+    - id:   deployment
+      uses: actions/deploy-pages@v5
