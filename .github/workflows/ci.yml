@@ -13,6 +13,10 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+# GITHUB_TOKEN は checkout にしか使わないので、読み取りだけにする（Pages へ配るジョブは、自分で権限を書いている）
+permissions:
+  contents: read
+
 jobs:
   deploy:
     name: 🧪 Build, Test & Deploy
