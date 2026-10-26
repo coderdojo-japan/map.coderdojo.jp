@@ -4531,16 +4531,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Lancaster @ Lancaster University",
-    "latitude": 54.0098722,
-    "longitude": -2.786247499999945,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/lancaster/lancaster-lancaster-university",
-    "id": "5670b8f2-df75-4b06-8c54-ae54291b7a73"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Shimane @ Masuda",
     "latitude": 34.6771838,
     "longitude": 131.8393514,
