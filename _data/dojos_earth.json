@@ -9231,16 +9231,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "CoderDojo Texel",
-    "latitude": 53.0529993,
-    "longitude": 4.802605799999999,
-    "countryCode": "NL",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "nl/den-burg/coderdojo-texel",
-    "id": "ac73d84f-7285-47d4-b592-76342212f3be"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "国頭村",
     "latitude": 26.7456488,
     "longitude": 128.1779451,
@@ -10138,16 +10128,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "ro/bucharest/bucuresti-nord",
     "id": "b942a32f-6ca4-43df-8d69-e4884124d739"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "De Wolden @ Bibliotheek Zuidwolde",
-    "latitude": 52.6716031,
-    "longitude": 6.428783800000019,
-    "countryCode": "NL",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "nl/zuidwolde/de-wolden-bibliotheek-zuidwolde",
-    "id": "b971d17b-a30c-49b4-9e7e-b6a7c898505d"
   },
   {
     "brand": "CODERDOJO",
