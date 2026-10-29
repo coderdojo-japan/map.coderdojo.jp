@@ -23,12 +23,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: 📥 Download codes from GitHub
-      uses: actions/checkout@v7
+      uses: actions/checkout@v7.0.1
       with:
         fetch-depth: 2
 
     - name: 💎 Set up Ruby
-      uses: ruby/setup-ruby@v1
+      uses: ruby/setup-ruby@v1.335.0
       #with:
       #  bundler-cache: true
 
@@ -113,7 +113,7 @@ jobs:
     # gh-pages ブランチへ push していた。ここではビルドした _site を成果物として上げ、下の pages ジョブが配る
     - name: 📦 Upload site for GitHub Pages
       if:   github.ref == 'refs/heads/main' && job.status == 'success'
-      uses: actions/upload-pages-artifact@v5
+      uses: actions/upload-pages-artifact@v5.0.0
       with:
         path: ./_site
 
@@ -134,4 +134,4 @@ jobs:
       url:  ${{ steps.deployment.outputs.page_url }}
     steps:
     - id:   deployment
-      uses: actions/deploy-pages@v5
+      uses: actions/deploy-pages@v5.0.1
