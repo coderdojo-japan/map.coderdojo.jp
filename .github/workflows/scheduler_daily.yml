@@ -133,7 +133,7 @@ jobs:
 
     - name: 🔔 Notify unmatched dojos to Slack (if any)
       if:   steps.unmatched.outcome == 'failure'
-      uses: slackapi/slack-github-action@v3.0.5
+      uses: slackapi/slack-github-action@v4.0.0
       with:
         webhook:      ${{ secrets.SLACK_WEBHOOK_URL }}
         webhook-type: incoming-webhook
@@ -203,7 +203,7 @@ jobs:
 
     - name: 🔔 Notify map dependency issue to Slack (if any)
       if:   always() && steps.geolonia.outcome == 'failure'
-      uses: slackapi/slack-github-action@v3.0.5
+      uses: slackapi/slack-github-action@v4.0.0
       with:
         webhook:      ${{ secrets.SLACK_WEBHOOK_URL }}
         webhook-type: incoming-webhook
@@ -224,7 +224,7 @@ jobs:
     - name: 🔔 Notify error to Slack (if any)
       if:   failure()
       id:   slack
-      uses: slackapi/slack-github-action@v3.0.5
+      uses: slackapi/slack-github-action@v4.0.0
       with:
         webhook:      ${{ secrets.SLACK_WEBHOOK_URL }}
         webhook-type: incoming-webhook
