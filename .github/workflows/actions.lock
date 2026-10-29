@@ -18,9 +18,9 @@ workflows:
         - 'actions/deploy-pages@v5.0.1'
         - 'actions/upload-pages-artifact@v5.0.0'
         - 'ruby/setup-ruby@v1.335.0'
-        - 'slackapi/slack-github-action@v3.0.5'
+        - 'slackapi/slack-github-action@v4.0.0'
     '.github/workflows/test_slack_notification.yml':
-        - 'slackapi/slack-github-action@v3.0.5'
+        - 'slackapi/slack-github-action@v4.0.0'
     '.github/workflows/verify-lockfile.yml':
         - 'actions/checkout@v7.0.1'
 dependencies:
@@ -68,9 +68,9 @@ dependencies:
         commit: 'sha1-7f797815d8adceb1c412e7abefdd1ab4abc47a5f'
         owner_id: 210414
         repo_id: 231208785
-    'slackapi/slack-github-action@v3.0.5':
-        ref: 'v3.0.5'
-        commit: 'sha1-0d95c9a7becc1e6e297d76df9bc735c44f4cbcbc'
+    'slackapi/slack-github-action@v4.0.0':
+        ref: 'v4.0.0'
+        commit: 'sha1-dcb1066f776dd043e64d0e8ba94ca15cc7e1875d'
         owner_id: 6962987
         repo_id: 306439799
     'yasslab/claude_review_action@main':
