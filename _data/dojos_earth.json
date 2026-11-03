@@ -2620,6 +2620,16 @@
     "id": "322397bc-985d-443b-8d1b-01404693f51a"
   },
   {
+    "brand": "CODE_CLUB",
+    "name": "CoderDojo Kamiyama Hirono",
+    "latitude": 34.030185,
+    "longitude": 134.403766,
+    "countryCode": "JP",
+    "status": "RUNNING_SESSIONS",
+    "urlSlug": null,
+    "id": "322922ed-b6cb-4535-905f-26e245df5998"
+  },
+  {
     "brand": "CODERDOJO",
     "name": "Chigasaki, Kanagawa",
     "latitude": 35.3254589,
