@@ -8,6 +8,12 @@ on:
 permissions:
   contents:      write
   pull-requests: write
+  # CI を待つのに gh pr view --json statusCheckRollup を使う。public のリポジトリでは権限が無くても読めるが、
+  # private に変えた時に黙って止まらないよう、読む権限をそろえておく（private では欠けると GraphQL のエラーで止まる）
+  checks:        read
+  statuses:      read
+  # actions は write。read は statusCheckRollup に要り、write は下でデプロイの workflow を呼ぶのに要る
+  actions:       write
 
 jobs:
   dependabot:
@@ -17,3 +23,46 @@ jobs:
       - uses: yasslab/dependabot_auto_merge@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      # GITHUB_TOKEN で起こした出来事は workflow を動かさない（GitHub の仕様。再帰を防ぐため）。
+      # そのため上の自動マージが成功しても main への push が ci.yml を呼ばず、Pages に届かないまま
+      # 全部緑に見える。workflow_dispatch は例外なので明示的に呼ぶ。
+      #
+      # `if: !cancelled()`: 上の action はマージを済ませた後に失敗する経路がある。
+      # 既定の「前が成功した時だけ」にすると、マージ済みなのに Pages が古いまま止まる。
+      # マージされていなければ呼ばずに正常終了する。
+      #
+      # `gh workflow run` は 204 を返すだけで run ができたかは返さないので、run が増えたことを見てから成功にする
+      - name: 🚀 マージできたらデプロイを呼ぶ
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN:  ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          set -euo pipefail
+
+          merged=$(gh pr view "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --json merged --jq .merged)
+          if [ "$merged" != "true" ]; then
+            echo "PR #$PR_NUMBER はマージされていないので、デプロイは呼びません"
+            exit 0
+          fi
+
+          latest_dispatch_run() {
+            gh run list --repo "$GITHUB_REPOSITORY" --workflow ci.yml \
+                        --event workflow_dispatch --limit 1 --json databaseId --jq '.[0].databaseId // 0'
+          }
+
+          before=$(latest_dispatch_run)
+          gh workflow run ci.yml --repo "$GITHUB_REPOSITORY" --ref main
+
+          for _ in $(seq 1 12); do
+            sleep 5
+            after=$(latest_dispatch_run)
+            if [ "$after" != "$before" ]; then
+              echo "ci.yml の run を作りました: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$after"
+              exit 0
+            fi
+          done
+
+          echo "::error::ci.yml を呼んだのに run が作られませんでした。Pages には届いていません"
+          exit 1
