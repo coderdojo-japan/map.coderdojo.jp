@@ -441,21 +441,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.18573141098022,
-          -21.145992164957892
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Mackay @ Split Spaces<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/au/mackay-queensland/mackay-split-spaces'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.229104836263097,
           55.8692276499617
         ]
@@ -464,21 +449,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Glasgow @ Royston Primary<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/glasgow/glasgow-royston-primary'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.002666,
-          -31.8891852
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Midland Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/au/midland-western-australia/midland-library'>連絡先を見る</a>"
       }
     },
     {
@@ -944,21 +914,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>DamakBCA,Damak<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/np/damak/damakbca-damak'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.89177989959717,
-          -24.223328131851076
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Agnes Water, QLD @ Agnes1770<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/au/agnes-water-qld/agnes-water-qld-agnes-177-0'>連絡先を見る</a>"
       }
     },
     {
@@ -1904,21 +1859,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Londerzeel<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/be/londerzeel/londerzeel'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.9098939,
-          -34.3335445
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Kapunda@HighSchool<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/au/kapunda-sa/kapunda-highschool'>連絡先を見る</a>"
       }
     },
     {
@@ -7656,21 +7596,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.05946399999993,
-          -26.71604
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Sunshine Coast @ University of the Sunshine Coast<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/au/sippy-downs-queensland/sunshine-coast-university-of-the-sunshine-coast'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           88.36207010938799,
           22.51547008233021
         ]
@@ -8879,21 +8804,6 @@
         "marker-size": "small",
         "marker-symbol": "coderdojo",
         "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Birmingham@EY<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/birmingham/birmingham-ey'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.846811,
-          -37.836138
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>CoderDojo Altona North<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/au/altona-north-victoria/coderdojo-altona-north'>連絡先を見る</a>"
       }
     },
     {

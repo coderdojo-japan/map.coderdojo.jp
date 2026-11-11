@@ -311,16 +311,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Mackay @ Split Spaces",
-    "latitude": -21.145992164957892,
-    "longitude": 149.18573141098022,
-    "countryCode": "AU",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "au/mackay-queensland/mackay-split-spaces",
-    "id": "073c56db-55cd-4a52-9c26-4141661bbe1e"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Glasgow @ Royston Primary",
     "latitude": 55.8692276499617,
     "longitude": -4.229104836263097,
@@ -328,16 +318,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "gb/glasgow/glasgow-royston-primary",
     "id": "07473cba-b7d9-4f97-942c-fbe844a9f906"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Midland Library",
-    "latitude": -31.8891852,
-    "longitude": 116.002666,
-    "countryCode": "AU",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "au/midland-western-australia/midland-library",
-    "id": "0750a46f-7ee8-4137-9455-55ad0a47a1e2"
   },
   {
     "brand": "CODERDOJO",
@@ -668,16 +648,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "np/damak/damakbca-damak",
     "id": "0ecb2335-b058-4255-a9a0-7052e8335e6b"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Agnes Water, QLD @ Agnes1770",
-    "latitude": -24.223328131851076,
-    "longitude": 151.89177989959717,
-    "countryCode": "AU",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "au/agnes-water-qld/agnes-water-qld-agnes-177-0",
-    "id": "0f06b3db-f6e8-4973-bb67-b61b5553c883"
   },
   {
     "brand": "CODERDOJO",
@@ -1328,16 +1298,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "be/londerzeel/londerzeel",
     "id": "19f19c39-38c7-42ce-8ba9-920d2832c2d7"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Kapunda@HighSchool",
-    "latitude": -34.3335445,
-    "longitude": 138.9098939,
-    "countryCode": "AU",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "au/kapunda-sa/kapunda-highschool",
-    "id": "1a0a01c8-9bb5-4c0f-a4c5-4e2c2077e240"
   },
   {
     "brand": "CODERDOJO",
@@ -5511,16 +5471,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Sunshine Coast @ University of the Sunshine Coast",
-    "latitude": -26.71604,
-    "longitude": 153.05946399999993,
-    "countryCode": "AU",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "au/sippy-downs-queensland/sunshine-coast-university-of-the-sunshine-coast",
-    "id": "66395612-d65b-4e4b-9b35-e12ba4c71cac"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Golpark, Kolkata@The Project Embark",
     "latitude": 22.51547008233021,
     "longitude": 88.36207010938799,
@@ -6408,16 +6358,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "gb/birmingham/birmingham-ey",
     "id": "789d41d1-f8a9-411c-8ddf-0daf5c7b156c"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "CoderDojo Altona North",
-    "latitude": -37.836138,
-    "longitude": 144.846811,
-    "countryCode": "AU",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "au/altona-north-victoria/coderdojo-altona-north",
-    "id": "78b9982f-615f-47ec-b552-b06012ba8033"
   },
   {
     "brand": "CODERDOJO",
