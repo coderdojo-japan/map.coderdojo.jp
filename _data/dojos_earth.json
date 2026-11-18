@@ -50,16 +50,6 @@
     "id": "014a81c0-515a-4a9d-b71b-469fb72253df"
   },
   {
-    "brand": "CODERDOJO",
-    "name": "Harrow CoderDojo",
-    "latitude": 51.57954660939605,
-    "longitude": -0.33572858240784154,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": null,
-    "id": "01936f0d-abc7-43f5-b170-ef677af0c157"
-  },
-  {
     "brand": "CODE_CLUB",
     "name": " CoderDojo 小田原",
     "latitude": 35.2928649,
@@ -2568,16 +2558,6 @@
     "status": "RUNNING_SESSIONS",
     "urlSlug": "be/vlaams-gewest/mechelen/mechelen-technopolis",
     "id": "321b5e99-fd4b-4bb4-ab76-e203db101147"
-  },
-  {
-    "brand": "CODERDOJO",
-    "name": "Warrington",
-    "latitude": 53.4082321,
-    "longitude": -2.5890743999999586,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/warrington/warrington",
-    "id": "322397bc-985d-443b-8d1b-01404693f51a"
   },
   {
     "brand": "CODE_CLUB",
