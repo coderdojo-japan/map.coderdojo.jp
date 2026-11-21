@@ -4611,16 +4611,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Cheadle",
-    "latitude": 53.3931097,
-    "longitude": -2.2169344999999794,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/cheadle/cheadle",
-    "id": "5898d155-89b5-4926-ac92-84064d8d68c5"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Utsunomiya",
     "latitude": 36.560293,
     "longitude": 139.910517,
