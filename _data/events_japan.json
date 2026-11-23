@@ -16,22 +16,6 @@
     "limit": null
   },
   {
-    "id": 9,
-    "name": "さいたま",
-    "url": "http://coderdojo-saitama.com/",
-    "event_id": 12491,
-    "event_title": "第117回CoderDojoさいたま",
-    "event_date": "2026-11-23T14:00:00.000+09:00",
-    "event_end_at": "2026-11-23T16:00:00.000+09:00",
-    "event_url": "https://coderdojo-saitama.connpass.com/event/412399/",
-    "prefecture": "埼玉",
-    "participants": 0,
-    "event_update_at": "2026-11-06T21:08:47.000+09:00",
-    "address": "埼玉県さいたま市大宮区宮町1-5 銀座ビル6階",
-    "place": "貸会議室６F",
-    "limit": 16
-  },
-  {
     "id": 13,
     "name": "こだいら",
     "url": "https://coderdojo-kodaira.github.io/",
@@ -78,6 +62,22 @@
     "address": "〒440-0016 愛知県豊橋市牛川町松下２０−１",
     "place": "豊橋創造大学D22ゼミ室",
     "limit": 20
+  },
+  {
+    "id": 34,
+    "name": "長岡京",
+    "url": "https://coderdojo-nagaokakyo.doorkeeper.jp/",
+    "event_id": 12540,
+    "event_title": "CoderDojo長岡京〜学生のためのプログラミング道場〜 126回目",
+    "event_date": "2026-12-13T13:30:00.000+09:00",
+    "event_end_at": "2026-12-13T16:00:00.000+09:00",
+    "event_url": "https://coderdojo-nagaokakyo.doorkeeper.jp/events/200646",
+    "prefecture": "京都",
+    "participants": 5,
+    "event_update_at": "2026-11-22T21:03:09.358+09:00",
+    "address": "〒617-0826 京都府長岡京市開田４丁目２−９ ヘルプビル3F",
+    "place": "長岡京コワーキングスペース",
+    "limit": 16
   },
   {
     "id": 35,
@@ -288,22 +288,6 @@
     "limit": 19
   },
   {
-    "id": 110,
-    "name": "せんなん",
-    "url": "http://coderdojo-sennan.net/",
-    "event_id": 12529,
-    "event_title": "CoderDojoせんなん　第８４回道場",
-    "event_date": "2026-11-23T10:00:00.000+09:00",
-    "event_end_at": "2026-11-23T12:00:00.000+09:00",
-    "event_url": "https://coderdojo-sennan.connpass.com/event/413841/",
-    "prefecture": "大阪",
-    "participants": 1,
-    "event_update_at": "2026-11-20T12:55:41.000+09:00",
-    "address": "大阪府泉南市新家２９４９",
-    "place": "新家駅前さくらっこ広場",
-    "limit": 5
-  },
-  {
     "id": 117,
     "name": "立川",
     "url": "https://coderdojotachikawa.doorkeeper.jp/",
@@ -318,22 +302,6 @@
     "address": "立川市錦町3丁目2番26号",
     "place": "立川市子ども未来センター",
     "limit": 16
-  },
-  {
-    "id": 118,
-    "name": "安城",
-    "url": "https://sites.google.com/coderdojo.com/anjo/",
-    "event_id": 12382,
-    "event_title": "作品コーナー応募 - わくわくフェスティバル2026 CoderDojo Anjo",
-    "event_date": "2026-11-23T10:30:00.000+09:00",
-    "event_end_at": "2026-11-23T16:30:00.000+09:00",
-    "event_url": "https://coderdojo-anjo.doorkeeper.jp/events/199947",
-    "prefecture": "愛知",
-    "participants": 1,
-    "event_update_at": "2026-11-19T22:02:37.026+09:00",
-    "address": "愛知県安城市大東町１１−３",
-    "place": "安城市民交流センター （わくわくセンター）",
-    "limit": null
   },
   {
     "id": 124,
@@ -448,6 +416,22 @@
     "limit": 19
   },
   {
+    "id": 153,
+    "name": "多摩センター",
+    "url": "https://coderdojo-tamacent.wixsite.com/main",
+    "event_id": 12539,
+    "event_title": "第91回 CoderDojo多摩センター (12月度) 子どものためのプログラミング道場",
+    "event_date": "2026-12-27T10:00:00.000+09:00",
+    "event_end_at": "2026-12-27T11:30:00.000+09:00",
+    "event_url": "https://coderdojo-tamacenter.doorkeeper.jp/events/200648",
+    "prefecture": "東京",
+    "participants": 0,
+    "event_update_at": "2026-11-22T18:21:26.479+09:00",
+    "address": "東京都多摩市落合２－３５",
+    "place": "多摩市立中央図書館 活動室１",
+    "limit": 14
+  },
+  {
     "id": 156,
     "name": "古河",
     "url": "https://coderdojokoga.connpass.com/",
@@ -560,22 +544,6 @@
     "limit": null
   },
   {
-    "id": 239,
-    "name": "松山",
-    "url": "https://coderdojo-matsuyama.doorkeeper.jp/",
-    "event_id": 12490,
-    "event_title": "フリースタイル系 CoderDojo in 松山#164",
-    "event_date": "2026-11-23T13:00:00.000+09:00",
-    "event_end_at": "2026-11-23T17:00:00.000+09:00",
-    "event_url": "https://coderdojo-matsuyama.doorkeeper.jp/events/200309",
-    "prefecture": "愛媛",
-    "participants": 5,
-    "event_update_at": "2026-11-17T12:00:33.842+09:00",
-    "address": "〒790-0012  愛媛県松山市湊町4丁目10−6 BLESSビル3F",
-    "place": "コドモノイバショ",
-    "limit": 10
-  },
-  {
     "id": 241,
     "name": "西尾",
     "url": "https://www.coderdojo-nishio.com/",
@@ -627,17 +595,17 @@
     "id": 254,
     "name": "青梅",
     "url": "https://coderdojoome.github.io/",
-    "event_id": 12440,
-    "event_title": "3Dプリンター入門/体験【CoderDojo青梅】",
-    "event_date": "2026-11-23T13:00:00.000+09:00",
-    "event_end_at": "2026-11-23T16:00:00.000+09:00",
-    "event_url": "https://coderdojo-ome.connpass.com/event/410504/",
+    "event_id": 12515,
+    "event_title": "子供たちのためのプログラミング初心者/未経験者向け【CoderDojo青梅】第158,159",
+    "event_date": "2026-12-13T09:45:00.000+09:00",
+    "event_end_at": "2026-12-13T15:00:00.000+09:00",
+    "event_url": "https://coderdojo-ome.connpass.com/event/410255/",
     "prefecture": "東京",
-    "participants": 16,
-    "event_update_at": "2026-11-15T20:36:18.000+09:00",
+    "participants": 12,
+    "event_update_at": "2026-11-17T00:16:39.000+09:00",
     "address": "青梅市東青梅5-22-2",
     "place": "地域支援センター",
-    "limit": 19
+    "limit": 52
   },
   {
     "id": 260,
@@ -670,6 +638,22 @@
     "address": "山口県長門市仙崎312-1",
     "place": "長門市しごとセンター",
     "limit": 28
+  },
+  {
+    "id": 277,
+    "name": "富谷",
+    "url": "https://coderdojotomiyajp.github.io/",
+    "event_id": 12538,
+    "event_title": "第79回 CoderDojo富谷 with クラフトミヤ",
+    "event_date": "2026-12-19T10:00:00.000+09:00",
+    "event_end_at": "2026-12-19T12:00:00.000+09:00",
+    "event_url": "https://coderdojotomiya.doorkeeper.jp/events/199969",
+    "prefecture": "宮城",
+    "participants": 1,
+    "event_update_at": "2026-11-22T21:10:08.153+09:00",
+    "address": null,
+    "place": "ユートミヤ（メイカースペース）",
+    "limit": null
   },
   {
     "id": 280,
@@ -761,11 +745,27 @@
     "event_end_at": "2026-11-28T12:00:00.000+09:00",
     "event_url": "https://coderdojosuehirocho.connpass.com/event/411991/",
     "prefecture": "東京",
-    "participants": 4,
+    "participants": 5,
     "event_update_at": "2026-11-04T12:01:34.000+09:00",
     "address": "東京都千代田区外神田３ー５ー１１",
     "place": "神田キリスト教会　１階ホール",
     "limit": 24
+  },
+  {
+    "id": 308,
+    "name": "新代田",
+    "url": "https://coder-dojo-shindaita.connpass.com/",
+    "event_id": 12532,
+    "event_title": "小中学生向けプログラミング道場 CoderDojo新代田第38回（無料）",
+    "event_date": "2026-12-19T13:00:00.000+09:00",
+    "event_end_at": "2026-12-19T14:00:00.000+09:00",
+    "event_url": "https://coder-dojo-shindaita.connpass.com/event/413929/",
+    "prefecture": "東京",
+    "participants": 0,
+    "event_update_at": "2026-11-23T08:07:01.000+09:00",
+    "address": "東京都世田谷区代田6丁目21番5号",
+    "place": "まもりやまテラス 2階 守山地区会館 図工室",
+    "limit": 14
   },
   {
     "id": 312,
@@ -857,11 +857,27 @@
     "event_end_at": "2026-12-06T12:00:00.000+09:00",
     "event_url": "https://coderdojo-harumi.connpass.com/event/412169/",
     "prefecture": "東京",
-    "participants": 3,
+    "participants": 5,
     "event_update_at": "2026-11-05T13:13:47.000+09:00",
     "address": "東京都中央区晴海",
     "place": "晴海フラッグSUNビレッジT棟（タワー棟）コミュニティルーム",
     "limit": 16
+  },
+  {
+    "id": 328,
+    "name": "日野",
+    "url": "https://coderdojo-hino.connpass.com/",
+    "event_id": 12536,
+    "event_title": "子どものためのプログラミング道場【CoderDojo日野】第24回",
+    "event_date": "2026-12-13T10:00:00.000+09:00",
+    "event_end_at": "2026-12-13T12:00:00.000+09:00",
+    "event_url": "https://coderdojo-hino.connpass.com/event/413768/",
+    "prefecture": "東京",
+    "participants": 1,
+    "event_update_at": "2026-11-22T17:48:31.000+09:00",
+    "address": "〒191-0062 日野市多摩平1-14-95",
+    "place": "日野市立ひの市民活動支援センター分館",
+    "limit": 13
   },
   {
     "id": 334,
@@ -890,7 +906,7 @@
     "event_url": "https://coderdojo-minamiaizu.doorkeeper.jp/events/200414",
     "prefecture": "福島",
     "participants": 2,
-    "event_update_at": "2026-11-21T15:33:15.993+09:00",
+    "event_update_at": "2026-11-22T09:53:33.376+09:00",
     "address": "福島県南会津郡南会津町田島字後原甲3531番地1（休日夜間入口からご入場ください）",
     "place": "南会津町役場本庁舎多目的ホール",
     "limit": 10
@@ -990,6 +1006,22 @@
     "address": "長野県佐久市取出町183",
     "place": "佐久市生涯学習センター(野沢会館)",
     "limit": null
+  },
+  {
+    "id": 357,
+    "name": "三木",
+    "url": "https://coderdojo-miki2026.connpass.com/",
+    "event_id": 12533,
+    "event_title": "CoderDojo三木 第4回学習会(同時オンライン開催)",
+    "event_date": "2026-11-29T10:00:00.000+09:00",
+    "event_end_at": "2026-11-29T12:00:00.000+09:00",
+    "event_url": "https://coderdojo-miki2026.connpass.com/event/414063/",
+    "prefecture": "兵庫",
+    "participants": 0,
+    "event_update_at": "2026-11-23T06:39:42.000+09:00",
+    "address": "兵庫県三木市福井2474-5",
+    "place": "三木山総合公園(三木山総合体育館)",
+    "limit": 21
   },
   {
     "id": 358,
