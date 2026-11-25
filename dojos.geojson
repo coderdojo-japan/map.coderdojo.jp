@@ -15861,21 +15861,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.345311000000038,
-          55.8229795
-        ]
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-symbol": "coderdojo",
-        "description": "<img src='/images/coderdojo.webp' alt='CoderDojo logo' width='100px' /><br>Pollok, Glasgow @ Pollok Library<br><a target='_blank' rel='noopener'   href='http://zen.coderdojo.com/dojos/gb/glasgow/pollok-glasgow-pollok-library'>連絡先を見る</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           23.36480051279068,
           42.667128773683395
         ]

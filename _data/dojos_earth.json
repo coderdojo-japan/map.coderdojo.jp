@@ -11501,16 +11501,6 @@
   },
   {
     "brand": "CODERDOJO",
-    "name": "Pollok, Glasgow @ Pollok Library",
-    "latitude": 55.8229795,
-    "longitude": -4.345311000000038,
-    "countryCode": "GB",
-    "status": "RUNNING_SESSIONS",
-    "urlSlug": "gb/glasgow/pollok-glasgow-pollok-library",
-    "id": "d56e070d-2e40-414b-b2a7-50f0507a2c04"
-  },
-  {
-    "brand": "CODERDOJO",
     "name": "Sofia@VMware",
     "latitude": 42.667128773683395,
     "longitude": 23.36480051279068,
